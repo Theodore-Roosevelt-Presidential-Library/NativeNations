@@ -128,7 +128,7 @@ def fact_page(n):
     desc = f'Plan a visit with {n["name"]}: official website, tourism links and tribal government headquarters in {where}.'
     mapblock = ""
     if loc:
-        mapblock = f"""<h2>Where</h2><div id="minimap" class="minimap" style="height:340px" data-lat="{loc['lat']}" data-lon="{loc['lon']}" data-label="{e(n['name'])}" data-areas="{",".join(a["aiannhce"] for a in n.get("areas", []))}"></div>
+        mapblock = f"""<h2>Where</h2><div id="minimap" class="minimap" style="height:340px" data-lat="{loc['lat']}" data-lon="{loc['lon']}" data-label="{e(n['name'])}" data-areas="{",".join(a["aiannhce"] for a in n.get("areas", []))}" data-places="{e(json.dumps([[p["lat"], p["lon"], p["name"]] for p in n.get("places", []) if p["rel"] == "own" and p.get("lat") is not None]))}"></div>
 <p class="caption">The point marks the tribal government headquarters.{" Shaded areas are reservation and trust land as drawn by the U.S. Census Bureau (TIGER/Line 2026). These are legal boundaries, not homelands, and some nations describe theirs differently." if n.get("areas") else ""}{(" " + e(map_note(n))) if map_note(n) else ""}</p>
 {nld_block(n)}"""
     snippet = e(f'<div data-nativenations="card" data-id="{n["id"]}"></div>\n<script src="{BASE}/embed.js" async></script>')
@@ -143,6 +143,7 @@ def fact_page(n):
 <h2>Plan your visit</h2>
 {visit_links(n)}
 <p class="caption" style="margin-top:14px">Before you go, read the <a href="{KBYG}" rel="noopener">Know Before You Go guides</a> from the American Indigenous Tourism Association. Each nation sets its own rules for photography, ceremonies and permits.</p>
+{places_block(n)}
 {history_block("nations", n["id"])}
 {history_links(n)}
 {land_block(n)}
@@ -185,6 +186,58 @@ UTM = "?utm_source=trlibrary&amp;utm_medium=referral&amp;utm_campaign=nativenati
 
 def nld_links(recs):
     return " &middot; ".join(f'<a href="{e(r["url"])}{UTM}" rel="noopener" target="_blank">{e(r["name"])}</a>' for r in recs)
+
+
+KIND_LABEL = {"museum": "Museum", "cultural_center": "Cultural center", "heritage_center": "Heritage center", "interpretive_center": "Interpretive center", "historic_site": "Historic site", "tribal_college": "Tribal college", "park": "Park"}
+OP_LABEL = {"nation": "Run by the nation", "tribal_college": "Tribal college", "federal": "National Park Service or other federal", "state": "State-run", "university": "University", "nonprofit": "Nonprofit", "other": "Independent"}
+
+
+def place_li(pl, byname=None):
+    who = OP_LABEL.get(pl["operator"], "")
+    if pl["operator"] != "nation" and pl.get("operator_name"):
+        who = pl["operator_name"]
+    bits = [KIND_LABEL.get(pl["kind"], ""), who, f'{pl["town"]}, {STATE_NAMES.get(pl["state"], pl["state"])}']
+    if pl.get("miles") is not None:
+        bits.append(f'about {pl["miles"]} miles away')
+    if pl.get("hours_note"):
+        bits.append(pl["hours_note"])
+    extra = ""
+    if byname:
+        extra = f' &middot; {byname}'
+    return (f'<li><a href="{e(pl["url"])}{UTM}" rel="noopener" target="_blank">{e(pl["name"])}</a>'
+            f'<span class="caption">{e(" · ".join(b for b in bits if b))}{extra}</span>'
+            f'<span class="caption" style="display:block">{e(pl.get("about") or "")}</span></li>')
+
+
+def people_places(p, byid):
+    seen, rows = set(), []
+    for nid in p["nations"]:
+        nn = byid.get(nid)
+        if not nn:
+            continue
+        for pl in nn.get("places") or []:
+            if pl["rel"] == "own" and pl["id"] not in seen:
+                seen.add(pl["id"]); rows.append((pl, nn["name"]))
+    if not rows:
+        return ""
+    return ('<h2>Places to learn</h2><ul class="linklist">' + "".join(place_li(pl, e(nm)) for pl, nm in rows) +
+            '</ul><p class="caption">Hours change with the seasons. Check each place&rsquo;s own page before you go. Draft listing.</p>')
+
+
+def places_block(n):
+    pls = n.get("places") or []
+    if not pls:
+        return ""
+    own = [p for p in pls if p["rel"] == "own"]
+    near = [p for p in pls if p["rel"] != "own"]
+    out = '<h2>Places to learn</h2>'
+    if own:
+        out += '<ul class="linklist">' + "".join(place_li(p) for p in own) + '</ul>'
+    if near:
+        out += ('<p class="caption">' + ('Also nearby:' if own else 'No public cultural center for this nation is listed yet. Nearby places to learn:') +
+                '</p><ul class="linklist">' + "".join(place_li(p) for p in near) + '</ul>')
+    out += '<p class="caption">Hours change with the seasons. Check each place&rsquo;s own page before you go. Draft listing.</p>'
+    return out
 
 
 def nld_block(n):
@@ -380,6 +433,7 @@ def build_peoples():
 {sub}
 {('<h2>Related peoples</h2><p class="caption">Related, but each identifies as its own people.</p><ul class="linklist">' + "".join(f'<li><a href="/peoples/{r}/">{e(pby[r]["name"])}</a></li>' for r in p.get("related", []) if r in pby) + '</ul>') if p.get("related") else ""}
 </div><aside>
+{people_places(p, byid)}
 {('<h2>Homelands on Native Land Digital</h2><p class="caption">Native Land Digital is an Indigenous-led nonprofit mapping territories, languages and treaties. Its maps are not legal boundaries.</p><p>' + nld_links(NLD["peoples"][p["id"]]) + '</p>') if NLD["peoples"].get(p["id"]) else ""}
 <h2>Where</h2><div id="peoplemap" class="minimap" style="height:340px" data-ids="{",".join(p["nations"])}" data-areas="{",".join(sorted({a["aiannhce"] for i in p["nations"] for a in byid[i].get("areas", [])}))}"></div>
 <p class="caption">Points mark tribal government headquarters today; shaded areas are reservation and trust land (U.S. Census). Neither shows homelands or historic territories. For territories, see <a href="https://native-land.ca/" rel="noopener">Native Land Digital</a>.</p>
@@ -464,6 +518,7 @@ https://your-site.org/plan-your-trip?nn-people=dakota&amp;nn-visit=1</div>
 <tr><th>/api/v1/nations/{{id}}.json</th><td>One nation</td></tr>
 <tr><th><a href="/api/v1/nations.geojson">/api/v1/nations.geojson</a></th><td>Headquarters points</td></tr>
 <tr><th><a href="/api/v1/boundaries/overview.geojson">/api/v1/boundaries/overview.geojson</a></th><td>All matched reservation and trust land areas, simplified (U.S. Census TIGER/Line 2026)</td></tr>
+<tr><th><a href="/api/v1/places.json">/api/v1/places.json</a></th><td>Public places to learn about each nation&rsquo;s culture: museums, cultural centers, tribal colleges and historic sites, with operator labeled. Each nation&rsquo;s record also lists its <code>places</code>.</td></tr>
 <tr><th><a href="/api/v1/cessions.geojson">/api/v1/cessions.geojson</a></th><td>Treaty cession areas from Royce&rsquo;s 1899 maps, digitized by the USDA Forest Service (CC BY 4.0); not legal boundaries or homelands</td></tr>
 <tr><th>/api/v1/boundaries/{{aiannhce}}.geojson</th><td>One area in more detail; codes are listed on each nation&rsquo;s <code>areas</code></td></tr>
 <tr><th><a href="/api/v1/vocab.json">/api/v1/vocab.json</a></th><td>Link types, tags, alliances</td></tr>

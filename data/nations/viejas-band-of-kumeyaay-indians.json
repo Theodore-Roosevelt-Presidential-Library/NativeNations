@@ -1,0 +1,52 @@
+{
+  "id": "viejas-band-of-kumeyaay-indians",
+  "display_name": null,
+  "aka": [
+    "Viejas Band of Kumeyaay Indians"
+  ],
+  "nearest_town": "Alpine, CA",
+  "census_aiannh": [],
+  "official_website": "https://viejasbandofkumeyaay.org/",
+  "alliances": [],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "Added 2026-11-09. Federal facts from the FR Capitan Grande heading; HQ, website and agency from the BIA Tribal Leaders Directory (Viejas Reservation). Website checked by hand."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-09"
+    },
+    {
+      "name": "BIA Tribal Leaders Directory (organizational fields only)",
+      "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-09"
+    }
+  ],
+  "fr_name": "Viejas (Baron Long) Group of Capitan Grande Band of Mission Indians of the Viejas Reservation, California",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [],
+  "fr_note": "Listed in the Federal Register under the heading Capitan Grande Band of Diegueno Mission Indians of California. BIA lists it as its own Tribal government.",
+  "region_group": "lower48",
+  "bia_tld_name": null,
+  "bia_region": "Pacific",
+  "bia_agency": "Southern California Agency",
+  "hq": {
+    "city": "Alpine",
+    "state": "CA",
+    "lat": 32.83505,
+    "lon": -116.76641
+  },
+  "states": [
+    "CA"
+  ],
+  "last_verified": "2026-11-09",
+  "fr_heading": "Capitan Grande Band of Diegueno Mission Indians of California"
+}

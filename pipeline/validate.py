@@ -40,6 +40,26 @@ for p in sorted((ROOT / "data/nations").glob("*.json")):
     for bad in ["firstname", "lastname", "\"email\"", "\"phone\""]:
         if bad in blob: err(f, f"contains personal-contact field {bad}")
 
+# places to learn
+PL = ROOT / "data/places.json"
+if PL.exists():
+    KINDS = {"museum", "cultural_center", "heritage_center", "interpretive_center", "historic_site", "tribal_college", "park"}
+    OPS = {"nation", "tribal_college", "federal", "state", "university", "nonprofit", "other"}
+    pids = set()
+    for pl in json.loads(PL.read_text())["places"]:
+        f = f"places:{pl.get('id')}"
+        for k in ("id", "name", "kind", "operator", "nations", "town", "state", "url", "about", "status", "sources"):
+            if k not in pl: err(f, f"missing {k}")
+        if pl.get("id") in pids: err(f, "duplicate id")
+        pids.add(pl.get("id"))
+        if pl.get("kind") not in KINDS: err(f, f"bad kind {pl.get('kind')}")
+        if pl.get("operator") not in OPS: err(f, f"bad operator {pl.get('operator')}")
+        if not str(pl.get("url", "")).startswith("https://"): err(f, "url must be https")
+        if "utm_" in pl.get("url", ""): err(f, "don't store UTM tags")
+        for nid in pl.get("nations", []):
+            if nid not in ids: err(f, f"unknown nation {nid}")
+        if len(pl.get("about", "").split()) > 30: err(f, "about over 30 words")
+
 if errors:
     print("\n".join(errors)); sys.exit(1)
 print(f"ok: {len(ids)} nations")

@@ -62,6 +62,27 @@ P_DATA, P_FULL, P_BY, _ = peoples_mod.resolve(recs)
 P_NAME = {p["id"]: p["name"] for p in P_DATA}
 for n in pub:
     n["peoples"] = [{"id": pid, "name": P_NAME[pid]} for pid in sorted(P_BY.get(n["id"], []), key=lambda x: P_NAME[x])]
+import math
+PLACES = json.loads((ROOT / "data/places.json").read_text())["places"] if (ROOT / "data/places.json").exists() else []
+def _mi(a, b, c, d):
+    r = math.radians
+    return 3958.8 * 2 * math.asin(math.sqrt(math.sin(r(c - a) / 2) ** 2 + math.cos(r(a)) * math.cos(r(c)) * math.sin(r(d - b) / 2) ** 2))
+PEOPLE_OF = {n["id"]: {pp["id"] for pp in n["peoples"]} for n in pub}
+PUBLIC_PLACE = ["id", "name", "kind", "operator", "operator_name", "nations", "town", "state", "lat", "lon", "url", "about", "hours_note", "status"]
+for n in pub:
+    own = [dict({k: pl.get(k) for k in PUBLIC_PLACE}, rel="own") for pl in PLACES if n["id"] in pl["nations"]]
+    near = []
+    if n["hq"] and len(own) < 2:
+        for pl in PLACES:
+            if n["id"] in pl["nations"] or pl.get("lat") is None:
+                continue
+            related = any(PEOPLE_OF.get(o, set()) & PEOPLE_OF[n["id"]] for o in pl["nations"])
+            d = _mi(n["hq"]["lat"], n["hq"]["lon"], pl["lat"], pl["lon"])
+            if (related and d <= 150) or d <= 75:
+                near.append(dict({k: pl.get(k) for k in PUBLIC_PLACE}, rel="related" if related else "nearby", miles=round(d)))
+        near.sort(key=lambda x: x["miles"])
+    n["places"] = own + near[:3]
+(OUT / "places.json").write_text(json.dumps([{k: pl.get(k) for k in PUBLIC_PLACE} for pl in PLACES], indent=1, ensure_ascii=False))
 (OUT / "nations").mkdir(parents=True, exist_ok=True)
 for n in pub:
     (OUT / "nations" / f"{n['id']}.json").write_text(json.dumps(n, indent=1, ensure_ascii=False))

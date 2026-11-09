@@ -20,6 +20,7 @@
   if (mini) {
     const ll = [+mini.dataset.lat, +mini.dataset.lon], m = base(mini).setView(ll, 8);
     L.circleMarker(ll, {...style({visit: true}), radius: 9}).addTo(m).bindTooltip(mini.dataset.label + ' — tribal government headquarters');
+    try { JSON.parse(mini.dataset.places || '[]').forEach(([la, lo, nm]) => L.circleMarker([la, lo], {radius: 6, color: '#092A4D', weight: 2, fillColor: '#FFFFFF', fillOpacity: 1}).addTo(m).bindTooltip(nm + ' — place to learn')); } catch (e) {}
     drawAreas(m, mini.dataset.areas, true).then(g => { if (g && g.getLayers().length) m.fitBounds(g.getBounds().extend(ll).pad(.1), {maxZoom: 10}); });
     return;
   }

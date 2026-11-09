@@ -38,9 +38,13 @@ Stored in `data/states.json`. Do not use: natow.org (hijacked), aaita.org (parke
 - Caveats shown on the site: U.S.-recognized cessions, not homelands or legal boundaries; coarse at local scale; the Forest Service is re-evaluating present-day tribe links; the nation's own account governs.
 - Unlinked: only groups the Forest Service marks as unrecognized or nonfederally recognized. Skokomish, Coquille and North Fork were hand-linked 2026-11-09.
 
-## Why 573 entries, not 575 (checked 2026-11-09)
+## Why 575 pages (updated 2026-11-09)
 
-The notice's summary says 575 Tribal entities; the printed list has 573 headings (348 in the contiguous 48 states, 225 in Alaska). The gap is in Alaska: four villages appear only as cross-references to two joint governments: Saint Paul Island and St. George Island → Pribilof Islands Aleut Communities of St. Paul & St. George Islands; Arctic Village and Village of Venetie → Native Village of Venetie Tribal Government. Counting each village as its own Tribe gives 573 − 2 + 4 = 575. This is the likely reason; BIA has not been asked to confirm. The directory keeps one page per printed heading, with the villages named on the joint government's page.
+The notice's summary says 575 Tribal entities; the printed list has 573 headings (348 in the contiguous 48 states, 225 in Alaska). The notice doesn't say how it counts.
+
+The directory now has 575 pages: the 573 headings, plus Barona and Viejas. The Federal Register prints both bands in parentheses under the Capitan Grande Band heading, but each governs its own reservation and the BIA Tribal Leaders Directory lists each as its own government. The Capitan Grande page stays as the federal heading and points to both. Their records carry `fr_heading` naming the heading they sit under.
+
+The Alaska cross-references (Saint Paul Island and St. George Island → Pribilof Islands; Arctic Village and Village of Venetie → Venetie Tribal Government) stay as names on the joint governments' pages, not separate pages. Whether BIA's 575 comes from Capitan Grande's two groups, the Alaska cross-references, or something else hasn't been confirmed with BIA, so the site says "575" because the notice does, not because the page count proves it.
 
 ## Native Land Digital deep links (added 2026-11-09)
 

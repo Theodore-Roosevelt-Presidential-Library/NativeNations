@@ -22,3 +22,5 @@ A link-out directory of federally recognized Native nations and the tourism and 
 - Build: `python pipeline/build_api.py && python pipeline/build_site.py` (HTML pages are generated, not committed). Set `PUBLIC = True` in `build_site.py` only after the pilot is approved; until then every page is noindex and robots.txt blocks crawlers.
 - Preview: `python -m http.server -d site 8000`
 - Map points are **tribal government headquarters** (BIA), never homelands; say so wherever points appear.
+
+- **Places to learn** (`data/places.json`): public museums, cultural centers, tribal colleges and historic sites where visitors learn about a nation. Nation-run places first; the operator is always labeled; link to the place's own page for hours (never copy hours or prices). No sacred, ceremonial or burial sites. Nations without a venue show nearby places run by related nations (within 150 miles) or any listed place within 75 miles.

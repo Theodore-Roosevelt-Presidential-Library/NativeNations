@@ -4,7 +4,7 @@
   "aka": [],
   "nearest_town": null,
   "census_aiannh": [],
-  "official_website": "http://www.ak-chin.nsn.us",
+  "official_website": "https://www.ak-chin.nsn.us/",
   "alliances": [
     "aita"
   ],
@@ -26,7 +26,7 @@
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. Website updated 2026-11-09: http://www.ak-chin.nsn.us -> https://www.ak-chin.nsn.us/ (checked by hand). Switched to https. A research pass reported injected spam links; the homepage as fetched on this date showed none. Recheck before launch."
   },
   "sources": [
     {
@@ -57,5 +57,5 @@
   "states": [
     "AZ"
   ],
-  "last_verified": "2026-11-08"
+  "last_verified": "2026-11-09"
 }
