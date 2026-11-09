@@ -4,7 +4,7 @@
   "aka": [],
   "nearest_town": null,
   "census_aiannh": [],
-  "official_website": "http://www.lummi-nsn.org",
+  "official_website": "https://www.lummi-nsn.gov/",
   "alliances": [
     "aita"
   ],
@@ -26,7 +26,7 @@
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. Website updated 2026-11-09: http://www.lummi-nsn.org -> https://www.lummi-nsn.gov/ (checked by hand)."
   },
   "sources": [
     {
@@ -57,5 +57,5 @@
   "states": [
     "WA"
   ],
-  "last_verified": "2026-11-08"
+  "last_verified": "2026-11-09"
 }

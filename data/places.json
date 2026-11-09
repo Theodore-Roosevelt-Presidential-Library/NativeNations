@@ -1306,7 +1306,9 @@
       "kind": "museum",
       "operator": "nation",
       "operator_name": "Barona Band of Mission Indians",
-      "nations": [],
+      "nations": [
+        "barona-band-of-mission-indians"
+      ],
       "town": "Lakeside",
       "state": "CA",
       "lat": 32.94224,
@@ -1421,8 +1423,8 @@
       ],
       "town": "Pala",
       "state": "CA",
-      "lat": 33.36654,
-      "lon": -117.07633,
+      "lat": 33.3662,
+      "lon": -117.07552,
       "url": "https://cupa.palatribe.com/about/",
       "about": "The Pala Band's cultural center, founded in 1974, with an exhibition hall of artifacts, photographs and arts and crafts tracing Pala's history and Cupeño language work.",
       "hours_note": null,
@@ -1437,7 +1439,7 @@
           "url": "https://palatribe.com/visitors/cupa-cultural-center"
         }
       ],
-      "notes": "Mailing: PMB 445, 35008 Pala Temecula Rd, Pala, CA 92059; 760-891-3590; cupa@palatribe.com. Center site says it is open to the public on weekdays. Coordinates are an OpenStreetMap geocode of the mailing address (resolves to Pala postal office) — approximate, confirm the building location."
+      "notes": "Mailing: PMB 445, 35008 Pala Temecula Rd, Pala, CA 92059; 760-891-3590; cupa@palatribe.com. Center site says it is open to the public on weekdays. Coordinates updated 2026-11-09: OpenStreetMap museum point for Cupa Cultural Center."
     },
     {
       "id": "santa-ynez-chumash-museum",
@@ -1800,8 +1802,8 @@
       ],
       "town": "Uncasville",
       "state": "CT",
-      "lat": 41.49155,
-      "lon": -72.09663,
+      "lat": 41.47431,
+      "lon": -72.09954,
       "url": "https://www.mohegan.nsn.us/explore",
       "about": "Mohegan museum in Uncasville with tours led by Mohegan Tribal members, plus grounds with a stockade fence, dugout canoe, garden mounds and two bark-covered wigwams.",
       "hours_note": null,
@@ -1816,7 +1818,7 @@
           "url": "https://ctvisit.com/listings/tantaquidgeon-indian-museum"
         }
       ],
-      "notes": "Parking at 1 Church Lane, Uncasville, CT 06382; museum is across the street. (860) 235-8057. Tribe's page lists Tuesday-Saturday hours; groups of six or more by appointment; admission free. The museum has no standalone site; url is the Tribe's Explore page. Coordinates are the nation's headquarters point from nations_east.json, not the place itself; approximate, confirm before publishing."
+      "notes": "Parking at 1 Church Lane, Uncasville, CT 06382; museum is across the street. (860) 235-8057. Tribe's page lists Tuesday-Saturday hours; groups of six or more by appointment; admission free. The museum has no standalone site; url is the Tribe's Explore page. approximate, confirm before publishing. Coordinates updated 2026-11-09: OpenStreetMap museum point at 1 Church Lane."
     },
     {
       "id": "mashpee-wampanoag-museum",
@@ -1887,8 +1889,8 @@
       ],
       "town": "Presque Isle",
       "state": "ME",
-      "lat": 46.69774,
-      "lon": -68.03388,
+      "lat": 46.69727,
+      "lon": -68.03374,
       "url": "https://micmac-nsn.gov/museum/",
       "about": "The Mi'kmaq Nation's education center in Presque Isle, with an interpretation area and exhibit on the Mi'kmaq people and their culture.",
       "hours_note": null,
@@ -1899,7 +1901,7 @@
           "url": "https://micmac-nsn.gov/museum/"
         }
       ],
-      "notes": "8 Northern Road, Presque Isle, ME 04769; (207) 764-1972. The Nation's page invites visitors but lists no hours; call ahead. Coordinates are the nation's headquarters point from nations_east.json, not the place itself; approximate, confirm before publishing."
+      "notes": "8 Northern Road, Presque Isle, ME 04769; (207) 764-1972. The Nation's page invites visitors but lists no hours; call ahead. approximate, confirm before publishing. Coordinates updated 2026-11-09: US Census geocoder, matched to 8 Northern Road."
     },
     {
       "id": "hudson-museum-umaine",
@@ -1939,8 +1941,8 @@
       ],
       "town": "Salamanca",
       "state": "NY",
-      "lat": 42.15784,
-      "lon": -78.71503,
+      "lat": 42.15688,
+      "lon": -78.75143,
       "url": "https://senecamuseum.org/",
       "about": "The Seneca Nation's cultural center in Salamanca, home of the Seneca-Iroquois National Museum, with exhibits on Seneca history including the Kinzua Dam, plus art and craft collections.",
       "hours_note": null,
@@ -1955,7 +1957,7 @@
           "url": "https://sni.org/culture/museum/"
         }
       ],
-      "notes": "82 W Hetzel St, Salamanca, NY 14779; 716-945-1760. Homepage lists no hours; confirm. Coordinates are the nation's headquarters point from nations_east.json, not the place itself; approximate, confirm before publishing."
+      "notes": "82 W Hetzel St, Salamanca, NY 14779; 716-945-1760. Homepage lists no hours; confirm. approximate, confirm before publishing. Coordinates updated 2026-11-09: OpenStreetMap museum point at 82 W Hetzel St."
     },
     {
       "id": "ganondagan-state-historic-site",
@@ -1998,8 +2000,8 @@
       ],
       "town": "Oneida",
       "state": "NY",
-      "lat": 43.1153,
-      "lon": -75.58885,
+      "lat": 43.03992,
+      "lon": -75.6214,
       "url": "https://www.oneidaindiannation.org/shakowi-cultural-center",
       "about": "The Oneida Indian Nation's cultural center, with exhibits on lacrosse, wampum, a collection of historic baskets and life-size displays of traditional Oneida crafts.",
       "hours_note": null,
@@ -2010,7 +2012,7 @@
           "url": "https://www.oneidaindiannation.org/shakowi-cultural-center"
         }
       ],
-      "notes": "1022 Territory Road, Oneida, NY 13421; (315) 829-8801. Open Monday-Saturday per the Nation's page. Note the Nation's site now redirects from oneidaindiannation.com to .org. Coordinates are the nation's headquarters point from nations_east.json, not the place itself; approximate, confirm before publishing."
+      "notes": "1022 Territory Road, Oneida, NY 13421; (315) 829-8801. Open Monday-Saturday per the Nation's page. Note the Nation's site now redirects from oneidaindiannation.com to .org. approximate, confirm before publishing. Coordinates updated 2026-11-09: OpenStreetMap point for Shako:wi Cultural Center."
     },
     {
       "id": "skanonh-great-law-of-peace-center",
@@ -2056,8 +2058,8 @@
       ],
       "town": "Akwesasne",
       "state": "NY",
-      "lat": 44.97882,
-      "lon": -74.69369,
+      "lat": 44.97836,
+      "lon": -74.69413,
       "url": "https://akwesasneculturalcenter.org/",
       "about": "Museum and library in Akwesasne telling the community's story through images, objects and interactives, with Mohawk basketry and a Thanksgiving Address display.",
       "hours_note": null,
@@ -2068,7 +2070,7 @@
           "url": "https://akwesasneculturalcenter.org/"
         }
       ],
-      "notes": "321 State Route 37, Akwesasne (Hogansburg), NY 13655; (518) 358-2240. Site lists year-round weekday and Saturday hours. Coordinates from Wikipedia. Saint Regis Mohawk Tribe site not checked this pass; operator relationship to the Tribe unconfirmed."
+      "notes": "321 State Route 37, Akwesasne (Hogansburg), NY 13655; (518) 358-2240. Site lists year-round weekday and Saturday hours. Saint Regis Mohawk Tribe site not checked this pass; operator relationship to the Tribe unconfirmed. Coordinates updated 2026-11-09: US Census geocoder, matched 321 State Route 37, Hogansburg, NY 13655 (old point from Wikipedia, about 60 m away). Optional.."
     },
     {
       "id": "catawba-cultural-center",
@@ -2081,8 +2083,8 @@
       ],
       "town": "Rock Hill",
       "state": "SC",
-      "lat": 34.90942,
-      "lon": -80.88063,
+      "lat": 34.90165,
+      "lon": -80.8848,
       "url": "https://catawbaindian.net/about-us/our-culture/catawba-cultural-center/",
       "about": "The Catawba Indian Nation's center near Rock Hill, with free exhibits on Catawba culture and history and work by Catawba artisans.",
       "hours_note": null,
@@ -2097,7 +2099,7 @@
           "url": "https://www.visitrockhillsc.com/?p=266"
         }
       ],
-      "notes": "Nation page: 1536 Tom Steven Road, Rock Hill, SC 29730; (803) 328-2427; Mon-Sat. Visit Rock Hill lists 996 Avenue of the Nations and (803) 366-4792 instead; confirm which is current. Fetched over http; confirm the https url resolves. Coordinates are the nation's headquarters point from nations_east.json, not the place itself; approximate, confirm before publishing."
+      "notes": "Nation page: 1536 Tom Steven Road, Rock Hill, SC 29730; (803) 328-2427; Mon-Sat. Visit Rock Hill lists 996 Avenue of the Nations and (803) 366-4792 instead; confirm which is current. Fetched over http; confirm the https url resolves. approximate, confirm before publishing. Coordinates updated 2026-11-09: OpenStreetMap museum point, which matches the Census geocode of 1536 Tom Steven Road."
     },
     {
       "id": "museum-of-the-southeast-american-indian",
@@ -2110,8 +2112,8 @@
       ],
       "town": "Pembroke",
       "state": "NC",
-      "lat": 34.685,
-      "lon": -79.20194,
+      "lat": 34.68522,
+      "lon": -79.20058,
       "url": "https://gpac.uncp.edu/community-and-culture/museum-of-the-southeast-american-indian",
       "about": "Free museum in UNC Pembroke's Old Main on Southeastern Native history, art and culture, with exhibits on Lumbee life along the Lumbee River and North Carolina tribes.",
       "hours_note": null,
@@ -2126,7 +2128,7 @@
           "url": "https://gpac.uncp.edu/community-and-culture/museum-of-the-southeast-american-indian/visit.html"
         }
       ],
-      "notes": "Old Main, 1st Floor, 1 University Drive, Pembroke, NC 28372; 910-521-6282. Weekdays. Coordinates from Wikipedia (Old Main, UNCP). Tagged Lumbee because the museum's own exhibits feature the Lumbee and the Lumbee record has no coordinates for the nearby rule; Lumbee Tribe site not checked this pass."
+      "notes": "Old Main, 1st Floor, 1 University Drive, Pembroke, NC 28372; 910-521-6282. Weekdays. Lumbee Tribe site not checked this pass. Coordinates updated 2026-11-09: OpenStreetMap building point for Old Main, UNC Pembroke (Nominatim), the museum's building. Census matches 1 University Drive at a general campus address point (34.69411, -79.19817), about 1 km away, so not used.."
     },
     {
       "id": "chahta-immi-cultural-center",
@@ -2139,8 +2141,8 @@
       ],
       "town": "Choctaw",
       "state": "MS",
-      "lat": 32.77343,
-      "lon": -89.21273,
+      "lat": 32.77129,
+      "lon": -89.19065,
       "url": "https://www.choctaw.org/department-of-chahta-immi/",
       "about": "The Mississippi Band of Choctaw Indians' cultural center, with exhibits on Choctaw artforms, a historical timeline, multimedia, tribal archives and events with Choctaw artisans.",
       "hours_note": null,
@@ -2151,7 +2153,7 @@
           "url": "https://www.choctaw.org/department-of-chahta-immi/"
         }
       ],
-      "notes": "101 Choctaw Town Center, Choctaw, MS 39350; 601-650-1685. Weekdays; groups after hours by appointment. Coordinates are the nation's headquarters point from nations_east.json, not the place itself; approximate, confirm before publishing."
+      "notes": "101 Choctaw Town Center, Choctaw, MS 39350; 601-650-1685. Weekdays; groups after hours by appointment. approximate, confirm before publishing. Coordinates updated 2026-11-09: Nominatim point for Choctaw Town Center, Pearl River/Choctaw MS (center address is 101 Choctaw Town Center, per choctaw.org). Census matched the wrong street (101 Choctaw St). Area-level, APPROXIMATE; old point was ~1.3 mi west.."
     },
     {
       "id": "poarch-creek-indians-museum",
@@ -2164,8 +2166,8 @@
       ],
       "town": "Atmore",
       "state": "AL",
-      "lat": 31.09605,
-      "lon": -87.55288,
+      "lat": 31.0929,
+      "lon": -87.5486,
       "url": "https://pcimuseum.org/",
       "about": "The Poarch Band of Creek Indians' free museum, with an interactive model of a Creek town, archaeology, Creek basketry and quilting, and the Tribe's federal recognition petition.",
       "hours_note": null,
@@ -2180,7 +2182,7 @@
           "url": "https://pci-nsn.gov/culture-and-events/museum-welcome-center/"
         }
       ],
-      "notes": "5484 Jack Springs Road, Atmore, AL 36502; (251) 368-9136. Site gives conflicting day ranges; call ahead. Tribe's page redirects to pcimuseum.org. Coordinates are the nation's headquarters point from nations_east.json, not the place itself; approximate, confirm before publishing."
+      "notes": "5484 Jack Springs Road, Atmore, AL 36502; (251) 368-9136. Site gives conflicting day ranges; call ahead. Tribe's page redirects to pcimuseum.org. approximate, confirm before publishing. Coordinates updated 2026-11-09: OpenStreetMap museum point (Poarch Creek Indian Museum, 5484 Jack Springs Road)."
     },
     {
       "id": "miccosukee-indian-village",
@@ -2193,8 +2195,8 @@
       ],
       "town": "Miami",
       "state": "FL",
-      "lat": 25.76147,
-      "lon": -80.8243,
+      "lat": 25.75971,
+      "lon": -80.77479,
       "url": "https://www.miccosukee.com/indian-village",
       "about": "The Tribe's village on the Tamiami Trail, with a museum on Miccosukee life in the Everglades, guided tours, and demonstrations of patchwork, beadwork, woodcarving and basket weaving.",
       "hours_note": null,
@@ -2209,7 +2211,7 @@
           "url": "https://village.miccosukee.com/"
         }
       ],
-      "notes": "Mile Marker 36, US Highway 41 (Tamiami Trail), about 30 minutes west of Miami-Dade; 305-480-1924. Also offers alligator shows and airboat rides (commercial attractions, not in the blurb). Coordinates are approximate from memory of the Tamiami Trail location; confirm before publishing. tribe.miccosukee.com blocks automated reading so not checked."
+      "notes": "Mile Marker 36, US Highway 41 (Tamiami Trail), about 30 minutes west of Miami-Dade; 305-480-1924. Also offers alligator shows and airboat rides (commercial attractions, not in the blurb). confirm before publishing. tribe.miccosukee.com blocks automated reading so not checked. Coordinates updated 2026-11-09: OpenStreetMap point for Miccosukee Indian Village on the Tamiami Trail (locality point, not a building)."
     },
     {
       "id": "meskwaki-cultural-center-museum",
@@ -2623,8 +2625,8 @@
       ],
       "town": "Toppenish",
       "state": "WA",
-      "lat": 46.37735,
-      "lon": -120.30867,
+      "lat": 46.37986,
+      "lon": -120.34271,
       "url": "https://www.yakamamuseum.com/",
       "about": "The Yakama Nation's own museum in Toppenish, with dioramas and exhibits on Plateau dwellings and Yakama life, plus a heritage theater and a library of Plateau materials.",
       "hours_note": null,
@@ -2639,7 +2641,7 @@
           "url": "https://goia.wa.gov/tribal-directory/washington-state-tribal-museums"
         }
       ],
-      "notes": "Address 100 Spiel-yi Loop, Toppenish, WA 98948; (509) 865-2800. Museum site says open to the public; a Lewis & Clark Trail listing gives weekday hours, so confirm days. Coordinates are the Yakama Nation HQ point from nations_northwest.json (OSM had no point for the center) and need a precise fix. The nation's own site (yakamanation-nsn.gov) was not checked."
+      "notes": "Address 100 Spiel-yi Loop, Toppenish, WA 98948; (509) 865-2800. Museum site says open to the public; a Lewis & Clark Trail listing gives weekday hours, so confirm days. The nation's own site (yakamanation-nsn.gov) was not checked. Coordinates updated 2026-11-09: Lewis & Clark Trail listing for Yakama Nation Museum & Cultural Center (embedded map point 46.3798599, -120.3427124), corroborated by the US Census geocoder for 280 Buster Rd, Toppenish (46.37820, -120.34279), about 0.2 km away. Census and OSM have no match for 100 Spiel-yi Loop itself. Moves the point about 2.7 km west of the old HQ-derived value.."
     },
     {
       "id": "makah-museum",
@@ -2830,8 +2832,8 @@
       ],
       "town": "Darrington",
       "state": "WA",
-      "lat": 48.32129,
-      "lon": -121.55323,
+      "lat": 48.26396,
+      "lon": -121.6364,
       "url": "https://www.sauk-suiattle.com/museum",
       "about": "The Sauk-Suiattle Indian Tribe's free museum and cultural center near Darrington, with basketry, beadwork, carvings and other objects, plus exhibitions and education programs.",
       "hours_note": null,
@@ -2842,7 +2844,7 @@
           "url": "https://www.sauk-suiattle.com/museum"
         }
       ],
-      "notes": "Address 44211 State Route 530, Darrington, WA 98241; (360) 436-0333. Free admission, open weekdays. The permanent collection is the Davis Family collection from Cashmere, WA, covering the Pacific Northwest, Columbia Valley and the Southwest, so it is not only about Sauk-Suiattle; the page does not say how much is Sauk-Suiattle material. Coordinates are the tribe's HQ point from nations_northwest.json; needs a precise fix."
+      "notes": "Address 44211 State Route 530, Darrington, WA 98241; (360) 436-0333. Free admission, open weekdays. The permanent collection is the Davis Family collection from Cashmere, WA, covering the Pacific Northwest, Columbia Valley and the Southwest, so it is not only about Sauk-Suiattle; the page does not say how much is Sauk-Suiattle material. needs a precise fix. Coordinates updated 2026-11-09: US Census geocoder, matched to 44211 State Route 530."
     },
     {
       "id": "whatcom-museum-people-of-the-sea-and-cedar",
@@ -3045,8 +3047,8 @@
       ],
       "town": "Fort Hall",
       "state": "ID",
-      "lat": 43.0217,
-      "lon": -112.41102,
+      "lat": 43.02169,
+      "lon": -112.41079,
       "url": "https://www.sbtribes.com/language-culture/",
       "about": "The Shoshone-Bannock Tribes' museum at Fort Hall, with exhibits on tribal history, culture and art, including the Benedicte Wrensted photographs from 1895 to 1912.",
       "hours_note": null,
@@ -3061,7 +3063,7 @@
           "url": "https://visitidaho.org/things-to-do/museums/shoshone-bannock-tribal-museum/"
         }
       ],
-      "notes": "I-15 Exit 80, Simplot Road, Fort Hall, ID; (208) 237-9791. Open weekdays most of the year, daily in summer. Note the nations file lists the tribes' site as shoshonebannocktribes.com; that site doesn't mention the museum, while sbtribes.com does – check which is current. Coordinates from a Waymarking entry (N 43°01.302 W 112°24.661), not official; confirm."
+      "notes": "I-15 Exit 80, Simplot Road, Fort Hall, ID; (208) 237-9791. Open weekdays most of the year, daily in summer. Note the nations file lists the tribes' site as shoshonebannocktribes.com; that site doesn't mention the museum, while sbtribes.com does – check which is current. confirm. Coordinates updated 2026-11-09: Lewis & Clark Trail listing (embedded map point 43.0216928, -112.4107862) agrees with the existing Waymarking point to within a few meters, and it sits in the I-15 Exit 80 cluster beside the OSM points for the Shoshone-Bannock Hotel (43.02498, -112.41095) and Trading Post (43.0226, -112.4163). Census and OSM have no point for the museum itself. Essentially unchanged; now corroborated by two independent non-official sources.."
     },
     {
       "id": "nez-perce-nhp-spalding-visitor-center",
@@ -3182,8 +3184,8 @@
       ],
       "town": "Tahlequah",
       "state": "OK",
-      "lat": 35.90174,
-      "lon": -94.97441,
+      "lat": 35.87406,
+      "lon": -94.99005,
       "url": "https://www.ukb-nsn.gov/john-hair-cultural-center-museum",
       "about": "The United Keetoowah Band's own museum and cultural center, with permanent and changing exhibits, Keetoowah-made art and the 1949 Keetoowah Base Roll on display.",
       "hours_note": null,
@@ -3194,7 +3196,7 @@
           "url": "https://www.ukb-nsn.gov/john-hair-cultural-center-museum"
         }
       ],
-      "notes": "Address 18280 W. Keetoowah Circle, Tahlequah, OK 74464; museum (918) 871-2866. The page lists no museum-specific hours. Coordinates are APPROXIMATE: copied from the nation HQ point in nations_southplains.json (geocoders did not match the address) — confirm. Nation website in nations file is keetoowahcherokee.org; the page lives on ukb-nsn.gov."
+      "notes": "Address 18280 W. Keetoowah Circle, Tahlequah, OK 74464; museum (918) 871-2866. The page lists no museum-specific hours. Nation website in nations file is keetoowahcherokee.org; the page lives on ukb-nsn.gov. Coordinates updated 2026-11-09: Nominatim street point for W Keetoowah Circle (Census did not match 18280 W Keetoowah Circle). Street-level, APPROXIMATE; old point was ~2 mi north in Tahlequah town.."
     },
     {
       "id": "chickasaw-cultural-center",
@@ -3427,8 +3429,8 @@
       ],
       "town": "Bartlesville",
       "state": "OK",
-      "lat": 36.75973,
-      "lon": -95.91943,
+      "lat": 36.7585,
+      "lon": -95.91941,
       "url": "https://delawaretribe.org/museum/",
       "about": "The Delaware Tribe's museum in Bartlesville, sharing Lenape history and culture. Guided tours can be arranged.",
       "hours_note": null,
@@ -3439,7 +3441,7 @@
           "url": "https://delawaretribe.org/museum/"
         }
       ],
-      "notes": "Address listed as 166 N Barbara St., Bartlesville, OK 74006; 918-337-6541. Coordinates are APPROXIMATE: OpenStreetMap point for Barbara Street (address did not geocode) — confirm. Guided tours by appointment. The Tribe is building a new cultural center on its Bartlesville campus; the page gives few exhibit details, so 'about' is thin."
+      "notes": "Address listed as 166 N Barbara St., Bartlesville, OK 74006; 918-337-6541. Guided tours by appointment. The Tribe is building a new cultural center on its Bartlesville campus; the page gives few exhibit details, so 'about' is thin. Coordinates updated 2026-11-09: Address is 166 N Barbara Ave/St, Bartlesville (delawaretribe.org/museum). Census only matches S Barbara; S Barbara begins at Tuxedo Blvd (36.75706,-95.91941), so 166 N is interpolated about 1.5 blocks north. APPROXIMATE (old point was ~140 m further north).."
     },
     {
       "id": "kanza-museum",
@@ -3527,8 +3529,8 @@
       ],
       "town": "Wyandotte",
       "state": "OK",
-      "lat": 36.80519,
-      "lon": -94.71966,
+      "lat": 36.80482,
+      "lon": -94.72141,
       "url": "https://wyandotte-nation.org/culture/culturalcenter/",
       "about": "The Wyandotte Nation's cultural center and museum, where visitors can tour exhibits, use the family research library and join language and craft classes.",
       "hours_note": null,
@@ -3539,7 +3541,7 @@
           "url": "https://wyandotte-nation.org/culture/culturalcenter/"
         }
       ],
-      "notes": "Address 5 Council Fire Road, Wyandotte, OK 74370; 918-678-6385. Walk-ins welcome per the page. Coordinates are APPROXIMATE: copied from the nation HQ point in nations_southplains.json (address did not geocode) — confirm. Site blocks scripted fetches; read via a page fetch tool."
+      "notes": "Address 5 Council Fire Road, Wyandotte, OK 74370; 918-678-6385. Walk-ins welcome per the page. Site blocks scripted fetches; read via a page fetch tool. Coordinates updated 2026-11-09: US Census geocoder match for the Wyandotte Nation complex, 64700 US Hwy 60; 5 Council Fire Road is an internal complex street no geocoder knows. APPROXIMATE - complex point, not the building (old point 0.1 mi east).."
     },
     {
       "id": "wichita-tribal-history-center",
@@ -3820,8 +3822,8 @@
       ],
       "town": "Somerton",
       "state": "AZ",
-      "lat": 32.62022,
-      "lon": -114.76655,
+      "lat": 32.61496,
+      "lon": -114.7675,
       "url": "https://cocopah.com/museum.html",
       "about": "The Cocopah Tribe's museum on the West Cocopah Reservation, with exhibits on Cocopah history and culture and a park with a replica traditional dwelling and ramada.",
       "hours_note": null,
@@ -3832,7 +3834,7 @@
           "url": "https://cocopah.com/museum.html"
         }
       ],
-      "notes": "Address 14533 South Veterans Drive, Somerton, AZ 85350; (928) 627-1992. Guided tours by appointment; exhibits open to drop-in visitors. Coordinates are APPROXIMATE: OpenStreetMap point for the Cocopah community (Nominatim), not the museum building. Confirm before publishing. Nation's directory URL is cocopah.com."
+      "notes": "Address 14533 South Veterans Drive, Somerton, AZ 85350; (928) 627-1992. Guided tours by appointment; exhibits open to drop-in visitors. Confirm before publishing. Nation's directory URL is cocopah.com. Coordinates updated 2026-11-09: ArcGIS World Geocoder, PointAddress match (score 100) for 14533 S Veterans Dr, Somerton, AZ 85350. Census geocoder and Nominatim had no match. Old point was the Cocopah community, about 600 m off.."
     },
     {
       "id": "huhugam-heritage-center",
@@ -4186,7 +4188,7 @@
           "url": "https://mescaleroapachetribe.com/mescalero-apache-cultural-center-museum"
         }
       ],
-      "notes": "Mailing address P.O. Box 227, Mescalero, NM 88340; (575) 464-9254. Established 1972. Guided tours on request. Coordinates are APPROXIMATE: OpenStreetMap area for Chiricahua Plaza, Mescalero (Nominatim); a third-party listing gives 181 Chiricahua Plaza. Confirm."
+      "notes": "Mailing address P.O. Box 227, Mescalero, NM 88340; (575) 464-9254. Established 1972. Guided tours on request. a third-party listing gives 181 Chiricahua Plaza. Confirm. Coordinates updated 2026-11-09: OpenStreetMap point for Chiricahua Plaza, Mescalero (street-level, not the building)."
     },
     {
       "id": "san-carlos-apache-cultural-museum",
@@ -4199,8 +4201,8 @@
       ],
       "town": "Peridot",
       "state": "AZ",
-      "lat": 33.2995,
-      "lon": -110.45659,
+      "lat": 33.29557,
+      "lon": -110.44646,
       "url": "https://www.scat-nsn.gov/cultural-museum/",
       "about": "The San Carlos Apache Tribe's museum, telling Apache culture and history from the Apache perspective, with an exhibit gallery and art and craft classes.",
       "hours_note": null,
@@ -4211,7 +4213,7 @@
           "url": "https://www.scat-nsn.gov/cultural-museum/"
         }
       ],
-      "notes": "Address Mile Marker 272, Highway 70, Peridot, AZ 85542; (928) 475-2894. The page says indoor exhibit tours are available on entry, but its hours line is marked '*By appointment' — call to confirm walk-ins. Outdoor tours need an advance request and tribal permits (recreation day permits from San Carlos Game and Fish). Coordinates are APPROXIMATE: OpenStreetMap village point for Peridot (Nominatim)."
+      "notes": "Address Mile Marker 272, Highway 70, Peridot, AZ 85542; (928) 475-2894. The page says indoor exhibit tours are available on entry, but its hours line is marked '*By appointment' — call to confirm walk-ins. Outdoor tours need an advance request and tribal permits (recreation day permits from San Carlos Game and Fish). Coordinates updated 2026-11-09: OpenStreetMap museum point (Apache Cultural Museum, Highway 70)."
     },
     {
       "id": "nohwike-bagowa-museum",
@@ -4224,8 +4226,8 @@
       ],
       "town": "Fort Apache",
       "state": "AZ",
-      "lat": 33.7903,
-      "lon": -109.9874,
+      "lat": 33.79162,
+      "lon": -109.98854,
       "url": "https://www.fortapachearizona.org/visit/",
       "about": "The 'House of Our Footprints' museum at historic Fort Apache, with permanent exhibits and cultural interpretation; guides for nearby Kinishba Ruins are arranged here.",
       "hours_note": null,
@@ -4240,7 +4242,7 @@
           "url": "https://www.fortapachearizona.org/"
         }
       ],
-      "notes": "Address 104 General Crook Street, Fort Apache, AZ 85926; (928) 338-3849. Visitors to Kinishba Ruins must check in at the museum. Could not reach the White Mountain Apache Tribe's own site (wmat.us has a self-signed certificate and blocks fetching), so the tribe's relationship to the foundation is unconfirmed — operator set to nonprofit. Coordinates are APPROXIMATE: OpenStreetMap census point for Fort Apache (Nominatim)."
+      "notes": "Address 104 General Crook Street, Fort Apache, AZ 85926; (928) 338-3849. Visitors to Kinishba Ruins must check in at the museum. Could not reach the White Mountain Apache Tribe's own site (wmat.us has a self-signed certificate and blocks fetching), so the tribe's relationship to the foundation is unconfirmed — operator set to nonprofit. Coordinates updated 2026-11-09: OpenStreetMap (Nominatim) point for General Crook Street, Fort Apache; ArcGIS street-name match agrees (33.79159, -109.98859). Census had no match for 104 General Crook Street. Still APPROXIMATE: street-level, not the building (old point was the Fort Apache census place).."
     },
     {
       "id": "southern-ute-cultural-center-museum",
@@ -4338,8 +4340,8 @@
       ],
       "town": "Fredonia",
       "state": "AZ",
-      "lat": 36.86283,
-      "lon": -112.73986,
+      "lat": 36.86261,
+      "lon": -112.73749,
       "url": "https://www.nps.gov/pisp/",
       "about": "A desert spring inside the Kaibab Indian Reservation, where the Park Service tells the history of the Kaibab Paiute and western settlers, with a visitor center and 1870s fort.",
       "hours_note": null,
@@ -4350,7 +4352,7 @@
           "url": "https://www.nps.gov/pisp/"
         }
       ],
-      "notes": "NPS notes the monument sits inside the Kaibab Indian Reservation (first Dark Sky Nation). Coordinates: OpenStreetMap monument boundary centroid (Nominatim); visitor center is at the same spot within a few hundred metres. Town is the nearest named community; confirm whether 'Fredonia' or 'Kaibab Indian Reservation' reads better."
+      "notes": "NPS notes the monument sits inside the Kaibab Indian Reservation (first Dark Sky Nation). visitor center is at the same spot within a few hundred metres. Town is the nearest named community; confirm whether 'Fredonia' or 'Kaibab Indian Reservation' reads better. Coordinates updated 2026-11-09: OpenStreetMap point for the Pipe Spring Visitor Center and Museum."
     },
     {
       "id": "indian-pueblo-cultural-center",
@@ -4475,6 +4477,534 @@
         }
       ],
       "notes": "Address 5500 Snyder Ave, Carson City, NV 89701 (address-level geocode, OpenStreetMap via Nominatim). Operator recorded from general knowledge as the Nevada Indian Commission (state) — the fetched homepage text didn't name it; CONFIRM. The museum says it honors the first students from Great Basin tribes (1890). Regional, multi-nation."
+    },
+    {
+      "id": "oconaluftee-indian-village",
+      "name": "Oconaluftee Indian Village",
+      "kind": "museum",
+      "operator": "nonprofit",
+      "operator_name": "Cherokee Historical Association",
+      "nations": [
+        "eastern-band-of-cherokee-indians"
+      ],
+      "town": "Cherokee",
+      "state": "NC",
+      "lat": 35.48666,
+      "lon": -83.32259,
+      "url": "https://cherokeehistorical.org/attractions/oconaluftee-indian-village-cherokee/",
+      "about": "An outdoor living history village in Cherokee with guided tours, Cherokee artisans demonstrating crafts like basket weaving and wood carving, historic-style buildings to step inside, and dance demonstrations.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Cherokee Historical Association – Oconaluftee Indian Village",
+          "url": "https://cherokeehistorical.org/attractions/oconaluftee-indian-village-cherokee/"
+        },
+        {
+          "name": "Visit Cherokee NC (Eastern Band of Cherokee Indians) – Oconaluftee Indian Village",
+          "url": "https://visitcherokeenc.com/play/attractions/oconaluftee-indian-village/"
+        }
+      ],
+      "notes": "Visit address 288 Drama Rd, Cherokee, NC (CHA office 564 Tsali Blvd, Cherokee, NC 28719). SEASONAL: site lists a 2026 season of April 21–October 31, so it is closed now (Nov 2026) until spring; confirm you want seasonal places listed. Operated by the Cherokee Historical Association, a nonprofit; EBCI's own tourism site (visitcherokeenc.com, footer 'Eastern Band of Cherokee Indians') features it. ebci.com could not be read (expired TLS certificate). Coordinates: OpenStreetMap museum point for Oconaluftee Indian Village (Nominatim); Census geocoder did not match 288 Drama Rd."
+    },
+    {
+      "id": "monacan-indian-nation-museum",
+      "name": "Monacan Indian Nation Museum",
+      "kind": "museum",
+      "operator": "nation",
+      "operator_name": "Monacan Indian Nation",
+      "nations": [
+        "monacan-indian-nation"
+      ],
+      "town": "Amherst",
+      "state": "VA",
+      "lat": 37.57303,
+      "lon": -79.12672,
+      "url": "https://www.monacannation.gov/museum.html",
+      "about": "The Monacan Indian Nation's own museum near Amherst, tracing the tribe's major milestones with pottery, pipes, games, beads and tools. Browse on your own or take a tour.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Monacan Indian Nation – Museum",
+          "url": "https://www.monacannation.gov/museum.html"
+        },
+        {
+          "name": "Monacan Indian Nation – Plan Your Visit",
+          "url": "https://www.monacannation.gov/plan-your-visit.html"
+        }
+      ],
+      "notes": "Address 2009 Kenmore Road, Amherst, VA 24521; (434) 946-5391. Open set days each week; groups over 10 by appointment; closed the third Saturday of each month for the Tribal Meeting and in storms or snow. The nation's site has moved from monacannation.com (now blocks reading) to monacannation.gov; update the nation record's official_website. Coordinates: OpenStreetMap museum point 'Monacan Ancestral Museum' (Nominatim), which OSM tags at 110 Indian Mission Road; ArcGIS World Geocoder matches 2009 Kenmore Rd as a point address within about 35 m (37.57291, -79.12707). Census geocoder had no match."
+    },
+    {
+      "id": "tomaquag-museum",
+      "name": "Tomaquag Museum",
+      "kind": "museum",
+      "operator": "nonprofit",
+      "operator_name": "Tomaquag Museum",
+      "nations": [],
+      "town": "Exeter",
+      "state": "RI",
+      "lat": 41.55732,
+      "lon": -71.69812,
+      "url": "https://www.tomaquagmuseum.org/",
+      "about": "Rhode Island's Indigenous museum, sharing Indigenous history, culture and arts through exhibits, tours and programs. The current exhibit, Revolution to Reclamation, centers Indigenous voices.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Tomaquag Museum",
+          "url": "https://www.tomaquagmuseum.org/"
+        },
+        {
+          "name": "Tomaquag Museum – Plan Your Visit",
+          "url": "https://www.tomaquagmuseum.org/plan-your-visit"
+        }
+      ],
+      "notes": "Address 390 A Summit Road, Exeter, RI 02822; (401) 491-9063. Nonprofit; tagged nations: [] per brief (regional), so it surfaces for the Narragansett Indian Tribe by the 75-mile rule. The site links to a capital campaign for a new museum (campaignfortomaquag.org); the current Exeter site is open. Coordinates: OpenStreetMap museum point (Nominatim); Census geocoder matched 390 Summit Rd within about 25 m (41.55720, -71.69837)."
+    },
+    {
+      "id": "totem-heritage-center",
+      "name": "Totem Heritage Center",
+      "kind": "museum",
+      "operator": "other",
+      "operator_name": "City of Ketchikan (Ketchikan Museums)",
+      "nations": [],
+      "town": "Ketchikan",
+      "state": "AK",
+      "lat": 55.34257,
+      "lon": -131.63406,
+      "url": "https://www.ketchikanmuseums.org/",
+      "about": "A Ketchikan museum holding original 19th-century totem poles, with hands-on chances to learn and practice Native arts.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Ketchikan Museums",
+          "url": "https://www.ketchikanmuseums.org/"
+        },
+        {
+          "name": "City of Ketchikan – Museums",
+          "url": "https://www.ketchikan.gov/museums"
+        }
+      ],
+      "notes": "Address 601 Deermount Street, Ketchikan, AK 99901; (907) 225-5900. City-run (Ketchikan Museums, with the Tongass Historical Museum); site says open to the public year round. On the National Register for its 19th-century pole collection. Tagged nations: [] (regional); surfaces for Ketchikan Indian Community, Organized Village of Saxman and Metlakatla via the 75-mile rule. Could not find a stable deep link for the center itself (ketchikanmuseums.org/exhibits/totem-heritage-exhibits is linked from ketchikan.gov but not verified), so url is the Ketchikan Museums home page. Coordinates: OpenStreetMap museum point (Nominatim); Census geocoder matched 601 Deermount St within about 70 m (55.34194, -131.63375)."
+    },
+    {
+      "id": "ahtna-cultural-center",
+      "name": "Ahtna Cultural Center (C'ek'aedi Hwnax)",
+      "kind": "cultural_center",
+      "operator": "other",
+      "operator_name": "Ahtna, Inc., in partnership with Wrangell-St. Elias National Park & Preserve",
+      "nations": [],
+      "town": "Copper Center",
+      "state": "AK",
+      "lat": 62.02053,
+      "lon": -145.36355,
+      "url": "https://www.nps.gov/places/ahtna-cultural-center.htm",
+      "about": "Next to the Wrangell-St. Elias visitor center, with Ahtna exhibits, a hand-built fish wheel, a food cache and museum staff on hand to answer questions.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "NPS – Ahtna Cultural Center",
+          "url": "https://www.nps.gov/places/ahtna-cultural-center.htm"
+        },
+        {
+          "name": "NPS – Ahtna Cultural Center reopens under new partnership (June 2022)",
+          "url": "https://www.nps.gov/wrst/learn/news/ahtna-cultural-center-reopens-under-new-partnership.htm"
+        },
+        {
+          "name": "Ahtna, Inc. – Ahtna Cultural Center reopens",
+          "url": "https://www.ahtna.com/ahtna-cultural-center-reopens-under-new-partnership-between-ahtna-and-the-national-park-service/"
+        }
+      ],
+      "notes": "Wrangell-St. Elias Visitor Center complex, Copper Center (Mile 106.8 Richardson Hwy area); (907) 822-5955. Operated by Ahtna, Inc. (Alaska Native regional corporation, not a tribe), so operator 'other'. NPS page says 'call ahead since hours may vary'; 2022 release gave a summer Wed–Fri schedule. Likely SEASONAL (summer only) — confirm the 2026 season. Tagged nations: [] because the sources describe Ahtna culture broadly; see questions about tagging the Ahtna villages. Coordinates APPROXIMATE: ArcGIS World Geocoder POI for the Wrangell-St. Elias National Park Visitor Center, which NPS says the center sits next to (Census and Nominatim had nothing)."
+    },
+    {
+      "id": "nhmu-native-voices",
+      "name": "Native Voices gallery, Natural History Museum of Utah",
+      "kind": "museum",
+      "operator": "university",
+      "operator_name": "Natural History Museum of Utah, University of Utah",
+      "nations": [],
+      "town": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.76411,
+      "lon": -111.82261,
+      "url": "https://nhmu.utah.edu/exhibitions/native-voices",
+      "about": "A permanent gallery designed with Utah's Indigenous communities on the art, culture and present-day life of Utah's Native peoples, with a storytelling circle for stories of origin and land.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "NHMU – Native Voices",
+          "url": "https://nhmu.utah.edu/exhibitions/native-voices"
+        },
+        {
+          "name": "NHMU – Visit",
+          "url": "https://nhmu.utah.edu/visit"
+        }
+      ],
+      "notes": "Rio Tinto Center, 301 Wakara Way, Salt Lake City, UT 84108; 801.581.6927. Gallery is included with museum admission. The page lists Utah's eight federally recognized tribes: Northwestern Band of Shoshone Nation, Paiute Indian Tribe of Utah, San Juan Southern Paiute, Skull Valley Band of Goshute, Confederated Tribes of Goshute, Navajo Nation, Ute Indian Tribe, and the White Mesa Community of the Ute Mountain Ute Tribe. Tagged nations: [] as a multi-nation regional place; see questions. Coordinates: OpenStreetMap museum point (Nominatim); Census geocoder matched 301 Wakara Way within about 400 m (40.76137, -111.82657, street-segment point)."
+    },
+    {
+      "id": "edge-of-the-cedars-state-park-museum",
+      "name": "Edge of the Cedars State Park Museum",
+      "kind": "museum",
+      "operator": "state",
+      "operator_name": "Utah State Parks",
+      "nations": [],
+      "town": "Blanding",
+      "state": "UT",
+      "lat": 37.63127,
+      "lon": -109.48941,
+      "url": "https://stateparks.utah.gov/parks/edge-of-the-cedars/",
+      "about": "A Blanding state park museum with an Ancestral Pueblo village and kiva, a large pottery collection, and exhibits on past and present American Indian cultures of the Four Corners.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Utah State Parks – Edge of the Cedars",
+          "url": "https://stateparks.utah.gov/parks/edge-of-the-cedars/"
+        }
+      ],
+      "notes": "Phone 435-678-2238. Street address not on the park page (commonly given as 660 West 400 North, Blanding, UT 84511 — CONFIRM; Census matched that address within about 100 m of the park's map point). Interprets Ancestral Pueblo peoples and 'prehistoric and contemporary American Indian cultures of the Four Corners region'; does not name a specific present-day nation, so nations: []. Near the White Mesa community (Ute Mountain Ute) and the Navajo Nation's Utah portion. Coordinates: the park's own map link on the Utah State Parks page (37.631266, -109.489407)."
+    },
+    {
+      "id": "shoalwater-bay-museum",
+      "name": "Shoalwater Bay Museum",
+      "kind": "museum",
+      "operator": "nation",
+      "operator_name": "Shoalwater Bay Indian Tribe",
+      "nations": [
+        "shoalwater-bay-indian-tribe-of-the-shoalwater-bay-indian-reservation"
+      ],
+      "town": "Tokeland",
+      "state": "WA",
+      "lat": 46.72427,
+      "lon": -124.02135,
+      "url": "https://www.shoalwaterbay-nsn.gov/departments/museum/",
+      "about": "The Shoalwater Bay Tribe's own museum in Tokeland, with a historic canoe nearly 27 feet long, baskets, carvings, tribal artists' work and a timeline of family photos.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Shoalwater Bay Indian Tribe – Shoalwater Bay Museum",
+          "url": "https://www.shoalwaterbay-nsn.gov/departments/museum/"
+        },
+        {
+          "name": "Washington State Tourism – American Indian heritage sites and museums",
+          "url": "https://stateofwatourism.com/discover-washingtons-american-indian-heritage-sites-and-museums"
+        }
+      ],
+      "notes": "Address 4115 State Route 105, Tokeland, WA 98590; museum front desk (360) 267-8190. The tribe's page says open weekdays and free (donations welcome). Coordinates are the OpenStreetMap museum point (Shoalwater Bay Heritage Museum, 4115 SR 105); the US Census geocoder matched the same address about 0.5 km east (46.72638, -124.02689), so the OSM building point was used."
+    },
+    {
+      "id": "dungeness-river-nature-center",
+      "name": "Dungeness River Nature Center",
+      "kind": "interpretive_center",
+      "operator": "nonprofit",
+      "operator_name": "Dungeness River Nature Center, in partnership with the Jamestown S'Klallam Tribe",
+      "nations": [
+        "jamestown-s-klallam-tribe"
+      ],
+      "town": "Sequim",
+      "state": "WA",
+      "lat": 48.08695,
+      "lon": -123.14409,
+      "url": "https://dungenessrivercenter.org/",
+      "about": "A nature center at Railroad Bridge Park run in partnership with the Jamestown S'Klallam Tribe, with watershed exhibits and a cultural exhibit on the Tribe's ties to its ancestral lands.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Dungeness River Nature Center – Exhibits",
+          "url": "https://dungenessrivercenter.org/explore/exhibits/"
+        },
+        {
+          "name": "Jamestown S'Klallam Tribe – Dungeness River Nature Center",
+          "url": "https://jamestowntribe.org/programs/dungeness-river-nature-center/"
+        }
+      ],
+      "notes": "Address 1943 W Hendrickson Rd, Sequim, WA 98382; (360) 681-4076. Listed under the Tribe's own Programs & Staff. Mostly a natural-history center; the exhibits page describes the cultural exhibit partly in future tense ('This exhibit will focus on...'), so confirm it is installed before publishing. Coordinates from the US Census geocoder (matched 1943 Hendrickson Rd); OSM building point agrees within 0.2 km. The site blocks plain curl (406) but loads in a browser."
+    },
+    {
+      "id": "white-river-valley-museum-muckleshoot-canoe",
+      "name": "White River Valley Museum – Muckleshoot Indian Canoe exhibit",
+      "kind": "museum",
+      "operator": "nonprofit",
+      "operator_name": "White River Valley Museum",
+      "nations": [
+        "muckleshoot-indian-tribe"
+      ],
+      "town": "Auburn",
+      "state": "WA",
+      "lat": 47.29909,
+      "lon": -122.21842,
+      "url": "https://www.wrvmuseum.org/exhibits-entry/2019/1/28/muckleshoot-indian-canoe-scene",
+      "about": "A permanent exhibit in Auburn's local history museum on the Muckleshoot people, with a river canoe packed for hop picking and a scale model of a winter house.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "White River Valley Museum – Muckleshoot Indian Canoe",
+          "url": "https://www.wrvmuseum.org/exhibits-entry/2019/1/28/muckleshoot-indian-canoe-scene"
+        },
+        {
+          "name": "White River Valley Museum – Exhibits",
+          "url": "https://www.wrvmuseum.org/exhibits-entry"
+        }
+      ],
+      "notes": "Address 918 H St SE, Auburn, WA 98002; (253) 288-7433. Exhibit inside a non-tribal museum; the page doesn't say whether the Muckleshoot Tribe took part in it, and it dates from the museum's 2019 exhibit listing, so confirm it is still on view. The Muckleshoot site (muckleshoot.nsn.us) lists no public museum. Coordinates are the OpenStreetMap museum point at 918 H St SE; the Census geocoder matched the same address within 0.15 km (47.30021, -122.21863)."
+    },
+    {
+      "id": "boundary-county-museum-kootenai-exhibit",
+      "name": "Boundary County Museum – Kootenai Tribe exhibit",
+      "kind": "museum",
+      "operator": "nonprofit",
+      "operator_name": "Boundary County Historical Society",
+      "nations": [
+        "kootenai-tribe-of-idaho"
+      ],
+      "town": "Bonners Ferry",
+      "state": "ID",
+      "lat": 48.69771,
+      "lon": -116.31174,
+      "url": "https://boundarycountymuseum.org/museum-exhibits",
+      "about": "The county museum on Main Street in Bonners Ferry, with a Kootenai Tribe exhibit of returned artifacts the Kootenai Tribe of Idaho placed on display.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Boundary County Historical Society & Museum – Museum Exhibits",
+          "url": "https://boundarycountymuseum.org/museum-exhibits"
+        },
+        {
+          "name": "Boundary County Museum – Kootenai Tribe articles",
+          "url": "https://boundarycountymuseum.org/tag/kootenai-tribe"
+        }
+      ],
+      "notes": "Address 7229 Main Street, Bonners Ferry, ID 83805; (208) 267-7720. Museum page says the Kootenai Tribe of Idaho placed artifacts returned from three private collections on display and paid for new cases. The Tribe's own site (kootenai.org) doesn't mention the exhibit. Census geocoder found no match; coordinates are the OpenStreetMap point for Boundary County Museum, 7229 Main Street."
+    },
+    {
+      "id": "lava-beds-nm-visitor-center",
+      "name": "Lava Beds National Monument Visitor Center",
+      "kind": "park",
+      "operator": "federal",
+      "operator_name": "National Park Service",
+      "nations": [
+        "klamath-tribes",
+        "modoc-nation"
+      ],
+      "town": "Tulelake",
+      "state": "CA",
+      "lat": 41.7142,
+      "lon": -121.50968,
+      "url": "https://www.nps.gov/labe/index.htm",
+      "about": "A national monument on Modoc homeland, with a visitor center whose exhibits and artifacts cover Modoc culture, and trails to sites of the Modoc War of 1872–73.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "NPS – Lava Beds National Monument",
+          "url": "https://www.nps.gov/labe/index.htm"
+        },
+        {
+          "name": "NPS – Lava Beds history and culture",
+          "url": "https://www.nps.gov/labe/learn/historyculture/index.htm"
+        },
+        {
+          "name": "Discover Klamath – Learn about Native American history in Klamath",
+          "url": "https://www.discoverklamath.com/adventure-guides/learn-about-native-american-history-in-klamath"
+        }
+      ],
+      "notes": "Visitor center at the south end of the monument near Cave Loop Road (OSM: 1 Hill Road, Tulelake, CA 96134). NPS says the visitor center is open daily; the visitor-center description of Modoc exhibits comes from Discover Klamath (county tourism), as the NPS visitor-center page wouldn't load. Tagged to the Klamath Tribes (which include the Modoc) and the Modoc Nation (Oklahoma); NPS mentions 'the modern Modoc and Klamath tribes.' In California, about 90 miles from Chiloquin. Battlefield and rock-art areas are in the park; the entry points at the visitor center only. Coordinates are the OpenStreetMap point for Lava Beds Visitor Center; Census geocoder had no match."
+    },
+    {
+      "id": "douglas-county-museum-roseburg",
+      "name": "Douglas County Museum",
+      "kind": "museum",
+      "operator": "nonprofit",
+      "operator_name": "Umpqua Valley Museums",
+      "nations": [],
+      "town": "Roseburg",
+      "state": "OR",
+      "lat": 43.19467,
+      "lon": -123.35969,
+      "url": "https://umpquavalleymuseums.org/visit/douglas-county-museum/",
+      "about": "Roseburg's natural and cultural history museum, whose 'Land of the Umpquas' exhibition traces the valley named for the Umpqua people who still call it home.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Umpqua Valley Museums – Douglas County Museum",
+          "url": "https://umpquavalleymuseums.org/visit/douglas-county-museum/"
+        }
+      ],
+      "notes": "Address 123 Museum Dr, Roseburg, OR 97471; 541-957-7007. Regional museum, tagged nations [] so it surfaces for the Cow Creek Band of Umpqua (HQ in Roseburg) through the nearby rule. The page doesn't say how much of the exhibition covers Native history or whether the Cow Creek Band took part; confirm. The Cow Creek site (www.cowcreek-nsn.gov; the nations file's cowcreek.com returns 503) lists no museum. Coordinates from the US Census geocoder (matched 123 Museum Dr)."
+    },
+    {
+      "id": "five-civilized-tribes-museum",
+      "name": "Five Civilized Tribes Museum",
+      "kind": "museum",
+      "operator": "nonprofit",
+      "operator_name": "Five Civilized Tribes Museum",
+      "nations": [
+        "cherokee-nation",
+        "the-chickasaw-nation",
+        "the-choctaw-nation-of-oklahoma",
+        "the-muscogee-creek-nation",
+        "the-seminole-nation-of-oklahoma"
+      ],
+      "town": "Muskogee",
+      "state": "OK",
+      "lat": 35.76493,
+      "lon": -95.41366,
+      "url": "https://www.fivetribes.org/",
+      "about": "Art, artifacts and history of the Cherokee, Chickasaw, Choctaw, Muscogee and Seminole nations, in the 1875 Union Indian Agency building on Agency Hill.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "TravelOK: Five Civilized Tribes Museum",
+          "url": "https://www.travelok.com/listings/view.profile/id.2791"
+        },
+        {
+          "name": "Visit Muskogee: Five Civilized Tribes Museum",
+          "url": "https://visitmuskogee.com/attractions/five-civilized-tribes-museum/"
+        }
+      ],
+      "notes": "1101 Honor Heights Dr, Muskogee, OK 74401; 918-683-1701. Coordinates: US Census geocoder, matched to 1101 Honor Heights Dr (OSM museum point is 0.1 mi away at 35.76644,-95.41442). Could not open fivetribes.org itself (certificate error through the research proxy, robots-blocked for WebFetch), so the description comes from TravelOK and Visit Muskogee; confirm with the museum. Operator recorded as nonprofit (independent of the five nations) - confirm. Visit Muskogee lists 425 Boston St, which looks like a city office address; TravelOK and OSM agree on Honor Heights Dr."
+    },
+    {
+      "id": "chickasaw-council-house-museum",
+      "name": "Chickasaw Council House Museum",
+      "kind": "museum",
+      "operator": "nation",
+      "operator_name": "The Chickasaw Nation",
+      "nations": [
+        "the-chickasaw-nation"
+      ],
+      "town": "Tishomingo",
+      "state": "OK",
+      "lat": 34.23753,
+      "lon": -96.67964,
+      "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Council-House-Museum",
+      "about": "The first Chickasaw council house built in Indian Territory, with Chickasaw art, artifacts and archives, next to the Chickasaw Nation's historic capitol grounds.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Chickasaw Nation: Chickasaw Council House Museum",
+          "url": "https://www.chickasaw.net/Our-Nation/Locations/Chickasaw-Council-House-Museum"
+        },
+        {
+          "name": "TravelOK: Chickasaw Council House Museum",
+          "url": "https://www.travelok.com/listings/view.profile/id.1344"
+        }
+      ],
+      "notes": "209 N. Fisher Ave, Tishomingo, OK 73460; 580-371-3351. Coordinates: US Census geocoder, matched to 209 N Fisher Ave (OSM museum point agrees within 50 m). Group tours by reservation. Second Chickasaw place after the Chickasaw Cultural Center - see question on one-per-nation."
+    },
+    {
+      "id": "quapaw-nation-museum",
+      "name": "Quapaw Nation Museum",
+      "kind": "museum",
+      "operator": "nation",
+      "operator_name": "Quapaw Nation",
+      "nations": [
+        "quapaw-nation"
+      ],
+      "town": "Quapaw",
+      "state": "OK",
+      "lat": 36.94791,
+      "lon": -94.78568,
+      "url": "https://www.quapawtribe.com/108/Tribal-Museum",
+      "about": "Quapaw history told through pottery, photographs and clothing, in the Robert Whitebird Cultural Center just off Route 66, with the Quapaw Veterans Wall outside.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Quapaw Nation: Tribal Museum",
+          "url": "https://www.quapawtribe.com/108/Tribal-Museum"
+        },
+        {
+          "name": "TravelOK: Quapaw Nation Museum",
+          "url": "https://www.travelok.com/listings/view.profile/id.17572"
+        }
+      ],
+      "notes": "905 Whitebird St, Quapaw, OK 74363; 918-238-3157; museum@quapawnation.com. Housed in the Robert Whitebird Cultural Center with the Nation's library, language and historic preservation programs. Coordinates: US Census geocoder, matched to 905 Whitebird St. Groups need advance reservations. IMLS FY2025 grant funds exhibit upgrades (signage, cases), so displays may change."
+    },
+    {
+      "id": "shawnee-tribe-cultural-center",
+      "name": "Shawnee Tribe Cultural Center",
+      "kind": "cultural_center",
+      "operator": "nation",
+      "operator_name": "Shawnee Tribe",
+      "nations": [
+        "shawnee-tribe"
+      ],
+      "town": "Miami",
+      "state": "OK",
+      "lat": 36.875,
+      "lon": -94.87767,
+      "url": "https://www.shawneeculture.org/",
+      "about": "A self-guided Route 66 museum where the Shawnee Tribe tells its own story, with permanent and rotating exhibits, including one on oral storytelling.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Shawnee Tribe Cultural Center",
+          "url": "https://www.shawneeculture.org/"
+        },
+        {
+          "name": "Shawnee Tribe: Reopening of the Shawnee Cultural Center (2024)",
+          "url": "https://shawnee-nsn.gov/news/reopening-stcc-2024/"
+        },
+        {
+          "name": "TravelOK: Shawnee Tribe Cultural Center",
+          "url": "https://www.travelok.com/listings/view.profile/id.27551"
+        },
+        {
+          "name": "NPS: Shawnee Tribe Cultural Center",
+          "url": "https://www.nps.gov/places/shawnee-tribe-cultural-center.htm"
+        }
+      ],
+      "notes": "19 N Eight Tribes Trail, Miami, OK 74354 (TravelOK, Destination Native America); 918-544-6722. Reopened to the public Sept 23, 2024 in its permanent home, per the Shawnee Tribe. APPROXIMATE coordinates: neither the Census geocoder nor Nominatim knows 'Eight Tribes Trail'; I geocoded 19 N Main St, Miami (Census match), assuming Eight Tribes Trail is the honorary name of Main St. Confirm the building location; the point is within 0.05 mi of the Shawnee Tribe HQ point in nations.json."
+    },
+    {
+      "id": "standing-bear-park-museum",
+      "name": "Standing Bear Park, Museum and Education Center",
+      "kind": "museum",
+      "operator": "nonprofit",
+      "operator_name": "Standing Bear Native American Foundation",
+      "nations": [
+        "ponca-tribe-of-indians-of-oklahoma",
+        "kaw-nation-oklahoma",
+        "the-osage-nation",
+        "otoe-missouria-tribe-of-indians-oklahoma",
+        "pawnee-nation-of-oklahoma",
+        "tonkawa-tribe-of-indians-of-oklahoma"
+      ],
+      "town": "Ponca City",
+      "state": "OK",
+      "lat": 36.68284,
+      "lon": -97.07595,
+      "url": "https://standingbearpark.com/",
+      "about": "A 22-foot bronze of Ponca Chief Standing Bear, a viewing court with the seals of six area nations, and a museum with displays for each of them.",
+      "hours_note": null,
+      "status": "draft",
+      "sources": [
+        {
+          "name": "Standing Bear Park: Plan your visit",
+          "url": "https://standingbearpark.com/plan-your-visit.html"
+        },
+        {
+          "name": "TravelOK: Standing Bear Park, Museum and Education Center",
+          "url": "https://www.travelok.com/discover-oklahoma/story/standing-bear-park-museum-and-education-center"
+        }
+      ],
+      "notes": "601 Standing Bear Parkway, Ponca City, OK; 580-762-1514. Six nations named by the park: Kaw, Osage, Otoe-Missouria, Pawnee, Ponca, Tonkawa. Coordinates: Nominatim (OpenStreetMap museum point 'Standing Bear Museum'); Census geocoder did not match the parkway address. Gives Ponca, Otoe-Missouria and Tonkawa a place where their own sites list none."
     }
   ]
 }
