@@ -41,3 +41,12 @@ Stored in `data/states.json`. Do not use: natow.org (hijacked), aaita.org (parke
 ## Why 573 entries, not 575 (checked 2026-11-09)
 
 The notice's summary says 575 Tribal entities; the printed list has 573 headings (348 in the contiguous 48 states, 225 in Alaska). The gap is in Alaska: four villages appear only as cross-references to two joint governments: Saint Paul Island and St. George Island → Pribilof Islands Aleut Communities of St. Paul & St. George Islands; Arctic Village and Village of Venetie → Native Village of Venetie Tribal Government. Counting each village as its own Tribe gives 573 − 2 + 4 = 575. This is the likely reason; BIA has not been asked to confirm. The directory keeps one page per printed heading, with the villages named on the joint government's page.
+
+## Native Land Digital deep links (added 2026-11-09)
+
+`data/native_land.json` holds links only: territory names and their `native-land.ca/listings/territories/{slug}` page URLs, gathered from NLD's public listing pages. No NLD map data (geometry, boundaries, API responses) is stored or drawn; NLD's API terms require permission to store or redistribute its data.
+
+- Nations (201): matched where NLD's own territory page lists the nation's official website.
+- Peoples (23 of 24): matched by name, plus hand review for Lakota bands, Dakota bands, Yankton/Yanktonai, Ojibwe (Anishinabewaki), Shoshone, Salish and Kootenai (Ktunaxa). No NLD page found for the Gros Ventre (Aaniiih).
+- Fact pages show the nation's own matches, then territories of its related peoples; nations with neither get a general link to NLD. All links carry the directory's UTM tags.
+- Next: ask NLD for permission to show territory outlines on the map (homelands layer).

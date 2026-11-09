@@ -129,7 +129,8 @@ def fact_page(n):
     mapblock = ""
     if loc:
         mapblock = f"""<h2>Where</h2><div id="minimap" class="minimap" style="height:340px" data-lat="{loc['lat']}" data-lon="{loc['lon']}" data-label="{e(n['name'])}" data-areas="{",".join(a["aiannhce"] for a in n.get("areas", []))}"></div>
-<p class="caption">The point marks the tribal government headquarters.{" Shaded areas are reservation and trust land as drawn by the U.S. Census Bureau (TIGER/Line 2026). These are legal boundaries, not homelands, and some nations describe theirs differently." if n.get("areas") else ""}{(" " + e(map_note(n))) if map_note(n) else ""} <a href="https://native-land.ca/" rel="noopener">Explore Indigenous territories on Native Land Digital</a>.</p>"""
+<p class="caption">The point marks the tribal government headquarters.{" Shaded areas are reservation and trust land as drawn by the U.S. Census Bureau (TIGER/Line 2026). These are legal boundaries, not homelands, and some nations describe theirs differently." if n.get("areas") else ""}{(" " + e(map_note(n))) if map_note(n) else ""}</p>
+{nld_block(n)}"""
     snippet = e(f'<div data-nativenations="card" data-id="{n["id"]}"></div>\n<script src="{BASE}/embed.js" async></script>')
     body = f"""<section class="fact-hero"><div class="wrap">
 <div class="crumb"><a href="/">All nations</a> &rsaquo; {" / ".join(f'<a href="/states/{s.lower()}/">{e(STATE_NAMES.get(s, s))}</a>' for s in n["states"])}</div>
@@ -177,6 +178,32 @@ def history_block(kind, id_):
 <p class="label" style="color:var(--night)">Draft &middot; not yet reviewed by the nation{"s" if kind == "peoples" else ""} or the Library&rsquo;s historians</p>
 {paras}
 <details><summary class="caption">Sources</summary><ul class="caption">{srcs}</ul></details>"""
+
+NLD = json.loads((ROOT / "data/native_land.json").read_text()) if (ROOT / "data/native_land.json").exists() else {"nations": {}, "peoples": {}}
+UTM = "?utm_source=trlibrary&amp;utm_medium=referral&amp;utm_campaign=nativenations"
+
+
+def nld_links(recs):
+    return " &middot; ".join(f'<a href="{e(r["url"])}{UTM}" rel="noopener" target="_blank">{e(r["name"])}</a>' for r in recs)
+
+
+def nld_block(n):
+    own = NLD["nations"].get(n["id"], [])
+    seen = {r["slug"] for r in own}
+    via = []
+    for pe in n.get("peoples", []):
+        for r in NLD["peoples"].get(pe["id"], []):
+            if r["slug"] not in seen:
+                seen.add(r["slug"]); via.append(r)
+    if not own and not via:
+        return '<p class="caption">For homelands and historic territories, explore <a href="https://native-land.ca/' + UTM + '" rel="noopener" target="_blank">Native Land Digital</a>, an Indigenous-led map of territories, languages and treaties.</p>'
+    out = '<h3 style="margin-top:20px">Homelands on Native Land Digital</h3><p class="caption">Native Land Digital is an Indigenous-led nonprofit mapping territories, languages and treaties. Its maps are not legal boundaries.</p>'
+    if own:
+        out += f'<p>Territory pages that list this nation&rsquo;s website: {nld_links(own)}</p>'
+    if via:
+        out += f'<p>Territories of related peoples: {nld_links(via[:8])}</p>'
+    return out
+
 
 def map_note(n):
     f = HIST / "land" / f"{n['id']}.json"
@@ -353,6 +380,7 @@ def build_peoples():
 {sub}
 {('<h2>Related peoples</h2><p class="caption">Related, but each identifies as its own people.</p><ul class="linklist">' + "".join(f'<li><a href="/peoples/{r}/">{e(pby[r]["name"])}</a></li>' for r in p.get("related", []) if r in pby) + '</ul>') if p.get("related") else ""}
 </div><aside>
+{('<h2>Homelands on Native Land Digital</h2><p class="caption">Native Land Digital is an Indigenous-led nonprofit mapping territories, languages and treaties. Its maps are not legal boundaries.</p><p>' + nld_links(NLD["peoples"][p["id"]]) + '</p>') if NLD["peoples"].get(p["id"]) else ""}
 <h2>Where</h2><div id="peoplemap" class="minimap" style="height:340px" data-ids="{",".join(p["nations"])}" data-areas="{",".join(sorted({a["aiannhce"] for i in p["nations"] for a in byid[i].get("areas", [])}))}"></div>
 <p class="caption">Points mark tribal government headquarters today; shaded areas are reservation and trust land (U.S. Census). Neither shows homelands or historic territories. For territories, see <a href="https://native-land.ca/" rel="noopener">Native Land Digital</a>.</p>
 <p class="caption"><a href="/api/v1/peoples.json">JSON</a></p>
@@ -449,7 +477,7 @@ https://your-site.org/plan-your-trip?nn-people=dakota&amp;nn-visit=1</div>
 <h2>What you&rsquo;ll find</h2>
 <p>For every nation: the name in the federal list, the states it&rsquo;s in, its tribal government headquarters and its official website. Where a nation or its tourism alliance has them, links to tourism pages, cultural centers, events, powwows and tours.</p>
 <h2>What you won&rsquo;t</h2>
-<p>Descriptions, photos or event listings copied from other sites. Sacred or ceremonial places. Homeland boundaries or migration routes; for territories, see <a href="https://native-land.ca/">Native Land Digital</a>.</p>
+<p>Descriptions, photos or event listings copied from other sites. Sacred or ceremonial places. Homeland boundaries or migration routes; for territories, each page links to <a href="https://native-land.ca/">Native Land Digital</a>, an Indigenous-led map. Teachers can start with its <a href="https://native-land.ca/resources/teachers-guide">Teacher&rsquo;s Guide</a> and its <a href="https://native-land.ca/resources/territory-acknowledgement">guide to land acknowledgements</a>.</p>
 <h2>How listings are kept right</h2>
 <p>Federal facts are refreshed from the Federal Register and the Bureau of Indian Affairs. Tourism links are confirmed with each nation or its tourism alliance before a listing leaves draft, and links are checked on a schedule. Any nation can ask for a change or for its listing to be removed, and the Library will make it.</p>
 <p>Every link out carries a tag so partners can see how many people the Library sends their way.</p>
