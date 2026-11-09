@@ -1,0 +1,41 @@
+{
+  "link_types": {
+    "official": "Official website",
+    "tourism": "Visit / tourism",
+    "cultural_center": "Cultural center",
+    "museum": "Museum",
+    "events": "Events",
+    "powwow": "Powwows and celebrations",
+    "tours_booking": "Book a tour",
+    "visitor_protocols": "Visitor guidelines",
+    "permits_fishing": "Fishing permits",
+    "permits_hunting": "Hunting permits",
+    "permits_recreation": "Recreation permits",
+    "lodging": "Lodging",
+    "alliance_profile": "State Native tourism alliance",
+    "state_tourism_profile": "State tourism office",
+    "aita_profile": "Destination Native America",
+    "native_land": "Native Land Digital map"
+  },
+  "publishers": ["nation", "alliance", "state_tourism", "aita", "federal", "native_land"],
+  "alliances": {
+    "ndnta": {"name": "North Dakota Native Tourism Alliance", "url": "https://www.ndnta.com/"},
+    "sdnta": {"name": "South Dakota Native Tourism Alliance", "url": "https://sdnativetourismalliance.org/"},
+    "aita": {"name": "American Indigenous Tourism Association", "url": "https://americanindigenoustourism.org/"}
+  },
+  "tags": {
+    "cultural_center": "Cultural center or museum",
+    "guided_tours": "Native-guided tours",
+    "powwow_summer": "Summer powwows",
+    "rodeo": "Rodeos",
+    "lodging": "Lodging on the reservation",
+    "camping": "Camping",
+    "fishing": "Fishing",
+    "hunting": "Hunting",
+    "bison": "Bison herd",
+    "historic_site": "Historic sites open to visitors",
+    "arts": "Native arts",
+    "dining": "Dining"
+  },
+  "review_statuses": ["draft", "library_reviewed", "nation_contacted", "nation_approved", "nation_declined"]
+}

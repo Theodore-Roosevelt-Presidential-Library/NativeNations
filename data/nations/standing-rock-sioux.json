@@ -1,0 +1,69 @@
+{
+  "id": "standing-rock-sioux",
+  "fr_name": "Standing Rock Sioux Tribe of North & South Dakota",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [],
+  "display_name": null,
+  "aka": [],
+  "bia_tld_name": "Standing Rock Sioux Tribe of North & South Dakota",
+  "bia_region": "Great Plains",
+  "bia_agency": "Standing Rock Agency",
+  "states": [
+    "ND",
+    "SD"
+  ],
+  "hq": {
+    "city": "Fort Yates",
+    "state": "ND",
+    "lat": 46.0869408,
+    "lon": -100.6301271
+  },
+  "nearest_town": "Fort Yates",
+  "census_aiannh": [],
+  "official_website": "http://www.standingrock.org",
+  "alliances": [
+    "ndnta"
+  ],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [
+    {
+      "type": "alliance_profile",
+      "url": "https://www.ndnta.com/standingrocksioux",
+      "label": "Standing Rock on NDNTA",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": null,
+      "http_status": null
+    },
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/standing-rock-sioux-tribe",
+      "label": "Standing Rock on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": null,
+      "http_status": null
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "BIA Tribal Leaders Directory (organizational fields only)",
+      "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-08"
+    }
+  ],
+  "last_verified": "2026-11-08"
+}

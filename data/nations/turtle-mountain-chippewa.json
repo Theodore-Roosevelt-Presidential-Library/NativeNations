@@ -1,0 +1,59 @@
+{
+  "id": "turtle-mountain-chippewa",
+  "fr_name": "Turtle Mountain Band of Chippewa Indians of North Dakota",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [],
+  "display_name": null,
+  "aka": [],
+  "bia_tld_name": "Turtle Mountain Band of Chippewa Indians of North Dakota",
+  "bia_region": "Great Plains",
+  "bia_agency": "Turtle Mountain Agency",
+  "states": [
+    "ND"
+  ],
+  "hq": {
+    "city": "Belcourt",
+    "state": "ND",
+    "lat": 48.8391712,
+    "lon": -99.7448688
+  },
+  "nearest_town": "Belcourt",
+  "census_aiannh": [],
+  "official_website": "http://tmbci.kkbold.com/",
+  "alliances": [
+    "ndnta"
+  ],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [
+    {
+      "type": "alliance_profile",
+      "url": "https://www.ndnta.com/turtlemountain",
+      "label": "Turtle Mountain on NDNTA",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": null,
+      "http_status": null
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation. BIA lists the website as tmbci.kkbold.com, which looks like a vendor staging domain; confirm the nation's official site before publishing."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "BIA Tribal Leaders Directory (organizational fields only)",
+      "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-08"
+    }
+  ],
+  "last_verified": "2026-11-08"
+}

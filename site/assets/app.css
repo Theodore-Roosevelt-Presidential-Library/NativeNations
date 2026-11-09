@@ -1,0 +1,13 @@
+:root{--ink:#1f2a2e;--muted:#5b6770;--line:#d9dee2;--bg:#faf8f4;--accent:#8a3b12;--card:#fff}
+*{box-sizing:border-box}body{margin:0;font:16px/1.55 "Source Sans 3",system-ui,sans-serif;color:var(--ink);background:var(--bg)}
+.bar{padding:14px 20px;border-bottom:1px solid var(--line);background:#fff}
+.brand{text-decoration:none;color:var(--ink);font-size:13px;color:var(--muted)}.brand b{display:block;font:700 22px Oswald,sans-serif;color:var(--ink);letter-spacing:.02em}
+.notice{background:#fff4d6;border-bottom:1px solid #ecd9a0;padding:8px 20px;font-size:14px}
+.wrap{max-width:1040px;margin:0 auto;padding:24px 20px}h1{font:700 34px/1.15 Oswald,sans-serif;margin:8px 0}
+.lede{color:var(--muted);max-width:640px}.filters{margin:18px 0}
+#q{width:100%;max-width:420px;padding:10px 12px;border:1px solid var(--line);border-radius:6px;font:inherit}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:16px}
+.card h2{font:600 19px/1.25 Oswald,sans-serif;margin:0 0 4px}.meta{color:var(--muted);font-size:14px;margin:0 0 10px}
+.card ul{list-style:none;padding:0;margin:0}.card li{margin:4px 0}.card a{color:var(--accent);font-weight:600}
+.card .pub{color:var(--muted);font-size:12px;margin-left:6px}.foot{color:var(--muted);font-size:14px;margin-top:32px}
