@@ -1,0 +1,109 @@
+{
+  "id": "three-affiliated-tribes-fort-berthold",
+  "name": "MHA Nation (Three Affiliated Tribes, Fort Berthold)",
+  "land_summary": "The 1851 Fort Laramie Treaty recognized more than 12 million acres as Mandan, Hidatsa and Arikara territory. Executive orders in 1870 and 1880 first set the Fort Berthold reservation and then shrank it, the second order cutting land for the Northern Pacific Railway. An 1886 agreement, ratified in 1891, ceded about 1.6 million more acres and brought allotment. A 1910 act opened the northeast part of the reservation to homesteaders. Garrison Dam later flooded more than 150,000 acres of Missouri River bottomland, the heart of the reservation. Towns including Elbowoods were submerged, most families were moved to upland tracts, and the water split the reservation into segments. Today about 988,000 acres lie within the boundaries in six counties, roughly half in trust and most of the rest owned by non-members. Ownership of the old riverbed beneath Lake Sakakawea remains in dispute.",
+  "timeline": [
+    {
+      "year": "1851",
+      "event": "The Fort Laramie Treaty recognizes a large territory, more than 12 million acres, as Mandan, Hidatsa and Arikara land.",
+      "sources": [
+        "https://treaties.okstate.edu/treaties/treaty-of-fort-laramie-with-sioux-etc-1851-0594",
+        "https://www.nps.gov/articles/history-of-hidatsa-post-1845.htm"
+      ]
+    },
+    {
+      "year": "1870",
+      "event": "An executive order sets apart the Fort Berthold reservation.",
+      "sources": [
+        "https://www.ndstudies.gov/gr8/node/173",
+        "https://www.nps.gov/articles/history-of-hidatsa-post-1845.htm"
+      ]
+    },
+    {
+      "year": "1880",
+      "event": "A second executive order cuts the reservation, largely for the Northern Pacific Railway.",
+      "sources": [
+        "https://www.ndstudies.gov/gr8/node/173",
+        "https://www.nps.gov/articles/history-of-hidatsa-post-1845.htm"
+      ]
+    },
+    {
+      "year": "1891",
+      "event": "Congress ratifies an 1886 agreement ceding about 1.6 million acres, and allotment follows.",
+      "sources": [
+        "https://www.ndstudies.gov/gr8/node/173",
+        "https://www.nps.gov/articles/history-of-hidatsa-post-1845.htm"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Congress opens unallotted land in the northeast part of the reservation to non-Indian settlement.",
+      "sources": [
+        "https://www.ndstudies.gov/gr8/node/173",
+        "https://www.nps.gov/articles/history-of-hidatsa-post-1845.htm"
+      ]
+    },
+    {
+      "year": "1949",
+      "event": "Congress pays for land taken for the Garrison Dam reservoir, and families are forced out of the river bottomlands.",
+      "sources": [
+        "https://www.mhanation.com/history/",
+        "https://www.govinfo.gov/content/pkg/CRPT-108srpt165/html/CRPT-108srpt165.htm"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://www.mhanation.com/history/",
+    "label": "MHA Nation history page, which shows the Fort Berthold Indian Reservation map (FBIR2025) from the MHA GIS Department"
+  },
+  "disputed": true,
+  "homelands": null,
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "MHA Nation, History",
+      "url": "https://www.mhanation.com/history/"
+    },
+    {
+      "name": "MHA Nation, Geographic Information Systems",
+      "url": "https://www.mhanation.com/geographic-information-systems"
+    },
+    {
+      "name": "Kappler, Treaty of Fort Laramie with Sioux, etc., 1851 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-of-fort-laramie-with-sioux-etc-1851-0594"
+    },
+    {
+      "name": "National Park Service, History of Hidatsa Post 1845",
+      "url": "https://www.nps.gov/articles/history-of-hidatsa-post-1845.htm"
+    },
+    {
+      "name": "ND Studies (SHSND), Section 4: Creating Fort Berthold Reservation",
+      "url": "https://www.ndstudies.gov/gr8/node/173"
+    },
+    {
+      "name": "ND Studies (SHSND), Data: MHA",
+      "url": "https://www.ndstudies.gov/curriculum/high-school/mandan-hidatsa-sahnish/data-mha"
+    },
+    {
+      "name": "U.S. Senate Report 108-165",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-108srpt165/html/CRPT-108srpt165.htm"
+    },
+    {
+      "name": "U.S. Senate Report 111-357",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-111srpt357/html/CRPT-111srpt357.htm"
+    },
+    {
+      "name": "Interior Solicitor Opinion M-37088 (March 12, 2026)",
+      "url": "https://www.doi.gov/sites/default/files/documents/2026-03/m-37088.pdf"
+    },
+    {
+      "name": "Native Business Magazine, MHA Nation sues Interior over Missouri riverbed",
+      "url": "https://nativebusinessmag.com/mha-nation-sues-interior-over-missouri-riverbed-property-mineral-rights/"
+    }
+  ],
+  "notes": "Dispute: The MHA Nation holds that the Missouri riverbed within Fort Berthold, and the minerals under it, belong to the Nation in trust. North Dakota claims the riverbed under the equal footing doctrine. Interior's Solicitor has reversed itself several times. The latest opinion, M-37088 (March 12, 2026), sides with the state and withdraws the 2022 opinion M-37073. The 2026 date rests only on the DOI document, so it is in notes, not the timeline. Garrison acreage varies by source: 150,000+ (Senate Report 108-165), about 152,300 (ND Studies), and 156,000 (Senate Report 111-357). The summary uses more than 150,000. ND Studies gives two inconsistent loss totals for 1851 to 1892. The 1992 Equitable Compensation Act (Pub. L. 102-575) is documented only in Senate reports, which count as one publisher, so it was left out. Per memory, MHA Nation materials route to the Library's Indigenous reviewers, and the Library's own /place/first-peoples drafting depends on an MHA co-development partnership. Sacred places: none taken from MHA Nation pages, because no nation page naming one was reviewed. Homelands: the nation page reviewed gives treaty acreage but no description of homelands, so this is null.",
+  "status": "draft",
+  "drafted": "2026-11-08",
+  "hold": true,
+  "hold_reason": "MHA Nation materials are held until the Library's Indigenous content reviewer (to be named) approves them."
+}

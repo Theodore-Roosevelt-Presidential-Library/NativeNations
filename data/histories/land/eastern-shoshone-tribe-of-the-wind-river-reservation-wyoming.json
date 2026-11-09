@@ -1,0 +1,100 @@
+{
+  "id": "eastern-shoshone-tribe-of-the-wind-river-reservation-wyoming",
+  "name": "Eastern Shoshone Tribe (Wind River)",
+  "land_summary": "The 1863 Fort Bridger Treaty recognized an Eastern Shoshone territory of about 44 million acres across parts of five present-day states. Under the 1868 Fort Bridger Treaty, Chief Washakie chose the Wind River Valley, the Warm Valley, as a permanent reservation. The southern part, near the South Pass gold fields and Lander, was ceded in a deal ratified in 1874, and the hot springs at present-day Thermopolis were sold in the 1890s. In the late 1870s the government placed the Northern Arapaho on the reservation, which the two nations still share. A 1904 agreement, ratified in 1905, ceded the land north of the Wind River, and President Theodore Roosevelt opened it to homesteaders in 1906. In 2017 a federal appeals court held that the 1905 law shrank the reservation and left Riverton outside it. The Eastern Shoshone, with the Northern Arapaho, contested that ruling. Today the reservation covers about 2.2 million acres.",
+  "homelands": "The Eastern Shoshone Tribe says its people have lived in their homelands since time immemorial, across lands in present-day Montana, Wyoming, Colorado, Utah and Idaho. When the reservation was set aside, Chief Washakie chose the Wind River Basin, which the Tribe calls the Warm Valley, as the people's permanent home.",
+  "sacred_places": [],
+  "timeline": [
+    {
+      "year": "1863",
+      "event": "The first Fort Bridger Treaty recognizes an Eastern Shoshone territory of about 44 million acres.",
+      "sources": [
+        "https://easternshoshone.org/about/",
+        "https://www.wyohistory.org/encyclopedia/coming-wind-river-eastern-shoshone-treaties-1863-and-1868"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "The second Fort Bridger Treaty sets aside the Wind River Reservation in the valley Chief Washakie chose.",
+      "sources": [
+        "https://www.wyohistory.org/encyclopedia/coming-wind-river-eastern-shoshone-treaties-1863-and-1868",
+        "https://law.justia.com/cases/federal/appellate-courts/ca10/14-9512/14-9512-2017-02-22.html"
+      ]
+    },
+    {
+      "year": "1874",
+      "event": "The cession of the reservation's southern portion near Lander is ratified.",
+      "sources": [
+        "https://law.justia.com/cases/federal/appellate-courts/ca10/14-9512/14-9512-2017-02-22.html",
+        "https://wyohistory.org/encyclopedia/when-tribes-sold-hot-springs"
+      ]
+    },
+    {
+      "year": "1905",
+      "event": "Congress ratifies an amended 1904 agreement ceding the land north of the Wind River.",
+      "sources": [
+        "https://www.wyohistory.org/encyclopedia/tribes-sell-more-land-1905-",
+        "https://law.justia.com/cases/federal/appellate-courts/ca10/14-9512/14-9512-2017-02-22.html"
+      ]
+    },
+    {
+      "year": "1906",
+      "event": "A proclamation by President Theodore Roosevelt opens the ceded lands to homesteading and town sites.",
+      "sources": [
+        "https://presidency.ucsb.edu/documents/proclamation-631-opening-the-wind-river-indian-reservation-wyoming",
+        "https://www.govinfo.gov/link/statute/34/3207"
+      ]
+    },
+    {
+      "year": "2017",
+      "event": "A federal appeals court rules that the 1905 law diminished the reservation; the tribes announce an appeal.",
+      "sources": [
+        "https://law.justia.com/cases/federal/appellate-courts/ca10/14-9512/14-9512-2017-02-22.html",
+        "https://www.wyomingpublicmedia.org/tribal-news/2017-02-24/wind-river-tribes-to-appeal-riverton-boundary-decision"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": true,
+  "sources": [
+    {
+      "name": "Eastern Shoshone Tribe, About",
+      "url": "https://easternshoshone.org/about/"
+    },
+    {
+      "name": "Eastern Shoshone Tribe, Petition Appendix, No. 17-1164 (2018)",
+      "url": "https://www.supremecourt.gov/DocketPDF/17/17-1164/35730/20180216165001234_Eastern%20Shoshone%20-%20Pet.%20App.%20-%20FINAL.pdf"
+    },
+    {
+      "name": "WyoHistory.org, Coming to Wind River: The Eastern Shoshone Treaties of 1863 and 1868",
+      "url": "https://www.wyohistory.org/encyclopedia/coming-wind-river-eastern-shoshone-treaties-1863-and-1868"
+    },
+    {
+      "name": "WyoHistory.org, When the Tribes Sold the Hot Springs",
+      "url": "https://wyohistory.org/encyclopedia/when-tribes-sold-hot-springs"
+    },
+    {
+      "name": "WyoHistory.org, The Tribes Sell Off More Land: The 1905 Agreement",
+      "url": "https://www.wyohistory.org/encyclopedia/tribes-sell-more-land-1905-"
+    },
+    {
+      "name": "Wyoming v. EPA, No. 14-9512 (10th Cir. Feb. 22, 2017), Justia",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca10/14-9512/14-9512-2017-02-22.html"
+    },
+    {
+      "name": "Wyoming Public Media, Wind River Tribes To Appeal Riverton Boundary Decision (Feb. 24, 2017)",
+      "url": "https://www.wyomingpublicmedia.org/tribal-news/2017-02-24/wind-river-tribes-to-appeal-riverton-boundary-decision"
+    },
+    {
+      "name": "American Presidency Project, Proclamation 631 (June 2, 1906)",
+      "url": "https://presidency.ucsb.edu/documents/proclamation-631-opening-the-wind-river-indian-reservation-wyoming"
+    },
+    {
+      "name": "Proclamations, 1906 (34 Stat. 3207), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/34/3207"
+    }
+  ],
+  "notes": "Riverton ruling date: the brief says '2016', but the Tenth Circuit decision in Wyoming v. EPA is dated February 22, 2017. EPA's original 2013 finding that Riverton lies inside the reservation is the earlier event, and the U.S. Supreme Court declined review in 2018 (single source: a law-firm summary, not used). The draft uses 2017; reviewers should confirm which ruling the brief meant. Nation's position: I found no Eastern Shoshone statement of its own in the coverage. Wyoming Public Media reports only a joint plan to appeal, and the Tribe's cert filing is listed but I did not read it, so the summary says only that the Tribe contested the ruling. Reviewers should get the Tribe's preferred wording. The Thermopolis hot springs cession is described without a date in the timeline: the agreement was signed in 1896 (WyoHistory) and the Tenth Circuit says the purchase was 1897. Conflicts: easternshoshone.org gives about 4.4 million acres for the 1868 reservation, while WyoHistory says about 3.2 million and the Tenth Circuit about 3 million. The summary avoids a figure. The Tribe's page also dates the Fort Bridger Treaty inconsistently (1863 in its text, 1868 in its link label). Current acreage is about 2.2 million on the tribal sites and about 2.3 million on WyoHistory. T.R.: the 1906 proclamation has two sources.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

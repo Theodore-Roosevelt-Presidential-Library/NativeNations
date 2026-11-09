@@ -1,0 +1,68 @@
+{
+  "id": "sisseton-wahpeton-oyate",
+  "name": "Sisseton Wahpeton Oyate (Lake Traverse)",
+  "land_summary": "The Sisseton Wahpeton Oyate holds that the boundaries of the Lake Traverse Reservation, set by its 1867 treaty with the United States, remain in place. That treaty reserved a triangle of about 918,000 acres in what are now northeastern South Dakota and southeastern North Dakota. After allotment, an 1889 agreement, ratified by Congress in 1891, sold the unallotted land for $2.50 an acre, and the land was soon opened to settlers. In 1975 the U.S. Supreme Court ruled 6 to 3 in DeCoteau v. District County Court that the 1891 act ended the reservation, and state maps now omit it. The Oyate rejects that result and has asked the South Dakota Legislature and Congress to recognize the 1867 boundaries. Today about 108,000 acres of trust land are scattered across the seven counties, in two states, that the Oyate counts within its reservation.",
+  "timeline": [
+    {
+      "year": "1867",
+      "event": "A treaty establishes the Lake Traverse Reservation for the Sisseton and Wahpeton bands.",
+      "sources": [
+        "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-sisseton-and-wahpeton-bands-1867-0956",
+        "https://supreme.justia.com/us/420/425"
+      ]
+    },
+    {
+      "year": "1891",
+      "event": "Congress ratifies an 1889 agreement selling the unallotted reservation land to the United States.",
+      "sources": [
+        "https://supreme.justia.com/us/420/425",
+        "https://treaties.okstate.edu/treaties/agreement-with-the-sisseton-and-wahpeton-sioux-1889-22336"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "In DeCoteau v. District County Court, the U.S. Supreme Court rules that the 1891 act ended the reservation. The Oyate does not accept that ruling.",
+      "sources": [
+        "https://supreme.justia.com/us/420/425",
+        "https://southdakotasearchlight.com/2023/06/26/tribal-leaders-urge-legislators-to-support-reestablishment-of-lake-traverse-reservation-boundaries/"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": true,
+  "homelands": null,
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Kappler, Treaty with the Sioux, Sisseton and Wahpeton Bands, 1867 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-sisseton-and-wahpeton-bands-1867-0956"
+    },
+    {
+      "name": "Kappler, Agreement with the Sisseton and Wahpeton Sioux, 1889 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-sisseton-and-wahpeton-sioux-1889-22336"
+    },
+    {
+      "name": "DeCoteau v. District County Court, 420 U.S. 425 (1975), Justia",
+      "url": "https://supreme.justia.com/us/420/425"
+    },
+    {
+      "name": "South Dakota Searchlight, June 26, 2023",
+      "url": "https://southdakotasearchlight.com/2023/06/26/tribal-leaders-urge-legislators-to-support-reestablishment-of-lake-traverse-reservation-boundaries/"
+    },
+    {
+      "name": "Sisseton Wahpeton Oyate, Tribal History page",
+      "url": "https://swo-nsn.gov/?p=2821"
+    },
+    {
+      "name": "SD Department of Tribal Relations, Sisseton Wahpeton Oyate",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Sisseton-Wahpeton-Oyate.aspx"
+    },
+    {
+      "name": "SD State Archives, Indian Archives Project, Sisseton Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/sisseton.pdf"
+    }
+  ],
+  "notes": "Dispute: The Oyate holds that the 1867 treaty boundaries remain intact. The 1975 DeCoteau ruling (6 to 3) held the reservation terminated by the 1891 act. South Dakota maps omit the boundaries. The Oyate's position is documented through South Dakota Searchlight reporting on its June 2023 testimony to the legislature's State-Tribal Relations Committee. No nation-published boundary statement or map was found. The Oyate's GIS page (https://swo-nsn.gov/departments/land-management-department/geographical-information-systems/) describes services only. Its homepage says the reservation spans seven counties, two in North Dakota and five in South Dakota. The Searchlight article gives the 1867 reservation as 107,200 acres. That conflicts with the Supreme Court's figure of about 918,000 acres and looks like an error, so it was not used. Rep. Tamara St. John was drafting a 2024 bill to recognize the boundaries. Its outcome was not confirmed. The April 11, 1892 opening proclamation is single-source (DeCoteau), so the summary leaves it undated. The SD State Archives page dates the reservation to 1869, which conflicts with 1867, and was not used for that fact. Trust acreage is 108,589 (SD Tribal Relations) or 106,153 (SD State Archives).",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

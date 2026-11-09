@@ -1,0 +1,68 @@
+{
+  "id": "fort-belknap-indian-community-of-the-fort-belknap-reservation-of",
+  "name": "Fort Belknap Indian Community",
+  "land_summary": "The Aaniiih (Gros Ventre) and Nakoda (Assiniboine) once shared a huge territory across central and eastern Montana. The 1851 Fort Laramie Treaty and the 1855 Lame Bull Treaty recognized it as part of a Blackfeet and Assiniboine country. In the 1870s and 1880s, executive orders and other federal actions cut away millions of acres. An 1888 act of Congress then divided what was left into the Blackfeet, Fort Belknap and Fort Peck reservations. Miners found gold in the Little Rocky Mountains on the reservation's southern edge, and an agreement concluded in 1895 and ratified in 1896 removed a block of those mountains. Tribal members understood the deal to be a lease, and the community has disputed the taking ever since. Land was allotted in the 1920s, but leftover land was never opened to homesteaders. Today the reservation holds roughly 650,000 acres between the Milk River and the Little Rockies, most of it still in tribal or member ownership.",
+  "homelands": "The Fort Belknap Indian Community describes its reservation as what remains of a much larger ancestral territory that covered central and eastern Montana and parts of western North Dakota. The reservation runs from the Milk River on the north to the Little Rocky Mountains, which the Aaniiih call the Fur Caps, on the south.",
+  "sacred_places": [],
+  "timeline": [
+    {
+      "year": "1851",
+      "event": "The Fort Laramie Treaty describes territories that include the Gros Ventre, counted with the Blackfeet, and the Assiniboine.",
+      "sources": [
+        "https://ftbelknap.org/history",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    },
+    {
+      "year": "1855",
+      "event": "A treaty with the Blackfeet Nation, including the Gros Ventre, sets aside common hunting grounds shared with neighboring nations.",
+      "sources": [
+        "https://ftbelknap.org/history",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    },
+    {
+      "year": "1888",
+      "event": "An act of Congress ratifies the cession of most of a shared northern Montana reservation and creates the Fort Belknap Reservation at its present location.",
+      "sources": [
+        "https://www.govinfo.gov/link/statute/25/113",
+        "https://ftbelknap.org/history"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Congress ratifies the 1895 agreement that removes part of the Little Rocky Mountains from the reservation after gold is found there.",
+      "sources": [
+        "https://www.govinfo.gov/link/statute/29/350",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": true,
+  "sources": [
+    {
+      "name": "Fort Belknap Indian Community, History",
+      "url": "https://ftbelknap.org/history"
+    },
+    {
+      "name": "Montana OPI, Montana Indians: Their History and Location (Fort Belknap section)",
+      "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+    },
+    {
+      "name": "Act of May 1, 1888 (25 Stat. 113), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/25/113"
+    },
+    {
+      "name": "Act of June 10, 1896, incl. 1895 Fort Belknap agreement (29 Stat.), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/29/350"
+    },
+    {
+      "name": "Governor's Office of Indian Affairs, Fort Belknap Indian Community",
+      "url": "https://tribalnations.mt.gov/Directory/FortBelknapIndianCommunity"
+    }
+  ],
+  "notes": "Disputed: the 1895–96 Little Rockies cession, known as the Grinnell Notch. According to the Fort Belknap section of the OPI publication, tribal members understood the deal as a lease, and the area taken and how it was taken have been disputed since. Conflict: ftbelknap.org dates the gold discovery to 1884 and the cession of the mountains to 1885, while the statute and OPI give an agreement on October 9, 1895, ratified June 10, 1896. The timeline uses 1896, which has two sources. Reviewers should ask the community which date it wants used. Allotment is dated 1921 in OPI and 1924 (BIA approval of the plan) in an IEFA timeline, so it is left undated. The 1975 return of about 25,500 acres of 'submarginal lands' is OPI-only and left out of the summary. Acreage: OPI gives 697,617 acres and the Governor's Office about 650,000–652,000. The cyanide heap-leach mining at Zortman-Landusky on the ceded land is left out as outside the land-base story; reviewers may want to add it.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

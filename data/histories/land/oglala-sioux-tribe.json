@@ -1,0 +1,91 @@
+{
+  "id": "oglala-sioux-tribe",
+  "name": "Oglala Sioux Tribe (Pine Ridge)",
+  "land_summary": "The Pine Ridge Reservation was carved from the Great Sioux Reservation, which the 1868 Fort Laramie Treaty set aside and which included the Black Hills. Congress took the Black Hills in 1877. In 1889 it broke up what remained, creating Pine Ridge as the home of the Oglala, and allotment followed. A later act opened land in what became Bennett County to settlers. A federal appeals court has ruled that this act removed the county from the reservation, yet the Tribe's own district map still includes LaCreek District there. During World War II the military took about 341,726 acres in the north for a bombing range and moved 125 families. Part of that land later became the South Unit of Badlands National Park. The Tribe has never accepted the Black Hills award. Today the reservation covers about 3,500 square miles in South Dakota.",
+  "timeline": [
+    {
+      "year": "1868",
+      "event": "The Fort Laramie Treaty sets aside the Great Sioux Reservation, including the Black Hills.",
+      "sources": [
+        "https://www.oglala.gov/",
+        "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+      ]
+    },
+    {
+      "year": "1877",
+      "event": "Congress takes the Black Hills from the Great Sioux Reservation.",
+      "sources": [
+        "https://supreme.justia.com/cases/federal/us/448/371/",
+        "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+      ]
+    },
+    {
+      "year": "1889",
+      "event": "Congress breaks up the Great Sioux Reservation and establishes the Pine Ridge Reservation.",
+      "sources": [
+        "https://www.oglala.gov/",
+        "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+      ]
+    },
+    {
+      "year": "1980",
+      "event": "The U.S. Supreme Court upholds compensation for the Black Hills. The Oglala have never accepted the award.",
+      "sources": [
+        "https://supreme.justia.com/cases/federal/us/448/371/",
+        "https://ictnews.org/news/black-hills-still-not-for-sale-oglala-sioux-tribe-rejects-foia-request-to-unseal-value"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://www.oglala.gov/",
+    "label": "Oglala Sioux Tribe homepage, with its Pine Ridge Indian Reservation district map showing approximate boundaries of nine districts"
+  },
+  "disputed": true,
+  "homelands": null,
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Oglala Sioux Tribe, homepage (reservation history and district map)",
+      "url": "https://www.oglala.gov/"
+    },
+    {
+      "name": "National Archives, Treaty of Fort Laramie (1868)",
+      "url": "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+    },
+    {
+      "name": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980), Justia",
+      "url": "https://supreme.justia.com/cases/federal/us/448/371/"
+    },
+    {
+      "name": "Act of March 2, 1889, 25 Stat. 888 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+    },
+    {
+      "name": "ICT, Black Hills still not for sale (April 30, 2025)",
+      "url": "https://ictnews.org/news/black-hills-still-not-for-sale-oglala-sioux-tribe-rejects-foia-request-to-unseal-value"
+    },
+    {
+      "name": "PBS NewsHour, Why the Sioux Are Refusing $1.3 Billion (2011)",
+      "url": "https://www.pbs.org/newshour/show/why-the-sioux-are-refusing-1-3-billion"
+    },
+    {
+      "name": "United States ex rel. Cook v. Parkinson, 525 F.2d 120 (8th Cir. 1975), Justia",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/F2/525/120/169809/"
+    },
+    {
+      "name": "High Country News, Will the Badlands become the first tribal national park? (2013)",
+      "url": "https://www.hcn.org/issues/45-2/tribal-affairs-will-the-badlands-become-the-first-tribal-national-park/"
+    },
+    {
+      "name": "SD Department of Tribal Relations, Oglala Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Oglala-Sioux-Tribe.aspx"
+    },
+    {
+      "name": "SD State Archives, Indian Archives Project, Pine Ridge Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/pineridge.pdf"
+    }
+  ],
+  "notes": "Disputes: (1) Black Hills. In ICT reporting from 2025, Oglala President Frank Star Comes Out says the Tribe never agreed to any settlement and will not sell its holy lands. That statement appears in news coverage, not on the Tribe's own site, so the Black Hills are not listed as a nation-named sacred place for this nation. (2) Bennett County. The 8th Circuit (Cook v. Parkinson, 1975) held that the Act of May 27, 1910 removed Bennett County from the reservation. The Tribe's site lists LaCreek District among its nine reservation districts. Reviewers must confirm that LaCreek District lies in Bennett County and how the Tribe states its position; this placement was not confirmed on a nation page. The 1910 date rests on one source, so the summary leaves it undated. The bombing-range acreage and the 125 families come from High Country News only, and the 1976 South Unit agreement and the 2012 management plan are also single-source. The summary keeps these general and undated, and the 1942 year often cited was not double-sourced. The OST site says the Great Sioux Reservation was reduced to five reservations, while Standing Rock and the 1889 act count six (Crow Creek included). Area: 3,500 square miles (OST) versus a trust land base of 1.7 million acres (SD Tribal Relations). OST also describes Pine Ridge as reaching into northwestern Nebraska. The summary says South Dakota only; check with the Tribe. The Wounded Knee site is intentionally not described.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

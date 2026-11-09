@@ -1,0 +1,68 @@
+{
+  "id": "omaha-tribe-of-nebraska",
+  "name": "Omaha Tribe of Nebraska",
+  "land_summary": "In an 1854 treaty the Omaha ceded their lands west of the Mississippi except for a 300,000-acre reservation in northeast Nebraska. In 1865 they sold about 98,000 acres on the reservation's north side to the United States for a Winnebago reservation. An 1882 act, passed after allotment, let the government sell land west of a railroad right-of-way, and about 50,000 acres went to non-Indian buyers. The village of Pender and the State of Nebraska later argued that this western land lay outside the reservation. In 2016 the U.S. Supreme Court unanimously held that the 1882 act did not shrink the reservation, so the Omaha boundaries, less the Winnebago sale, still stand. Today most people living in the western part of the reservation, around Pender in Thurston County, are not tribal members.",
+  "timeline": [
+    {
+      "year": "1854",
+      "event": "The Omaha cede their lands west of the Mississippi and keep a 300,000-acre reservation.",
+      "sources": [
+        "https://treaties.okstate.edu/treaties/treaty-with-the-omaha-1854-0611",
+        "https://law.justia.com/cases/federal/us/577/14-1406/"
+      ]
+    },
+    {
+      "year": "1865",
+      "event": "The Omaha sell about 98,000 acres on the north side of the reservation for a Winnebago reservation.",
+      "sources": [
+        "https://law.justia.com/cases/federal/us/577/14-1406/",
+        "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1865-0874"
+      ]
+    },
+    {
+      "year": "1882",
+      "event": "Congress authorizes the sale of reservation land west of a railroad right-of-way to non-Indians.",
+      "sources": [
+        "https://law.justia.com/cases/federal/us/577/14-1406/",
+        "https://www.ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
+      ]
+    },
+    {
+      "year": "2016",
+      "event": "In Nebraska v. Parker, the U.S. Supreme Court unanimously holds that the 1882 act did not diminish the reservation.",
+      "sources": [
+        "https://law.justia.com/cases/federal/us/577/14-1406/",
+        "https://www.ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": false,
+  "homelands": null,
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Kappler, Treaty with the Omaha, 1854 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-omaha-1854-0611"
+    },
+    {
+      "name": "Kappler, Treaty with the Winnebago, 1865 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1865-0874"
+    },
+    {
+      "name": "Nebraska v. Parker, 577 U.S. 481 (2016), Justia",
+      "url": "https://law.justia.com/cases/federal/us/577/14-1406/"
+    },
+    {
+      "name": "NCAI, Supreme Court unanimously holds reservation boundaries not diminished",
+      "url": "https://www.ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
+    },
+    {
+      "name": "Omaha Tribe of Nebraska, Tribal Historic Preservation Office",
+      "url": "https://www.omahatribe.com/tribe-departments/tribal-historic-preservation-office-thpo/"
+    }
+  ],
+  "notes": "No Omaha Tribe history or homelands page was found. The official site (omahatribe.com) has a THPO page that mentions protecting resources along the ancestral migratory route but gives no geography. A reviewer should seek the Tribe's own account, perhaps through its THPO or Nebraska Indian Community College. The 1884 opening of about 50,157 acres comes from Parker alone, so it is not in the timeline. The Kappler 1865 Omaha treaty page (treaty-with-the-omaha-1865-0872) was found in the OSU tribe listing but not opened. The 1865 entry relies on Parker and the Winnebago 1865 treaty text. Disputed is false because the boundary question was resolved in the Tribe's favor in 2016. The Blackbird Bend land on the Iowa side of the Missouri was not researched and should be checked with the Tribe. Current acreage and the trust/fee split were not found in independent sources.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

@@ -1,0 +1,4 @@
+{
+  "_note": "Manual corrections to Census area matches. add/remove lists of AIANNHCE codes. Every entry should say why.",
+  "cahuilla-band-of-indians": {"add": ["0435"], "why": "Cahuilla Reservation; the Tribe's headquarters point falls outside it in the BIA data."}
+}

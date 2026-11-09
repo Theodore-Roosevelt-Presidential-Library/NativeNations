@@ -41,6 +41,23 @@ def public(r):
 
 recs = [json.loads(p.read_text()) for p in sorted((ROOT / "data/nations").glob("*.json"))]
 pub = [public(r) for r in recs]
+import shutil
+BND = ROOT / "data/boundaries"
+B_MATCH = json.loads((BND / "matches.json").read_text())["matches"] if (BND / "matches.json").exists() else {}
+(OUT / "boundaries").mkdir(parents=True, exist_ok=True)
+if (BND / "overview.geojson").exists():
+    shutil.copy(BND / "overview.geojson", OUT / "boundaries" / "overview.geojson")
+for f in (BND / "areas").glob("*.geojson") if (BND / "areas").exists() else []:
+    shutil.copy(f, OUT / "boundaries" / f.name)
+for n in pub:
+    n["areas"] = [{"aiannhce": a["aiannhce"], "name": a["name"], "land_sq_mi": a["land_sq_mi"], "match": a["method"],
+                   "geojson": f"/api/v1/boundaries/{a['aiannhce']}.geojson"} for a in B_MATCH.get(n["id"], [])]
+CES = ROOT / "data/cessions"
+C_BY = json.loads((CES / "by_nation.json").read_text()) if (CES / "by_nation.json").exists() else {}
+if (CES / "cessions.geojson").exists():
+    shutil.copy(CES / "cessions.geojson", OUT / "cessions.geojson")
+for n in pub:
+    n["cessions"] = C_BY.get(n["id"], [])
 P_DATA, P_FULL, P_BY, _ = peoples_mod.resolve(recs)
 P_NAME = {p["id"]: p["name"] for p in P_DATA}
 for n in pub:
@@ -56,7 +73,7 @@ P_DATA_BY = {p["id"]: p for p in P_DATA}
 index = [{"id": n["id"], "name": n["name"], "states": n["states"], "town": n["nearest_town"] or (n["hq"] or {}).get("city"),
           "region": n["bia_region"], "group": n["region_group"], "alliances": [a["id"] for a in n["alliances"]],
           "visit": has_visit_links(n), "lat": (n["hq"] or {}).get("lat"), "lon": (n["hq"] or {}).get("lon"),
-          "aka": n["aka"], "former": n["fr_former_names"],
+          "aka": n["aka"], "former": n["fr_former_names"], "areas": [a["aiannhce"] for a in n["areas"]],
           "peoples": sorted({pp["id"] for pp in n["peoples"]} | {P_DATA_BY[pp["id"]]["parent"] for pp in n["peoples"] if P_DATA_BY[pp["id"]]["parent"]})} for n in pub]
 (OUT / "peoples.json").write_text(json.dumps([{"id": p["id"], "name": p["name"], "also_called": p["also_called"], "parent": p["parent"], "related": p.get("related", []),
     "nations": P_FULL[p["id"]], "review_status": p["review"]["status"]} for p in P_DATA], indent=1, ensure_ascii=False))

@@ -1,0 +1,107 @@
+{
+  "id": "rosebud-sioux-tribe-of-the-rosebud-indian-reservation-south-dakota",
+  "name": "Rosebud Sioux Tribe",
+  "land_summary": "The Sicangu Lakota of Rosebud were part of the Great Sioux Reservation created by the 1868 Fort Laramie Treaty, which Spotted Tail signed. After the Black Hills were taken in 1877, an 1889 act set apart a Rosebud Reservation of about 3.2 million acres reaching across five present-day counties. Allotment followed, and Congress then opened the unallotted land county by county. Gregory County opened first, in 1904, under a proclamation signed by T.R. covering about 382,000 acres. Tripp and Lyman counties came next, then Mellette. The U.S. Supreme Court later held that these openings shrank the reservation, leaving Todd County as the reservation the Tribe maps today, about 882,000 acres. Trust land also remains in Mellette and Tripp counties. The Tribe's land enterprise works to consolidate allotments split among many heirs.",
+  "timeline": [
+    {
+      "year": "1868",
+      "event": "The Fort Laramie Treaty sets aside the Great Sioux Reservation, including the Black Hills.",
+      "sources": [
+        "https://www.rosebudsiouxtribe-nsn.gov/history-culture",
+        "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+      ]
+    },
+    {
+      "year": "1877",
+      "event": "Congress takes the Black Hills from the Great Sioux Reservation.",
+      "sources": [
+        "https://supreme.justia.com/cases/federal/us/448/371/",
+        "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+      ]
+    },
+    {
+      "year": "1889",
+      "event": "Congress sets apart a Rosebud Reservation of about 3.2 million acres.",
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf",
+        "https://supreme.justia.com/cases/federal/us/430/584/"
+      ]
+    },
+    {
+      "year": "1904",
+      "event": "Congress opens unallotted land in Gregory County, and a proclamation signed by T.R. sets the August opening of about 382,000 acres.",
+      "sources": [
+        "https://www.presidency.ucsb.edu/documents/proclamation-526-opening-sioux-lands-the-rosebud-reservation-south-dakota",
+        "https://supreme.justia.com/cases/federal/us/430/584/"
+      ]
+    },
+    {
+      "year": "1980",
+      "event": "The U.S. Supreme Court upholds compensation for the Black Hills. The Sioux nations have not accepted the money.",
+      "sources": [
+        "https://supreme.justia.com/cases/federal/us/448/371/",
+        "https://www.pbs.org/newshour/show/why-the-sioux-are-refusing-1-3-billion"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://www.rosebudsiouxtribe-nsn.gov/_files/ugd/40cd2e_ee610b6932ff4bc88589341b314b4c9b.pdf",
+    "label": "Rosebud Sioux Tribe reservation map (PDF), linked from the Tribe's History and Culture page, which gives the land area as 882,416 acres"
+  },
+  "disputed": true,
+  "homelands": null,
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Rosebud Sioux Tribe, History and Culture",
+      "url": "https://www.rosebudsiouxtribe-nsn.gov/history-culture"
+    },
+    {
+      "name": "Rosebud Sioux Tribe, Tribal Land and Historic Preservation",
+      "url": "https://www.rosebudsiouxtribe-nsn.gov/rstland"
+    },
+    {
+      "name": "Rosebud Sioux Tribe, reservation map PDF",
+      "url": "https://www.rosebudsiouxtribe-nsn.gov/_files/ugd/40cd2e_ee610b6932ff4bc88589341b314b4c9b.pdf"
+    },
+    {
+      "name": "National Archives, Treaty of Fort Laramie (1868)",
+      "url": "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+    },
+    {
+      "name": "Act of March 2, 1889, 25 Stat. 888 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+    },
+    {
+      "name": "Rosebud Sioux Tribe v. Kneip, 430 U.S. 584 (1977), Justia",
+      "url": "https://supreme.justia.com/cases/federal/us/430/584/"
+    },
+    {
+      "name": "American Presidency Project, Proclamation 526 (May 13, 1904)",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-526-opening-sioux-lands-the-rosebud-reservation-south-dakota"
+    },
+    {
+      "name": "American Presidency Project, Proclamation 820 (August 24, 1908)",
+      "url": "https://www.presidency.ucsb.edu/documents/proclamation-820-rosebud-indian-reservation"
+    },
+    {
+      "name": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980), Justia",
+      "url": "https://supreme.justia.com/cases/federal/us/448/371/"
+    },
+    {
+      "name": "PBS NewsHour (2011)",
+      "url": "https://www.pbs.org/newshour/show/why-the-sioux-are-refusing-1-3-billion"
+    },
+    {
+      "name": "SD Department of Tribal Relations, Rosebud Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Rosebud-Sioux-Tribe.aspx"
+    },
+    {
+      "name": "SD State Archives, Indian Archives Project, Rosebud Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/rosebud.pdf"
+    }
+  ],
+  "notes": "Disputed is set to true for the Black Hills claim, which belongs to the Sioux nations together. No Rosebud-specific statement was found on the Tribe's site. Reviewers should confirm how the Tribe wants its position stated. The Tribe's map shows only Todd County, which matches the 1977 Kneip ruling, so no county dispute is asserted. The 1907 (Tripp and Lyman) and 1910 (Mellette) acts and the 1977 ruling date each rest on Kneip alone, so the summary leaves them undated. A second T.R. proclamation (Proclamation 820, August 24, 1908) opened further former Rosebud lands south of the Big White River. It is single-source here, so it is not in the summary or timeline. Acreage: 882,416 acres of land area (Tribe and SD State Archives) versus an 888,896-acre trust land base (SD Tribal Relations). The Rosebud site lists the 1868 treaty among its government documents. The Spotted Tail detail comes from SD Tribal Relations.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

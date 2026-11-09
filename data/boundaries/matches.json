@@ -1,0 +1,6798 @@
+{
+ "_note": "Draft matches between nations and Census areas. Method hq_point = BIA headquarters falls inside the area; name = area name words found in the nation's federal name; manual = overrides.json. Shared areas list more than one nation. Census areas are legal or statistical geography, not homelands; where a nation describes its boundary differently, the nation's description governs.",
+ "matches": {
+  "absentee-shawnee-tribe-of-indians-of-oklahoma": [
+   {
+    "aiannhce": "5600",
+    "name": "Citizen Potawatomi Nation-Absentee Shawnee OTSA",
+    "geoids": [
+     "5600R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1117,
+    "status": "draft"
+   }
+  ],
+  "agdaagux-tribe-of-king-cove": [
+   {
+    "aiannhce": "6735",
+    "name": "King Cove ANVSA",
+    "geoids": [
+     "6735R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "agua-caliente-band-of-cahuilla-indians-of-the-agua-caliente-indian": [
+   {
+    "aiannhce": "0020",
+    "name": "Agua Caliente Indian Reservation",
+    "geoids": [
+     "0020R",
+     "0020T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 59,
+    "status": "draft"
+   }
+  ],
+  "ak-chin-indian-community": [
+   {
+    "aiannhce": "2130",
+    "name": "Maricopa (Ak Chin) Indian Reservation",
+    "geoids": [
+     "2130R",
+     "2130T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 34,
+    "status": "draft"
+   }
+  ],
+  "akiachak-native-community": [
+   {
+    "aiannhce": "6020",
+    "name": "Akiachak ANVSA",
+    "geoids": [
+     "6020R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 15,
+    "status": "draft"
+   }
+  ],
+  "akiak-native-community": [
+   {
+    "aiannhce": "6025",
+    "name": "Akiak ANVSA",
+    "geoids": [
+     "6025R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "alabama-coushatta-tribe-of-texas": [
+   {
+    "aiannhce": "0050",
+    "name": "Alabama-Coushatta Reservation",
+    "geoids": [
+     "0050R",
+     "0050T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 14,
+    "status": "draft"
+   }
+  ],
+  "alabama-quassarte-tribal-town": [
+   {
+    "aiannhce": "5620",
+    "name": "Creek OTSA",
+    "geoids": [
+     "5620R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4629,
+    "status": "draft"
+   }
+  ],
+  "alatna-village": [
+   {
+    "aiannhce": "6040",
+    "name": "Alatna ANVSA",
+    "geoids": [
+     "6040R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 18,
+    "status": "draft"
+   }
+  ],
+  "algaaciq-native-village-st-mary-s": [
+   {
+    "aiannhce": "6065",
+    "name": "Algaaciq ANVSA",
+    "geoids": [
+     "6065R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "allakaket-village": [
+   {
+    "aiannhce": "6070",
+    "name": "Allakaket ANVSA",
+    "geoids": [
+     "6070R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 9,
+    "status": "draft"
+   }
+  ],
+  "alturas-indian-rancheria-california": [
+   {
+    "aiannhce": "0095",
+    "name": "Alturas Indian Rancheria",
+    "geoids": [
+     "0095R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "alutiiq-tribe-of-old-harbor": [
+   {
+    "aiannhce": "7150",
+    "name": "Old Harbor ANVSA",
+    "geoids": [
+     "7150R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 16,
+    "status": "draft"
+   }
+  ],
+  "angoon-community-association": [
+   {
+    "aiannhce": "6100",
+    "name": "Angoon ANVSA",
+    "geoids": [
+     "6100R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 25,
+    "status": "draft"
+   }
+  ],
+  "anvik-village": [
+   {
+    "aiannhce": "6125",
+    "name": "Anvik ANVSA",
+    "geoids": [
+     "6125R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "apache-tribe-of-oklahoma": [
+   {
+    "aiannhce": "5955",
+    "name": "Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware joint-use OTSA",
+    "geoids": [
+     "5955R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 193,
+    "status": "draft"
+   }
+  ],
+  "asa-carsarmiut-tribe": [
+   {
+    "aiannhce": "6975",
+    "name": "Mountain Village ANVSA",
+    "geoids": [
+     "6975R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 115,
+    "status": "draft"
+   }
+  ],
+  "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation": [
+   {
+    "aiannhce": "1250",
+    "name": "Fort Peck Indian Reservation",
+    "geoids": [
+     "1250R",
+     "1250T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3289,
+    "status": "draft"
+   }
+  ],
+  "augustine-band-of-cahuilla-indians-california": [
+   {
+    "aiannhce": "0125",
+    "name": "Augustine Reservation",
+    "geoids": [
+     "0125R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "bad-river-band-of-the-lake-superior-tribe-of-chippewa-indians-of-the": [
+   {
+    "aiannhce": "0140",
+    "name": "Bad River Reservation",
+    "geoids": [
+     "0140R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 193,
+    "status": "draft"
+   }
+  ],
+  "bay-mills-indian-community-michigan": [
+   {
+    "aiannhce": "0170",
+    "name": "Bay Mills Reservation",
+    "geoids": [
+     "0170R",
+     "0170T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "bear-river-band-of-the-rohnerville-rancheria-california": [
+   {
+    "aiannhce": "3220",
+    "name": "Rohnerville (Rancheria) Trust Land",
+    "geoids": [
+     "3220T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "beaver-village": [
+   {
+    "aiannhce": "6190",
+    "name": "Beaver ANVSA",
+    "geoids": [
+     "6190R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 21,
+    "status": "draft"
+   }
+  ],
+  "berry-creek-rancheria-of-maidu-indians-of-california": [
+   {
+    "aiannhce": "0200",
+    "name": "Berry Creek Rancheria",
+    "geoids": [
+     "0200R",
+     "0200T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "big-lagoon-rancheria-california": [
+   {
+    "aiannhce": "0240",
+    "name": "Big Lagoon Rancheria",
+    "geoids": [
+     "0240R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "big-pine-paiute-tribe-of-the-owens-valley": [
+   {
+    "aiannhce": "0250",
+    "name": "Big Pine Reservation",
+    "geoids": [
+     "0250R",
+     "0250T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "big-sandy-rancheria-of-western-mono-indians-of-california": [
+   {
+    "aiannhce": "0265",
+    "name": "Big Sandy Rancheria",
+    "geoids": [
+     "0265R",
+     "0265T"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "big-valley-band-of-pomo-indians-of-the-big-valley-rancheria-california": [
+   {
+    "aiannhce": "0275",
+    "name": "Big Valley Rancheria",
+    "geoids": [
+     "0275R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "bishop-paiute-tribe": [
+   {
+    "aiannhce": "0290",
+    "name": "Bishop Reservation",
+    "geoids": [
+     "0290R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "blackfeet-tribe-of-the-blackfeet-indian-reservation-of-montana": [
+   {
+    "aiannhce": "0305",
+    "name": "Blackfeet Indian Reservation",
+    "geoids": [
+     "0305R",
+     "0305T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2372,
+    "status": "draft"
+   }
+  ],
+  "blue-lake-rancheria-california": [
+   {
+    "aiannhce": "0325",
+    "name": "Blue Lake Rancheria",
+    "geoids": [
+     "0325R",
+     "0325T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "bridgeport-indian-colony": [
+   {
+    "aiannhce": "0350",
+    "name": "Bridgeport Reservation",
+    "geoids": [
+     "0350R",
+     "0350T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "burns-paiute-tribe": [
+   {
+    "aiannhce": "0400",
+    "name": "Burns Paiute Indian Colony",
+    "geoids": [
+     "0400R",
+     "0400T"
+    ],
+    "method": "name",
+    "land_sq_mi": 19,
+    "status": "draft"
+   }
+  ],
+  "cabazon-band-of-cahuilla-indians": [
+   {
+    "aiannhce": "0415",
+    "name": "Cabazon Reservation",
+    "geoids": [
+     "0415R"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "cachil-dehe-band-of-wintun-indians-of-the-colusa-indian-community-of": [
+   {
+    "aiannhce": "0750",
+    "name": "Colusa Rancheria",
+    "geoids": [
+     "0750R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "caddo-nation-of-oklahoma": [
+   {
+    "aiannhce": "5540",
+    "name": "Caddo-Wichita-Delaware OTSA",
+    "geoids": [
+     "5540R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1027,
+    "status": "draft"
+   }
+  ],
+  "cahto-tribe-of-the-laytonville-rancheria": [
+   {
+    "aiannhce": "1925",
+    "name": "Laytonville Rancheria",
+    "geoids": [
+     "1925R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "cahuilla-band-of-indians": [
+   {
+    "aiannhce": "0435",
+    "name": "Cahuilla Reservation",
+    "geoids": [
+     "0435R"
+    ],
+    "method": "manual",
+    "land_sq_mi": 29,
+    "status": "draft"
+   }
+  ],
+  "campo-band-of-diegueno-mission-indians-of-the-campo-indian": [
+   {
+    "aiannhce": "0450",
+    "name": "Campo Indian Reservation",
+    "geoids": [
+     "0450R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 26,
+    "status": "draft"
+   }
+  ],
+  "capitan-grande-band-of-diegueno-mission-indians-of-california": [
+   {
+    "aiannhce": "0155",
+    "name": "Barona Reservation",
+    "geoids": [
+     "0155R",
+     "0155T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "catawba-indian-nation": [
+   {
+    "aiannhce": "0525",
+    "name": "Catawba Reservation",
+    "geoids": [
+     "0525R",
+     "0525T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "cayuga-nation": [
+   {
+    "aiannhce": "8100",
+    "name": "Cayuga Nation TDSA",
+    "geoids": [
+     "8100R"
+    ],
+    "method": "name",
+    "land_sq_mi": 38,
+    "status": "draft"
+   }
+  ],
+  "cedarville-rancheria-california": [
+   {
+    "aiannhce": "0555",
+    "name": "Cedarville Rancheria",
+    "geoids": [
+     "0555R",
+     "0555T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "chalkyitsik-village": [
+   {
+    "aiannhce": "6265",
+    "name": "Chalkyitsik ANVSA",
+    "geoids": [
+     "6265R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 9,
+    "status": "draft"
+   }
+  ],
+  "cheesh-na-tribe": [
+   {
+    "aiannhce": "6520",
+    "name": "Gakona ANVSA",
+    "geoids": [
+     "6520R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 37,
+    "status": "draft"
+   }
+  ],
+  "chemehuevi-indian-tribe-of-the-chemehuevi-reservation-california": [
+   {
+    "aiannhce": "0585",
+    "name": "Chemehuevi Reservation",
+    "geoids": [
+     "0585R"
+    ],
+    "method": "name",
+    "land_sq_mi": 48,
+    "status": "draft"
+   }
+  ],
+  "cher-ae-heights-indian-community-of-the-trinidad-rancheria-california": [
+   {
+    "aiannhce": "4275",
+    "name": "Trinidad Rancheria",
+    "geoids": [
+     "4275R",
+     "4275T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "cherokee-nation": [
+   {
+    "aiannhce": "5550",
+    "name": "Cherokee OTSA",
+    "geoids": [
+     "5550R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6694,
+    "status": "draft"
+   }
+  ],
+  "chevak-native-village": [
+   {
+    "aiannhce": "6285",
+    "name": "Chevak ANVSA",
+    "geoids": [
+     "6285R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "cheyenne-and-arapaho-tribes-oklahoma": [
+   {
+    "aiannhce": "5560",
+    "name": "Cheyenne and Arapaho OTSA",
+    "geoids": [
+     "5560R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 8117,
+    "status": "draft"
+   }
+  ],
+  "cheyenne-river-sioux-tribe-of-the-cheyenne-river-reservation-south": [
+   {
+    "aiannhce": "0605",
+    "name": "Cheyenne River Reservation",
+    "geoids": [
+     "0605R",
+     "0605T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4266,
+    "status": "draft"
+   }
+  ],
+  "chickahominy-indian-tribe-eastern-division": [
+   {
+    "aiannhce": "8160",
+    "name": "Eastern Chickahominy TDSA",
+    "geoids": [
+     "8160R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "chickahominy-indian-tribe": [
+   {
+    "aiannhce": "8150",
+    "name": "Chickahominy TDSA",
+    "geoids": [
+     "8150R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 52,
+    "status": "draft"
+   }
+  ],
+  "chickaloon-native-village": [
+   {
+    "aiannhce": "6290",
+    "name": "Chickaloon ANVSA",
+    "geoids": [
+     "6290R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5955,
+    "status": "draft"
+   }
+  ],
+  "chicken-ranch-rancheria-of-me-wuk-indians-of-california": [
+   {
+    "aiannhce": "0620",
+    "name": "Chicken Ranch Rancheria",
+    "geoids": [
+     "0620R",
+     "0620T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "chignik-bay-tribal-council": [
+   {
+    "aiannhce": "6295",
+    "name": "Chignik ANVSA",
+    "geoids": [
+     "6295R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 11,
+    "status": "draft"
+   }
+  ],
+  "chignik-lake-village": [
+   {
+    "aiannhce": "6305",
+    "name": "Chignik Lake ANVSA",
+    "geoids": [
+     "6305R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 16,
+    "status": "draft"
+   }
+  ],
+  "chilkat-indian-village-klukwan": [
+   {
+    "aiannhce": "6310",
+    "name": "Chilkat ANVSA",
+    "geoids": [
+     "6310R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "chilkoot-indian-association-haines": [
+   {
+    "aiannhce": "6315",
+    "name": "Chilkoot ANVSA",
+    "geoids": [
+     "6315R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "chinik-eskimo-community-golovin": [
+   {
+    "aiannhce": "6540",
+    "name": "Golovin ANVSA",
+    "geoids": [
+     "6540R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "chippewa-cree-indians-of-the-rocky-boy-s-reservation-montana": [
+   {
+    "aiannhce": "3205",
+    "name": "Rocky Boy's Reservation",
+    "geoids": [
+     "3205R",
+     "3205T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 171,
+    "status": "draft"
+   }
+  ],
+  "chitimacha-tribe-of-louisiana": [
+   {
+    "aiannhce": "0635",
+    "name": "Chitimacha Reservation",
+    "geoids": [
+     "0635R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "chuloonawick-native-village": [
+   {
+    "aiannhce": "6480",
+    "name": "Emmonak ANVSA",
+    "geoids": [
+     "6480R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "circle-native-community": [
+   {
+    "aiannhce": "6350",
+    "name": "Circle ANVSA",
+    "geoids": [
+     "6350R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 106,
+    "status": "draft"
+   }
+  ],
+  "citizen-potawatomi-nation-oklahoma": [
+   {
+    "aiannhce": "5600",
+    "name": "Citizen Potawatomi Nation-Absentee Shawnee OTSA",
+    "geoids": [
+     "5600R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1117,
+    "status": "draft"
+   }
+  ],
+  "cocopah-tribe-of-arizona": [
+   {
+    "aiannhce": "0695",
+    "name": "Cocopah Reservation",
+    "geoids": [
+     "0695R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "coeur-d-alene-tribe": [
+   {
+    "aiannhce": "0705",
+    "name": "Coeur d'Alene Reservation",
+    "geoids": [
+     "0705R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 524,
+    "status": "draft"
+   }
+  ],
+  "cold-springs-rancheria-of-mono-indians-of-california": [
+   {
+    "aiannhce": "0720",
+    "name": "Cold Springs Rancheria",
+    "geoids": [
+     "0720R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "colorado-river-indian-tribes-of-the-colorado-river-indian-reservation": [
+   {
+    "aiannhce": "0735",
+    "name": "Colorado River Indian Reservation",
+    "geoids": [
+     "0735R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 457,
+    "status": "draft"
+   }
+  ],
+  "comanche-nation-oklahoma": [
+   {
+    "aiannhce": "5720",
+    "name": "Kiowa-Comanche-Apache-Fort Sill Apache OTSA",
+    "geoids": [
+     "5720R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6353,
+    "status": "draft"
+   }
+  ],
+  "confederated-salish-and-kootenai-tribes-of-the-flathead-reservation": [
+   {
+    "aiannhce": "1110",
+    "name": "Flathead Reservation",
+    "geoids": [
+     "1110R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1936,
+    "status": "draft"
+   }
+  ],
+  "confederated-tribes-and-bands-of-the-yakama-nation": [
+   {
+    "aiannhce": "4690",
+    "name": "Yakama Nation Reservation",
+    "geoids": [
+     "4690R",
+     "4690T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2186,
+    "status": "draft"
+   }
+  ],
+  "confederated-tribes-of-siletz-indians-of-oregon": [
+   {
+    "aiannhce": "3795",
+    "name": "Siletz Reservation",
+    "geoids": [
+     "3795R",
+     "3795T"
+    ],
+    "method": "name",
+    "land_sq_mi": 8,
+    "status": "draft"
+   }
+  ],
+  "confederated-tribes-of-the-chehalis-reservation": [
+   {
+    "aiannhce": "0575",
+    "name": "Chehalis Reservation",
+    "geoids": [
+     "0575R",
+     "0575T"
+    ],
+    "method": "name",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "confederated-tribes-of-the-colville-reservation": [
+   {
+    "aiannhce": "0760",
+    "name": "Colville Reservation",
+    "geoids": [
+     "0760R",
+     "0760T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2116,
+    "status": "draft"
+   }
+  ],
+  "confederated-tribes-of-the-coos-lower-umpqua-and-siuslaw-indians": [
+   {
+    "aiannhce": "0770",
+    "name": "Coos, Lower Umpqua, and Siuslaw Reservation",
+    "geoids": [
+     "0770R",
+     "0770T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "confederated-tribes-of-the-goshute-reservation-nevada-and-utah": [
+   {
+    "aiannhce": "1340",
+    "name": "Goshute Reservation",
+    "geoids": [
+     "1340R"
+    ],
+    "method": "name",
+    "land_sq_mi": 188,
+    "status": "draft"
+   }
+  ],
+  "confederated-tribes-of-the-grand-ronde-community-of-oregon": [
+   {
+    "aiannhce": "1365",
+    "name": "Grand Ronde Community",
+    "geoids": [
+     "1365R",
+     "1365T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 20,
+    "status": "draft"
+   }
+  ],
+  "confederated-tribes-of-the-umatilla-indian-reservation": [
+   {
+    "aiannhce": "4405",
+    "name": "Umatilla Reservation",
+    "geoids": [
+     "4405R",
+     "4405T"
+    ],
+    "method": "name",
+    "land_sq_mi": 294,
+    "status": "draft"
+   }
+  ],
+  "confederated-tribes-of-the-warm-springs-reservation-of-oregon": [
+   {
+    "aiannhce": "4545",
+    "name": "Warm Springs Reservation",
+    "geoids": [
+     "4545R",
+     "4545T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1019,
+    "status": "draft"
+   }
+  ],
+  "coquille-indian-tribe": [
+   {
+    "aiannhce": "0775",
+    "name": "Coquille Reservation",
+    "geoids": [
+     "0775R",
+     "0775T"
+    ],
+    "method": "name",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "coushatta-tribe-of-louisiana": [
+   {
+    "aiannhce": "0795",
+    "name": "Coushatta Reservation",
+    "geoids": [
+     "0795R",
+     "0795T"
+    ],
+    "method": "name",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "cow-creek-band-of-umpqua-tribe-of-indians": [
+   {
+    "aiannhce": "0815",
+    "name": "Cow Creek Reservation",
+    "geoids": [
+     "0815R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 36,
+    "status": "draft"
+   }
+  ],
+  "cowlitz-indian-tribe": [
+   {
+    "aiannhce": "0820",
+    "name": "Cowlitz Reservation",
+    "geoids": [
+     "0820R",
+     "0820T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "coyote-valley-band-of-pomo-indians-of-california": [
+   {
+    "aiannhce": "0825",
+    "name": "Coyote Valley Reservation",
+    "geoids": [
+     "0825R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "craig-tribal-association": [
+   {
+    "aiannhce": "6385",
+    "name": "Craig ANVSA",
+    "geoids": [
+     "6385R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 14,
+    "status": "draft"
+   }
+  ],
+  "crow-creek-sioux-tribe-of-the-crow-creek-reservation-south-dakota": [
+   {
+    "aiannhce": "0855",
+    "name": "Crow Creek Reservation",
+    "geoids": [
+     "0855R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 423,
+    "status": "draft"
+   }
+  ],
+  "crow-tribe-of-montana": [
+   {
+    "aiannhce": "0845",
+    "name": "Crow Reservation",
+    "geoids": [
+     "0845R",
+     "0845T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3596,
+    "status": "draft"
+   }
+  ],
+  "curyung-tribal-council": [
+   {
+    "aiannhce": "6405",
+    "name": "Dillingham ANVSA",
+    "geoids": [
+     "6405R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 71,
+    "status": "draft"
+   }
+  ],
+  "delaware-nation-oklahoma": [
+   {
+    "aiannhce": "5955",
+    "name": "Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware joint-use OTSA",
+    "geoids": [
+     "5955R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 193,
+    "status": "draft"
+   }
+  ],
+  "delaware-tribe-of-indians": [
+   {
+    "aiannhce": "5550",
+    "name": "Cherokee OTSA",
+    "geoids": [
+     "5550R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6694,
+    "status": "draft"
+   }
+  ],
+  "douglas-indian-association": [
+   {
+    "aiannhce": "6420",
+    "name": "Douglas ANVSA",
+    "geoids": [
+     "6420R"
+    ],
+    "method": "name",
+    "land_sq_mi": 77,
+    "status": "draft"
+   }
+  ],
+  "dry-creek-rancheria-band-of-pomo-indians-california": [
+   {
+    "aiannhce": "0955",
+    "name": "Dry Creek Rancheria",
+    "geoids": [
+     "0955R",
+     "0955T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "duckwater-shoshone-tribe": [
+   {
+    "aiannhce": "0975",
+    "name": "Duckwater Reservation",
+    "geoids": [
+     "0975R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "eastern-band-of-cherokee-indians": [
+   {
+    "aiannhce": "3015",
+    "name": "Qualla Boundary",
+    "geoids": [
+     "3015R",
+     "3015T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 83,
+    "status": "draft"
+   }
+  ],
+  "eastern-shawnee-tribe-of-oklahoma": [
+   {
+    "aiannhce": "5640",
+    "name": "Eastern Shawnee OTSA",
+    "geoids": [
+     "5640R"
+    ],
+    "method": "name",
+    "land_sq_mi": 20,
+    "status": "draft"
+   }
+  ],
+  "eastern-shoshone-tribe-of-the-wind-river-reservation-wyoming": [
+   {
+    "aiannhce": "4610",
+    "name": "Wind River Reservation",
+    "geoids": [
+     "4610R",
+     "4610T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3474,
+    "status": "draft"
+   }
+  ],
+  "egegik-village": [
+   {
+    "aiannhce": "6445",
+    "name": "Egegik ANVSA",
+    "geoids": [
+     "6445R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 29,
+    "status": "draft"
+   }
+  ],
+  "eklutna-native-village": [
+   {
+    "aiannhce": "6450",
+    "name": "Eklutna ANVSA",
+    "geoids": [
+     "6450R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "elem-indian-colony-of-pomo-indians-of-the-sulphur-bank-rancheria": [
+   {
+    "aiannhce": "4030",
+    "name": "Sulphur Bank Rancheria",
+    "geoids": [
+     "4030R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "elk-valley-rancheria-california": [
+   {
+    "aiannhce": "1010",
+    "name": "Elk Valley Rancheria",
+    "geoids": [
+     "1010R",
+     "1010T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "ely-shoshone-tribe-of-nevada": [
+   {
+    "aiannhce": "1040",
+    "name": "Ely Reservation",
+    "geoids": [
+     "1040R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "emmonak-village": [
+   {
+    "aiannhce": "6480",
+    "name": "Emmonak ANVSA",
+    "geoids": [
+     "6480R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "enterprise-rancheria-of-maidu-indians-of-california": [
+   {
+    "aiannhce": "1055",
+    "name": "Enterprise Rancheria",
+    "geoids": [
+     "1055R",
+     "1055T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "evansville-village-aka-bettles-field": [
+   {
+    "aiannhce": "6490",
+    "name": "Evansville ANVSA",
+    "geoids": [
+     "6490R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "ewiiaapaayp-band-of-kumeyaay-indians": [
+   {
+    "aiannhce": "1065",
+    "name": "Ewiiaapaayp Reservation",
+    "geoids": [
+     "1065R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 9,
+    "status": "draft"
+   }
+  ],
+  "flandreau-santee-sioux-tribe-of-south-dakota": [
+   {
+    "aiannhce": "1100",
+    "name": "Flandreau Reservation",
+    "geoids": [
+     "1100R"
+    ],
+    "method": "name",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "forest-county-potawatomi-community-wisconsin": [
+   {
+    "aiannhce": "1135",
+    "name": "Forest County Potawatomi Community",
+    "geoids": [
+     "1135R",
+     "1135T"
+    ],
+    "method": "name",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "fort-belknap-indian-community-of-the-fort-belknap-reservation-of": [
+   {
+    "aiannhce": "1150",
+    "name": "Fort Belknap Reservation",
+    "geoids": [
+     "1150R",
+     "1150T"
+    ],
+    "method": "name",
+    "land_sq_mi": 1015,
+    "status": "draft"
+   }
+  ],
+  "fort-bidwell-indian-community-of-the-fort-bidwell-reservation-of": [
+   {
+    "aiannhce": "1170",
+    "name": "Fort Bidwell Reservation",
+    "geoids": [
+     "1170R",
+     "1170T"
+    ],
+    "method": "name",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "fort-independence-indian-community-of-paiute-indians-of-the-fort": [
+   {
+    "aiannhce": "1195",
+    "name": "Fort Independence Reservation",
+    "geoids": [
+     "1195R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "fort-mcdermitt-paiute-and-shoshone-tribes-of-the-fort-mcdermitt": [
+   {
+    "aiannhce": "1210",
+    "name": "Fort McDermitt Indian Reservation",
+    "geoids": [
+     "1210R"
+    ],
+    "method": "name",
+    "land_sq_mi": 54,
+    "status": "draft"
+   }
+  ],
+  "fort-mcdowell-yavapai-nation-arizona": [
+   {
+    "aiannhce": "1220",
+    "name": "Fort McDowell Yavapai Nation Reservation",
+    "geoids": [
+     "1220R"
+    ],
+    "method": "name",
+    "land_sq_mi": 39,
+    "status": "draft"
+   }
+  ],
+  "fort-mojave-indian-tribe-of-arizona-california-and-nevada": [
+   {
+    "aiannhce": "1235",
+    "name": "Fort Mojave Reservation",
+    "geoids": [
+     "1235R",
+     "1235T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 52,
+    "status": "draft"
+   }
+  ],
+  "fort-sill-chiricahua-warm-springs-apache-tribe": [
+   {
+    "aiannhce": "5720",
+    "name": "Kiowa-Comanche-Apache-Fort Sill Apache OTSA",
+    "geoids": [
+     "5720R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6353,
+    "status": "draft"
+   }
+  ],
+  "gila-river-indian-community-of-the-gila-river-indian-reservation": [
+   {
+    "aiannhce": "1310",
+    "name": "Gila River Indian Reservation",
+    "geoids": [
+     "1310R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 583,
+    "status": "draft"
+   }
+  ],
+  "grand-traverse-band-of-ottawa-and-chippewa-indians-michigan": [
+   {
+    "aiannhce": "1370",
+    "name": "Grand Traverse Reservation",
+    "geoids": [
+     "1370R",
+     "1370T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "greenville-rancheria": [
+   {
+    "aiannhce": "1380",
+    "name": "Greenville Rancheria",
+    "geoids": [
+     "1380R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "grindstone-indian-rancheria-of-wintun-wailaki-indians-of-california": [
+   {
+    "aiannhce": "1395",
+    "name": "Grindstone Indian Rancheria",
+    "geoids": [
+     "1395R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "guidiville-rancheria-of-california": [
+   {
+    "aiannhce": "1400",
+    "name": "Guidiville Rancheria",
+    "geoids": [
+     "1400R",
+     "1400T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "gulkana-village-council": [
+   {
+    "aiannhce": "6560",
+    "name": "Gulkana ANVSA",
+    "geoids": [
+     "6560R"
+    ],
+    "method": "name",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "habematolel-pomo-of-upper-lake-california": [
+   {
+    "aiannhce": "4430",
+    "name": "Upper Lake Rancheria",
+    "geoids": [
+     "4430R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "hannahville-indian-community-michigan": [
+   {
+    "aiannhce": "1410",
+    "name": "Hannahville Indian Community",
+    "geoids": [
+     "1410R",
+     "1410T"
+    ],
+    "method": "name",
+    "land_sq_mi": 9,
+    "status": "draft"
+   }
+  ],
+  "havasupai-tribe-of-the-havasupai-reservation-arizona": [
+   {
+    "aiannhce": "1440",
+    "name": "Havasupai Reservation",
+    "geoids": [
+     "1440R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 276,
+    "status": "draft"
+   }
+  ],
+  "healy-lake-village": [
+   {
+    "aiannhce": "6415",
+    "name": "Dot Lake ANVSA",
+    "geoids": [
+     "6415R"
+    ],
+    "method": "name",
+    "land_sq_mi": 4,
+    "status": "draft"
+   },
+   {
+    "aiannhce": "6575",
+    "name": "Healy Lake ANVSA",
+    "geoids": [
+     "6575R"
+    ],
+    "method": "name",
+    "land_sq_mi": 47,
+    "status": "draft"
+   }
+  ],
+  "ho-chunk-nation-of-wisconsin": [
+   {
+    "aiannhce": "1450",
+    "name": "Ho-Chunk Nation Reservation",
+    "geoids": [
+     "1450R",
+     "1450T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 17,
+    "status": "draft"
+   }
+  ],
+  "holy-cross-tribe": [
+   {
+    "aiannhce": "6585",
+    "name": "Holy Cross ANVSA",
+    "geoids": [
+     "6585R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 29,
+    "status": "draft"
+   }
+  ],
+  "hoonah-indian-association": [
+   {
+    "aiannhce": "6590",
+    "name": "Hoonah ANVSA",
+    "geoids": [
+     "6590R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "hoopa-valley-tribe-california": [
+   {
+    "aiannhce": "1490",
+    "name": "Hoopa Valley Reservation",
+    "geoids": [
+     "1490R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 141,
+    "status": "draft"
+   }
+  ],
+  "hopi-tribe-of-arizona": [
+   {
+    "aiannhce": "2430",
+    "name": "Navajo Nation Reservation",
+    "geoids": [
+     "2430R",
+     "2430T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 24422,
+    "status": "draft"
+   }
+  ],
+  "hopland-band-of-pomo-indians-california": [
+   {
+    "aiannhce": "1515",
+    "name": "Hopland Rancheria",
+    "geoids": [
+     "1515R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "houlton-band-of-maliseet-indians": [
+   {
+    "aiannhce": "1530",
+    "name": "Houlton Maliseet Reservation",
+    "geoids": [
+     "1530R",
+     "1530T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "hualapai-indian-tribe-of-the-hualapai-indian-reservation-arizona": [
+   {
+    "aiannhce": "1545",
+    "name": "Hualapai Indian Reservation",
+    "geoids": [
+     "1545R",
+     "1545T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1603,
+    "status": "draft"
+   }
+  ],
+  "hughes-village": [
+   {
+    "aiannhce": "6605",
+    "name": "Hughes ANVSA",
+    "geoids": [
+     "6605R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "huslia-village": [
+   {
+    "aiannhce": "6610",
+    "name": "Huslia ANVSA",
+    "geoids": [
+     "6610R"
+    ],
+    "method": "name",
+    "land_sq_mi": 31,
+    "status": "draft"
+   }
+  ],
+  "hydaburg-cooperative-association": [
+   {
+    "aiannhce": "6615",
+    "name": "Hydaburg ANVSA",
+    "geoids": [
+     "6615R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "igiugig-village": [
+   {
+    "aiannhce": "6620",
+    "name": "Igiugig ANVSA",
+    "geoids": [
+     "6620R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 21,
+    "status": "draft"
+   }
+  ],
+  "iipay-nation-of-santa-ysabel-california": [
+   {
+    "aiannhce": "3550",
+    "name": "Santa Ysabel Reservation",
+    "geoids": [
+     "3550R"
+    ],
+    "method": "name",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "inaja-band-of-diegueno-mission-indians-of-the-inaja-and-cosmit": [
+   {
+    "aiannhce": "1560",
+    "name": "Inaja and Cosmit Reservation",
+    "geoids": [
+     "1560R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "inupiat-community-of-the-arctic-slope": [
+   {
+    "aiannhce": "6175",
+    "name": "Barrow ANVSA",
+    "geoids": [
+     "6175R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 19,
+    "status": "draft"
+   }
+  ],
+  "ione-band-of-miwok-indians-of-california": [
+   {
+    "aiannhce": "8300",
+    "name": "Ione Band of Miwok TDSA",
+    "geoids": [
+     "8300R"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "iowa-tribe-of-kansas-and-nebraska": [
+   {
+    "aiannhce": "1590",
+    "name": "Iowa (KS-NE) Reservation",
+    "geoids": [
+     "1590R",
+     "1590T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 20,
+    "status": "draft"
+   }
+  ],
+  "iowa-tribe-of-oklahoma": [
+   {
+    "aiannhce": "5670",
+    "name": "Iowa OTSA",
+    "geoids": [
+     "5670R"
+    ],
+    "method": "name",
+    "land_sq_mi": 357,
+    "status": "draft"
+   }
+  ],
+  "iqugmiut-traditional-council": [
+   {
+    "aiannhce": "7315",
+    "name": "Russian Mission ANVSA",
+    "geoids": [
+     "7315R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "jackson-band-of-miwuk-indians": [
+   {
+    "aiannhce": "1640",
+    "name": "Jackson Rancheria",
+    "geoids": [
+     "1640R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "jamestown-s-klallam-tribe": [
+   {
+    "aiannhce": "1655",
+    "name": "Jamestown S'Klallam Reservation",
+    "geoids": [
+     "1655R",
+     "1655T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "jamul-indian-village-of-california": [
+   {
+    "aiannhce": "1670",
+    "name": "Jamul Indian Village",
+    "geoids": [
+     "1670R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "jena-band-of-choctaw-indians": [
+   {
+    "aiannhce": "1690",
+    "name": "Jena Band of Choctaw Reservation",
+    "geoids": [
+     "1690R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "jicarilla-apache-nation-new-mexico": [
+   {
+    "aiannhce": "1700",
+    "name": "Jicarilla Apache Nation Reservation",
+    "geoids": [
+     "1700R",
+     "1700T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1372,
+    "status": "draft"
+   }
+  ],
+  "kaguyak-village": [
+   {
+    "aiannhce": "6015",
+    "name": "Akhiok ANVSA",
+    "geoids": [
+     "6015R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "kaibab-band-of-paiute-indians-of-the-kaibab-indian-reservation-arizona": [
+   {
+    "aiannhce": "1720",
+    "name": "Kaibab Indian Reservation",
+    "geoids": [
+     "1720R"
+    ],
+    "method": "name",
+    "land_sq_mi": 189,
+    "status": "draft"
+   }
+  ],
+  "kaktovik-village-aka-barter-island": [
+   {
+    "aiannhce": "6680",
+    "name": "Kaktovik ANVSA",
+    "geoids": [
+     "6680R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "kalispel-indian-community-of-the-kalispel-reservation": [
+   {
+    "aiannhce": "1735",
+    "name": "Kalispel Reservation",
+    "geoids": [
+     "1735R",
+     "1735T"
+    ],
+    "method": "name",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "karuk-tribe": [
+   {
+    "aiannhce": "1750",
+    "name": "Karuk Reservation",
+    "geoids": [
+     "1750R",
+     "1750T"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "kashia-band-of-pomo-indians-of-the-stewarts-point-rancheria-california": [
+   {
+    "aiannhce": "3985",
+    "name": "Stewarts Point Rancheria",
+    "geoids": [
+     "3985R",
+     "3985T"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "kasigluk-traditional-elders-council": [
+   {
+    "aiannhce": "6710",
+    "name": "Kasigluk ANVSA",
+    "geoids": [
+     "6710R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "kaw-nation-oklahoma": [
+   {
+    "aiannhce": "5690",
+    "name": "Kaw OTSA",
+    "geoids": [
+     "5690R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 476,
+    "status": "draft"
+   }
+  ],
+  "kenaitze-indian-tribe": [
+   {
+    "aiannhce": "6720",
+    "name": "Kenaitze ANVSA",
+    "geoids": [
+     "6720R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1959,
+    "status": "draft"
+   }
+  ],
+  "ketchikan-indian-community": [
+   {
+    "aiannhce": "6725",
+    "name": "Ketchikan ANVSA",
+    "geoids": [
+     "6725R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 22,
+    "status": "draft"
+   }
+  ],
+  "keweenaw-bay-indian-community-michigan": [
+   {
+    "aiannhce": "1880",
+    "name": "L'Anse Reservation",
+    "geoids": [
+     "1880R",
+     "1880T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 92,
+    "status": "draft"
+   }
+  ],
+  "kialegee-tribal-town": [
+   {
+    "aiannhce": "5620",
+    "name": "Creek OTSA",
+    "geoids": [
+     "5620R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4629,
+    "status": "draft"
+   }
+  ],
+  "kickapoo-traditional-tribe-of-texas": [
+   {
+    "aiannhce": "1775",
+    "name": "Kickapoo (TX) Reservation",
+    "geoids": [
+     "1775R",
+     "1775T"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "kickapoo-tribe-of-indians-of-the-kickapoo-reservation-in-kansas": [
+   {
+    "aiannhce": "1770",
+    "name": "Kickapoo (KS) Reservation",
+    "geoids": [
+     "1770R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 236,
+    "status": "draft"
+   }
+  ],
+  "kickapoo-tribe-of-oklahoma": [
+   {
+    "aiannhce": "5600",
+    "name": "Citizen Potawatomi Nation-Absentee Shawnee OTSA",
+    "geoids": [
+     "5600R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1117,
+    "status": "draft"
+   }
+  ],
+  "king-island-native-community": [
+   {
+    "aiannhce": "7095",
+    "name": "Nome ANVSA",
+    "geoids": [
+     "7095R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 124,
+    "status": "draft"
+   }
+  ],
+  "king-salmon-tribe": [
+   {
+    "aiannhce": "6740",
+    "name": "King Salmon ANVSA",
+    "geoids": [
+     "6740R"
+    ],
+    "method": "name",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "kiowa-tribe": [
+   {
+    "aiannhce": "5955",
+    "name": "Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware joint-use OTSA",
+    "geoids": [
+     "5955R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 193,
+    "status": "draft"
+   }
+  ],
+  "klamath-tribes": [
+   {
+    "aiannhce": "1785",
+    "name": "Klamath Reservation",
+    "geoids": [
+     "1785R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "klawock-cooperative-association": [
+   {
+    "aiannhce": "6765",
+    "name": "Klawock ANVSA",
+    "geoids": [
+     "6765R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "kletsel-dehe-wintun-nation-of-the-cortina-rancheria": [
+   {
+    "aiannhce": "0780",
+    "name": "Cortina Indian Rancheria",
+    "geoids": [
+     "0780R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "knik-tribe": [
+   {
+    "aiannhce": "6785",
+    "name": "Knik ANVSA",
+    "geoids": [
+     "6785R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6985,
+    "status": "draft"
+   }
+  ],
+  "kokhanok-village": [
+   {
+    "aiannhce": "6800",
+    "name": "Kokhanok ANVSA",
+    "geoids": [
+     "6800R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 21,
+    "status": "draft"
+   }
+  ],
+  "kootenai-tribe-of-idaho": [
+   {
+    "aiannhce": "1800",
+    "name": "Kootenai Reservation",
+    "geoids": [
+     "1800R",
+     "1800T"
+    ],
+    "method": "name",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "koyukuk-native-village": [
+   {
+    "aiannhce": "6830",
+    "name": "Koyukuk ANVSA",
+    "geoids": [
+     "6830R"
+    ],
+    "method": "name",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "la-jolla-band-of-luiseno-indians-california": [
+   {
+    "aiannhce": "1850",
+    "name": "La Jolla Reservation",
+    "geoids": [
+     "1850R",
+     "1850T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 14,
+    "status": "draft"
+   }
+  ],
+  "la-posta-band-of-diegueno-mission-indians-of-the-la-posta-indian": [
+   {
+    "aiannhce": "0450",
+    "name": "Campo Indian Reservation",
+    "geoids": [
+     "0450R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 26,
+    "status": "draft"
+   }
+  ],
+  "lac-courte-oreilles-band-of-lake-superior-chippewa-indians-of": [
+   {
+    "aiannhce": "1815",
+    "name": "Lac Courte Oreilles Reservation",
+    "geoids": [
+     "1815R",
+     "1815T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 108,
+    "status": "draft"
+   }
+  ],
+  "lac-du-flambeau-band-of-lake-superior-chippewa-indians-of-the-lac-du": [
+   {
+    "aiannhce": "1825",
+    "name": "Lac du Flambeau Reservation",
+    "geoids": [
+     "1825R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 107,
+    "status": "draft"
+   }
+  ],
+  "lac-vieux-desert-band-of-lake-superior-chippewa-indians-of-michigan": [
+   {
+    "aiannhce": "1830",
+    "name": "Lac Vieux Desert Reservation",
+    "geoids": [
+     "1830R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "las-vegas-tribe-of-paiute-indians-of-the-las-vegas-indian-colony": [
+   {
+    "aiannhce": "1915",
+    "name": "Las Vegas Indian Colony",
+    "geoids": [
+     "1915R"
+    ],
+    "method": "name",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "levelock-village": [
+   {
+    "aiannhce": "6865",
+    "name": "Levelock ANVSA",
+    "geoids": [
+     "6865R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 17,
+    "status": "draft"
+   }
+  ],
+  "lime-village": [
+   {
+    "aiannhce": "6895",
+    "name": "McGrath ANVSA",
+    "geoids": [
+     "6895R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 43,
+    "status": "draft"
+   }
+  ],
+  "little-river-band-of-ottawa-indians-michigan": [
+   {
+    "aiannhce": "1960",
+    "name": "Little River Reservation",
+    "geoids": [
+     "1960R",
+     "1960T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "little-traverse-bay-bands-of-odawa-indians-michigan": [
+   {
+    "aiannhce": "1963",
+    "name": "Little Traverse Bay Reservation",
+    "geoids": [
+     "1963R",
+     "1963T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "lone-pine-paiute-shoshone-tribe": [
+   {
+    "aiannhce": "1970",
+    "name": "Lone Pine Reservation",
+    "geoids": [
+     "1970R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   },
+   {
+    "aiannhce": "0250",
+    "name": "Big Pine Reservation",
+    "geoids": [
+     "0250R",
+     "0250T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "los-coyotes-band-of-cahuilla-and-cupeno-indians-california": [
+   {
+    "aiannhce": "1995",
+    "name": "Los Coyotes Reservation",
+    "geoids": [
+     "1995R"
+    ],
+    "method": "name",
+    "land_sq_mi": 39,
+    "status": "draft"
+   }
+  ],
+  "louden-tribe": [
+   {
+    "aiannhce": "6525",
+    "name": "Galena ANVSA",
+    "geoids": [
+     "6525R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 17,
+    "status": "draft"
+   }
+  ],
+  "lovelock-paiute-tribe-of-the-lovelock-indian-colony-nevada": [
+   {
+    "aiannhce": "2015",
+    "name": "Lovelock Indian Colony",
+    "geoids": [
+     "2015R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "lower-brule-sioux-tribe-of-the-lower-brule-reservation-south-dakota": [
+   {
+    "aiannhce": "2030",
+    "name": "Lower Brule Reservation",
+    "geoids": [
+     "2030R",
+     "2030T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 343,
+    "status": "draft"
+   }
+  ],
+  "lower-elwha-tribal-community": [
+   {
+    "aiannhce": "2040",
+    "name": "Lower Elwha Reservation",
+    "geoids": [
+     "2040R",
+     "2040T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "lower-sioux-indian-community-in-the-state-of-minnesota": [
+   {
+    "aiannhce": "2055",
+    "name": "Lower Sioux Indian Community",
+    "geoids": [
+     "2055R",
+     "2055T"
+    ],
+    "method": "name",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "lummi-tribe-of-the-lummi-reservation": [
+   {
+    "aiannhce": "2070",
+    "name": "Lummi Reservation",
+    "geoids": [
+     "2070R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 21,
+    "status": "draft"
+   }
+  ],
+  "lytton-rancheria-of-california": [
+   {
+    "aiannhce": "2075",
+    "name": "Lytton Rancheria",
+    "geoids": [
+     "2075R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "makah-indian-tribe-of-the-makah-indian-reservation": [
+   {
+    "aiannhce": "2085",
+    "name": "Makah Indian Reservation",
+    "geoids": [
+     "2085R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 47,
+    "status": "draft"
+   }
+  ],
+  "manley-hot-springs-village": [
+   {
+    "aiannhce": "6900",
+    "name": "Manley Hot Springs ANVSA",
+    "geoids": [
+     "6900R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 15,
+    "status": "draft"
+   }
+  ],
+  "manokotak-village": [
+   {
+    "aiannhce": "6905",
+    "name": "Manokotak ANVSA",
+    "geoids": [
+     "6905R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 36,
+    "status": "draft"
+   }
+  ],
+  "manzanita-band-of-diegueno-mission-indians-of-the-manzanita": [
+   {
+    "aiannhce": "2115",
+    "name": "Manzanita Reservation",
+    "geoids": [
+     "2115R",
+     "2115T"
+    ],
+    "method": "name",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "mashantucket-pequot-indian-tribe": [
+   {
+    "aiannhce": "2145",
+    "name": "Mashantucket Pequot Reservation",
+    "geoids": [
+     "2145R",
+     "2145T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "mashpee-wampanoag-tribe": [
+   {
+    "aiannhce": "2147",
+    "name": "Mashpee Wampanoag Trust Land",
+    "geoids": [
+     "2147T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "match-e-be-nash-she-wish-band-of-pottawatomi": [
+   {
+    "aiannhce": "2150",
+    "name": "Match-e-be-nash-she-wish Band of Pottawatomi Reservation",
+    "geoids": [
+     "2150R",
+     "2150T"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "mcgrath-native-village": [
+   {
+    "aiannhce": "6895",
+    "name": "McGrath ANVSA",
+    "geoids": [
+     "6895R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 43,
+    "status": "draft"
+   }
+  ],
+  "mechoopda-indian-tribe-of-chico-rancheria-california": [
+   {
+    "aiannhce": "8450",
+    "name": "Mechoopda TDSA",
+    "geoids": [
+     "8450R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "menominee-indian-tribe-of-wisconsin": [
+   {
+    "aiannhce": "2175",
+    "name": "Menominee Reservation",
+    "geoids": [
+     "2175R",
+     "2175T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 355,
+    "status": "draft"
+   }
+  ],
+  "mesa-grande-band-of-diegueno-mission-indians-of-the-mesa-grande": [
+   {
+    "aiannhce": "2190",
+    "name": "Mesa Grande Reservation",
+    "geoids": [
+     "2190R"
+    ],
+    "method": "name",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "mescalero-apache-tribe-of-the-mescalero-reservation-new-mexico": [
+   {
+    "aiannhce": "2205",
+    "name": "Mescalero Reservation",
+    "geoids": [
+     "2205R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 719,
+    "status": "draft"
+   }
+  ],
+  "metlakatla-indian-community-annette-island-reserve": [
+   {
+    "aiannhce": "0110",
+    "name": "Annette Island Reserve",
+    "geoids": [
+     "0110R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 133,
+    "status": "draft"
+   }
+  ],
+  "mi-kmaq-nation": [
+   {
+    "aiannhce": "0115",
+    "name": "Aroostook Band of Micmac Trust Land",
+    "geoids": [
+     "0115T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "miami-tribe-of-oklahoma": [
+   {
+    "aiannhce": "5770",
+    "name": "Ottawa OTSA",
+    "geoids": [
+     "5770R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "miccosukee-tribe-of-indians": [
+   {
+    "aiannhce": "2240",
+    "name": "Miccosukee Reservation",
+    "geoids": [
+     "2240R",
+     "2240T"
+    ],
+    "method": "name",
+    "land_sq_mi": 127,
+    "status": "draft"
+   }
+  ],
+  "middletown-rancheria-of-pomo-indians-of-california": [
+   {
+    "aiannhce": "2255",
+    "name": "Middletown Rancheria",
+    "geoids": [
+     "2255R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "minnesota-chippewa-tribe-minnesota": [
+   {
+    "aiannhce": "1940",
+    "name": "Leech Lake Reservation",
+    "geoids": [
+     "1940R",
+     "1940T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 973,
+    "status": "draft"
+   }
+  ],
+  "mississippi-band-of-choctaw-indians": [
+   {
+    "aiannhce": "2300",
+    "name": "Mississippi Choctaw Reservation",
+    "geoids": [
+     "2300R",
+     "2300T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 54,
+    "status": "draft"
+   }
+  ],
+  "moapa-band-of-paiute-indians-of-the-moapa-river-indian-reservation": [
+   {
+    "aiannhce": "2315",
+    "name": "Moapa River Indian Reservation",
+    "geoids": [
+     "2315R"
+    ],
+    "method": "name",
+    "land_sq_mi": 111,
+    "status": "draft"
+   }
+  ],
+  "modoc-nation": [
+   {
+    "aiannhce": "5770",
+    "name": "Ottawa OTSA",
+    "geoids": [
+     "5770R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "mohegan-tribe-of-indians-of-connecticut": [
+   {
+    "aiannhce": "2320",
+    "name": "Mohegan Reservation",
+    "geoids": [
+     "2320R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "mooretown-rancheria-of-maidu-indians-of-california": [
+   {
+    "aiannhce": "2340",
+    "name": "Mooretown Rancheria",
+    "geoids": [
+     "2340R",
+     "2340T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "morongo-band-of-mission-indians-california": [
+   {
+    "aiannhce": "2360",
+    "name": "Morongo Reservation",
+    "geoids": [
+     "2360R",
+     "2360T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 54,
+    "status": "draft"
+   }
+  ],
+  "muckleshoot-indian-tribe": [
+   {
+    "aiannhce": "2375",
+    "name": "Muckleshoot Reservation",
+    "geoids": [
+     "2375R",
+     "2375T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "naknek-native-village": [
+   {
+    "aiannhce": "6990",
+    "name": "Naknek ANVSA",
+    "geoids": [
+     "6990R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 81,
+    "status": "draft"
+   }
+  ],
+  "narragansett-indian-tribe": [
+   {
+    "aiannhce": "2415",
+    "name": "Narragansett Reservation",
+    "geoids": [
+     "2415R"
+    ],
+    "method": "name",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-akhiok": [
+   {
+    "aiannhce": "6015",
+    "name": "Akhiok ANVSA",
+    "geoids": [
+     "6015R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-akutan": [
+   {
+    "aiannhce": "6030",
+    "name": "Akutan ANVSA",
+    "geoids": [
+     "6030R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-aleknagik": [
+   {
+    "aiannhce": "6045",
+    "name": "Aleknagik ANVSA",
+    "geoids": [
+     "6045R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 13,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-ambler": [
+   {
+    "aiannhce": "6075",
+    "name": "Ambler ANVSA",
+    "geoids": [
+     "6075R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-atka": [
+   {
+    "aiannhce": "6150",
+    "name": "Atka ANVSA",
+    "geoids": [
+     "6150R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 8,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-atqasuk": [
+   {
+    "aiannhce": "6165",
+    "name": "Atqasuk ANVSA",
+    "geoids": [
+     "6165R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 39,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-barrow-inupiat-traditional-government": [
+   {
+    "aiannhce": "6175",
+    "name": "Barrow ANVSA",
+    "geoids": [
+     "6175R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 19,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-belkofski": [
+   {
+    "aiannhce": "6735",
+    "name": "King Cove ANVSA",
+    "geoids": [
+     "6735R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-brevig-mission": [
+   {
+    "aiannhce": "6240",
+    "name": "Brevig Mission ANVSA",
+    "geoids": [
+     "6240R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-buckland": [
+   {
+    "aiannhce": "6250",
+    "name": "Buckland ANVSA",
+    "geoids": [
+     "6250R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-cantwell": [
+   {
+    "aiannhce": "6255",
+    "name": "Cantwell ANVSA",
+    "geoids": [
+     "6255R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 101,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-chignik-lagoon": [
+   {
+    "aiannhce": "6300",
+    "name": "Chignik Lagoon ANVSA",
+    "geoids": [
+     "6300R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 13,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-chitina": [
+   {
+    "aiannhce": "6330",
+    "name": "Chitina ANVSA",
+    "geoids": [
+     "6330R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 119,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-chuathbaluk": [
+   {
+    "aiannhce": "6335",
+    "name": "Chuathbaluk ANVSA",
+    "geoids": [
+     "6335R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-council": [
+   {
+    "aiannhce": "7095",
+    "name": "Nome ANVSA",
+    "geoids": [
+     "7095R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 124,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-deering": [
+   {
+    "aiannhce": "6400",
+    "name": "Deering ANVSA",
+    "geoids": [
+     "6400R"
+    ],
+    "method": "name",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-diomede-aka-inalik": [
+   {
+    "aiannhce": "6630",
+    "name": "Inalik ANVSA",
+    "geoids": [
+     "6630R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-eagle": [
+   {
+    "aiannhce": "6430",
+    "name": "Eagle ANVSA",
+    "geoids": [
+     "6430R"
+    ],
+    "method": "name",
+    "land_sq_mi": 17,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-eek": [
+   {
+    "aiannhce": "6440",
+    "name": "Eek ANVSA",
+    "geoids": [
+     "6440R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-ekuk": [
+   {
+    "aiannhce": "6405",
+    "name": "Dillingham ANVSA",
+    "geoids": [
+     "6405R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 71,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-ekwok": [
+   {
+    "aiannhce": "6460",
+    "name": "Ekwok ANVSA",
+    "geoids": [
+     "6460R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 17,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-elim": [
+   {
+    "aiannhce": "6470",
+    "name": "Elim ANVSA",
+    "geoids": [
+     "6470R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 303,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-eyak-cordova": [
+   {
+    "aiannhce": "6495",
+    "name": "Eyak ANVSA",
+    "geoids": [
+     "6495R"
+    ],
+    "method": "name",
+    "land_sq_mi": 14,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-false-pass": [
+   {
+    "aiannhce": "6500",
+    "name": "False Pass ANVSA",
+    "geoids": [
+     "6500R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-fort-yukon": [
+   {
+    "aiannhce": "6515",
+    "name": "Fort Yukon ANVSA",
+    "geoids": [
+     "6515R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-gakona": [
+   {
+    "aiannhce": "6520",
+    "name": "Gakona ANVSA",
+    "geoids": [
+     "6520R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 37,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-gambell": [
+   {
+    "aiannhce": "6530",
+    "name": "Gambell ANVSA",
+    "geoids": [
+     "6530R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 11,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-goodnews-bay": [
+   {
+    "aiannhce": "6545",
+    "name": "Goodnews Bay ANVSA",
+    "geoids": [
+     "6545R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-hamilton": [
+   {
+    "aiannhce": "6815",
+    "name": "Kotlik ANVSA",
+    "geoids": [
+     "6815R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-hooper-bay": [
+   {
+    "aiannhce": "6595",
+    "name": "Hooper Bay ANVSA",
+    "geoids": [
+     "6595R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kanatak": [
+   {
+    "aiannhce": "6785",
+    "name": "Knik ANVSA",
+    "geoids": [
+     "6785R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6985,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-karluk": [
+   {
+    "aiannhce": "6700",
+    "name": "Karluk ANVSA",
+    "geoids": [
+     "6700R"
+    ],
+    "method": "name",
+    "land_sq_mi": 25,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kiana": [
+   {
+    "aiannhce": "6730",
+    "name": "Kiana ANVSA",
+    "geoids": [
+     "6730R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kipnuk": [
+   {
+    "aiannhce": "6750",
+    "name": "Kipnuk ANVSA",
+    "geoids": [
+     "6750R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 20,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kivalina": [
+   {
+    "aiannhce": "6755",
+    "name": "Kivalina ANVSA",
+    "geoids": [
+     "6755R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kluti-kaah-aka-copper-center": [
+   {
+    "aiannhce": "6365",
+    "name": "Copper Center ANVSA",
+    "geoids": [
+     "6365R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 15,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kobuk": [
+   {
+    "aiannhce": "6790",
+    "name": "Kobuk ANVSA",
+    "geoids": [
+     "6790R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 15,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kongiganak": [
+   {
+    "aiannhce": "6810",
+    "name": "Kongiganak ANVSA",
+    "geoids": [
+     "6810R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 13,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kotzebue": [
+   {
+    "aiannhce": "6820",
+    "name": "Kotzebue ANVSA",
+    "geoids": [
+     "6820R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 24,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-koyuk": [
+   {
+    "aiannhce": "6825",
+    "name": "Koyuk ANVSA",
+    "geoids": [
+     "6825R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kwigillingok": [
+   {
+    "aiannhce": "6840",
+    "name": "Kwigillingok ANVSA",
+    "geoids": [
+     "6840R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 24,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-kwinhagak-aka-quinhagak": [
+   {
+    "aiannhce": "6845",
+    "name": "Kwinhagak ANVSA",
+    "geoids": [
+     "6845R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-larsen-bay": [
+   {
+    "aiannhce": "6855",
+    "name": "Larsen Bay ANVSA",
+    "geoids": [
+     "6855R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-marshall-aka-fortuna-ledge": [
+   {
+    "aiannhce": "6910",
+    "name": "Marshall ANVSA",
+    "geoids": [
+     "6910R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-mary-s-igloo": [
+   {
+    "aiannhce": "7570",
+    "name": "Teller ANVSA",
+    "geoids": [
+     "7570R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-mekoryuk": [
+   {
+    "aiannhce": "6935",
+    "name": "Mekoryuk ANVSA",
+    "geoids": [
+     "6935R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-minto": [
+   {
+    "aiannhce": "6965",
+    "name": "Minto ANVSA",
+    "geoids": [
+     "6965R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-nanwalek-aka-english-bay": [
+   {
+    "aiannhce": "6995",
+    "name": "Nanwalek ANVSA",
+    "geoids": [
+     "6995R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 8,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-napaimute": [
+   {
+    "aiannhce": "6205",
+    "name": "Bethel ANVSA",
+    "geoids": [
+     "6205R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 45,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-napakiak": [
+   {
+    "aiannhce": "7010",
+    "name": "Napakiak ANVSA",
+    "geoids": [
+     "7010R"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-napaskiak": [
+   {
+    "aiannhce": "7020",
+    "name": "Napaskiak ANVSA",
+    "geoids": [
+     "7020R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-nelson-lagoon": [
+   {
+    "aiannhce": "7025",
+    "name": "Nelson Lagoon ANVSA",
+    "geoids": [
+     "7025R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-nightmute": [
+   {
+    "aiannhce": "7065",
+    "name": "Nightmute ANVSA",
+    "geoids": [
+     "7065R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-nikolski": [
+   {
+    "aiannhce": "7075",
+    "name": "Nikolski ANVSA",
+    "geoids": [
+     "7075R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 19,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-noatak": [
+   {
+    "aiannhce": "7085",
+    "name": "Noatak ANVSA",
+    "geoids": [
+     "7085R"
+    ],
+    "method": "name",
+    "land_sq_mi": 16,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-nuiqsut-aka-nooiksut": [
+   {
+    "aiannhce": "7125",
+    "name": "Nuiqsut ANVSA",
+    "geoids": [
+     "7125R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 9,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-nunam-iqua": [
+   {
+    "aiannhce": "7133",
+    "name": "Nunam Iqua ANVSA",
+    "geoids": [
+     "7133R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-nunapitchuk": [
+   {
+    "aiannhce": "7135",
+    "name": "Nunapitchuk ANVSA",
+    "geoids": [
+     "7135R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-ouzinkie": [
+   {
+    "aiannhce": "7180",
+    "name": "Ouzinkie ANVSA",
+    "geoids": [
+     "7180R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 13,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-paimiut": [
+   {
+    "aiannhce": "6595",
+    "name": "Hooper Bay ANVSA",
+    "geoids": [
+     "6595R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-perryville": [
+   {
+    "aiannhce": "7215",
+    "name": "Perryville ANVSA",
+    "geoids": [
+     "7215R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-pilot-point": [
+   {
+    "aiannhce": "7225",
+    "name": "Pilot Point ANVSA",
+    "geoids": [
+     "7225R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 8,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-point-hope": [
+   {
+    "aiannhce": "7250",
+    "name": "Point Hope ANVSA",
+    "geoids": [
+     "7250R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-point-lay": [
+   {
+    "aiannhce": "7255",
+    "name": "Point Lay ANVSA",
+    "geoids": [
+     "7255R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 29,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-port-graham": [
+   {
+    "aiannhce": "7265",
+    "name": "Port Graham ANVSA",
+    "geoids": [
+     "7265R"
+    ],
+    "method": "name",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-port-heiden": [
+   {
+    "aiannhce": "7270",
+    "name": "Port Heiden ANVSA",
+    "geoids": [
+     "7270R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 46,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-port-lions": [
+   {
+    "aiannhce": "7275",
+    "name": "Port Lions ANVSA",
+    "geoids": [
+     "7275R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 83,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-ruby": [
+   {
+    "aiannhce": "7310",
+    "name": "Ruby ANVSA",
+    "geoids": [
+     "7310R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-saint-michael": [
+   {
+    "aiannhce": "7375",
+    "name": "St. Michael ANVSA",
+    "geoids": [
+     "7375R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 22,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-savoonga": [
+   {
+    "aiannhce": "7415",
+    "name": "Savoonga ANVSA",
+    "geoids": [
+     "7415R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-scammon-bay": [
+   {
+    "aiannhce": "7425",
+    "name": "Scammon Bay ANVSA",
+    "geoids": [
+     "7425R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-selawik": [
+   {
+    "aiannhce": "7430",
+    "name": "Selawik ANVSA",
+    "geoids": [
+     "7430R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-shaktoolik": [
+   {
+    "aiannhce": "7450",
+    "name": "Shaktoolik ANVSA",
+    "geoids": [
+     "7450R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-shishmaref": [
+   {
+    "aiannhce": "7465",
+    "name": "Shishmaref ANVSA",
+    "geoids": [
+     "7465R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 17,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-shungnak": [
+   {
+    "aiannhce": "7470",
+    "name": "Shungnak ANVSA",
+    "geoids": [
+     "7470R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 8,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-south-naknek": [
+   {
+    "aiannhce": "7505",
+    "name": "South Naknek ANVSA",
+    "geoids": [
+     "7505R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 88,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-stevens": [
+   {
+    "aiannhce": "7520",
+    "name": "Stevens Village ANVSA",
+    "geoids": [
+     "7520R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-tanacross": [
+   {
+    "aiannhce": "7535",
+    "name": "Tanacross ANVSA",
+    "geoids": [
+     "7535R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 79,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-tanana": [
+   {
+    "aiannhce": "7540",
+    "name": "Tanana ANVSA",
+    "geoids": [
+     "7540R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 11,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-tatitlek": [
+   {
+    "aiannhce": "7555",
+    "name": "Tatitlek ANVSA",
+    "geoids": [
+     "7555R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-tazlina": [
+   {
+    "aiannhce": "7560",
+    "name": "Tazlina ANVSA",
+    "geoids": [
+     "7560R"
+    ],
+    "method": "name",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-teller": [
+   {
+    "aiannhce": "7570",
+    "name": "Teller ANVSA",
+    "geoids": [
+     "7570R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-tetlin": [
+   {
+    "aiannhce": "7580",
+    "name": "Tetlin ANVSA",
+    "geoids": [
+     "7580R"
+    ],
+    "method": "name",
+    "land_sq_mi": 184,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-tuntutuliak": [
+   {
+    "aiannhce": "7640",
+    "name": "Tuntutuliak ANVSA",
+    "geoids": [
+     "7640R"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-tununak": [
+   {
+    "aiannhce": "7645",
+    "name": "Tununak ANVSA",
+    "geoids": [
+     "7645R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 61,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-tyonek": [
+   {
+    "aiannhce": "7655",
+    "name": "Tyonek ANVSA",
+    "geoids": [
+     "7655R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 13,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-unalakleet": [
+   {
+    "aiannhce": "7690",
+    "name": "Unalakleet ANVSA",
+    "geoids": [
+     "7690R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-unga": [
+   {
+    "aiannhce": "7410",
+    "name": "Sand Point ANVSA",
+    "geoids": [
+     "7410R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-venetie-tribal-government": [
+   {
+    "aiannhce": "7725",
+    "name": "Venetie ANVSA",
+    "geoids": [
+     "7725R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-wales": [
+   {
+    "aiannhce": "7740",
+    "name": "Wales ANVSA",
+    "geoids": [
+     "7740R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "native-village-of-white-mountain": [
+   {
+    "aiannhce": "7745",
+    "name": "White Mountain ANVSA",
+    "geoids": [
+     "7745R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "navajo-nation-arizona-new-mexico-and-utah": [
+   {
+    "aiannhce": "2430",
+    "name": "Navajo Nation Reservation",
+    "geoids": [
+     "2430R",
+     "2430T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 24422,
+    "status": "draft"
+   }
+  ],
+  "nenana-native-association": [
+   {
+    "aiannhce": "7030",
+    "name": "Nenana ANVSA",
+    "geoids": [
+     "7030R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "new-koliganek-village-council": [
+   {
+    "aiannhce": "7040",
+    "name": "New Koliganek ANVSA",
+    "geoids": [
+     "7040R"
+    ],
+    "method": "name",
+    "land_sq_mi": 17,
+    "status": "draft"
+   }
+  ],
+  "new-stuyahok-village": [
+   {
+    "aiannhce": "7050",
+    "name": "New Stuyahok ANVSA",
+    "geoids": [
+     "7050R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 34,
+    "status": "draft"
+   }
+  ],
+  "newhalen-village": [
+   {
+    "aiannhce": "7035",
+    "name": "Newhalen ANVSA",
+    "geoids": [
+     "7035R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "newtok-village": [
+   {
+    "aiannhce": "7055",
+    "name": "Newtok ANVSA",
+    "geoids": [
+     "7055R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 8,
+    "status": "draft"
+   }
+  ],
+  "nez-perce-tribe": [
+   {
+    "aiannhce": "2445",
+    "name": "Nez Perce Reservation",
+    "geoids": [
+     "2445R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1195,
+    "status": "draft"
+   }
+  ],
+  "nikolai-village": [
+   {
+    "aiannhce": "7070",
+    "name": "Nikolai ANVSA",
+    "geoids": [
+     "7070R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "ninilchik-village": [
+   {
+    "aiannhce": "7080",
+    "name": "Ninilchik ANVSA",
+    "geoids": [
+     "7080R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 899,
+    "status": "draft"
+   }
+  ],
+  "nisqually-indian-tribe": [
+   {
+    "aiannhce": "2460",
+    "name": "Nisqually Reservation",
+    "geoids": [
+     "2460R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 8,
+    "status": "draft"
+   }
+  ],
+  "nome-eskimo-community": [
+   {
+    "aiannhce": "7095",
+    "name": "Nome ANVSA",
+    "geoids": [
+     "7095R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 124,
+    "status": "draft"
+   }
+  ],
+  "nondalton-tribe": [
+   {
+    "aiannhce": "7100",
+    "name": "Nondalton ANVSA",
+    "geoids": [
+     "7100R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "nooksack-indian-tribe": [
+   {
+    "aiannhce": "2475",
+    "name": "Nooksack Reservation",
+    "geoids": [
+     "2475R",
+     "2475T"
+    ],
+    "method": "name",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "noorvik-native-community": [
+   {
+    "aiannhce": "7110",
+    "name": "Noorvik ANVSA",
+    "geoids": [
+     "7110R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "northern-arapaho-tribe-of-the-wind-river-reservation-wyoming": [
+   {
+    "aiannhce": "4610",
+    "name": "Wind River Reservation",
+    "geoids": [
+     "4610R",
+     "4610T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3474,
+    "status": "draft"
+   }
+  ],
+  "northern-cheyenne-tribe-of-the-northern-cheyenne-indian-reservation": [
+   {
+    "aiannhce": "2490",
+    "name": "Northern Cheyenne Indian Reservation",
+    "geoids": [
+     "2490R",
+     "2490T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 707,
+    "status": "draft"
+   }
+  ],
+  "northway-village": [
+   {
+    "aiannhce": "7115",
+    "name": "Northway ANVSA",
+    "geoids": [
+     "7115R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 35,
+    "status": "draft"
+   }
+  ],
+  "northwestern-band-of-the-shoshone-nation": [
+   {
+    "aiannhce": "2505",
+    "name": "Northwestern Shoshone Reservation",
+    "geoids": [
+     "2505R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "nottawaseppi-huron-band-of-the-potawatomi-michigan": [
+   {
+    "aiannhce": "1550",
+    "name": "Huron Potawatomi Reservation",
+    "geoids": [
+     "1550R",
+     "1550T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "nulato-village": [
+   {
+    "aiannhce": "7130",
+    "name": "Nulato ANVSA",
+    "geoids": [
+     "7130R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 41,
+    "status": "draft"
+   }
+  ],
+  "nunakauyarmiut-tribe": [
+   {
+    "aiannhce": "7625",
+    "name": "Toksook Bay ANVSA",
+    "geoids": [
+     "7625R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 11,
+    "status": "draft"
+   }
+  ],
+  "oglala-sioux-tribe": [
+   {
+    "aiannhce": "2810",
+    "name": "Pine Ridge Reservation",
+    "geoids": [
+     "2810R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4343,
+    "status": "draft"
+   }
+  ],
+  "ohkay-owingeh-new-mexico": [
+   {
+    "aiannhce": "2510",
+    "name": "Ohkay Owingeh",
+    "geoids": [
+     "2510R"
+    ],
+    "method": "name",
+    "land_sq_mi": 26,
+    "status": "draft"
+   }
+  ],
+  "omaha-tribe-of-nebraska": [
+   {
+    "aiannhce": "2550",
+    "name": "Omaha Reservation",
+    "geoids": [
+     "2550R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 307,
+    "status": "draft"
+   }
+  ],
+  "oneida-indian-nation": [
+   {
+    "aiannhce": "2555",
+    "name": "Oneida Indian Nation Reservation",
+    "geoids": [
+     "2555R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 423,
+    "status": "draft"
+   }
+  ],
+  "oneida-nation": [
+   {
+    "aiannhce": "2560",
+    "name": "Oneida (WI) Reservation",
+    "geoids": [
+     "2560R",
+     "2560T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 103,
+    "status": "draft"
+   }
+  ],
+  "onondaga-nation": [
+   {
+    "aiannhce": "2570",
+    "name": "Onondaga Nation Reservation",
+    "geoids": [
+     "2570R"
+    ],
+    "method": "name",
+    "land_sq_mi": 9,
+    "status": "draft"
+   }
+  ],
+  "organized-village-of-grayling-aka-holikachuk": [
+   {
+    "aiannhce": "6550",
+    "name": "Grayling ANVSA",
+    "geoids": [
+     "6550R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 11,
+    "status": "draft"
+   }
+  ],
+  "organized-village-of-kake": [
+   {
+    "aiannhce": "6670",
+    "name": "Kake ANVSA",
+    "geoids": [
+     "6670R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 8,
+    "status": "draft"
+   }
+  ],
+  "organized-village-of-kasaan": [
+   {
+    "aiannhce": "6705",
+    "name": "Kasaan ANVSA",
+    "geoids": [
+     "6705R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "organized-village-of-kwethluk": [
+   {
+    "aiannhce": "6835",
+    "name": "Kwethluk ANVSA",
+    "geoids": [
+     "6835R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "organized-village-of-saxman": [
+   {
+    "aiannhce": "6725",
+    "name": "Ketchikan ANVSA",
+    "geoids": [
+     "6725R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 22,
+    "status": "draft"
+   }
+  ],
+  "orutsararmiut-traditional-native-council": [
+   {
+    "aiannhce": "6205",
+    "name": "Bethel ANVSA",
+    "geoids": [
+     "6205R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 45,
+    "status": "draft"
+   }
+  ],
+  "oscarville-traditional-village": [
+   {
+    "aiannhce": "7020",
+    "name": "Napaskiak ANVSA",
+    "geoids": [
+     "7020R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "otoe-missouria-tribe-of-indians-oklahoma": [
+   {
+    "aiannhce": "5760",
+    "name": "Otoe-Missouria OTSA",
+    "geoids": [
+     "5760R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 192,
+    "status": "draft"
+   }
+  ],
+  "ottawa-tribe-of-oklahoma": [
+   {
+    "aiannhce": "5770",
+    "name": "Ottawa OTSA",
+    "geoids": [
+     "5770R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "paiute-indian-tribe-of-utah": [
+   {
+    "aiannhce": "2625",
+    "name": "Paiute (UT) Reservation",
+    "geoids": [
+     "2625R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 51,
+    "status": "draft"
+   }
+  ],
+  "paiute-shoshone-tribe-of-the-fallon-reservation-and-colony-nevada": [
+   {
+    "aiannhce": "1070",
+    "name": "Fallon Paiute-Shoshone Colony",
+    "geoids": [
+     "1070R",
+     "1070T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "pala-band-of-mission-indians": [
+   {
+    "aiannhce": "2635",
+    "name": "Pala Reservation",
+    "geoids": [
+     "2635R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 22,
+    "status": "draft"
+   }
+  ],
+  "pascua-yaqui-tribe-of-arizona": [
+   {
+    "aiannhce": "2680",
+    "name": "Pascua Pueblo Yaqui Reservation",
+    "geoids": [
+     "2680R",
+     "2680T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "paskenta-band-of-nomlaki-indians-of-california": [
+   {
+    "aiannhce": "2685",
+    "name": "Paskenta Rancheria",
+    "geoids": [
+     "2685R"
+    ],
+    "method": "name",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "passamaquoddy-tribe": [
+   {
+    "aiannhce": "1575",
+    "name": "Indian Township Reservation",
+    "geoids": [
+     "1575R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 38,
+    "status": "draft"
+   }
+  ],
+  "pauloff-harbor-village": [
+   {
+    "aiannhce": "7410",
+    "name": "Sand Point ANVSA",
+    "geoids": [
+     "7410R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "pauma-band-of-luiseno-mission-indians-of-the-pauma-and-yuima": [
+   {
+    "aiannhce": "2715",
+    "name": "Pauma and Yuima Reservation",
+    "geoids": [
+     "2715R"
+    ],
+    "method": "name",
+    "land_sq_mi": 9,
+    "status": "draft"
+   }
+  ],
+  "pawnee-nation-of-oklahoma": [
+   {
+    "aiannhce": "5780",
+    "name": "Pawnee OTSA",
+    "geoids": [
+     "5780R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 515,
+    "status": "draft"
+   }
+  ],
+  "pechanga-band-of-indians": [
+   {
+    "aiannhce": "2745",
+    "name": "Pechanga Reservation",
+    "geoids": [
+     "2745R",
+     "2745T"
+    ],
+    "method": "name",
+    "land_sq_mi": 11,
+    "status": "draft"
+   }
+  ],
+  "pedro-bay-village": [
+   {
+    "aiannhce": "7205",
+    "name": "Pedro Bay ANVSA",
+    "geoids": [
+     "7205R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 19,
+    "status": "draft"
+   }
+  ],
+  "penobscot-nation": [
+   {
+    "aiannhce": "2760",
+    "name": "Penobscot Reservation",
+    "geoids": [
+     "2760R",
+     "2760T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 151,
+    "status": "draft"
+   }
+  ],
+  "peoria-tribe-of-indians-of-oklahoma": [
+   {
+    "aiannhce": "5770",
+    "name": "Ottawa OTSA",
+    "geoids": [
+     "5770R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "petersburg-indian-association": [
+   {
+    "aiannhce": "7220",
+    "name": "Petersburg ANVSA",
+    "geoids": [
+     "7220R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "picayune-rancheria-of-chukchansi-indians-of-california": [
+   {
+    "aiannhce": "2775",
+    "name": "Picayune Rancheria",
+    "geoids": [
+     "2775R",
+     "2775T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "pilot-station-traditional-village": [
+   {
+    "aiannhce": "7230",
+    "name": "Pilot Station ANVSA",
+    "geoids": [
+     "7230R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "pinoleville-pomo-nation-california": [
+   {
+    "aiannhce": "2820",
+    "name": "Pinoleville Rancheria",
+    "geoids": [
+     "2820R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "pit-river-tribe-california": [
+   {
+    "aiannhce": "2835",
+    "name": "Pit River Trust Land",
+    "geoids": [
+     "2835T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "pitka-s-point-traditional-council": [
+   {
+    "aiannhce": "7235",
+    "name": "Pitkas Point ANVSA",
+    "geoids": [
+     "7235R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "platinum-traditional-village": [
+   {
+    "aiannhce": "7245",
+    "name": "Platinum ANVSA",
+    "geoids": [
+     "7245R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 26,
+    "status": "draft"
+   }
+  ],
+  "poarch-band-of-creek-indians": [
+   {
+    "aiannhce": "2865",
+    "name": "Poarch Creek Reservation",
+    "geoids": [
+     "2865R",
+     "2865T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "pokagon-band-of-potawatomi-indians-michigan-and-indiana": [
+   {
+    "aiannhce": "2890",
+    "name": "Pokagon Reservation",
+    "geoids": [
+     "2890R",
+     "2890T"
+    ],
+    "method": "name",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "ponca-tribe-of-indians-of-oklahoma": [
+   {
+    "aiannhce": "5800",
+    "name": "Ponca OTSA",
+    "geoids": [
+     "5800R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 164,
+    "status": "draft"
+   }
+  ],
+  "ponca-tribe-of-nebraska": [
+   {
+    "aiannhce": "2900",
+    "name": "Ponca (NE) Trust Land",
+    "geoids": [
+     "2900T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "port-gamble-s-klallam-tribe": [
+   {
+    "aiannhce": "2910",
+    "name": "Port Gamble Reservation",
+    "geoids": [
+     "2910R",
+     "2910T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "prairie-band-potawatomi-nation": [
+   {
+    "aiannhce": "2980",
+    "name": "Prairie Band of Potawatomi Nation Reservation",
+    "geoids": [
+     "2980R",
+     "2980T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 122,
+    "status": "draft"
+   }
+  ],
+  "prairie-island-indian-community-in-the-state-of-minnesota": [
+   {
+    "aiannhce": "2985",
+    "name": "Prairie Island Indian Community",
+    "geoids": [
+     "2985R",
+     "2985T"
+    ],
+    "method": "name",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "pribilof-islands-aleut-communities-of-st-paul-and-st-george-islands": [
+   {
+    "aiannhce": "7390",
+    "name": "St. Paul ANVSA",
+    "geoids": [
+     "7390R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 41,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-acoma-new-mexico": [
+   {
+    "aiannhce": "0010",
+    "name": "Acoma Pueblo",
+    "geoids": [
+     "0010R",
+     "0010T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 603,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-cochiti-new-mexico": [
+   {
+    "aiannhce": "0680",
+    "name": "Pueblo de Cochiti",
+    "geoids": [
+     "0680R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 80,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-isleta-new-mexico": [
+   {
+    "aiannhce": "1625",
+    "name": "Isleta Pueblo",
+    "geoids": [
+     "1625R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 470,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-jemez-new-mexico": [
+   {
+    "aiannhce": "1685",
+    "name": "Jemez Pueblo",
+    "geoids": [
+     "1685R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 140,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-laguna-new-mexico": [
+   {
+    "aiannhce": "1840",
+    "name": "Laguna Pueblo",
+    "geoids": [
+     "1840R",
+     "1840T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 782,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-nambe-new-mexico": [
+   {
+    "aiannhce": "2400",
+    "name": "Nambe Pueblo",
+    "geoids": [
+     "2400R",
+     "2400T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 32,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-picuris-new-mexico": [
+   {
+    "aiannhce": "2785",
+    "name": "Picuris Pueblo",
+    "geoids": [
+     "2785R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 27,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-pojoaque-new-mexico": [
+   {
+    "aiannhce": "2990",
+    "name": "Pueblo of Pojoaque",
+    "geoids": [
+     "2990R",
+     "2990T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 22,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-san-felipe-new-mexico": [
+   {
+    "aiannhce": "3400",
+    "name": "San Felipe Pueblo",
+    "geoids": [
+     "3400R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 80,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-san-ildefonso-new-mexico": [
+   {
+    "aiannhce": "3415",
+    "name": "San Ildefonso Pueblo",
+    "geoids": [
+     "3415R",
+     "3415T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 47,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-sandia-new-mexico": [
+   {
+    "aiannhce": "3370",
+    "name": "Sandia Pueblo",
+    "geoids": [
+     "3370R",
+     "3370T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 41,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-santa-ana-new-mexico": [
+   {
+    "aiannhce": "3480",
+    "name": "Santa Ana Pueblo",
+    "geoids": [
+     "3480R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 101,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-santa-clara-new-mexico": [
+   {
+    "aiannhce": "3495",
+    "name": "Santa Clara Pueblo",
+    "geoids": [
+     "3495R",
+     "3495T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 90,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-taos-new-mexico": [
+   {
+    "aiannhce": "4140",
+    "name": "Taos Pueblo",
+    "geoids": [
+     "4140R",
+     "4140T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 156,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-tesuque-new-mexico": [
+   {
+    "aiannhce": "4170",
+    "name": "Tesuque Pueblo",
+    "geoids": [
+     "4170R",
+     "4170T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 27,
+    "status": "draft"
+   }
+  ],
+  "pueblo-of-zia-new-mexico": [
+   {
+    "aiannhce": "4770",
+    "name": "Zia Pueblo",
+    "geoids": [
+     "4770R",
+     "4770T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 191,
+    "status": "draft"
+   }
+  ],
+  "puliklatribe-of-yurok-people": [
+   {
+    "aiannhce": "4760",
+    "name": "Yurok Reservation",
+    "geoids": [
+     "4760R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 84,
+    "status": "draft"
+   }
+  ],
+  "puyallup-tribe-of-the-puyallup-reservation": [
+   {
+    "aiannhce": "3000",
+    "name": "Puyallup Reservation",
+    "geoids": [
+     "3000R",
+     "3000T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 29,
+    "status": "draft"
+   }
+  ],
+  "pyramid-lake-paiute-tribe-of-the-pyramid-lake-reservation-nevada": [
+   {
+    "aiannhce": "3010",
+    "name": "Pyramid Lake Paiute Reservation",
+    "geoids": [
+     "3010R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 556,
+    "status": "draft"
+   }
+  ],
+  "qagan-tayagungin-tribe-of-sand-point": [
+   {
+    "aiannhce": "7410",
+    "name": "Sand Point ANVSA",
+    "geoids": [
+     "7410R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "qawalangin-tribe-of-unalaska": [
+   {
+    "aiannhce": "7695",
+    "name": "Unalaska ANVSA",
+    "geoids": [
+     "7695R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 75,
+    "status": "draft"
+   }
+  ],
+  "quapaw-nation": [
+   {
+    "aiannhce": "5810",
+    "name": "Quapaw OTSA",
+    "geoids": [
+     "5810R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 86,
+    "status": "draft"
+   }
+  ],
+  "quartz-valley-indian-community-of-the-quartz-valley-reservation-of": [
+   {
+    "aiannhce": "3020",
+    "name": "Quartz Valley Reservation",
+    "geoids": [
+     "3020R",
+     "3020T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "quechan-tribe-of-the-fort-yuma-indian-reservation-california-and": [
+   {
+    "aiannhce": "1280",
+    "name": "Fort Yuma Indian Reservation",
+    "geoids": [
+     "1280R"
+    ],
+    "method": "name",
+    "land_sq_mi": 69,
+    "status": "draft"
+   }
+  ],
+  "quileute-tribe-of-the-quileute-reservation": [
+   {
+    "aiannhce": "3030",
+    "name": "Quileute Reservation",
+    "geoids": [
+     "3030R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "quinault-indian-nation": [
+   {
+    "aiannhce": "3040",
+    "name": "Quinault Reservation",
+    "geoids": [
+     "3040R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 313,
+    "status": "draft"
+   }
+  ],
+  "ramona-band-of-cahuilla-california": [
+   {
+    "aiannhce": "0435",
+    "name": "Cahuilla Reservation",
+    "geoids": [
+     "0435R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 29,
+    "status": "draft"
+   }
+  ],
+  "rampart-village": [
+   {
+    "aiannhce": "7300",
+    "name": "Rampart ANVSA",
+    "geoids": [
+     "7300R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6,
+    "status": "draft"
+   }
+  ],
+  "rappahannock-tribe-inc": [
+   {
+    "aiannhce": "3075",
+    "name": "Rappahannock Trust Land",
+    "geoids": [
+     "3075T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "red-cliff-band-of-lake-superior-chippewa-indians-of-wisconsin": [
+   {
+    "aiannhce": "3085",
+    "name": "Red Cliff Reservation",
+    "geoids": [
+     "3085R",
+     "3085T"
+    ],
+    "method": "name",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "red-lake-band-of-chippewa-indians-minnesota": [
+   {
+    "aiannhce": "3100",
+    "name": "Red Lake Reservation",
+    "geoids": [
+     "3100R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 883,
+    "status": "draft"
+   }
+  ],
+  "redding-rancheria-california": [
+   {
+    "aiannhce": "3095",
+    "name": "Redding Rancheria",
+    "geoids": [
+     "3095R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "redwood-valley-or-little-river-band-of-pomo-indians-of-the-redwood": [
+   {
+    "aiannhce": "3115",
+    "name": "Redwood Valley Rancheria",
+    "geoids": [
+     "3115R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "reno-sparks-indian-colony-nevada": [
+   {
+    "aiannhce": "3130",
+    "name": "Reno-Sparks Indian Colony",
+    "geoids": [
+     "3130R",
+     "3130T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 24,
+    "status": "draft"
+   }
+  ],
+  "rincon-band-of-luiseno-indians": [
+   {
+    "aiannhce": "3165",
+    "name": "Rincon Reservation",
+    "geoids": [
+     "3165R",
+     "3165T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "robinson-rancheria": [
+   {
+    "aiannhce": "3195",
+    "name": "Robinson Rancheria",
+    "geoids": [
+     "3195R",
+     "3195T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "rosebud-sioux-tribe-of-the-rosebud-indian-reservation-south-dakota": [
+   {
+    "aiannhce": "3235",
+    "name": "Rosebud Indian Reservation",
+    "geoids": [
+     "3235R",
+     "3235T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2091,
+    "status": "draft"
+   }
+  ],
+  "round-valley-indian-tribes-round-valley-reservation-california": [
+   {
+    "aiannhce": "3250",
+    "name": "Round Valley Reservation",
+    "geoids": [
+     "3250R",
+     "3250T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 36,
+    "status": "draft"
+   }
+  ],
+  "sac-and-fox-nation-of-missouri-in-kansas-and-nebraska": [
+   {
+    "aiannhce": "3285",
+    "name": "Sac and Fox Nation Reservation",
+    "geoids": [
+     "3285R",
+     "3285T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 24,
+    "status": "draft"
+   }
+  ],
+  "sac-and-fox-nation-oklahoma": [
+   {
+    "aiannhce": "5820",
+    "name": "Sac and Fox OTSA",
+    "geoids": [
+     "5820R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 740,
+    "status": "draft"
+   }
+  ],
+  "sac-and-fox-tribe-of-the-mississippi-in-iowa": [
+   {
+    "aiannhce": "3280",
+    "name": "Sac and Fox/Meskwaki Settlement",
+    "geoids": [
+     "3280R",
+     "3280T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 11,
+    "status": "draft"
+   }
+  ],
+  "saginaw-chippewa-indian-tribe-of-michigan": [
+   {
+    "aiannhce": "1610",
+    "name": "Isabella Reservation",
+    "geoids": [
+     "1610R",
+     "1610T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 218,
+    "status": "draft"
+   }
+  ],
+  "saint-regis-mohawk-tribe": [
+   {
+    "aiannhce": "3320",
+    "name": "St. Regis Mohawk Reservation",
+    "geoids": [
+     "3320R",
+     "3320T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 19,
+    "status": "draft"
+   }
+  ],
+  "salamatof-tribe": [
+   {
+    "aiannhce": "6720",
+    "name": "Kenaitze ANVSA",
+    "geoids": [
+     "6720R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1959,
+    "status": "draft"
+   }
+  ],
+  "salt-river-pima-maricopa-indian-community-of-the-salt-river": [
+   {
+    "aiannhce": "3340",
+    "name": "Salt River Reservation",
+    "geoids": [
+     "3340R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 82,
+    "status": "draft"
+   }
+  ],
+  "samish-indian-nation": [
+   {
+    "aiannhce": "8750",
+    "name": "Samish TDSA",
+    "geoids": [
+     "8750R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 225,
+    "status": "draft"
+   }
+  ],
+  "san-carlos-apache-tribe-of-the-san-carlos-reservation-arizona": [
+   {
+    "aiannhce": "3355",
+    "name": "San Carlos Reservation",
+    "geoids": [
+     "3355R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2902,
+    "status": "draft"
+   }
+  ],
+  "san-juan-southern-paiute-tribe-of-arizona": [
+   {
+    "aiannhce": "2430",
+    "name": "Navajo Nation Reservation",
+    "geoids": [
+     "2430R",
+     "2430T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 24422,
+    "status": "draft"
+   }
+  ],
+  "san-pasqual-band-of-diegueno-mission-indians-of-california": [
+   {
+    "aiannhce": "3460",
+    "name": "San Pasqual Reservation",
+    "geoids": [
+     "3460R",
+     "3460T"
+    ],
+    "method": "name",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "santa-rosa-band-of-cahuilla-indians-california": [
+   {
+    "aiannhce": "0435",
+    "name": "Cahuilla Reservation",
+    "geoids": [
+     "0435R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 29,
+    "status": "draft"
+   }
+  ],
+  "santa-rosa-indian-community-of-the-santa-rosa-rancheria-california": [
+   {
+    "aiannhce": "3520",
+    "name": "Santa Rosa Rancheria",
+    "geoids": [
+     "3520R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "santa-ynez-band-of-chumash-mission-indians-of-the-santa-ynez": [
+   {
+    "aiannhce": "3540",
+    "name": "Santa Ynez Reservation",
+    "geoids": [
+     "3540R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "santee-sioux-nation-nebraska": [
+   {
+    "aiannhce": "3565",
+    "name": "Santee Reservation",
+    "geoids": [
+     "3565R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 173,
+    "status": "draft"
+   }
+  ],
+  "santo-domingo-pueblo": [
+   {
+    "aiannhce": "3585",
+    "name": "Santo Domingo Pueblo",
+    "geoids": [
+     "3585R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 106,
+    "status": "draft"
+   }
+  ],
+  "sauk-suiattle-indian-tribe": [
+   {
+    "aiannhce": "3625",
+    "name": "Sauk-Suiattle Reservation",
+    "geoids": [
+     "3625R"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "sault-ste-marie-tribe-of-chippewa-indians-michigan": [
+   {
+    "aiannhce": "3635",
+    "name": "Sault Ste. Marie Reservation",
+    "geoids": [
+     "3635R",
+     "3635T"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "seldovia-village-tribe": [
+   {
+    "aiannhce": "7435",
+    "name": "Seldovia ANVSA",
+    "geoids": [
+     "7435R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 13,
+    "status": "draft"
+   }
+  ],
+  "seminole-tribe-of-florida": [
+   {
+    "aiannhce": "1475",
+    "name": "Hollywood Reservation",
+    "geoids": [
+     "1475R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "seneca-cayuga-nation": [
+   {
+    "aiannhce": "5835",
+    "name": "Seneca-Cayuga OTSA",
+    "geoids": [
+     "5835R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 72,
+    "status": "draft"
+   }
+  ],
+  "seneca-nation-of-indians": [
+   {
+    "aiannhce": "0080",
+    "name": "Allegany Reservation",
+    "geoids": [
+     "0080R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 41,
+    "status": "draft"
+   }
+  ],
+  "shageluk-native-village": [
+   {
+    "aiannhce": "7440",
+    "name": "Shageluk ANVSA",
+    "geoids": [
+     "7440R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "shakopee-mdewakanton-sioux-community-of-minnesota": [
+   {
+    "aiannhce": "3680",
+    "name": "Shakopee Mdewakanton Sioux Community",
+    "geoids": [
+     "3680R",
+     "3680T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "shawnee-tribe": [
+   {
+    "aiannhce": "5770",
+    "name": "Ottawa OTSA",
+    "geoids": [
+     "5770R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "sherwood-valley-rancheria-of-pomo-indians-of-california": [
+   {
+    "aiannhce": "3735",
+    "name": "Sherwood Valley Rancheria",
+    "geoids": [
+     "3735R",
+     "3735T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "shingle-springs-band-of-miwok-indians-shingle-springs-rancheria": [
+   {
+    "aiannhce": "3750",
+    "name": "Shingle Springs Rancheria",
+    "geoids": [
+     "3750R",
+     "3750T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "shoalwater-bay-indian-tribe-of-the-shoalwater-bay-indian-reservation": [
+   {
+    "aiannhce": "3780",
+    "name": "Shoalwater Bay Indian Reservation",
+    "geoids": [
+     "3780R",
+     "3780T"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "shoshone-bannock-tribes-of-the-fort-hall-reservation": [
+   {
+    "aiannhce": "1185",
+    "name": "Fort Hall Reservation",
+    "geoids": [
+     "1185R",
+     "1185T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 814,
+    "status": "draft"
+   }
+  ],
+  "shoshone-paiute-tribes-of-the-duck-valley-reservation-nevada": [
+   {
+    "aiannhce": "0965",
+    "name": "Duck Valley Reservation",
+    "geoids": [
+     "0965R",
+     "0965T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 450,
+    "status": "draft"
+   }
+  ],
+  "sisseton-wahpeton-oyate": [
+   {
+    "aiannhce": "1860",
+    "name": "Lake Traverse Reservation",
+    "geoids": [
+     "1860R",
+     "1860T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1449,
+    "status": "draft"
+   }
+  ],
+  "sitka-tribe-of-alaska": [
+   {
+    "aiannhce": "7475",
+    "name": "Sitka ANVSA",
+    "geoids": [
+     "7475R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "skagway-village": [
+   {
+    "aiannhce": "7485",
+    "name": "Skagway ANVSA",
+    "geoids": [
+     "7485R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 81,
+    "status": "draft"
+   }
+  ],
+  "skokomish-indian-tribe": [
+   {
+    "aiannhce": "3825",
+    "name": "Skokomish Reservation",
+    "geoids": [
+     "3825R",
+     "3825T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "skull-valley-band-of-goshute-indians-of-utah": [
+   {
+    "aiannhce": "3840",
+    "name": "Skull Valley Reservation",
+    "geoids": [
+     "3840R"
+    ],
+    "method": "name",
+    "land_sq_mi": 28,
+    "status": "draft"
+   }
+  ],
+  "snoqualmie-indian-tribe": [
+   {
+    "aiannhce": "3860",
+    "name": "Snoqualmie Reservation",
+    "geoids": [
+     "3860R",
+     "3860T"
+    ],
+    "method": "name",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "soboba-band-of-luiseno-indians-california": [
+   {
+    "aiannhce": "3870",
+    "name": "Soboba Reservation",
+    "geoids": [
+     "3870R",
+     "3870T"
+    ],
+    "method": "name",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "sokaogon-chippewa-community-wisconsin": [
+   {
+    "aiannhce": "3885",
+    "name": "Sokaogon Chippewa Community",
+    "geoids": [
+     "3885R",
+     "3885T"
+    ],
+    "method": "name",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "southern-ute-indian-tribe-of-the-southern-ute-reservation-colorado": [
+   {
+    "aiannhce": "3925",
+    "name": "Southern Ute Reservation",
+    "geoids": [
+     "3925R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1061,
+    "status": "draft"
+   }
+  ],
+  "spirit-lake": [
+   {
+    "aiannhce": "3935",
+    "name": "Spirit Lake Reservation",
+    "geoids": [
+     "3935R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 390,
+    "status": "draft"
+   }
+  ],
+  "spokane-tribe-of-the-spokane-reservation": [
+   {
+    "aiannhce": "3940",
+    "name": "Spokane Reservation",
+    "geoids": [
+     "3940R",
+     "3940T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 240,
+    "status": "draft"
+   }
+  ],
+  "squaxin-island-tribe-of-the-squaxin-island-reservation": [
+   {
+    "aiannhce": "3955",
+    "name": "Squaxin Island Reservation",
+    "geoids": [
+     "3955R",
+     "3955T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "st-croix-chippewa-indians-of-wisconsin": [
+   {
+    "aiannhce": "3305",
+    "name": "St. Croix Reservation",
+    "geoids": [
+     "3305R",
+     "3305T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "standing-rock-sioux": [
+   {
+    "aiannhce": "3970",
+    "name": "Standing Rock Reservation",
+    "geoids": [
+     "3970R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3568,
+    "status": "draft"
+   }
+  ],
+  "stebbins-community-association": [
+   {
+    "aiannhce": "7510",
+    "name": "Stebbins ANVSA",
+    "geoids": [
+     "7510R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 33,
+    "status": "draft"
+   }
+  ],
+  "stillaguamish-tribe-of-indians-of-washington": [
+   {
+    "aiannhce": "4000",
+    "name": "Stillaguamish Reservation",
+    "geoids": [
+     "4000R",
+     "4000T"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "stockbridge-munsee-community-wisconsin": [
+   {
+    "aiannhce": "4015",
+    "name": "Stockbridge Munsee Community",
+    "geoids": [
+     "4015R",
+     "4015T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 27,
+    "status": "draft"
+   }
+  ],
+  "sun-aq-tribe-of-kodiak": [
+   {
+    "aiannhce": "6795",
+    "name": "Kodiak ANVSA",
+    "geoids": [
+     "6795R"
+    ],
+    "method": "name",
+    "land_sq_mi": 49,
+    "status": "draft"
+   }
+  ],
+  "suquamish-indian-tribe-of-the-port-madison-reservation": [
+   {
+    "aiannhce": "2925",
+    "name": "Port Madison Reservation",
+    "geoids": [
+     "2925R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "susanville-indian-rancheria-california": [
+   {
+    "aiannhce": "4060",
+    "name": "Susanville Indian Rancheria",
+    "geoids": [
+     "4060R",
+     "4060T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "swinomish-indian-tribal-community": [
+   {
+    "aiannhce": "4075",
+    "name": "Swinomish Reservation",
+    "geoids": [
+     "4075R",
+     "4075T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "sycuan-band-of-the-kumeyaay-nation": [
+   {
+    "aiannhce": "4090",
+    "name": "Sycuan Reservation",
+    "geoids": [
+     "4090R",
+     "4090T"
+    ],
+    "method": "name",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "table-mountain-rancheria": [
+   {
+    "aiannhce": "4110",
+    "name": "Table Mountain Rancheria",
+    "geoids": [
+     "4110R",
+     "4110T"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "takotna-village": [
+   {
+    "aiannhce": "7530",
+    "name": "Takotna ANVSA",
+    "geoids": [
+     "7530R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "te-moak-tribe-of-western-shoshone-indians-of-nevada": [
+   {
+    "aiannhce": "1005",
+    "name": "Elko Colony",
+    "geoids": [
+     "1005R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "telida-village": [
+   {
+    "aiannhce": "7070",
+    "name": "Nikolai ANVSA",
+    "geoids": [
+     "7070R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "the-chickasaw-nation": [
+   {
+    "aiannhce": "5580",
+    "name": "Chickasaw OTSA",
+    "geoids": [
+     "5580R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 7243,
+    "status": "draft"
+   }
+  ],
+  "the-choctaw-nation-of-oklahoma": [
+   {
+    "aiannhce": "5590",
+    "name": "Choctaw OTSA",
+    "geoids": [
+     "5590R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10631,
+    "status": "draft"
+   }
+  ],
+  "the-muscogee-creek-nation": [
+   {
+    "aiannhce": "5620",
+    "name": "Creek OTSA",
+    "geoids": [
+     "5620R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4629,
+    "status": "draft"
+   }
+  ],
+  "the-osage-nation": [
+   {
+    "aiannhce": "2595",
+    "name": "Osage Reservation",
+    "geoids": [
+     "2595R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2247,
+    "status": "draft"
+   }
+  ],
+  "the-seminole-nation-of-oklahoma": [
+   {
+    "aiannhce": "5830",
+    "name": "Seminole OTSA",
+    "geoids": [
+     "5830R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 568,
+    "status": "draft"
+   }
+  ],
+  "thlopthlocco-tribal-town": [
+   {
+    "aiannhce": "5620",
+    "name": "Creek OTSA",
+    "geoids": [
+     "5620R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4629,
+    "status": "draft"
+   }
+  ],
+  "three-affiliated-tribes-fort-berthold": [
+   {
+    "aiannhce": "1160",
+    "name": "Fort Berthold Reservation",
+    "geoids": [
+     "1160R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1319,
+    "status": "draft"
+   }
+  ],
+  "tohono-o-odham-nation-of-arizona": [
+   {
+    "aiannhce": "4200",
+    "name": "Tohono O'odham Nation Reservation",
+    "geoids": [
+     "4200R",
+     "4200T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4454,
+    "status": "draft"
+   }
+  ],
+  "tonawanda-band-of-seneca": [
+   {
+    "aiannhce": "4225",
+    "name": "Tonawanda Reservation",
+    "geoids": [
+     "4225R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 12,
+    "status": "draft"
+   }
+  ],
+  "tonkawa-tribe-of-indians-of-oklahoma": [
+   {
+    "aiannhce": "5860",
+    "name": "Tonkawa OTSA",
+    "geoids": [
+     "5860R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 142,
+    "status": "draft"
+   }
+  ],
+  "tonto-apache-tribe-of-arizona": [
+   {
+    "aiannhce": "4235",
+    "name": "Tonto Apache Reservation",
+    "geoids": [
+     "4235R",
+     "4235T"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "torres-martinez-desert-cahuilla-indians-california": [
+   {
+    "aiannhce": "4255",
+    "name": "Torres-Martinez Reservation",
+    "geoids": [
+     "4255R",
+     "4255T"
+    ],
+    "method": "name",
+    "land_sq_mi": 34,
+    "status": "draft"
+   }
+  ],
+  "traditional-village-of-togiak": [
+   {
+    "aiannhce": "7605",
+    "name": "Togiak ANVSA",
+    "geoids": [
+     "7605R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 47,
+    "status": "draft"
+   }
+  ],
+  "tulalip-tribes-of-washington": [
+   {
+    "aiannhce": "4290",
+    "name": "Tulalip Reservation",
+    "geoids": [
+     "4290R",
+     "4290T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 35,
+    "status": "draft"
+   }
+  ],
+  "tule-river-indian-tribe-of-the-tule-river-reservation-california": [
+   {
+    "aiannhce": "4300",
+    "name": "Tule River Reservation",
+    "geoids": [
+     "4300R",
+     "4300T"
+    ],
+    "method": "name",
+    "land_sq_mi": 84,
+    "status": "draft"
+   }
+  ],
+  "tuluksak-native-community": [
+   {
+    "aiannhce": "7630",
+    "name": "Tuluksak ANVSA",
+    "geoids": [
+     "7630R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "tunica-biloxi-indian-tribe": [
+   {
+    "aiannhce": "4315",
+    "name": "Tunica-Biloxi Reservation",
+    "geoids": [
+     "4315R",
+     "4315T"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "tuolumne-band-of-me-wuk-indians-of-the-tuolumne-rancheria-of": [
+   {
+    "aiannhce": "4330",
+    "name": "Tuolumne Rancheria",
+    "geoids": [
+     "4330R"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "turtle-mountain-chippewa": [
+   {
+    "aiannhce": "4345",
+    "name": "Turtle Mountain Reservation",
+    "geoids": [
+     "4345R",
+     "4345T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 230,
+    "status": "draft"
+   }
+  ],
+  "tuscarora-nation": [
+   {
+    "aiannhce": "4360",
+    "name": "Tuscarora Nation Reservation",
+    "geoids": [
+     "4360R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 9,
+    "status": "draft"
+   }
+  ],
+  "twenty-nine-palms-band-of-mission-indians-of-california": [
+   {
+    "aiannhce": "4375",
+    "name": "Twenty-Nine Palms Reservation",
+    "geoids": [
+     "4375R",
+     "4375T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "twin-hills-village": [
+   {
+    "aiannhce": "7650",
+    "name": "Twin Hills ANVSA",
+    "geoids": [
+     "7650R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "umkumiut-native-village": [
+   {
+    "aiannhce": "7065",
+    "name": "Nightmute ANVSA",
+    "geoids": [
+     "7065R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "united-auburn-indian-community-of-the-auburn-rancheria-of-california": [
+   {
+    "aiannhce": "0120",
+    "name": "Auburn Rancheria",
+    "geoids": [
+     "0120R",
+     "0120T"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "united-keetoowah-band-of-cherokee-indians-in-oklahoma": [
+   {
+    "aiannhce": "5550",
+    "name": "Cherokee OTSA",
+    "geoids": [
+     "5550R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6694,
+    "status": "draft"
+   }
+  ],
+  "upper-sioux-community-minnesota": [
+   {
+    "aiannhce": "4445",
+    "name": "Upper Sioux Community",
+    "geoids": [
+     "4445R",
+     "4445T"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "upper-skagit-indian-tribe": [
+   {
+    "aiannhce": "4455",
+    "name": "Upper Skagit Reservation",
+    "geoids": [
+     "4455R",
+     "4455T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "ute-indian-tribe-of-the-uintah-and-ouray-reservation-utah": [
+   {
+    "aiannhce": "4390",
+    "name": "Uintah and Ouray Reservation",
+    "geoids": [
+     "4390R",
+     "4390T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 6773,
+    "status": "draft"
+   }
+  ],
+  "ute-mountain-ute-tribe": [
+   {
+    "aiannhce": "4470",
+    "name": "Ute Mountain Reservation",
+    "geoids": [
+     "4470R",
+     "4470T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 901,
+    "status": "draft"
+   }
+  ],
+  "utu-utu-gwaitu-paiute-tribe-of-the-benton-paiute-reservation": [
+   {
+    "aiannhce": "0185",
+    "name": "Benton Paiute Reservation",
+    "geoids": [
+     "0185R",
+     "0185T"
+    ],
+    "method": "name",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "village-of-alakanuk": [
+   {
+    "aiannhce": "6035",
+    "name": "Alakanuk ANVSA",
+    "geoids": [
+     "6035R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 32,
+    "status": "draft"
+   }
+  ],
+  "village-of-anaktuvuk-pass": [
+   {
+    "aiannhce": "6080",
+    "name": "Anaktuvuk Pass ANVSA",
+    "geoids": [
+     "6080R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "village-of-aniak": [
+   {
+    "aiannhce": "6105",
+    "name": "Aniak ANVSA",
+    "geoids": [
+     "6105R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 11,
+    "status": "draft"
+   }
+  ],
+  "village-of-atmautluak": [
+   {
+    "aiannhce": "6160",
+    "name": "Atmautluak ANVSA",
+    "geoids": [
+     "6160R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "village-of-bill-moore-s-slough": [
+   {
+    "aiannhce": "6815",
+    "name": "Kotlik ANVSA",
+    "geoids": [
+     "6815R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "village-of-chefornak": [
+   {
+    "aiannhce": "6275",
+    "name": "Chefornak ANVSA",
+    "geoids": [
+     "6275R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "village-of-clarks-point": [
+   {
+    "aiannhce": "6360",
+    "name": "Clarks Point ANVSA",
+    "geoids": [
+     "6360R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "village-of-crooked-creek": [
+   {
+    "aiannhce": "6390",
+    "name": "Crooked Creek ANVSA",
+    "geoids": [
+     "6390R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 101,
+    "status": "draft"
+   }
+  ],
+  "village-of-dot-lake": [
+   {
+    "aiannhce": "6415",
+    "name": "Dot Lake ANVSA",
+    "geoids": [
+     "6415R"
+    ],
+    "method": "name",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "village-of-iliamna": [
+   {
+    "aiannhce": "6625",
+    "name": "Iliamna ANVSA",
+    "geoids": [
+     "6625R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 37,
+    "status": "draft"
+   }
+  ],
+  "village-of-kalskag": [
+   {
+    "aiannhce": "6685",
+    "name": "Kalskag ANVSA",
+    "geoids": [
+     "6685R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "village-of-kaltag": [
+   {
+    "aiannhce": "6690",
+    "name": "Kaltag ANVSA",
+    "geoids": [
+     "6690R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 23,
+    "status": "draft"
+   }
+  ],
+  "village-of-kotlik": [
+   {
+    "aiannhce": "6815",
+    "name": "Kotlik ANVSA",
+    "geoids": [
+     "6815R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "village-of-lower-kalskag": [
+   {
+    "aiannhce": "6890",
+    "name": "Lower Kalskag ANVSA",
+    "geoids": [
+     "6890R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "village-of-ohogamiut": [
+   {
+    "aiannhce": "6910",
+    "name": "Marshall ANVSA",
+    "geoids": [
+     "6910R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 4,
+    "status": "draft"
+   }
+  ],
+  "village-of-red-devil": [
+   {
+    "aiannhce": "7305",
+    "name": "Red Devil ANVSA",
+    "geoids": [
+     "7305R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 25,
+    "status": "draft"
+   }
+  ],
+  "village-of-sleetmute": [
+   {
+    "aiannhce": "7495",
+    "name": "Sleetmute ANVSA",
+    "geoids": [
+     "7495R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 22,
+    "status": "draft"
+   }
+  ],
+  "village-of-solomon": [
+   {
+    "aiannhce": "7095",
+    "name": "Nome ANVSA",
+    "geoids": [
+     "7095R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 124,
+    "status": "draft"
+   }
+  ],
+  "village-of-stony-river": [
+   {
+    "aiannhce": "7525",
+    "name": "Stony River ANVSA",
+    "geoids": [
+     "7525R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "village-of-wainwright": [
+   {
+    "aiannhce": "7735",
+    "name": "Wainwright ANVSA",
+    "geoids": [
+     "7735R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 10,
+    "status": "draft"
+   }
+  ],
+  "walker-river-paiute-tribe-of-the-walker-river-reservation-nevada": [
+   {
+    "aiannhce": "4515",
+    "name": "Walker River Reservation",
+    "geoids": [
+     "4515R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 528,
+    "status": "draft"
+   }
+  ],
+  "wampanoag-tribe-of-gay-head-aquinnah": [
+   {
+    "aiannhce": "4530",
+    "name": "Wampanoag-Aquinnah Trust Land",
+    "geoids": [
+     "4530T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "washoe-tribe-of-nevada-and-california": [
+   {
+    "aiannhce": "0940",
+    "name": "Dresslerville Colony",
+    "geoids": [
+     "0940R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "white-mountain-apache-tribe-of-the-fort-apache-reservation-arizona": [
+   {
+    "aiannhce": "1140",
+    "name": "Fort Apache Reservation",
+    "geoids": [
+     "1140R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2625,
+    "status": "draft"
+   }
+  ],
+  "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie": [
+   {
+    "aiannhce": "5955",
+    "name": "Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware joint-use OTSA",
+    "geoids": [
+     "5955R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 193,
+    "status": "draft"
+   }
+  ],
+  "winnebago-tribe-of-nebraska": [
+   {
+    "aiannhce": "4625",
+    "name": "Winnebago Reservation",
+    "geoids": [
+     "4625R",
+     "4625T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 177,
+    "status": "draft"
+   }
+  ],
+  "wiyot-tribe-california": [
+   {
+    "aiannhce": "4095",
+    "name": "Table Bluff Reservation",
+    "geoids": [
+     "4095R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 0,
+    "status": "draft"
+   }
+  ],
+  "wrangell-cooperative-association": [
+   {
+    "aiannhce": "7755",
+    "name": "Wrangell ANVSA",
+    "geoids": [
+     "7755R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 1,
+    "status": "draft"
+   }
+  ],
+  "wyandotte-nation": [
+   {
+    "aiannhce": "5890",
+    "name": "Wyandotte OTSA",
+    "geoids": [
+     "5890R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 33,
+    "status": "draft"
+   }
+  ],
+  "yakutat-tlingit-tribe": [
+   {
+    "aiannhce": "7765",
+    "name": "Yakutat ANVSA",
+    "geoids": [
+     "7765R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 100,
+    "status": "draft"
+   }
+  ],
+  "yankton-sioux-tribe-of-south-dakota": [
+   {
+    "aiannhce": "4700",
+    "name": "Yankton Reservation",
+    "geoids": [
+     "4700R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 665,
+    "status": "draft"
+   }
+  ],
+  "yavapai-apache-nation-of-the-camp-verde-indian-reservation-arizona": [
+   {
+    "aiannhce": "4708",
+    "name": "Yavapai-Apache Nation Reservation",
+    "geoids": [
+     "4708R"
+    ],
+    "method": "name",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "yavapai-prescott-indian-tribe": [
+   {
+    "aiannhce": "4710",
+    "name": "Yavapai-Prescott Reservation",
+    "geoids": [
+     "4710R"
+    ],
+    "method": "name",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "yerington-paiute-tribe-of-the-yerington-colony-and-campbell-ranch": [
+   {
+    "aiannhce": "0440",
+    "name": "Campbell Ranch",
+    "geoids": [
+     "0440R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 3,
+    "status": "draft"
+   }
+  ],
+  "yomba-shoshone-tribe-of-the-yomba-reservation-nevada": [
+   {
+    "aiannhce": "4740",
+    "name": "Yomba Reservation",
+    "geoids": [
+     "4740R"
+    ],
+    "method": "name",
+    "land_sq_mi": 7,
+    "status": "draft"
+   }
+  ],
+  "ysleta-del-sur-pueblo": [
+   {
+    "aiannhce": "4755",
+    "name": "Ysleta del Sur Pueblo",
+    "geoids": [
+     "4755R",
+     "4755T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 5,
+    "status": "draft"
+   }
+  ],
+  "yuhaaviatam-of-san-manuel-nation": [
+   {
+    "aiannhce": "3445",
+    "name": "San Manuel Reservation",
+    "geoids": [
+     "3445R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "yupiit-of-andreafski": [
+   {
+    "aiannhce": "6065",
+    "name": "Algaaciq ANVSA",
+    "geoids": [
+     "6065R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 2,
+    "status": "draft"
+   }
+  ],
+  "yurok-tribe-of-the-yurok-reservation-california": [
+   {
+    "aiannhce": "4760",
+    "name": "Yurok Reservation",
+    "geoids": [
+     "4760R"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 84,
+    "status": "draft"
+   }
+  ],
+  "zuni-tribe-of-the-zuni-reservation-new-mexico": [
+   {
+    "aiannhce": "4785",
+    "name": "Zuni Reservation",
+    "geoids": [
+     "4785R",
+     "4785T"
+    ],
+    "method": "hq_point",
+    "land_sq_mi": 723,
+    "status": "draft"
+   }
+  ]
+ },
+ "shared_areas": {
+  "5600": [
+   "absentee-shawnee-tribe-of-indians-of-oklahoma",
+   "citizen-potawatomi-nation-oklahoma",
+   "kickapoo-tribe-of-oklahoma"
+  ],
+  "6735": [
+   "agdaagux-tribe-of-king-cove",
+   "native-village-of-belkofski"
+  ],
+  "5620": [
+   "alabama-quassarte-tribal-town",
+   "kialegee-tribal-town",
+   "the-muscogee-creek-nation",
+   "thlopthlocco-tribal-town"
+  ],
+  "6065": [
+   "algaaciq-native-village-st-mary-s",
+   "yupiit-of-andreafski"
+  ],
+  "5955": [
+   "apache-tribe-of-oklahoma",
+   "delaware-nation-oklahoma",
+   "kiowa-tribe",
+   "wichita-and-affiliated-tribes-wichita-keechi-waco-and-tawakonie"
+  ],
+  "0250": [
+   "big-pine-paiute-tribe-of-the-owens-valley",
+   "lone-pine-paiute-shoshone-tribe"
+  ],
+  "0435": [
+   "cahuilla-band-of-indians",
+   "ramona-band-of-cahuilla-california",
+   "santa-rosa-band-of-cahuilla-indians-california"
+  ],
+  "0450": [
+   "campo-band-of-diegueno-mission-indians-of-the-campo-indian",
+   "la-posta-band-of-diegueno-mission-indians-of-the-la-posta-indian"
+  ],
+  "6520": [
+   "cheesh-na-tribe",
+   "native-village-of-gakona"
+  ],
+  "5550": [
+   "cherokee-nation",
+   "delaware-tribe-of-indians",
+   "united-keetoowah-band-of-cherokee-indians-in-oklahoma"
+  ],
+  "6480": [
+   "chuloonawick-native-village",
+   "emmonak-village"
+  ],
+  "5720": [
+   "comanche-nation-oklahoma",
+   "fort-sill-chiricahua-warm-springs-apache-tribe"
+  ],
+  "6405": [
+   "curyung-tribal-council",
+   "native-village-of-ekuk"
+  ],
+  "4610": [
+   "eastern-shoshone-tribe-of-the-wind-river-reservation-wyoming",
+   "northern-arapaho-tribe-of-the-wind-river-reservation-wyoming"
+  ],
+  "6415": [
+   "healy-lake-village",
+   "village-of-dot-lake"
+  ],
+  "2430": [
+   "hopi-tribe-of-arizona",
+   "navajo-nation-arizona-new-mexico-and-utah",
+   "san-juan-southern-paiute-tribe-of-arizona"
+  ],
+  "6175": [
+   "inupiat-community-of-the-arctic-slope",
+   "native-village-of-barrow-inupiat-traditional-government"
+  ],
+  "6015": [
+   "kaguyak-village",
+   "native-village-of-akhiok"
+  ],
+  "6720": [
+   "kenaitze-indian-tribe",
+   "salamatof-tribe"
+  ],
+  "6725": [
+   "ketchikan-indian-community",
+   "organized-village-of-saxman"
+  ],
+  "7095": [
+   "king-island-native-community",
+   "native-village-of-council",
+   "nome-eskimo-community",
+   "village-of-solomon"
+  ],
+  "6785": [
+   "knik-tribe",
+   "native-village-of-kanatak"
+  ],
+  "6895": [
+   "lime-village",
+   "mcgrath-native-village"
+  ],
+  "5770": [
+   "miami-tribe-of-oklahoma",
+   "modoc-nation",
+   "ottawa-tribe-of-oklahoma",
+   "peoria-tribe-of-indians-of-oklahoma",
+   "shawnee-tribe"
+  ],
+  "6815": [
+   "native-village-of-hamilton",
+   "village-of-bill-moore-s-slough",
+   "village-of-kotlik"
+  ],
+  "6595": [
+   "native-village-of-hooper-bay",
+   "native-village-of-paimiut"
+  ],
+  "6910": [
+   "native-village-of-marshall-aka-fortuna-ledge",
+   "village-of-ohogamiut"
+  ],
+  "7570": [
+   "native-village-of-mary-s-igloo",
+   "native-village-of-teller"
+  ],
+  "6205": [
+   "native-village-of-napaimute",
+   "orutsararmiut-traditional-native-council"
+  ],
+  "7020": [
+   "native-village-of-napaskiak",
+   "oscarville-traditional-village"
+  ],
+  "7065": [
+   "native-village-of-nightmute",
+   "umkumiut-native-village"
+  ],
+  "7410": [
+   "native-village-of-unga",
+   "pauloff-harbor-village",
+   "qagan-tayagungin-tribe-of-sand-point"
+  ],
+  "7070": [
+   "nikolai-village",
+   "telida-village"
+  ],
+  "4760": [
+   "puliklatribe-of-yurok-people",
+   "yurok-tribe-of-the-yurok-reservation-california"
+  ]
+ }
+}

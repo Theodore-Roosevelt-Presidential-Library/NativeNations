@@ -1,0 +1,40 @@
+{
+  "id": "chippewa-cree-indians-of-the-rocky-boy-s-reservation-montana",
+  "name": "Chippewa Cree Tribe (Rocky Boy's)",
+  "land_summary": "The Chippewa Cree Tribe grew from two landless bands: Chippewa led by Stone Child, whose name was mistranslated as Rocky Boy, and Cree led by Little Bear, many of whom had come south into Montana after 1885. For about three decades they had no home of their own. In 1916 Congress set aside part of the abandoned Fort Assinniboine military reserve in the Bears Paw Mountains, about 55,000 acres, as their reservation. Later additions, including farms abandoned during the Depression and acquired under the Indian Reorganization Act, roughly doubled it. The reservation was never allotted, and all of it is held in trust for the Tribe as a whole. Today it covers about 122,000 acres. It is the smallest reservation in Montana and the last one established.",
+  "homelands": "Stone Child College, the Tribe's college, places the Chippewa Cree home in the Bears Paw Mountains of north-central Montana, among rolling foothills and prairie south of Havre. In remarks published on the Tribe's site, the Bears Paw Mountains are named as the home the ancestors brought the people to.",
+  "sacred_places": [],
+  "timeline": [
+    {
+      "year": "1916",
+      "event": "Congress sets aside land from the abandoned Fort Assinniboine military reserve as a home for the Chippewa and Cree bands.",
+      "sources": [
+        "https://www.govinfo.gov/link/statute/39/739",
+        "https://stonechild.smartcatalogiq.com/en/2022-2024-catalog/scc-catalog/the-chippewa-cree-tribe"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": false,
+  "sources": [
+    {
+      "name": "Chippewa Cree Tribe (official site)",
+      "url": "https://www.chippewacree-nsn.gov/"
+    },
+    {
+      "name": "Stone Child College Catalog, The Chippewa Cree Tribe",
+      "url": "https://stonechild.smartcatalogiq.com/en/2022-2024-catalog/scc-catalog/the-chippewa-cree-tribe"
+    },
+    {
+      "name": "Act of September 7, 1916 (39 Stat. 739), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/39/739"
+    },
+    {
+      "name": "Montana OPI, Montana Indians: Their History and Location (Rocky Boy's section)",
+      "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+    }
+  ],
+  "notes": "Conflict: OPI says the reservation was established 'by Executive Order in April 1916.' The statute and Stone Child College say an Act of Congress (approved September 7, 1916). The summary follows the statute. The 1947 expansion of 45,523 acres is OPI-only, so the summary leaves it undated. The original acreage is about 55,000 at Stone Child and 56,035 in OPI. Current acreage is 121,646 (Stone Child, 2010), 122,259 (OPI) and about 122,000 (Governor's Office). The Bears Paw remark on the Tribe's homepage is attributed to Merle Tendoy and is used only as homeland description, not as a sacred-place designation.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

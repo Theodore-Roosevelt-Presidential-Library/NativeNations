@@ -1,0 +1,56 @@
+{
+  "id": "little-shell-tribe-of-chippewa-indians-of-montana",
+  "name": "Little Shell Tribe of Chippewa Indians of Montana",
+  "land_summary": "The Little Shell Band is part of the Pembina Chippewa, whose lands once spread across present-day North Dakota, South Dakota and Canada. In 1863 the Pembina and Red Lake bands signed the Treaty of Old Crossing with the United States. In 1892 the government made an agreement to buy out the band's remaining claims and set up the much smaller Turtle Mountain Reservation. Chief Little Shell refused to sign, and many of his people, then living and hunting in Montana, were left off the rolls. For more than a century the Tribe had no reservation and no federal recognition, and its members built communities across Montana, from Great Falls to Havre, Lewistown and beyond. Congress restored federal recognition in December 2019 and called for a land base to be held in trust. Today the Tribe is based in Great Falls and is working to build that land base.",
+  "homelands": "The Little Shell Tribe says it is part of the Pembina Band of Chippewa, whose lands once covered about 63 million acres across what are now North Dakota, South Dakota and Canada. Today its members live across Montana, including Great Falls, Havre, Lewistown, Helena, Butte, Billings and Hamilton.",
+  "sacred_places": [],
+  "timeline": [
+    {
+      "year": "1863",
+      "event": "The Pembina and Red Lake bands of Chippewa sign the Treaty of Old Crossing with the United States.",
+      "sources": [
+        "https://montanalittleshelltribe.org/",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    },
+    {
+      "year": "1892",
+      "event": "Chief Little Shell refuses to sign the agreement that sets up the Turtle Mountain Reservation, and many of his band are left without a land base.",
+      "sources": [
+        "https://montanalittleshelltribe.org/",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    },
+    {
+      "year": "2019",
+      "event": "Congress restores federal recognition to the Little Shell Tribe and provides for a land base held in trust.",
+      "sources": [
+        "https://montanalittleshelltribe.org/",
+        "https://www.voanews.com/a/usa_little-shell-chippewa-tribe-montana-homeless-no-more/6182055.html"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": false,
+  "sources": [
+    {
+      "name": "Little Shell Tribe of Chippewa Indians of Montana (official site)",
+      "url": "https://montanalittleshelltribe.org/"
+    },
+    {
+      "name": "Montana OPI, Montana Indians: Their History and Location (Little Shell section)",
+      "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+    },
+    {
+      "name": "VOA, Little Shell Chippewa Tribe of Montana Homeless No More (Jan. 2020)",
+      "url": "https://www.voanews.com/a/usa_little-shell-chippewa-tribe-montana-homeless-no-more/6182055.html"
+    },
+    {
+      "name": "The Electric (Great Falls), Little Shell seeking to transfer some land to federal trust (Feb. 19, 2026)",
+      "url": "https://theelectricgf.com/2026/02/19/little-shell-seeking-to-transfer-some-land-to-federal-trust-for-proposed-event-center/"
+    }
+  ],
+  "notes": "Land since 2019: I found no two sources confirming that any land has actually been placed in trust, how many acres, or where, so the summary describes no acquisition. VOA (2020) says the 2019 law requires the Tribe to buy a 200-acre base to be held in trust, and the Senate bill text (S.51) has the same 200 acres. The Electric (Feb. 2026) reports a pending fee-to-trust application for about 136 acres in Great Falls, which is single-source. UM Native News reports a 3.67-acre housing site at the base of Hill 57 and leased farmland, also single-source. Hill 57 is not named as sacred or culturally central on the Tribe's site, so it is not listed. Census TIGER may have no reservation or trust-land polygon for the Little Shell, so check the map layer. OPI calls the 1892 agreement the 'Ten-Cent Treaty' and dates the original treaty 1863; the Tribe's site names the 1892 McCumber Agreement and does not use the 'Ten-Cent' label, so the draft follows the Tribe. The Tribe's site and OPI tell the Métis connection differently; reviewers should check how the Tribe wants its relationship to the Métis described.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

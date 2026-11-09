@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-161.1518,65.9857],[-161.1164,65.9857],[-161.1164,65.9712],[-161.1518,65.9712],[-161.1518,65.9857]]]},"properties":{"aiannhce":"6250","geoid":"6250R","name":"Buckland ANVSA","kind":"reservation","lsad":"79","source":"U.S. Census Bureau, TIGER/Line 2026 AIANNH"}}]}

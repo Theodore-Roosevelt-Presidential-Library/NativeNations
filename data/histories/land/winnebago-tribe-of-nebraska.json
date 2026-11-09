@@ -1,0 +1,59 @@
+{
+  "id": "winnebago-tribe-of-nebraska",
+  "name": "Winnebago Tribe of Nebraska",
+  "land_summary": "The Winnebago Tribe places its ancestral lands in central Wisconsin and northern Illinois. Treaties in the early 1800s took most of that land, and the people were moved again and again: to northeast Iowa, to Minnesota, then to the Crow Creek country in Dakota Territory. Many left Crow Creek by traveling down the Missouri at night to join relatives in Nebraska. An 1865 treaty then set aside a reservation there, on land the Omaha had ceded. Allotment cost about two-thirds of the reservation in the decades that followed. The Tribe used part of an Indian Claims Commission award to buy land back. In the 1970s the Army Corps of Engineers took about 1,600 acres on the Iowa side of the Missouri, and the Winnebago Land Transfer Act, signed in 2024, returned them.",
+  "timeline": [
+    {
+      "year": "1865",
+      "event": "A treaty sets aside a Winnebago reservation in northeast Nebraska on land ceded by the Omaha.",
+      "sources": [
+        "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1865-0874",
+        "https://winnebagotribe.com/tribal-history/"
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "The Winnebago Land Transfer Act becomes law, returning about 1,600 acres taken by the federal government in the 1970s.",
+      "sources": [
+        "https://winnebagotribe.com/wp-content/uploads/2024/07/2024-07-12-WTN-Press-Release-WLTA-Signed-Into-Law-zdj-v2-.2-4857-4093-8704-v.1.pdf",
+        "https://www.congress.gov/118/plaws/publ68/PLAW-118publ68.htm"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://winnebagotribe.com/wp-content/uploads/2024/01/2023-05-18-Winnebago-Land-Transfer-Map.pdf",
+    "label": "Winnebago Tribe of Nebraska, Winnebago Land Transfer Map (May 18, 2023), posted on the Tribe's Land Transfer Act page"
+  },
+  "disputed": false,
+  "homelands": "The Tribe places its ancestral lands in central Wisconsin and northern Illinois. Its own history then follows forced moves through what is now northeast Iowa, Minnesota and South Dakota before the people reached the Missouri River in northeast Nebraska, where the reservation sits today, with tribal land also on the Iowa side of the river.",
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Winnebago Tribe of Nebraska, Tribal History",
+      "url": "https://winnebagotribe.com/tribal-history/"
+    },
+    {
+      "name": "Winnebago Tribe of Nebraska, Land Transfer Act page",
+      "url": "https://winnebagotribe.com/wtn-land-transfer-act/"
+    },
+    {
+      "name": "Winnebago Tribe press release, July 12, 2024",
+      "url": "https://winnebagotribe.com/wp-content/uploads/2024/07/2024-07-12-WTN-Press-Release-WLTA-Signed-Into-Law-zdj-v2-.2-4857-4093-8704-v.1.pdf"
+    },
+    {
+      "name": "Public Law 118-68 (congress.gov)",
+      "url": "https://www.congress.gov/118/plaws/publ68/PLAW-118publ68.htm"
+    },
+    {
+      "name": "Kappler, Treaty with the Winnebago, 1865 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1865-0874"
+    },
+    {
+      "name": "Nebraska v. Parker, 577 U.S. 481 (2016), Justia",
+      "url": "https://law.justia.com/cases/federal/us/577/14-1406/"
+    }
+  ],
+  "notes": "Only two entries could be double-sourced. The Tribe also names an 1874 treaty, the loss of two-thirds of the reservation by 1913, and a $4.6 million Indian Claims Commission award in 1975, part of it used for land acquisition. All come from the Tribe's page alone. Public Law 118-68 was matched to H.R. 1240 through search results, but its page was not opened. Confirm the number. The 1865 Kappler text says the Dakota reservation ceded was at Usher's Landing; it does not name Crow Creek. The Tribe's account of travel down the Missouri at night is summarized in plain terms; a reviewer may prefer the Tribe's own wording. The Tribe's GIS program page says it works on recovering tribal lands on the Iowa side of the Missouri.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

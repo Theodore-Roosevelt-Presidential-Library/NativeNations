@@ -1,0 +1,95 @@
+{
+  "id": "ponca-tribe-of-nebraska",
+  "name": "Ponca Tribe of Nebraska",
+  "land_summary": "The Ponca Tribe says a series of treaties shrank its homelands to a 96,000-acre reservation near the mouth of the Niobrara. The 1868 Fort Laramie Treaty with the Sioux then took in that whole reservation, and in 1877 the government forced the Ponca to Indian Territory, where many died. After Standing Bear's 1879 court victory, 26,236 acres in Knox County were returned in 1881. The Northern Ponca stayed in Nebraska while others remained in Oklahoma. Congress terminated the Northern Ponca in 1962, and only about 847 acres were still in tribal hands. The Ponca Restoration Act of 1990 restored federal recognition but bars reservation status for any land the Tribe acquires. Today the Tribe has no reservation and serves members across a 15-county service area in Nebraska, Iowa and South Dakota.",
+  "timeline": [
+    {
+      "year": "1858",
+      "event": "A treaty cedes most Ponca land and sets up a reservation near the Niobrara.",
+      "sources": [
+        "https://poncatribe-ne.gov/about-the-nation/",
+        "https://treaties.okstate.edu/treaties/treaty-with-the-ponca-1858-0772"
+      ]
+    },
+    {
+      "year": "1865",
+      "event": "A treaty reduces the Ponca reservation to 96,000 acres.",
+      "sources": [
+        "https://poncatribe-ne.gov/about-the-nation/",
+        "https://treaties.okstate.edu/treaties/treaty-with-the-ponca-1865-0875"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "The Fort Laramie Treaty with the Sioux takes in the entire Ponca reservation.",
+      "sources": [
+        "https://poncatribe-ne.gov/about-the-nation/",
+        "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.088.html"
+      ]
+    },
+    {
+      "year": "1877",
+      "event": "The U.S. forcibly removes the Ponca to Indian Territory.",
+      "sources": [
+        "https://poncatribe-ne.gov/about-the-nation/",
+        "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.088.html"
+      ]
+    },
+    {
+      "year": "1881",
+      "event": "Land in Knox County is returned, and the Northern Ponca re-form in Nebraska.",
+      "sources": [
+        "https://poncatribe-ne.gov/about-the-nation/",
+        "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.088.html"
+      ]
+    },
+    {
+      "year": "1962",
+      "event": "Congress passes an act terminating the Northern Ponca.",
+      "sources": [
+        "https://poncatribe-ne.gov/about-the-nation/",
+        "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.088.html"
+      ]
+    },
+    {
+      "year": "1990",
+      "event": "The Ponca Restoration Act restores federal recognition and bars reservation status for land acquired by the Tribe.",
+      "sources": [
+        "https://poncatribe-ne.gov/about-the-nation/",
+        "https://law.justia.com/codes/us/2014/title-25/chapter-14/subchapter-xlvi-a/sec.-983b/"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://poncatribe-ne.gov/about-the-nation/",
+    "label": "Ponca Tribe of Nebraska, About the Nation: no reservation; a 15-county service delivery area in Nebraska, Iowa and South Dakota set by the Ponca Restoration Act"
+  },
+  "disputed": false,
+  "homelands": "The Ponca Tribe describes an early home in the Ohio River valley, then a return east from the Black Hills to the river valleys of southern South Dakota and northern Nebraska. Its homelands stretched west of the Missouri and across much of Nebraska, tied together by the Missouri, Niobrara, Elkhorn and Platte rivers, Ponca Creek and their branches. Three historic villages stood near where the Niobrara meets the Missouri.",
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Ponca Tribe of Nebraska, About the Nation",
+      "url": "https://poncatribe-ne.gov/about-the-nation/"
+    },
+    {
+      "name": "Kappler, Treaty with the Ponca, 1858 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ponca-1858-0772"
+    },
+    {
+      "name": "Kappler, Treaty with the Ponca, 1865 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-ponca-1865-0875"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Poncas (Beth R. Ritter)",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.088.html"
+    },
+    {
+      "name": "25 U.S.C. 983b (Ponca Restoration Act), Justia",
+      "url": "https://law.justia.com/codes/us/2014/title-25/chapter-14/subchapter-xlvi-a/sec.-983b/"
+    }
+  ],
+  "notes": "This confirms that the Tribe has no reservation today and was restored in 1990 with a service area. The Tribe's page says the service area has 15 counties. The statute excerpt reviewed names only Knox and Boyd counties, Nebraska, for trust acquisition: up to 1,500 acres, with more allowed under the Indian Reorganization Act. Termination date: the Tribe's page gives both the 1962 act and termination taking effect in 1966. The Encyclopedia of the Great Plains gives 1962. The 1966 date is in notes only. The 847-acre figure comes from the Encyclopedia of the Great Plains, and the 26,236-acre figure from the Tribe. The Tribe's page names historic village sites and mentions burial grounds and sacred places in general terms. None were listed, because the request excludes burial sites and the Tribe did not single out a named sacred place. Chief Standing Bear's statement is quoted on the Tribe's page; per the style rule, no quotation is used.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

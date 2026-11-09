@@ -11,7 +11,7 @@
    Turn off with data-deeplink="off". */
 (() => {
   const ORIGIN = new URL(document.currentScript ? document.currentScript.src : 'https://nativenations.labs.trlibrary.com/embed.js').origin;
-  const KEYS = ['id', 'state', 'region', 'alliance', 'people', 'visit', 'limit', 'height', 'q', 'filters', 'nation'];
+  const KEYS = ['id', 'state', 'region', 'alliance', 'people', 'visit', 'limit', 'height', 'q', 'filters', 'nation', 'boundaries', 'cessions'];
   const frames = {};
   const prefix = el => el.dataset.name ? `nn-${el.dataset.name}-` : 'nn-';
   document.querySelectorAll('[data-nativenations]:not([data-nn-ready])').forEach((el, i) => {

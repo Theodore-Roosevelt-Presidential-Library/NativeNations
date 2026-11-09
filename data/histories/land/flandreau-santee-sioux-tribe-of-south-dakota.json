@@ -1,0 +1,66 @@
+{
+  "id": "flandreau-santee-sioux-tribe-of-south-dakota",
+  "name": "Flandreau Santee Sioux Tribe",
+  "land_summary": "The Flandreau Santee are mostly Mdewakanton Dakota whose homeland at European contact was in Minnesota and Wisconsin. Under pressure from settlers they ceded land and moved onto a reservation. After the 1862 war in Minnesota, the government imprisoned survivors at Davenport, Iowa, and at Crow Creek in Dakota Territory, then reunited them in 1866 at the Santee Agency near the mouth of the Niobrara in Nebraska. The 1868 treaty let Dakota families take homesteads without losing treaty benefits. Twenty-five families soon gave up tribal rights and annuities to homestead along the Big Sioux River, more families joined them, and the settlement became Flandreau. The Tribe later organized under the Indian Reorganization Act. Today its land is roughly 2,200 to 2,500 acres along and near the Big Sioux River in Moody County, South Dakota.",
+  "timeline": [
+    {
+      "year": "1866",
+      "event": "Dakota survivors held at Davenport and Crow Creek are reunited on a new reservation at the mouth of the Niobrara in Nebraska.",
+      "sources": [
+        "https://fsst-nsn.gov/culture/about-us",
+        "https://presidency.ucsb.edu/node/371192"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "The Fort Laramie Treaty includes a provision that lets Dakota families take homesteads and keep their treaty benefits, the path the Flandreau families later used.",
+      "sources": [
+        "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-brule-oglala-miniconjou-yanktonai-hunkpapa-blackfeet-cuthead-two-kettle-sans-arcs-and-santee-and-arapaho-1868-0998",
+        "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/flandreau.pdf"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://fsst-nsn.gov/culture/about-us",
+    "label": "Flandreau Santee Sioux Tribe, About Us (reservation of about 2,500 acres along and near the Big Sioux River in Moody County)"
+  },
+  "disputed": false,
+  "homelands": "The Tribe describes its people as mostly Mdewakanton, part of the Isanti division of the Dakota, who lived in what are now Minnesota and Wisconsin when Europeans arrived. Today its land lies along and near the Big Sioux River in Moody County, South Dakota, in the gently rolling country known as the Prairie Coteau.",
+  "sacred_places": [
+    {
+      "name": "Pipestone quarries (Pipestone National Monument, Minnesota)",
+      "nation_source_url": "https://fsst-nsn.gov/culture/our-history/historical-pipestone",
+      "public_status": "national monument (National Park Service)",
+      "note": "The Tribe calls the pipestone quarries an ancient site of sacred significance to many Native nations, including the Dakota and Lakota, and long treated by many tribes as neutral ground."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Flandreau Santee Sioux Tribe, About Us",
+      "url": "https://fsst-nsn.gov/culture/about-us"
+    },
+    {
+      "name": "Flandreau Santee Sioux Tribe, Historical Pipestone",
+      "url": "https://fsst-nsn.gov/culture/our-history/historical-pipestone"
+    },
+    {
+      "name": "American Presidency Project, Executive Order of February 27, 1866 (Niobrara Reserve)",
+      "url": "https://presidency.ucsb.edu/node/371192"
+    },
+    {
+      "name": "Kappler, Treaty with the Sioux ... and Arapaho, 1868 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-brule-oglala-miniconjou-yanktonai-hunkpapa-blackfeet-cuthead-two-kettle-sans-arcs-and-santee-and-arapaho-1868-0998"
+    },
+    {
+      "name": "SD State Archives, Indian Archives Project, Flandreau Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/flandreau.pdf"
+    },
+    {
+      "name": "SD Department of Tribal Relations, Flandreau Santee Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Flandreau-Santee-Sioux-Tribe.aspx"
+    }
+  ],
+  "notes": "Only two entries could be double-sourced. The 1851 cession, the 1869 homesteading by 25 families and the 1934 organization under the Indian Reorganization Act come from the Tribe's page only, so the summary leaves them undated. The Tribe's page also describes the 1862 executions. That was deliberately not included, because it is not a land event. The Tribe's page uses the word concentration camps for the post-1862 imprisonment, and the summary says imprisoned. A reviewer should decide whether to use the Tribe's own term, since the nation's word wins. Acreage: about 2,500 (Tribe), 2,356 (SD State Archives) and 2,184 trust (SD Tribal Relations). The Iowa Tribe also mentions a historic tie to the Minnesota pipestone quarry (see Iowa notes).",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

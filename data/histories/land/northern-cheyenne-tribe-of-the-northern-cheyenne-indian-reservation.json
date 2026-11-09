@@ -1,0 +1,60 @@
+{
+  "id": "northern-cheyenne-tribe-of-the-northern-cheyenne-indian-reservation",
+  "name": "Northern Cheyenne Tribe",
+  "land_summary": "In 1877, after the Battle of the Little Bighorn, the federal government sent the Northern Cheyenne south to Indian Territory. The next year, people led by Dull Knife (Morning Star) and Little Wolf made the long journey back north toward their own country. In 1884 an executive order set aside the Tongue River Reservation in southeastern Montana for them. A second order in 1900 enlarged it and set the middle of the Tongue River as its eastern edge, after settlers inside were bought out. A 1926 law divided farm and grazing land among tribal members but kept the minerals for the Tribe as a whole, and the U.S. Supreme Court upheld that arrangement in 1976. Today the reservation is about 444,000 acres and almost entirely tribally owned. A 2014 law returned the last outside-held mineral rights under it to the Tribe.",
+  "homelands": null,
+  "sacred_places": [],
+  "timeline": [
+    {
+      "year": "1884",
+      "event": "An executive order by President Chester A. Arthur sets aside a reservation for the Northern Cheyenne in southeastern Montana.",
+      "sources": [
+        "https://www.presidency.ucsb.edu/documents/executive-order-northern-cheyenne-reserve",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    },
+    {
+      "year": "1900",
+      "event": "An executive order by President William McKinley enlarges the reservation, with the Tongue River as its eastern boundary.",
+      "sources": [
+        "https://www.presidency.ucsb.edu/documents/executive-order-northern-cheyenne-reserve-montana",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    },
+    {
+      "year": "1976",
+      "event": "The U.S. Supreme Court rules that the reservation's minerals belong to the Tribe, not to individual allottees.",
+      "sources": [
+        "https://supreme.justia.com/cases/federal/us/425/649/",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": false,
+  "sources": [
+    {
+      "name": "Northern Cheyenne Tribe (official site)",
+      "url": "https://www.cheyennenation.com/"
+    },
+    {
+      "name": "Montana OPI, Montana Indians: Their History and Location (Northern Cheyenne section)",
+      "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+    },
+    {
+      "name": "American Presidency Project, Executive Order (Northern Cheyenne Reserve), Nov. 26, 1884",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-northern-cheyenne-reserve"
+    },
+    {
+      "name": "American Presidency Project, Executive Order (Northern Cheyenne Reserve, Montana), March 19, 1900",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-northern-cheyenne-reserve-montana"
+    },
+    {
+      "name": "Northern Cheyenne Tribe v. Hollowbreast, 425 U.S. 649 (1976), Justia",
+      "url": "https://supreme.justia.com/cases/federal/us/425/649/"
+    }
+  ],
+  "notes": "The 1926 allotment act is documented only in Hollowbreast, and the 2014 Cheyenne Lands Act (mineral rights to about 5,000 acres) and the Land Buy-Back figures only in OPI, so all three are undated. The 1877 removal and the 1878 journey north come from OPI only. They are framed briefly, with no battle or death-site details, and reviewers may want to trim or rework them. homelands is null: cheyennenation.com describes only the present reservation. OPI's Northern Cheyenne section describes the range from the North Platte headwaters to the Yellowstone, but I could not confirm that the Tribe wrote that section. Bear Butte is mentioned in OPI (a 2013 tribal land purchase next to Bear Butte State Park), but I found no Northern Cheyenne-published page naming it, so it is not listed in sacred_places. The Tribe's site and OPI give an 1884 order of 371,200 acres; the UCSB page says 765 square miles. Current acreage is 444,000 on the Tribe's site and 440,000 on the Governor's page.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

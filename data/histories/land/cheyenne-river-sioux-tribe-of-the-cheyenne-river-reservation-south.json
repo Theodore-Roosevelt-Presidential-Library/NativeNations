@@ -1,0 +1,103 @@
+{
+  "id": "cheyenne-river-sioux-tribe-of-the-cheyenne-river-reservation-south",
+  "name": "Cheyenne River Sioux Tribe",
+  "land_summary": "The Tribe traces its land base to the 1851 and 1868 Fort Laramie treaties and the Sioux Act of 1889. The 1868 treaty set aside the Great Sioux Reservation, Black Hills included. Congress took the Hills in 1877, and the 1889 act carved out a Cheyenne River Reservation for the Mnicoujou, Itazipco, Siha Sapa and Oohenumpa bands. Allotment followed, and a later act opened about 1.6 million acres to homesteaders, though the U.S. Supreme Court has held that this act did not shrink the reservation. In 1954 Congress took 104,420 acres of trust land along the Missouri for the Oahe Dam and reservoir, the Tribe's richest bottomland. Today the reservation covers Dewey and Ziebach counties, with the Missouri as its eastern edge and a trust land base of about 1.45 million acres.",
+  "timeline": [
+    {
+      "year": "1868",
+      "event": "The Fort Laramie Treaty sets aside the Great Sioux Reservation, including the Black Hills.",
+      "sources": [
+        "https://www.cheyenneriversioux.com/history",
+        "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+      ]
+    },
+    {
+      "year": "1877",
+      "event": "Congress takes the Black Hills from the Great Sioux Reservation.",
+      "sources": [
+        "https://supreme.justia.com/cases/federal/us/448/371/",
+        "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+      ]
+    },
+    {
+      "year": "1889",
+      "event": "The Sioux Act establishes the Cheyenne River Reservation.",
+      "sources": [
+        "https://www.cheyenneriversioux.com/history",
+        "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+      ]
+    },
+    {
+      "year": "1954",
+      "event": "Congress takes 104,420 acres of the Tribe's trust land for the Oahe Dam and reservoir.",
+      "sources": [
+        "https://supreme.justia.com/cases/federal/us/508/679/",
+        "https://www.govinfo.gov/content/pkg/CRPT-111srpt357/html/CRPT-111srpt357.htm"
+      ]
+    },
+    {
+      "year": "1980",
+      "event": "The U.S. Supreme Court upholds compensation for the Black Hills. The Sioux nations have not accepted the money.",
+      "sources": [
+        "https://supreme.justia.com/cases/federal/us/448/371/",
+        "https://www.pbs.org/newshour/show/why-the-sioux-are-refusing-1-3-billion"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://www.cheyenneriversioux.com/history",
+    "label": "Cheyenne River Sioux Tribe history page, which says the present land base was established by the 1851 and 1868 Fort Laramie treaties and the Sioux Act of 1889"
+  },
+  "disputed": true,
+  "homelands": null,
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Cheyenne River Sioux Tribe, History",
+      "url": "https://www.cheyenneriversioux.com/history"
+    },
+    {
+      "name": "National Archives, Treaty of Fort Laramie (1868)",
+      "url": "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+    },
+    {
+      "name": "Act of March 2, 1889, 25 Stat. 888 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+    },
+    {
+      "name": "Solem v. Bartlett, 465 U.S. 463 (1984), Justia",
+      "url": "https://supreme.justia.com/cases/federal/us/465/463/"
+    },
+    {
+      "name": "South Dakota v. Bourland, 508 U.S. 679 (1993), Justia",
+      "url": "https://supreme.justia.com/cases/federal/us/508/679/"
+    },
+    {
+      "name": "U.S. Senate Report 111-357",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-111srpt357/html/CRPT-111srpt357.htm"
+    },
+    {
+      "name": "U.S. Senate Report 107-214",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-107srpt214/html/CRPT-107srpt214.htm"
+    },
+    {
+      "name": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980), Justia",
+      "url": "https://supreme.justia.com/cases/federal/us/448/371/"
+    },
+    {
+      "name": "PBS NewsHour (2011)",
+      "url": "https://www.pbs.org/newshour/show/why-the-sioux-are-refusing-1-3-billion"
+    },
+    {
+      "name": "SD Department of Tribal Relations, Cheyenne River Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Cheyenne-River-Sioux-Tribe.aspx"
+    },
+    {
+      "name": "SD State Archives, Indian Archives Project, Cheyenne River Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/cheyenneriver.pdf"
+    }
+  ],
+  "notes": "Disputed is set to true for the shared Sioux Black Hills claim. No Cheyenne River-specific statement on the claim was found on the Tribe's site. The 1908 opening act and the 1984 Solem ruling come from Solem alone, so the summary leaves them undated. The Bourland opinion also notes about 18,000 acres of former non-Indian fee land taken for Oahe within the reservation. The Cheyenne River Sioux Tribe Equitable Compensation Act (Pub. L. 106-511, 2000) is documented only in Senate reports. ICT says the old Cheyenne River Agency was flooded; that is single-source and was left out. The Tribe's site mentions sacred items and the Sacred Calf Pipe. These are ceremonial and intentionally excluded. Band spellings follow the Tribe's site, which uses both Mnicoujou and Minnicoujou.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

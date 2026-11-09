@@ -1,0 +1,56 @@
+{
+  "id": "iowa-tribe-of-kansas-and-nebraska",
+  "name": "Iowa Tribe of Kansas and Nebraska",
+  "land_summary": "The Ioway were assigned land near the Great Nemaha River in 1836, in what is now northeast Kansas and southeast Nebraska, an area they shared with the Sac and Fox of Missouri. When Congress later created the Kansas and Nebraska territories, the new line ran across the reservation, which is how the Tribe came to carry both state names. In an 1861 treaty the Iowa ceded their land west of No Heart Creek so the Sac and Fox could have a permanent home. The remaining land became the Iowa reserve, whose boundaries stand today. Some of the people later moved to Indian Territory. Today the reservation covers about 12,038 acres in Brown and Doniphan counties, Kansas, and Richardson County, Nebraska. The Tribe controls about 6,000 of those acres, mostly in trust.",
+  "timeline": [
+    {
+      "year": "1836",
+      "event": "A treaty assigns the Iowa, with the Sac and Fox of Missouri, land near the Great Nemaha River west of the Missouri.",
+      "sources": [
+        "https://treaties.okstate.edu/treaties/treaty-with-the-iowa-etc-1836-0468",
+        "https://www.kansashistory.gov/kansapedia/brown-county-kansas/15263"
+      ]
+    },
+    {
+      "year": "1861",
+      "event": "A treaty with the Iowa and the Sac and Fox of Missouri sets the Iowa reservation's present boundaries.",
+      "sources": [
+        "https://iowatribeofkansasandnebraska.com/about-us/",
+        "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-etc-1861-0811",
+        "https://www.ioway.nativeweb.org/history/treaty1861.htm"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://iowatribeofkansasandnebraska.com/about-us/",
+    "label": "Iowa Tribe of Kansas and Nebraska, About Us (reservation of about 12,038 acres; current boundaries set by the Treaty of March 6, 1861)"
+  },
+  "disputed": false,
+  "homelands": "The Tribe traces its ancestors to the Oneota culture, named for the Upper Iowa River, and notes that the state of Iowa carries its name. By the mid-1800s, as settlers reached Iowa and wars pressed in from north and east, its villages had moved into northern Missouri. Today its reservation lies along the Kansas and Nebraska line, in Brown and Doniphan counties, Kansas, and Richardson County, Nebraska.",
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Iowa Tribe of Kansas and Nebraska, About Us",
+      "url": "https://iowatribeofkansasandnebraska.com/about-us/"
+    },
+    {
+      "name": "Kappler, Treaty with the Iowa, etc., 1836 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-iowa-etc-1836-0468"
+    },
+    {
+      "name": "Kappler, Treaty with the Sauk and Foxes, etc., 1861 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sauk-and-foxes-etc-1861-0811"
+    },
+    {
+      "name": "Ioway Cultural Institute, Treaty of 1861",
+      "url": "https://www.ioway.nativeweb.org/history/treaty1861.htm"
+    },
+    {
+      "name": "Kansas Historical Society, Kansapedia: Brown County, Kansas",
+      "url": "https://www.kansashistory.gov/kansapedia/brown-county-kansas/15263"
+    }
+  ],
+  "notes": "Only two entries could be double-sourced. The 1854 Kansas-Nebraska line, the 1854 Iowa treaty, the 1870s split (southern Ioway to Indian Territory), and Kansapedia's note that 1862 and 1863 treaties transferred Iowa and Kickapoo lands to a railroad are each single-source, so they are summarized without dates or left out. Acreage conflict: the Tribe says the reservation covers about 12,038 acres and it controls about 6,000. Kansapedia says 1,500 acres. The summary follows the Tribe. The Tribe's page says the ancestral Oneota were guardians of the pipestone quarry in Minnesota until about 1700. It does not call the site sacred, so it is not listed as a sacred place. A reviewer may ask the Tribe. The Ioway Cultural Institute is an Ioway-run educational site (scholarship tier), not the Tribe's government site.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

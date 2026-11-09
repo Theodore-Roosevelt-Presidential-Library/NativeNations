@@ -1,0 +1,48 @@
+{
+  "id": "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation",
+  "name": "Fort Peck Assiniboine & Sioux Tribes",
+  "land_summary": "The Assiniboine (Nakoda) and Sioux (Dakota and Lakota) bands at Fort Peck settled into reservation life after the buffalo herds collapsed in the 1880s. They negotiated through the winter of 1886–87 alongside neighboring nations. Under that agreement, which Congress ratified in 1888, the nations gave up about 17.5 million acres of a shared northern Montana reservation and accepted smaller ones. Fort Peck's present boundaries date from that act, with the Missouri River along its south edge. A 1908 law allotted land to tribal members and declared the rest surplus, and in 1913 about 1.35 million acres opened to non-Indian settlement. Much of the best cropland passed out of Indian hands. Many homesteads failed in the Depression, and some of that land later came back to the Tribes. Today the reservation spans about 2.1 million acres. A little under half is owned by the Tribes or tribal members, and the Tribes keep buying land back.",
+  "homelands": null,
+  "sacred_places": [],
+  "timeline": [
+    {
+      "year": "1888",
+      "event": "Congress ratifies the 1886–87 agreement, setting the Fort Peck Reservation's present boundaries.",
+      "sources": [
+        "https://fortpecktribes.org/visitor-opportunities/tribal-history/",
+        "https://www.govinfo.gov/link/statute/25/113"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "The Fort Peck Allotment Act provides for allotting reservation land to tribal members and selling the surplus.",
+      "sources": [
+        "https://fortpecktribes.org/visitor-opportunities/tribal-history/",
+        "https://www.govinfo.gov/link/statute/35/558"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": false,
+  "sources": [
+    {
+      "name": "Fort Peck Assiniboine & Sioux Tribes, Tribal History",
+      "url": "https://fortpecktribes.org/visitor-opportunities/tribal-history/"
+    },
+    {
+      "name": "Montana OPI, Montana Indians: Their History and Location (Fort Peck section)",
+      "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+    },
+    {
+      "name": "Act of May 1, 1888 (25 Stat. 113), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/25/113"
+    },
+    {
+      "name": "Act of May 30, 1908 (35 Stat. 558), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/35/558"
+    }
+  ],
+  "notes": "The 1913 opening (about 1,348,408 acres) is documented only on the Tribes' site, so it appears in the summary without a timeline entry. The 17.5 million acres, the Depression-era failures and the 1975 return of land come from OPI. The 1975 act is single-source and left undated. homelands is null: the Tribes' history page describes the reservation's location and mentions historic areas (Rosebud country, Red Water country, southern Saskatchewan) but gives no homeland description. The 1908 act was approved May 30, 1908, during T.R.'s term, but no source found names him as signer, so he is not mentioned. Acreage figures (2,093,318 total; about 926,000 Indian-owned) are from the Tribes' page.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

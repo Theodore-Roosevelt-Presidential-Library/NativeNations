@@ -1,0 +1,72 @@
+{
+  "id": "crow-tribe-of-montana",
+  "name": "Crow Tribe (Apsáalooke)",
+  "land_summary": "The Apsáalooke homeland once took in much of eastern Montana and northern Wyoming. The 1851 Fort Laramie Treaty recognized a Crow territory of more than 30 million acres, and the 1868 Fort Laramie Treaty reduced it to a reservation of about 8 million acres. Acts of Congress in the 1880s, 1890s and 1904 took further large cessions, often for a few cents an acre. The Crow have long held that they were never fairly paid, and they won a federal claims judgment in 1962. When senators pushed to open the rest of the reservation to homesteaders, the Tribe backed its own 1920 Crow Act instead. That law divided land among enrolled members and kept the mountain lands in common. Today the reservation covers about 2.2 million acres. Most of it is tribal or allotted trust land, and the Tribe buys fee land inside its boundaries as it comes up for sale.",
+  "homelands": "In the Crow section of Montana OPI's publication, which credits the Crow Tribe's website, the Apsáalooke are described as migrating west and claiming most of what is now eastern Montana and northern Wyoming as their homeland. In earlier times they traveled as the Mountain Crow, the River Crow and the Kicked in the Bellies.",
+  "sacred_places": [],
+  "timeline": [
+    {
+      "year": "1851",
+      "event": "The Fort Laramie Treaty recognizes a large Crow territory in present-day Montana, Wyoming and the Dakotas.",
+      "sources": [
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf",
+        "https://supreme.justia.com/cases/federal/us/450/544/"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "The second Fort Laramie Treaty sets aside a Crow Reservation of about 8 million acres.",
+      "sources": [
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf",
+        "https://supreme.justia.com/cases/federal/us/450/544/"
+      ]
+    },
+    {
+      "year": "1882",
+      "event": "An act of Congress takes a further large cession from the reservation.",
+      "sources": [
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf",
+        "https://supreme.justia.com/cases/federal/us/450/544/"
+      ]
+    },
+    {
+      "year": "1904",
+      "event": "Congress ratifies an 1899 agreement under which the Crow cede another portion of the reservation.",
+      "sources": [
+        "https://www.govinfo.gov/link/statute/33/352",
+        "https://supreme.justia.com/cases/federal/us/450/544/"
+      ]
+    },
+    {
+      "year": "1920",
+      "event": "The Crow Act, backed by the Tribe, allots the remaining reservation to enrolled members and keeps the mountain lands in common.",
+      "sources": [
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf",
+        "https://supreme.justia.com/cases/federal/us/450/544/"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": false,
+  "sources": [
+    {
+      "name": "Montana OPI, Montana Indians: Their History and Location (Crow section, citing crow-nsn.gov)",
+      "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+    },
+    {
+      "name": "Montana v. United States, 450 U.S. 544 (1981), Justia",
+      "url": "https://supreme.justia.com/cases/federal/us/450/544/"
+    },
+    {
+      "name": "Act of April 27, 1904 (33 Stat. 352), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/33/352"
+    },
+    {
+      "name": "Crow Tribe of Indians (official site)",
+      "url": "https://www.crow-nsn.gov/"
+    }
+  ],
+  "notes": "I could not find a history or land page on crow-nsn.gov (the CTHPO page lists staff and permit forms only). The Tribe's view of the cessions, that compensation was never adequate, is taken from OPI's Crow section, which footnotes crow-nsn.gov. Reviewers should get the Tribe's own wording. Conflicts: OPI gives 33 million acres for 1851, a cession in 1890 and the last major cession in 1905; Montana v. United States gives 38.5 million acres, acts of 1891 and 1904, and a 1937 act. The timeline uses the years with two sources. The 1891 act and the 1962 claims judgment ($10,242,984.70, OPI only) appear in the summary without dates in the timeline. The 1904 act was approved April 27, 1904, during T.R.'s term, but no source names him as signer, so he is not mentioned. disputed is set false because I found no current Crow boundary dispute. The coordinator's brief mentions the Crow view of later cessions, so reviewers may want to set it true if the Tribe considers any cession invalid. homelands relies on OPI quoting the Tribe's site, not on a page I could read directly.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

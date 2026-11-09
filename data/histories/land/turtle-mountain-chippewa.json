@@ -1,0 +1,73 @@
+{
+  "id": "turtle-mountain-chippewa",
+  "name": "Turtle Mountain Band of Chippewa Indians",
+  "land_summary": "An 1882 executive order reserved about 20 townships in the Turtle Mountains for the Turtle Mountain Chippewa. Two years later another order cut that to two townships, a block about 6 by 12 miles in Rolette County. In 1892 federal commissioners and a council chosen by the Indian agent negotiated the McCumber Agreement, often called the Ten-cent Treaty, which gave up the Band's claim to roughly 9 million acres. Congress ratified a changed version in 1904 for $1 million. Because the small reservation could not hold allotments for everyone, members took allotments on public-domain land in North Dakota, Montana and South Dakota. About 390 families went to the Trenton area of Williams County, where allotments once totaled 131,000 acres. Today the Band and its members hold about 79,000 acres in North Dakota, and a similar amount in Montana and South Dakota. The Trenton Indian Service Area, created by tribal ordinance, has no reservation.",
+  "timeline": [
+    {
+      "year": "1882",
+      "event": "An executive order reserves a large tract in the Turtle Mountains, about 20 townships, for the Band.",
+      "sources": [
+        "https://www.ndstudies.gov/gr8/node/182",
+        "https://www.presidency.ucsb.edu/node/372248"
+      ]
+    },
+    {
+      "year": "1884",
+      "event": "Executive orders return most of the tract to the public domain and leave two townships as the reservation.",
+      "sources": [
+        "https://www.ndstudies.gov/gr8/node/182",
+        "https://www.presidency.ucsb.edu/node/372248",
+        "https://www.presidency.ucsb.edu/node/372249"
+      ]
+    },
+    {
+      "year": "1892",
+      "event": "The McCumber Agreement is negotiated, ceding the Band's wider land claim for about ten cents an acre.",
+      "sources": [
+        "https://www.ndstudies.gov/gr8/node/182",
+        "https://treaties.okstate.edu/treaties/agreement-with-the-turtle-mountain-chippewa-1892-22359"
+      ]
+    },
+    {
+      "year": "1904",
+      "event": "Congress ratifies an amended version of the 1892 agreement, and members begin taking allotments on public-domain land, including near Trenton.",
+      "sources": [
+        "https://www.ndstudies.gov/gr8/node/182",
+        "https://www.AttorneyGeneral.nd.gov/wp-content/uploads/2023/03/94-L-174.pdf"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": false,
+  "homelands": null,
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "ND Studies (SHSND), Section 12: Turtle Mountain",
+      "url": "https://www.ndstudies.gov/gr8/node/182"
+    },
+    {
+      "name": "American Presidency Project, Executive Order of March 29, 1884",
+      "url": "https://www.presidency.ucsb.edu/node/372248"
+    },
+    {
+      "name": "American Presidency Project, Executive Order of June 3, 1884",
+      "url": "https://www.presidency.ucsb.edu/node/372249"
+    },
+    {
+      "name": "Kappler, Agreement with the Turtle Mountain Chippewa, 1892 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-turtle-mountain-chippewa-1892-22359"
+    },
+    {
+      "name": "ND Attorney General Letter Opinion 94-L-174 (Trenton Indian Service Area)",
+      "url": "https://www.AttorneyGeneral.nd.gov/wp-content/uploads/2023/03/94-L-174.pdf"
+    },
+    {
+      "name": "BIA, Turtle Mountain Agency",
+      "url": "https://bia.gov/regional-offices/great-plains/north-dakota/turtle-mountain-agency"
+    }
+  ],
+  "notes": "Trenton Indian Service Area: the ND Attorney General letter says TISA was set up by Turtle Mountain tribal Ordinance 28 in 1975 and acknowledged by the BIA in 1976. It also says Trenton has no reservation and that the area's Indian-country status is unresolved. The letter is the only source for these dates, so they are not in the timeline. The Trenton allotment figure (131,000 acres) comes from the AG letter. The letter says only about 22,000 acres were still owned by the early 1970s. The 79,176-acre figure comes from the BIA agency page. The Band's own site (tmbci.org) blocks automated fetching, so no nation statement on homelands or boundaries was found. A reviewer should check the Band's own materials. ND Studies notes that 520 people were removed from the rolls in 1892 and that Little Shell's followers were excluded from the talks. The Little Shell Chippewa in Montana are a separate nation. The Band's view of the Ten-cent Treaty as unfair is widely held but was not found on a nation page, so the summary describes the agreement factually.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

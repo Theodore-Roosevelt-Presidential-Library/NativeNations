@@ -1,0 +1,98 @@
+{
+  "id": "standing-rock-sioux",
+  "name": "Standing Rock Sioux Tribe",
+  "land_summary": "In the Tribe's own account, Standing Rock began as part of the Great Sioux Reservation set aside by the 1868 Fort Laramie Treaty. That reservation took in all of present-day South Dakota west of the Missouri, including the Black Hills. Congress removed the Black Hills in 1877 without the consent of three-fourths of adult men that the treaty required. A later executive order moved the reservation's northern line up to the Cannonball River. In 1889 Congress split the Great Sioux Reservation into six reservations, Standing Rock among them, and the Tribe states that its 1889 boundaries have stayed intact since. Later, the Oahe Dam flooded about 56,000 acres of the Tribe's Missouri River bottomland. Today the reservation straddles the North Dakota and South Dakota line, with a trust land base of about 841,700 acres.",
+  "timeline": [
+    {
+      "year": "1868",
+      "event": "The Fort Laramie Treaty sets aside the Great Sioux Reservation, including the Black Hills.",
+      "sources": [
+        "https://www.standingrock.org/about/history/",
+        "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+      ]
+    },
+    {
+      "year": "1877",
+      "event": "Congress removes the Black Hills from the Great Sioux Reservation without the consent the treaty required.",
+      "sources": [
+        "https://www.standingrock.org/about/history/",
+        "https://supreme.justia.com/cases/federal/us/448/371/"
+      ]
+    },
+    {
+      "year": "1889",
+      "event": "Congress divides the Great Sioux Reservation into separate reservations and sets the Standing Rock boundaries.",
+      "sources": [
+        "https://www.standingrock.org/about/history/",
+        "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+      ]
+    },
+    {
+      "year": "1980",
+      "event": "The U.S. Supreme Court holds that the 1877 taking of the Black Hills requires just compensation. The Sioux nations have not accepted the money.",
+      "sources": [
+        "https://supreme.justia.com/cases/federal/us/448/371/",
+        "https://www.pbs.org/newshour/show/why-the-sioux-are-refusing-1-3-billion"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://www.standingrock.org/about/history/",
+    "label": "Standing Rock Sioux Tribe history page, which states that the boundaries set in section 3 of the 1889 act remain intact"
+  },
+  "disputed": true,
+  "homelands": "The Tribe's site describes two peoples. Its Yanktonai (Dakota) relatives came out of the woodlands near the Great Lakes onto the prairie, where they traded with the river villages of the Mandan, Hidatsa and Arikara. Its Hunkpapa and Sihasapa (Lakota) relatives ranged from the Cheyenne River north to the Heart River, and from the Missouri west to the Tongue River. Today the Yanktonai live mostly on the North Dakota side of the reservation and the Lakota mostly on the South Dakota side.",
+  "sacred_places": [
+    {
+      "name": "Black Hills (Paha Sapa)",
+      "nation_source_url": "https://www.standingrock.org/about/history/",
+      "public_status": "mixed: mostly Black Hills National Forest, with National Park Service units, Custer State Park and private land",
+      "note": "The Tribe calls the Black Hills sacred and says Congress took them from the Great Sioux Reservation in 1877 without the consent the 1868 treaty required."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Standing Rock Sioux Tribe, History",
+      "url": "https://www.standingrock.org/about/history/"
+    },
+    {
+      "name": "Standing Rock Sioux Tribe, About",
+      "url": "https://www.standingrock.org/about/"
+    },
+    {
+      "name": "National Archives, Treaty of Fort Laramie (1868)",
+      "url": "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+    },
+    {
+      "name": "Kappler, Treaty with the Sioux ... and Arapaho, 1868 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-brule-oglala-miniconjou-yanktonai-hunkpapa-blackfeet-cuthead-two-kettle-sans-arcs-and-santee-and-arapaho-1868-0998"
+    },
+    {
+      "name": "United States v. Sioux Nation of Indians, 448 U.S. 371 (1980), Justia",
+      "url": "https://supreme.justia.com/cases/federal/us/448/371/"
+    },
+    {
+      "name": "Act of March 2, 1889, 25 Stat. 888 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+    },
+    {
+      "name": "PBS NewsHour, Why the Sioux Are Refusing $1.3 Billion (2011)",
+      "url": "https://www.pbs.org/newshour/show/why-the-sioux-are-refusing-1-3-billion"
+    },
+    {
+      "name": "U.S. Senate Report 107-214",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-107srpt214/html/CRPT-107srpt214.htm"
+    },
+    {
+      "name": "SD Department of Tribal Relations, Standing Rock Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Standing-Rock-Sioux-Tribe.aspx"
+    },
+    {
+      "name": "SD State Archives, Indian Archives Project, Standing Rock Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/standingrock.pdf"
+    }
+  ],
+  "notes": "Dispute: The Tribe, like the other Lakota nations, holds that the Black Hills were taken unlawfully. The Sioux nations have not accepted the Black Hills claim award (the Court of Claims set $17.1 million plus interest, which the Supreme Court affirmed in 1980), saying the land is not for sale. The 1875 executive order extending the northern line to the Cannonball River is documented only on the Tribe's page, so the summary leaves it undated. Oahe flooding: Senate reports give about 56,000 acres (55,994 in Senate Report 111-357). No second independent source gave dates, so the summary leaves it undated. The 1992 Equitable Compensation trust fund is documented only in Senate reports. Trust land base: 841,700 acres (SD Tribal Relations) versus 562,366 acres (SD State Archives). Reviewers should confirm with the Tribe. The Tribe also calls the Missouri River life-giving but does not call it sacred on the page reviewed, so it is not listed. The 2016 to 2017 Dakota Access dispute was not researched and is outside this land-base scope.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

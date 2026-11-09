@@ -76,6 +76,8 @@ def fact_rows(n):
     row("State" + ("s" if len(n["states"]) > 1 else ""), ", ".join(f'<a href="/states/{s.lower()}/">{e(STATE_NAMES.get(s, s))}</a>' for s in n["states"]))
     if n["hq"]: row("Tribal government headquarters", e(f'{n["hq"]["city"]}, {STATE_NAMES.get(n["hq"]["state"], n["hq"]["state"])}'))
     if n["nearest_town"] and (not n["hq"] or n["nearest_town"] != n["hq"]["city"]): row("Nearest town", e(n["nearest_town"]))
+    if n.get("areas"):
+        row("Reservation and trust land", "<br>".join(f'{e(a["name"])} <span class="caption">({a["land_sq_mi"]:,} sq mi of land, U.S. Census)</span>' for a in n["areas"]))
     if n["bia_region"]: row("BIA region", e(n["bia_region"]))
     if n["official_website"]:
         u = n["official_website"]; host = urllib.parse.urlsplit(u).netloc.replace("www.", "")
@@ -126,8 +128,8 @@ def fact_page(n):
     desc = f'Plan a visit with {n["name"]}: official website, tourism links and tribal government headquarters in {where}.'
     mapblock = ""
     if loc:
-        mapblock = f"""<h2>Where</h2><div id="minimap" class="minimap" data-lat="{loc['lat']}" data-lon="{loc['lon']}" data-label="{e(n['name'])}"></div>
-<p class="caption">The point marks the tribal government headquarters, not the nation&rsquo;s homelands or reservation boundary. <a href="https://native-land.ca/" rel="noopener">Explore Indigenous territories on Native Land Digital</a>.</p>"""
+        mapblock = f"""<h2>Where</h2><div id="minimap" class="minimap" style="height:340px" data-lat="{loc['lat']}" data-lon="{loc['lon']}" data-label="{e(n['name'])}" data-areas="{",".join(a["aiannhce"] for a in n.get("areas", []))}"></div>
+<p class="caption">The point marks the tribal government headquarters.{" Shaded areas are reservation and trust land as drawn by the U.S. Census Bureau (TIGER/Line 2026). These are legal boundaries, not homelands, and some nations describe theirs differently." if n.get("areas") else ""} <a href="https://native-land.ca/" rel="noopener">Explore Indigenous territories on Native Land Digital</a>.</p>"""
     snippet = e(f'<div data-nativenations="card" data-id="{n["id"]}"></div>\n<script src="{BASE}/embed.js" async></script>')
     body = f"""<section class="fact-hero"><div class="wrap">
 <div class="crumb"><a href="/">All nations</a> &rsaquo; {" / ".join(f'<a href="/states/{s.lower()}/">{e(STATE_NAMES.get(s, s))}</a>' for s in n["states"])}</div>
@@ -142,6 +144,8 @@ def fact_page(n):
 <p class="caption" style="margin-top:14px">Before you go, read the <a href="{KBYG}" rel="noopener">Know Before You Go guides</a> from the American Indigenous Tourism Association. Each nation sets its own rules for photography, ceremonies and permits.</p>
 {history_block("nations", n["id"])}
 {history_links(n)}
+{land_block(n)}
+{cession_block(n)}
 {mapblock}
 </div>
 <aside>
@@ -173,6 +177,52 @@ def history_block(kind, id_):
 <p class="label" style="color:var(--night)">Draft &middot; not yet reviewed by the nation{"s" if kind == "peoples" else ""} or the Library&rsquo;s historians</p>
 {paras}
 <details><summary class="caption">Sources</summary><ul class="caption">{srcs}</ul></details>"""
+
+def cession_block(n):
+    cs = n.get("cessions") or []
+    if not cs:
+        return ""
+    rows = "".join(
+        f'<li><b>{e((c.get("date") or "")[:4] or "Date unknown")}</b> Royce cession {e(c["cession"])}'
+        f'<span class="caption"> &middot; Named in the 1899 record: {e(c.get("royce_tribes") or "")}'
+        + (f' &middot; <a href="{e(c["treaty_url"])}" rel="noopener" target="_blank">Treaty or act</a>' if c.get("treaty_url") else "")
+        + (f' &middot; <a href="{e(c["royce_url"])}" rel="noopener" target="_blank">Royce schedule</a>' if c.get("royce_url") else "")
+        + "</span></li>" for c in cs)
+    years = sorted({c["date"][:4] for c in cs if c.get("date")})
+    span = f" between {years[0]} and {years[-1]}" if len(years) > 1 else ""
+    return f"""<h2>Lands ceded by treaty</h2>
+<p>The U.S. Forest Service links {len(cs)} land cession{"s" if len(cs) != 1 else ""}{span} to this nation, drawn from Charles Royce&rsquo;s 1899 maps of lands the United States recorded as ceded. Many cessions were made under pressure or by people who did not speak for every band, and nations may tell this history differently. The nation&rsquo;s own account governs here.</p>
+<details><summary class="caption">See the cessions, with links to each treaty</summary><ol class="timeline">{rows}</ol>
+<p class="caption">Source: USDA Forest Service, <a href="https://catalog.data.gov/dataset/tribal-lands-ceded-to-the-united-states-feature-layer" rel="noopener">Tribal Lands Ceded to the United States</a> (CC BY 4.0). The Forest Service notes these links to present-day nations are being re-evaluated. Turn on &ldquo;Treaty cessions&rdquo; on the <a href="/map.html">map</a> to see the areas.</p></details>"""
+
+
+def land_block(n):
+    f = HIST / "land" / f"{n['id']}.json"
+    h = json.loads(f.read_text()) if f.exists() else None
+    if h and h.get("hold"):
+        h = None
+    if not h and not n.get("areas"):
+        return ""
+    out = ['<h2>The land</h2>']
+    if h:
+        out.append('<p class="label" style="color:var(--night)">Draft &middot; not yet reviewed by the nation or the Library&rsquo;s historians</p>')
+        out += [f"<p>{e(par)}</p>" for par in h["land_summary"].split("\n\n")]
+        if h.get("homelands"):
+            out.append(f'<h3 style="margin-top:20px">Homelands, in the nation&rsquo;s words</h3><p>{e(h["homelands"])}</p>')
+        if h.get("sacred_places") and h.get("sacred_places_approved"):
+            out.append('<h3 style="margin-top:20px">Places the nation holds sacred</h3><ul class="linklist">' + "".join(
+                f'<li>{e(sp["name"])}<span class="caption">{e(sp.get("note", ""))} <a href="{e(sp["nation_source_url"])}" rel="noopener" target="_blank">The nation&rsquo;s words</a></span></li>' for sp in h["sacred_places"]) + "</ul>"
+                + '<p class="caption">Treat these places as the nation asks. Follow its guidance before visiting any of them.</p>')
+        if h.get("nation_boundary_statement"):
+            b = h["nation_boundary_statement"]
+            out.append(f'<p><a href="{e(b["url"])}" rel="noopener" target="_blank">{e(b.get("label") or "The nation&rsquo;s own map and boundary description")}</a></p>')
+        if h.get("disputed"):
+            out.append('<p class="empty">The nation describes its boundaries differently from the federal record. Its own description governs here.</p>')
+        if h.get("timeline"):
+            out.append('<ol class="timeline">' + "".join(f'<li><b>{e(t["year"])}</b> {e(t["event"])}</li>' for t in h["timeline"]) + "</ol>")
+        srcs = "".join(f'<li><a href="{e(x["url"])}" rel="noopener">{e(x["name"])}</a></li>' for x in h.get("sources", []))
+        out.append(f'<details><summary class="caption">Sources</summary><ul class="caption">{srcs}</ul></details>')
+    return "\n".join(out)
 
 def filters_html():
     states = sorted({s for n in nations for s in n["states"]}, key=lambda s: STATE_NAMES.get(s, s))
@@ -242,8 +292,8 @@ def build_states():
 <aside>
 {partner}
 <h2>Where</h2>
-<div id="statemap" class="minimap" style="height:340px" data-state="{code}"></div>
-<p class="caption">Points mark tribal government headquarters, not homelands or reservation boundaries. A nation whose lands cross state lines appears on each state&rsquo;s page.</p>
+<div id="statemap" class="minimap" style="height:340px" data-state="{code}" data-areas="{",".join(sorted({a["aiannhce"] for n in members for a in n.get("areas", [])}))}"></div>
+<p class="caption">Points mark tribal government headquarters; shaded areas are reservation and trust land (U.S. Census). Neither shows homelands. A nation whose lands cross state lines appears on each state&rsquo;s page.</p>
 <p class="caption" style="margin-top:14px">Before you go, read the <a href="{KBYG}" rel="noopener">Know Before You Go guides</a> from the American Indigenous Tourism Association.</p>
 <h2>Embed this list</h2>
 <div class="snippet">{snippet}</div>
@@ -298,8 +348,8 @@ def build_peoples():
 {sub}
 {('<h2>Related peoples</h2><p class="caption">Related, but each identifies as its own people.</p><ul class="linklist">' + "".join(f'<li><a href="/peoples/{r}/">{e(pby[r]["name"])}</a></li>' for r in p.get("related", []) if r in pby) + '</ul>') if p.get("related") else ""}
 </div><aside>
-<h2>Where</h2><div id="peoplemap" class="minimap" style="height:340px" data-ids="{",".join(p["nations"])}"></div>
-<p class="caption">Points mark tribal government headquarters today, not homelands or historic territories. For territories, see <a href="https://native-land.ca/" rel="noopener">Native Land Digital</a>.</p>
+<h2>Where</h2><div id="peoplemap" class="minimap" style="height:340px" data-ids="{",".join(p["nations"])}" data-areas="{",".join(sorted({a["aiannhce"] for i in p["nations"] for a in byid[i].get("areas", [])}))}"></div>
+<p class="caption">Points mark tribal government headquarters today; shaded areas are reservation and trust land (U.S. Census). Neither shows homelands or historic territories. For territories, see <a href="https://native-land.ca/" rel="noopener">Native Land Digital</a>.</p>
 <p class="caption"><a href="/api/v1/peoples.json">JSON</a></p>
 </aside></div><script src="/assets/map.js" defer></script>"""
         write(f'peoples/{p["id"]}/index.html', page(p["name"], body, desc=f'{p["name"]}: the federally recognized nations today and links to their own tourism pages.',
@@ -329,7 +379,7 @@ def build():
 
     write("map.html", page("Map of Native nations", f"""<div class="wrap"><h1 style="margin-top:28px">Map</h1>
 {filters_html()}
-<div class="legend"><span><i class="dot links"></i>Tourism links added</span><span><i class="dot basic"></i>Federal facts only</span><span class="caption">Points mark tribal government headquarters, not homelands or reservation boundaries.</span></div>
+<div class="legend"><span><i class="dot links"></i>Tourism links added</span><span><i class="dot basic"></i>Federal facts only</span><label class="check" style="padding:0"><input type="checkbox" id="bnd" checked> Reservation and trust land (U.S. Census)</label><label class="check" style="padding:0"><input type="checkbox" id="ces"> Treaty cessions (Royce, 1899)</label><span class="caption">Points mark tribal government headquarters. Boundaries are legal geography, not homelands.</span></div>
 <div class="mapwrap"><div id="map" role="region" aria-label="Map of tribal government headquarters"></div></div><p class="count" id="count" aria-live="polite"></p></div>
 <script src="/assets/map.js" defer></script>""", desc="Map of federally recognized Native nations with links to their tourism resources.", path="/map.html", nav="map", extra_head=LEAFLET))
 
@@ -361,6 +411,8 @@ def build():
 <tr><th>data-visit</th><td><code>1</code> to show only nations with tourism links</td></tr>
 <tr><th>data-limit</th><td>Maximum rows (list). Without filters, lists show 24 unless you set this.</td></tr>
 <tr><th>data-height</th><td>Map height in pixels (map)</td></tr>
+<tr><th>data-cessions</th><td><code>1</code> draws treaty cession areas (Royce, 1899, via the USDA Forest Service) on a map widget</td></tr>
+<tr><th>data-boundaries</th><td><code>1</code> draws reservation and trust land boundaries on a map widget</td></tr>
 <tr><th>data-filters</th><td><code>1</code> adds a search box and state filter to a list</td></tr>
 <tr><th>data-people</th><td>People id, e.g. <code>lakota</code> (list, map)</td></tr>
 <tr><th>data-name</th><td>Name a widget when a page has more than one, so each gets its own address parameters</td></tr>
@@ -378,6 +430,9 @@ https://your-site.org/plan-your-trip?nn-people=dakota&amp;nn-visit=1</div>
 <tr><th><a href="/api/v1/nations.json">/api/v1/nations.json</a></th><td>Full records</td></tr>
 <tr><th>/api/v1/nations/{{id}}.json</th><td>One nation</td></tr>
 <tr><th><a href="/api/v1/nations.geojson">/api/v1/nations.geojson</a></th><td>Headquarters points</td></tr>
+<tr><th><a href="/api/v1/boundaries/overview.geojson">/api/v1/boundaries/overview.geojson</a></th><td>All matched reservation and trust land areas, simplified (U.S. Census TIGER/Line 2026)</td></tr>
+<tr><th><a href="/api/v1/cessions.geojson">/api/v1/cessions.geojson</a></th><td>Treaty cession areas from Royce&rsquo;s 1899 maps, digitized by the USDA Forest Service (CC BY 4.0); not legal boundaries or homelands</td></tr>
+<tr><th>/api/v1/boundaries/{{aiannhce}}.geojson</th><td>One area in more detail; codes are listed on each nation&rsquo;s <code>areas</code></td></tr>
 <tr><th><a href="/api/v1/vocab.json">/api/v1/vocab.json</a></th><td>Link types, tags, alliances</td></tr>
 <tr><th><a href="/api/v1/meta.json">/api/v1/meta.json</a></th><td>Counts, build date, license</td></tr>
 </table>

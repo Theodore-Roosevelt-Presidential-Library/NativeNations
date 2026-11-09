@@ -1,0 +1,68 @@
+{
+  "id": "yankton-sioux-tribe-of-south-dakota",
+  "name": "Yankton Sioux Tribe",
+  "land_summary": "In an 1858 treaty the Ihanktonwan ceded most of their lands and kept a reservation of about 400,000 acres on the east bank of the Missouri, in what is now Charles Mix County, South Dakota. Allotment followed. In an 1892 agreement, ratified in 1894, the Tribe sold about 168,000 acres of unallotted land for $600,000, and that land was opened to white settlement. In 1998 the U.S. Supreme Court held that the sold land lost reservation status. A later federal appeals ruling held that the reservation was diminished but not ended, so trust allotments, agency land and trust land reacquired by the Tribe remain Indian country. Fort Randall Dam flooded about 2,851 acres of Yankton land. Today tribal trust land totals roughly 37,000 to 40,000 acres, scattered among privately owned land.",
+  "timeline": [
+    {
+      "year": "1858",
+      "event": "A treaty cedes most Ihanktonwan land and reserves about 400,000 acres along the Missouri.",
+      "sources": [
+        "https://treaties.okstate.edu/treaties/treaty-with-the-yankton-sioux-1858-0776",
+        "https://law.justia.com/cases/federal/appellate-courts/ca8/08-1441/081441p-2011-02-25.html"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Congress ratifies the 1892 agreement selling about 168,000 acres of unallotted land, which is then opened to settlers.",
+      "sources": [
+        "https://law.justia.com/cases/federal/appellate-courts/ca8/08-1441/081441p-2011-02-25.html",
+        "https://treaties.okstate.edu/treaties/agreement-with-the-yankton-sioux-1892-22365"
+      ]
+    },
+    {
+      "year": "1998",
+      "event": "The U.S. Supreme Court holds that the land sold in 1894 is no longer reservation land.",
+      "sources": [
+        "https://www.law.cornell.edu/supremecourt/text/522/329",
+        "https://law.justia.com/cases/federal/appellate-courts/ca8/08-1441/081441p-2011-02-25.html"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": true,
+  "homelands": null,
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Kappler, Treaty with the Yankton Sioux, 1858 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-yankton-sioux-1858-0776"
+    },
+    {
+      "name": "Kappler, Agreement with the Yankton Sioux, 1892 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-yankton-sioux-1892-22365"
+    },
+    {
+      "name": "South Dakota v. Yankton Sioux Tribe, 522 U.S. 329 (1998), Cornell LII",
+      "url": "https://www.law.cornell.edu/supremecourt/text/522/329"
+    },
+    {
+      "name": "Yankton Sioux Tribe v. Podhradsky (8th Cir. 2010, amended), Justia",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca8/08-1441/081441p-2011-02-25.html"
+    },
+    {
+      "name": "U.S. Senate Report 106-367",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-106srpt367/html/CRPT-106srpt367.htm"
+    },
+    {
+      "name": "SD Department of Tribal Relations, Yankton Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Yankton-Sioux-Tribe.aspx"
+    },
+    {
+      "name": "SD State Archives, Indian Archives Project, Yankton Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/yankton.pdf"
+    }
+  ],
+  "notes": "Disputed is set to true because the reservation's extent has been litigated for decades. The Tribe argued in court that its 1858 boundaries remain, and the 8th Circuit held in 2010 that the reservation was diminished but not disestablished. No nation-published statement of its current boundary position was found. The Tribe's homepage (yanktonsiouxtribe.net) has no history, boundary or map pages. A reviewer should ask the Tribe how it states its position. The 2010 ruling date rests on the Justia copy of the opinion alone, so the summary leaves it undated. The 1858 treaty cited about 400,000 acres, and a later survey found 430,405. The Senate report gives about 2,851 acres taken by Fort Randall, plus erosion losses of about 408 to 428 acres. ICT says the White Swan community was submerged, but that is single-source and was left out. Trust land: 36,741 acres (SD Tribal Relations) versus 40,000 acres (SD State Archives). The 2002 Yankton Sioux and Santee Sioux Tribes Equitable Compensation Act is documented only in Senate reports.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

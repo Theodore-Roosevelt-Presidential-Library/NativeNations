@@ -1,0 +1,60 @@
+{
+  "id": "crow-creek-sioux-tribe-of-the-crow-creek-reservation-south-dakota",
+  "name": "Crow Creek Sioux Tribe",
+  "land_summary": "Crow Creek lies on the east bank of the Missouri in central South Dakota. Lower Yanktonai families settled at the Crow Creek Agency. After the 1862 war in Minnesota, Santee Dakota and Winnebago people were forced there too, and both groups were later moved to Nebraska. In 1885 an executive order threw the east-bank reservation open to settlers, but within weeks a new president declared the order void, finding the land still reserved under the 1868 treaty. Congress set the reservation's lasting boundaries in the 1889 act that divided the Great Sioux Reservation. Fort Randall and Big Bend dams later flooded about 15,600 acres of the Tribe's Missouri River bottomland. Today the land base is about 125,000 acres in Buffalo, Hyde and Hughes counties, with Lake Sharpe and Lake Francis Case along its edges.",
+  "timeline": [
+    {
+      "year": "1885",
+      "event": "An executive order opens the Crow Creek lands east of the Missouri to settlers. Weeks later President Cleveland declares it void and orders settlers off.",
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf",
+        "https://presidency.ucsb.edu/node/205898"
+      ]
+    },
+    {
+      "year": "1889",
+      "event": "Congress sets apart Crow Creek as a permanent reservation in the act dividing the Great Sioux Reservation.",
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf",
+        "https://aktalakota.stjo.org/tribal-lands/crow-creek-sioux-reservation/"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": false,
+  "homelands": null,
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "SD State Archives, Indian Archives Project, Crow Creek Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/crowcreek.pdf"
+    },
+    {
+      "name": "Act of March 2, 1889, 25 Stat. 888 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+    },
+    {
+      "name": "American Presidency Project, Proclamation 268 (April 17, 1885)",
+      "url": "https://presidency.ucsb.edu/node/205898"
+    },
+    {
+      "name": "St. Joseph's Indian School, Crow Creek Sioux Reservation",
+      "url": "https://aktalakota.stjo.org/tribal-lands/crow-creek-sioux-reservation/"
+    },
+    {
+      "name": "U.S. Senate Report 107-214",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-107srpt214/html/CRPT-107srpt214.htm"
+    },
+    {
+      "name": "U.S. Senate Report 111-357",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-111srpt357/html/CRPT-111srpt357.htm"
+    },
+    {
+      "name": "SD Department of Tribal Relations, Crow Creek Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Crow-Creek-Sioux-Tribe.aspx"
+    }
+  ],
+  "notes": "Only two dated entries could be double-sourced. No Crow Creek Sioux Tribe website with history was found. SD Tribal Relations links only an enrollment site, so there is no nation statement, homelands text or sacred places. The SD State Archives page says Lower Yanktonai settled at Crow Creek after the treaty of 1859 (the Yankton treaty was signed in 1858 and ratified in 1859). It names a violent 1857 event; that detail was deliberately left out. The same page says President Hayes set aside a 65,000-acre James River reservation for Drifting Goose's Hunkpati band, given up in 1880. That is single-source and not used. Dam acreage: 15,693 (Senate Report 107-214) versus 15,565 (Senate Report 111-357). ICT says Fort Thompson was flooded, but that is single-source and was left out. St. Joseph's Indian School is a scholarship-tier source. A reviewer should prefer a tribal or THPO source if one exists. The 1996 Infrastructure Development Trust Fund (Pub. L. 104-223) is documented only in Senate reports.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

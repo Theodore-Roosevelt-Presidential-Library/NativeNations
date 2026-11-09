@@ -1,0 +1,74 @@
+{
+  "id": "blackfeet-tribe-of-the-blackfeet-indian-reservation-of-montana",
+  "name": "Blackfeet Nation",
+  "land_summary": "The Blackfeet homeland once stretched across most of northern Montana. The 1851 Fort Laramie Treaty described a vast Blackfeet territory, and the 1855 Lame Bull Treaty set much of it aside as a shared hunting ground. In 1873 and 1874, presidential orders and acts of Congress moved the southern boundary far north and opened the land below it to settlement. The buffalo vanished and a starvation winter followed. Then an 1888 agreement gave up more land and drew separate boundaries for the Blackfeet, Fort Belknap and Fort Peck reservations. In 1895 federal commissioners bought the mountains along the reservation's western edge, and Congress ratified the deal in 1896. The Blackfeet reserved rights to hunt, fish and cut timber in that ceded strip, which later became part of Glacier National Park and national forest land. How much land and money the agreement covered is still disputed. Today the reservation covers about 1.5 million acres, bordered by Glacier National Park on the west and Canada on the north.",
+  "homelands": "The Blackfeet Nation says its original 1855 reservation covered most of the northern half of Montana. It describes today's reservation in northwest Montana as bordered by Glacier National Park on the west and Canada on the north, with forests, more than 500 miles of streams, eight large lakes and many other waters.",
+  "sacred_places": [
+    {
+      "name": "Badger-Two Medicine",
+      "nation_source_url": "https://blackfeetnation.com/2023/09/20/blackfeet-nation-statement-on-badger-two-medicine-court-settlement/",
+      "public_status": "national forest land; designated a Traditional Cultural District",
+      "note": "The Blackfeet Nation calls the area a sacred place, a cultural touchstone and a refuge for its people, and has worked for decades to end oil and gas leasing there."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1855",
+      "event": "A treaty with the Blackfeet and neighboring nations sets aside a large reservation, much of it as a common hunting ground.",
+      "sources": [
+        "https://blackfeetnation.com/lands/",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    },
+    {
+      "year": "1888",
+      "event": "Congress ratifies an agreement that cedes more land and sets separate boundaries for the Blackfeet, Fort Belknap and Fort Peck reservations.",
+      "sources": [
+        "https://www.govinfo.gov/link/statute/25/113",
+        "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Congress ratifies the 1895 sale of the mountain strip on the reservation's western edge, in which the Blackfeet reserve hunting, fishing and timber rights.",
+      "sources": [
+        "https://www.govinfo.gov/link/statute/29/353",
+        "https://supreme.justia.com/cases/federal/district-courts/FSupp2/121/1309/2505225/"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://blackfeetnation.com/watercompact/map/",
+    "label": "Blackfeet Nation Water Compact map (verify whether it shows the reservation boundary)"
+  },
+  "disputed": true,
+  "sources": [
+    {
+      "name": "Blackfeet Nation, Our Lands",
+      "url": "https://blackfeetnation.com/lands/"
+    },
+    {
+      "name": "Blackfeet Nation Statement on Badger-Two Medicine Court Settlement (Sept. 20, 2023)",
+      "url": "https://blackfeetnation.com/2023/09/20/blackfeet-nation-statement-on-badger-two-medicine-court-settlement/"
+    },
+    {
+      "name": "Montana OPI, Montana Indians: Their History and Location (Blackfeet section)",
+      "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+    },
+    {
+      "name": "Act of May 1, 1888 (25 Stat. 113), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/25/113"
+    },
+    {
+      "name": "Act of June 10, 1896, incl. 1895 Blackfeet agreement (29 Stat.), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/29/353"
+    },
+    {
+      "name": "United States v. Peterson, 121 F. Supp. 2d 1309 (D. Mont. 2000), Justia",
+      "url": "https://supreme.justia.com/cases/federal/district-courts/FSupp2/121/1309/2505225/"
+    }
+  ],
+  "notes": "Disputed: the 1895–96 'ceded strip' agreement. OPI says how much land and money was agreed is still in dispute and that the Blackfeet still hold some rights in Glacier National Park and the Lewis and Clark National Forest. A federal district court (Peterson, 2000) held that the hunting right survived the cession but that Congress ended it inside the park. The Nation's position should come from the Nation itself. I found no Blackfeet Nation page stating it (the History and Timeline page is placeholder text), and the summary uses OPI's neutral wording. The 1873–74 boundary changes and the 1883–84 starvation winter are OPI-only, so they are undated. Glacier's creation date (1910) is not in the timeline because I did not fetch an NPS source. Peterson's summary also contains confusing 1910/1914 dates. The 2016 Blackfeet Water Rights Settlement Act is documented only on the Nation's chronology page and is left out. The boundary statement is a water compact map; I could not open it to confirm that it shows the reservation boundary. blackfeetnation.com blocks direct downloads (Cloudflare). The Badger-Two Medicine wording was confirmed through the Nation's own news listing. That page says the area is closed to new mining and leasing and is designated a Traditional Cultural District. Its national-forest status comes from my general knowledge, not a fetched source, so reviewers should verify it.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

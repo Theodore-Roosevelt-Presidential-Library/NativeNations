@@ -1,0 +1,84 @@
+{
+  "id": "northern-arapaho-tribe-of-the-wind-river-reservation-wyoming",
+  "name": "Northern Arapaho Tribe (Wind River)",
+  "land_summary": "The Northern Arapaho came to the Wind River Valley in the late 1870s, when the Army brought them to the reservation the 1868 Fort Bridger Treaty had set aside for the Eastern Shoshone. The two nations have shared it ever since. In 1904 a federal inspector negotiated the cession of nearly 1.5 million acres north of the Wind River. Only 80 of 237 eligible Arapaho men signed, and Arapaho leaders protested that the version Congress ratified in 1905 differed from what the tribes had agreed to. President Theodore Roosevelt opened the ceded land to homesteaders in 1906, but sales lagged, and Congress later moved to restore unsold land to the tribes. In 2017 a federal appeals court held that the 1905 law shrank the reservation and left Riverton outside it. The Northern Arapaho, with the Eastern Shoshone, contested that ruling and hold that the tribes never agreed to cede the land. Today the two nations share a reservation of about 2.2 million acres.",
+  "homelands": null,
+  "sacred_places": [],
+  "timeline": [
+    {
+      "year": "1868",
+      "event": "The second Fort Bridger Treaty sets aside the Wind River Reservation, which the Northern Arapaho later come to share.",
+      "sources": [
+        "https://www.wyohistory.org/encyclopedia/coming-wind-river-eastern-shoshone-treaties-1863-and-1868",
+        "https://law.justia.com/cases/federal/appellate-courts/ca10/14-9512/14-9512-2017-02-22.html"
+      ]
+    },
+    {
+      "year": "1905",
+      "event": "Congress ratifies an amended 1904 agreement ceding the land north of the Wind River.",
+      "sources": [
+        "https://www.wyohistory.org/encyclopedia/tribes-sell-more-land-1905-",
+        "https://law.justia.com/cases/federal/appellate-courts/ca10/14-9512/14-9512-2017-02-22.html"
+      ]
+    },
+    {
+      "year": "1906",
+      "event": "A proclamation by President Theodore Roosevelt opens the ceded lands to homesteading and town sites.",
+      "sources": [
+        "https://presidency.ucsb.edu/documents/proclamation-631-opening-the-wind-river-indian-reservation-wyoming",
+        "https://www.govinfo.gov/link/statute/34/3207"
+      ]
+    },
+    {
+      "year": "2017",
+      "event": "A federal appeals court rules that the 1905 law diminished the reservation; the tribes announce an appeal.",
+      "sources": [
+        "https://law.justia.com/cases/federal/appellate-courts/ca10/14-9512/14-9512-2017-02-22.html",
+        "https://www.wyomingpublicmedia.org/tribal-news/2017-02-24/wind-river-tribes-to-appeal-riverton-boundary-decision"
+      ]
+    }
+  ],
+  "nation_boundary_statement": null,
+  "disputed": true,
+  "sources": [
+    {
+      "name": "Northern Arapaho Tribe (official site)",
+      "url": "https://northernarapaho.com/"
+    },
+    {
+      "name": "Northern Arapaho Tribe, Petition for Writ of Certiorari, No. 17-1159 (2018)",
+      "url": "https://www.supremecourt.gov/DocketPDF/17/17-1159/35738/20180216155553949_Northern%20Arapaho%20Tribe%20-%20Cert%20Petition.pdf"
+    },
+    {
+      "name": "WyoHistory.org, The Tribes Sell Off More Land: The 1905 Agreement",
+      "url": "https://www.wyohistory.org/encyclopedia/tribes-sell-more-land-1905-"
+    },
+    {
+      "name": "WyoHistory.org, When the Tribes Sold the Hot Springs",
+      "url": "https://wyohistory.org/encyclopedia/when-tribes-sold-hot-springs"
+    },
+    {
+      "name": "WyoHistory.org, Coming to Wind River: The Eastern Shoshone Treaties of 1863 and 1868",
+      "url": "https://www.wyohistory.org/encyclopedia/coming-wind-river-eastern-shoshone-treaties-1863-and-1868"
+    },
+    {
+      "name": "Wyoming v. EPA, No. 14-9512 (10th Cir. Feb. 22, 2017), Justia",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca10/14-9512/14-9512-2017-02-22.html"
+    },
+    {
+      "name": "Wyoming Public Media, Wind River Tribes To Appeal Riverton Boundary Decision (Feb. 24, 2017)",
+      "url": "https://www.wyomingpublicmedia.org/tribal-news/2017-02-24/wind-river-tribes-to-appeal-riverton-boundary-decision"
+    },
+    {
+      "name": "American Presidency Project, Proclamation 631, Opening the Wind River Indian Reservation (June 2, 1906)",
+      "url": "https://presidency.ucsb.edu/documents/proclamation-631-opening-the-wind-river-indian-reservation-wyoming"
+    },
+    {
+      "name": "Proclamations, 1906 (34 Stat. 3207), govinfo",
+      "url": "https://www.govinfo.gov/link/statute/34/3207"
+    }
+  ],
+  "notes": "Disputed: the Riverton boundary. The Tenth Circuit majority (Feb. 22, 2017) held that the 1905 Act diminished the reservation. In the Northern Arapaho position, as stated by Chairman Roy Brown to Wyoming Public Media, the Tribe never agreed to cede the land, the Northern Arapaho did not take part in the 1905 process, and the court's 'hybrid' reading makes new law. Judge Lucero's dissent would have found no diminishment. The Tribe's cert petition is listed but I did not read it in full. The arrival date is given as 'the late 1870s' because WyoHistory says 1878 but the Tenth Circuit opinion says only 'around' 1877–78. The 1939 restoration act is single-source (Tenth Circuit), so it is undated. homelands is null: northernarapaho.com describes only the present reservation, between the Wind River Range and the Owl Creek Mountains, and I could not open its About page. The T.R. connection has two independent sources (UCSB and the Statutes at Large): he signed the June 2, 1906 proclamation opening the ceded lands on August 15, 1906. Acreage is 2.2 million on the Tribe's site and about 2.3 million on WyoHistory.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}

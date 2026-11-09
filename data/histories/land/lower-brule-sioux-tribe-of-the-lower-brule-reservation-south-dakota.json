@@ -1,0 +1,75 @@
+{
+  "id": "lower-brule-sioux-tribe-of-the-lower-brule-reservation-south-dakota",
+  "name": "Lower Brule Sioux Tribe",
+  "land_summary": "The Kul Wicasa Oyate say that treaties and agreements forced on them between 1825 and 1962 took most of their territory. An 1865 treaty at Fort Sully set aside a reservation near the mouth of the White River, and the 1868 Fort Laramie Treaty folded it into the Great Sioux Reservation. The 1889 act moved the reservation north of Fort Lookout, about 446,500 acres. Later acts cut it further. One ceded 56,560 acres of Stanley County grazing land, now mostly national grassland, a loss the Tribe still disputes, and a misplaced southern survey line cost about 30,000 more acres. Fort Randall and Big Bend dams took 22,296 acres of bottomland and flooded the town of Lower Brule. Today the reservation covers 258,560 acres in a checkerboard of ownership. The Tribe controls 165,659 acres and keeps buying land back.",
+  "timeline": [
+    {
+      "year": "1865",
+      "event": "A treaty at Fort Sully sets aside a Lower Brule reservation along the Missouri near the White River.",
+      "sources": [
+        "https://www.lowerbrulesiouxtribe.com/lower-brule-territory",
+        "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-lower-brule-band-1865-0885"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "The Fort Laramie Treaty creates the Great Sioux Reservation, which takes in Lower Brule lands.",
+      "sources": [
+        "https://www.lowerbrulesiouxtribe.com/lower-brule-territory",
+        "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+      ]
+    },
+    {
+      "year": "1889",
+      "event": "Congress breaks up the Great Sioux Reservation and moves the Lower Brule reservation north of Fort Lookout.",
+      "sources": [
+        "https://www.lowerbrulesiouxtribe.com/lower-brule-territory",
+        "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+      ]
+    }
+  ],
+  "nation_boundary_statement": {
+    "url": "https://www.lowerbrulesiouxtribe.com/lower-brule-territory",
+    "label": "Lower Brule Sioux Tribe, Lower Brule Territory 1825 to present (land history, unresolved claims, 2022 acreage)"
+  },
+  "disputed": true,
+  "homelands": "The Kul Wicasa Oyate say their homeland has no formal boundaries. They describe living for thousands of years in the grasslands and river valleys between the Rocky Mountains and the Great Lakes. In recent centuries that meant from the Missouri River in present-day South Dakota to the Platte in Nebraska, the Yellowstone in Wyoming and Montana, and the forest edge in Minnesota. Their ancestors favored the country where the White River flows into the Missouri.",
+  "sacred_places": [],
+  "sources": [
+    {
+      "name": "Lower Brule Sioux Tribe, Lower Brule Territory",
+      "url": "https://www.lowerbrulesiouxtribe.com/lower-brule-territory"
+    },
+    {
+      "name": "Lower Brule Sioux Tribe, About Us",
+      "url": "https://www.lowerbrulesiouxtribe.com/about-us"
+    },
+    {
+      "name": "Kappler, Treaty with the Sioux, Lower Brule Band, 1865 (OSU)",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-sioux-lower-brule-band-1865-0885"
+    },
+    {
+      "name": "National Archives, Treaty of Fort Laramie (1868)",
+      "url": "https://www.archives.gov/milestone-documents/fort-laramie-treaty"
+    },
+    {
+      "name": "Act of March 2, 1889, 25 Stat. 888 (govinfo)",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+    },
+    {
+      "name": "U.S. Senate Report 107-214",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-107srpt214/html/CRPT-107srpt214.htm"
+    },
+    {
+      "name": "SD Department of Tribal Relations, Lower Brule Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Lower-Brule-Sioux-Tribe.aspx"
+    },
+    {
+      "name": "SD State Archives, Indian Archives Project, Lower Brule Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/lowerbrule.pdf"
+    }
+  ],
+  "notes": "Disputes, as the Tribe states them: the Act of April 21, 1906 cession of 56,560 acres in Stanley County, now mostly Fort Pierre National Grassland, which the Tribe still disputes; the 44th parallel survey error, about 30,000 acres, which courts agreed was mislocated but for which the Tribe says it has not been justly compensated; and the shared Sioux Black Hills claim. The Act of March 3, 1899 (a 120,000-acre reduction), the 1906 act, the Fort Randall (1954) and Big Bend (1962) taking acts, the 1999 WRDA Title VI return of about 7,000 acres, and Land Buy-Back gains of 13,000+ acres all come from the Tribe's page only. The summary keeps them undated where needed. The 22,296-acre dam loss matches Senate Report 107-214. Senate Report 111-357 gives 22,955. The Tribe's page dates the 1877 act to February 2. Other sources give February 28, so 1877 is left out of this timeline. Acreage figures differ by source: 258,560 total and 165,659 tribally controlled (Tribe, 2022), a 156,917-acre trust land base (SD Tribal Relations), and 132,601 acres (SD State Archives). The Tribe's page mentions flooded worship and gathering places and moved cemeteries without naming any. None are listed.",
+  "status": "draft",
+  "drafted": "2026-11-08"
+}
