@@ -1,0 +1,708 @@
+{
+ "batch": "mt-wy",
+ "researched": "2026-11-08",
+ "nations": [
+  {
+   "id": "confederated-salish-and-kootenai-tribes-of-the-flathead-reservation",
+   "official_website": "https://cskt.org/",
+   "nearest_town": "Polson",
+   "aka": [
+    "Séliš-Ql̓ispé",
+    "Ksanka"
+   ],
+   "alliances": [
+    "aita",
+    "mita"
+   ],
+   "tags": [
+    "cultural_center",
+    "museum",
+    "bison",
+    "scenic_drive",
+    "fishing",
+    "hunting",
+    "camping",
+    "casino",
+    "lodging",
+    "tribal_college",
+    "powwow_summer"
+   ],
+   "nearby_public_lands": [
+    "Ninepipe National Wildlife Refuge",
+    "Pablo National Wildlife Refuge",
+    "Flathead National Forest",
+    "Lolo National Forest"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://cskt.org/",
+     "label": "Confederated Salish and Kootenai Tribes",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "events",
+     "url": "https://cskt.org/events/",
+     "label": "CSKT events calendar",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "cultural_center",
+     "url": "https://www.threechiefs.org/",
+     "label": "Three Chiefs Culture Center, Pablo",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "museum",
+     "url": "https://www.threechiefs.org/three-chiefs-museum/",
+     "label": "Three Chiefs Museum",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://www.bisonrange.org/",
+     "label": "CSKT Bison Range, Charlo",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "permits_fishing",
+     "url": "https://cskt.org/natural-resources/tribal-fish-game/",
+     "label": "CSKT Tribal Fish & Game permits and regulations",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "permits_recreation",
+     "url": "https://cskt.org/wildland-recreation/",
+     "label": "CSKT Wildland Recreation permits",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "lodging",
+     "url": "https://kwataqnuk.com/",
+     "label": "KwaTaqNuk Resort, Polson",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "state_tourism_profile",
+     "url": "https://www.visitmt.com/indian-country/salish-pend-o-reille-and-kootenai-flathead",
+     "label": "Visit Montana: Salish, Pend d'Oreille and Kootenai",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "visitor_protocols",
+     "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+     "label": "Respectful travel in Indian Country (Visit Montana)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "Flathead Lake is named sacred on the CSKT site; not used as an attraction. peoplescenter.org and arleepowwow.com are parked. Big game hunting is members only; non-members can hunt birds with a permit. KwaTaqNuk ownership from news coverage."
+  },
+  {
+   "id": "fort-belknap-indian-community-of-the-fort-belknap-reservation-of",
+   "official_website": "https://ftbelknap.org/",
+   "nearest_town": "Harlem",
+   "aka": [
+    "Aaniiih",
+    "Nakoda"
+   ],
+   "alliances": [
+    "aita",
+    "mita"
+   ],
+   "tags": [
+    "powwow_summer",
+    "bison",
+    "hunting",
+    "fishing",
+    "tribal_college"
+   ],
+   "nearby_public_lands": [
+    "Upper Missouri River Breaks National Monument",
+    "Charles M. Russell National Wildlife Refuge"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://ftbelknap.org/",
+     "label": "Fort Belknap Indian Community",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "permits_hunting",
+     "url": "https://ftbelknap.nagfa.net/online/",
+     "label": "Fort Belknap Game and Fish online licenses",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "state_tourism_profile",
+     "url": "https://www.visitmt.com/indian-country/a-aninin-nakoda-fort-belknap",
+     "label": "Visit Montana: A'aninin and Nakoda (Fort Belknap)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "visitor_protocols",
+     "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+     "label": "Respectful travel in Indian Country (Visit Montana)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "fortbelknapcedc.org/tours (linked from Destination Native America) now redirects to a gambling site - never use. Powwow and bison tags rest on Visit Montana only."
+  },
+  {
+   "id": "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation",
+   "official_website": "https://fortpecktribes.org/",
+   "nearest_town": "Poplar",
+   "aka": [],
+   "alliances": [
+    "mita"
+   ],
+   "tags": [
+    "powwow_summer",
+    "fishing",
+    "hunting",
+    "cultural_center",
+    "museum",
+    "tribal_college"
+   ],
+   "nearby_public_lands": [
+    "Medicine Lake National Wildlife Refuge",
+    "Charles M. Russell National Wildlife Refuge"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://fortpecktribes.org/",
+     "label": "Fort Peck Tribes",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://fortpecktribes.org/visitor-opportunities/",
+     "label": "Fort Peck Tribes recreation, fishing, hunting and celebrations",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "state_tourism_profile",
+     "url": "https://www.visitmt.com/indian-country/fort-peck-nakoda-dakota",
+     "label": "Visit Montana: Nakoda and Dakota (Fort Peck)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "visitor_protocols",
+     "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+     "label": "Respectful travel in Indian Country (Visit Montana)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "Silver Wolf Casino ownership unconfirmed, not linked. No DNA page."
+  },
+  {
+   "id": "crow-tribe-of-montana",
+   "official_website": "https://www.crow-nsn.gov/",
+   "nearest_town": "Hardin",
+   "aka": [
+    "Apsáalooke"
+   ],
+   "alliances": [
+    "aita",
+    "mita"
+   ],
+   "tags": [
+    "powwow_summer",
+    "rodeo",
+    "guided_tours",
+    "camping",
+    "hunting",
+    "bison"
+   ],
+   "nearby_public_lands": [
+    "Little Bighorn Battlefield National Monument",
+    "Bighorn Canyon National Recreation Area",
+    "Custer Gallatin National Forest"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://www.crow-nsn.gov/",
+     "label": "Crow Tribe",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://www.visitcrowcountry.com/",
+     "label": "Crow Tribe Tourism Office",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tours_booking",
+     "url": "https://www.crow-nsn.gov/apsaalooke-tours.html",
+     "label": "Apsáalooke Tours at Little Bighorn Battlefield",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tours_booking",
+     "url": "https://www.visitcrowcountry.com/book-a-tour/",
+     "label": "Crow Tribe Tourism Office tour booking",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "powwow",
+     "url": "https://www.crowfair.org/",
+     "label": "Crow Fair powwow, parade and rodeo",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "events",
+     "url": "https://www.crow-nsn.gov/crow-native-days.html",
+     "label": "Crow Native Days",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "permits_hunting",
+     "url": "https://www.crow-nsn.gov/apsaalooke-fish--game.html",
+     "label": "Apsáalooke Fish & Game upland bird and recreation permits",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://www.crow-nsn.gov/campgrounds.html",
+     "label": "Crow Tribe campgrounds (Afterbay, Grapevine)",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://www.crow-nsn.gov/okabeh-marina.html",
+     "label": "Ok-A-Beh Marina, Bighorn Canyon",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "state_tourism_profile",
+     "url": "https://www.visitmt.com/indian-country/apsaalooke-crow",
+     "label": "Visit Montana: Apsáalooke (Crow)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "visitor_protocols",
+     "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+     "label": "Respectful travel in Indian Country (Visit Montana)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "Medicine Wheel/Medicine Mountain appears on the tourism site; sacred site, not linked. Non-Crow hunters need a guide. Crow Fair Aug 12-17, 2026."
+  },
+  {
+   "id": "northern-cheyenne-tribe-of-the-northern-cheyenne-indian-reservation",
+   "official_website": "https://www.cheyennenation.com/",
+   "nearest_town": "Lame Deer",
+   "aka": [],
+   "alliances": [
+    "aita",
+    "mita"
+   ],
+   "tags": [
+    "powwow_summer",
+    "tribal_college"
+   ],
+   "nearby_public_lands": [
+    "Custer Gallatin National Forest",
+    "Little Bighorn Battlefield National Monument"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://www.cheyennenation.com/",
+     "label": "Northern Cheyenne Tribe",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "state_tourism_profile",
+     "url": "https://www.visitmt.com/indian-country/tsetsehesestahase-sotaahe-northern-cheyenne",
+     "label": "Visit Montana: Northern Cheyenne",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "visitor_protocols",
+     "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+     "label": "Respectful travel in Indian Country (Visit Montana)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/northern-cheyenne-tribe",
+     "label": "Northern Cheyenne on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "Visit Montana uses Tsetsehesestahase/So'taahe; confirm with the Tribe before adding. Busby battle commemorations left out."
+  },
+  {
+   "id": "chippewa-cree-indians-of-the-rocky-boy-s-reservation-montana",
+   "official_website": "https://www.chippewa-cree.org/",
+   "nearest_town": "Havre",
+   "aka": [],
+   "alliances": [
+    "aita",
+    "mita"
+   ],
+   "tags": [
+    "powwow_summer",
+    "tribal_college"
+   ],
+   "nearby_public_lands": [
+    "Upper Missouri River Breaks National Monument"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://www.chippewa-cree.org/",
+     "label": "Chippewa Cree Tribe",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "state_tourism_profile",
+     "url": "https://www.visitmt.com/indian-country/annishinabe-ne-i-yah-wahk-rocky-boys",
+     "label": "Visit Montana: Anishinabe and Ne-i-yah-wahk (Rocky Boy's)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "visitor_protocols",
+     "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+     "label": "Respectful travel in Indian Country (Visit Montana)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "BIA site chippewacree.org is hijacked (spam/gambling) - replaced with chippewa-cree.org (self-described official; in Montana tribal directory)."
+  },
+  {
+   "id": "blackfeet-tribe-of-the-blackfeet-indian-reservation-of-montana",
+   "official_website": "https://blackfeetnation.com/",
+   "nearest_town": "Browning",
+   "aka": [],
+   "alliances": [
+    "aita",
+    "mita"
+   ],
+   "tags": [
+    "powwow_summer",
+    "fishing",
+    "hunting",
+    "camping",
+    "casino",
+    "lodging",
+    "museum",
+    "arts",
+    "scenic_drive",
+    "tribal_college",
+    "national_park_nearby"
+   ],
+   "nearby_public_lands": [
+    "Glacier National Park",
+    "Helena-Lewis and Clark National Forest"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://blackfeetnation.com/",
+     "label": "Blackfeet Nation",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "permits_fishing",
+     "url": "https://blackfeetfishandwildlife.net/online-license-sales/",
+     "label": "Blackfeet Fish & Wildlife online licenses",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "permits_hunting",
+     "url": "https://blackfeetfishandwildlife.net/non-tribal-member-big-game-hunts/",
+     "label": "Blackfeet non-member big game hunts",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "permits_recreation",
+     "url": "https://blackfeetfishandwildlife.net/recreational-activity/",
+     "label": "Blackfeet camping, boating and recreation rules",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://blackfeetcampgrounds.com/",
+     "label": "Blackfeet Tribal Campgrounds",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "lodging",
+     "url": "https://glacierpeakscasino.com/",
+     "label": "Glacier Peaks Hotel & Casino, Browning",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "museum",
+     "url": "https://www.doi.gov/iacb/museum-plains-indian",
+     "label": "Museum of the Plains Indian, Browning",
+     "publisher": "federal",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "state_tourism_profile",
+     "url": "https://www.visitmt.com/indian-country/niitsitapi-blackfeet",
+     "label": "Visit Montana: Niitsitapi (Blackfeet)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "visitor_protocols",
+     "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+     "label": "Respectful travel in Indian Country (Visit Montana)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "Visit Montana uses Niitsitapi; confirm with the Nation. North American Indian Days only on Facebook."
+  },
+  {
+   "id": "little-shell-tribe-of-chippewa-indians-of-montana",
+   "official_website": "https://montanalittleshelltribe.org/",
+   "nearest_town": "Great Falls",
+   "aka": [],
+   "alliances": [
+    "mita"
+   ],
+   "tags": [
+    "powwow_summer"
+   ],
+   "nearby_public_lands": [
+    "Benton Lake National Wildlife Refuge",
+    "Lewis and Clark National Historic Trail Interpretive Center",
+    "Helena-Lewis and Clark National Forest"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://montanalittleshelltribe.org/",
+     "label": "Little Shell Tribe of Chippewa Indians",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "state_tourism_profile",
+     "url": "https://www.visitmt.com/indian-country/little-shell-chippewa",
+     "label": "Visit Montana: Little Shell Chippewa",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "visitor_protocols",
+     "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+     "label": "Respectful travel in Indian Country (Visit Montana)",
+     "publisher": "state_tourism",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "Culture page uses 'Anishinabek'; confirm before adding as aka."
+  },
+  {
+   "id": "northern-arapaho-tribe-of-the-wind-river-reservation-wyoming",
+   "official_website": "https://northernarapaho.com/",
+   "nearest_town": "Riverton",
+   "aka": [],
+   "alliances": [
+    "wrvc",
+    "aita"
+   ],
+   "tags": [
+    "casino",
+    "lodging",
+    "cultural_center",
+    "fishing",
+    "camping",
+    "powwow_summer"
+   ],
+   "nearby_public_lands": [
+    "Shoshone National Forest"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://northernarapaho.com/",
+     "label": "Northern Arapaho Tribe",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "lodging",
+     "url": "https://www.windriverhotelcasino.com/stay/",
+     "label": "Wind River Hotel & Casino, Riverton",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "cultural_center",
+     "url": "https://www.windriverhotelcasino.com/stay/northern-arapaho-experience-room/",
+     "label": "Northern Arapaho Experience Room",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "alliance_profile",
+     "url": "https://windriver.org/destinations/wind-river-indian-reservation/",
+     "label": "Wind River Visitors Council: Wind River Indian Reservation",
+     "publisher": "alliance",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "powwow",
+     "url": "https://windriver.org/experience/native-american-powwows/",
+     "label": "Wind River powwows and etiquette",
+     "publisher": "alliance",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://windriver.org/blog/explore-the-wind-river-indian-reservation-with-travelstorys/",
+     "label": "Wind River Indian Reservation audio tour",
+     "publisher": "alliance",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "permits_fishing",
+     "url": "https://www.windriverfishandgame.com/buy-a-fishing-permit/",
+     "label": "Wind River tribal fishing permits",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://www.windriverfishandgame.com/visiting-wind-river/",
+     "label": "Wind River Fish & Game information for the reservation",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "Wind River Fish & Game is run jointly with the Eastern Shoshone Tribe."
+  },
+  {
+   "id": "eastern-shoshone-tribe-of-the-wind-river-reservation-wyoming",
+   "official_website": "https://easternshoshone.org/",
+   "nearest_town": "Lander",
+   "aka": [],
+   "alliances": [
+    "wrvc",
+    "aita"
+   ],
+   "tags": [
+    "cultural_center",
+    "bison",
+    "casino",
+    "lodging",
+    "fishing",
+    "camping",
+    "powwow_summer"
+   ],
+   "nearby_public_lands": [
+    "Shoshone National Forest"
+   ],
+   "links": [
+    {
+     "type": "official",
+     "url": "https://easternshoshone.org/",
+     "label": "Eastern Shoshone Tribe",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "cultural_center",
+     "url": "https://easternshoshone.org/cultural-center/",
+     "label": "Eastern Shoshone Cultural Center",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "lodging",
+     "url": "https://shoshonerose.com/",
+     "label": "Shoshone Rose Casino & Hotel, Lander",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "alliance_profile",
+     "url": "https://windriver.org/destinations/wind-river-indian-reservation/",
+     "label": "Wind River Visitors Council: Wind River Indian Reservation",
+     "publisher": "alliance",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "powwow",
+     "url": "https://windriver.org/experience/native-american-powwows/",
+     "label": "Wind River powwows and etiquette",
+     "publisher": "alliance",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://windriver.org/blog/explore-the-wind-river-indian-reservation-with-travelstorys/",
+     "label": "Wind River Indian Reservation audio tour",
+     "publisher": "alliance",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "permits_fishing",
+     "url": "https://www.windriverfishandgame.com/buy-a-fishing-permit/",
+     "label": "Wind River tribal fishing permits",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    },
+    {
+     "type": "tourism",
+     "url": "https://www.windriverfishandgame.com/visiting-wind-river/",
+     "label": "Wind River Fish & Game information for the reservation",
+     "publisher": "nation",
+     "verified": "2026-11-08"
+    }
+   ],
+   "notes": "Possible self-name 'Newe' (newsletter title only); confirm. Sacajawea's burial site appears on partner pages; not linked."
+  }
+ ]
+}

@@ -2,19 +2,68 @@
   "id": "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Poplar",
   "census_aiannh": [],
-  "official_website": "http://www.fortpecktribes.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://fortpecktribes.org/",
+  "alliances": [
+    "mita"
+  ],
+  "tags": [
+    "powwow_summer",
+    "fishing",
+    "hunting",
+    "cultural_center",
+    "museum",
+    "tribal_college"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Medicine Lake National Wildlife Refuge",
+    "Charles M. Russell National Wildlife Refuge"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://fortpecktribes.org/",
+      "label": "Fort Peck Tribes",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://fortpecktribes.org/visitor-opportunities/",
+      "label": "Fort Peck Tribes recreation, fishing, hunting and celebrations",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.visitmt.com/indian-country/fort-peck-nakoda-dakota",
+      "label": "Visit Montana: Nakoda and Dakota (Fort Peck)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "visitor_protocols",
+      "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+      "label": "Respectful travel in Indian Country (Visit Montana)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Silver Wolf Casino ownership unconfirmed, not linked. No DNA page."
   },
   "sources": [
     {
@@ -45,5 +94,5 @@
   "states": [
     "MT"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

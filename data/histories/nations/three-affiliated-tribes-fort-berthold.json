@@ -1,0 +1,35 @@
+{
+  "id": "three-affiliated-tribes-fort-berthold",
+  "summary": "MHA Nation brings together three peoples: the Mandan (Nueta), the Hidatsa, and the Arikara (Sahnish). The Mandan and Hidatsa speak Siouan languages, and Sahnish is a Caddoan language. All three lived in villages along the Missouri River, where they farmed the bottomlands.\n\nSmallpox struck the villages again and again. The 1837 epidemic left very few Mandan alive. Mandan and Hidatsa survivors built Like-a-Fishhook village together, and the Sahnish later joined them there. The 1851 Treaty of Fort Laramie recognized more than 12 million acres as MHA land. An 1870 executive order and later federal actions, made without the nation's consent, cut that down to the present Fort Berthold Reservation in west-central North Dakota.\n\nThe hardest blow came from Garrison Dam, which Congress authorized in 1944. Its reservoir flooded more than 150,000 acres of the nation's best bottomland in the early 1950s. The agency town of Elbowoods was lost, along with homes, schools, the hospital, and the tribal headquarters. Families were moved from fertile river land to the uplands.\n\nToday the tribal government sits in New Town, which is also home to Nueta Hidatsa Sahnish College.",
+  "sources": [
+    {
+      "name": "MHA Nation: History",
+      "url": "https://www.mhanation.com/history"
+    },
+    {
+      "name": "National Park Service: History of the Hidatsa Post-1845",
+      "url": "https://www.nps.gov/articles/history-of-hidatsa-post-1845.htm"
+    },
+    {
+      "name": "ND Studies (SHSND), Grade 4, Part 4: Reservations in North Dakota (Fort Berthold)",
+      "url": "https://www.ndstudies.gov/gr4/node/175"
+    },
+    {
+      "name": "Buffalo Bill Center of the West, Points West: Mandan, Hidatsa, Arikara people and the Flood Control Act of 1944",
+      "url": "https://centerofthewest.org/2014/06/15/points-west-online-mandan-hidatsa-arikara-people-flood-control-act-1944/"
+    },
+    {
+      "name": "ICT: Echoes of Oak Flat, 4 Pick-Sloan dams that submerged Native lands",
+      "url": "https://ictnews.org/archive/echoes-of-oak-flat-4-pick-sloan-dams-that-submerged-native-lands/"
+    },
+    {
+      "name": "Prairie Public: Nueta Hidatsa Sahnish College",
+      "url": "https://news.prairiepublic.org/main-street/2018-05-02/nuesta-hidatsa-sahnish-college"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "notes": "Garrison Dam acreage varies by source (152,360-156,000), so 'more than 150,000'. Left out: Like-a-Fishhook founding year, year the Sahnish joined (1862 vs 1863), share of treaty land lost (92% vs 95%), relocated-family counts. MHA site uses diacritic spellings (Núeta, Hiraacá, Sáhníš) — confirm preferred spelling. MHA Nation content always goes to Annalisa Robinson-Melton and Bridget.",
+  "hold": true,
+  "hold_reason": "MHA Nation materials route to Annalisa Robinson-Melton and Bridget before display, per TRPL editorial standards."
+}

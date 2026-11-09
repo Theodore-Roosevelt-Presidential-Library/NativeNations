@@ -4,6 +4,7 @@ A link-out directory of federally recognized Native nations and the tourism and 
 
 ## Non-negotiables
 - **Link out, don't copy.** Store only short factual metadata (names, places, link URLs, tags). Never copy descriptions, photos, logos, event listings or itineraries from a nation's site, an alliance site, Destination Native America or any other source. The directory's job is to send visitors to them. See `docs/principles.md`.
+- **Nations speak for themselves.** A nation's own statement about its name, spelling, people or separateness overrides every other source (federal, state, scholarly, Wikipedia). If a nation says it is distinct, give it its own page and use a "related peoples" link, never a shared grouping.
 - **Nations name themselves.** Use the official name from the BIA list plus the self-designation the nation uses on its own site. Never invent or "correct" a name.
 - **No sensitive places.** Never add sacred, ceremonial or burial sites, or any place a nation does not already promote to visitors itself.
 - **No homeland boundaries or migration routes.** Do not store or draw Native Land Digital data (its API terms forbid storing or redistributing it); link to native-land.ca instead. Do not draw migration lines.

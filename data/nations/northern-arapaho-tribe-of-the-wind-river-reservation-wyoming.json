@@ -2,19 +2,104 @@
   "id": "northern-arapaho-tribe-of-the-wind-river-reservation-wyoming",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Riverton",
   "census_aiannh": [],
-  "official_website": "http://www.northernarapaho.com",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://northernarapaho.com/",
+  "alliances": [
+    "wrvc",
+    "aita"
+  ],
+  "tags": [
+    "casino",
+    "lodging",
+    "cultural_center",
+    "fishing",
+    "camping",
+    "powwow_summer"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Shoshone National Forest"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://northernarapaho.com/",
+      "label": "Northern Arapaho Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://www.windriverhotelcasino.com/stay/",
+      "label": "Wind River Hotel & Casino, Riverton",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "cultural_center",
+      "url": "https://www.windriverhotelcasino.com/stay/northern-arapaho-experience-room/",
+      "label": "Northern Arapaho Experience Room",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://windriver.org/destinations/wind-river-indian-reservation/",
+      "label": "Wind River Visitors Council: Wind River Indian Reservation",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "powwow",
+      "url": "https://windriver.org/experience/native-american-powwows/",
+      "label": "Wind River powwows and etiquette",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://windriver.org/blog/explore-the-wind-river-indian-reservation-with-travelstorys/",
+      "label": "Wind River Indian Reservation audio tour",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_fishing",
+      "url": "https://www.windriverfishandgame.com/buy-a-fishing-permit/",
+      "label": "Wind River tribal fishing permits",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://www.windriverfishandgame.com/visiting-wind-river/",
+      "label": "Wind River Fish & Game information for the reservation",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Wind River Fish & Game is run jointly with the Eastern Shoshone Tribe."
   },
   "sources": [
     {
@@ -45,5 +130,5 @@
   "states": [
     "WY"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

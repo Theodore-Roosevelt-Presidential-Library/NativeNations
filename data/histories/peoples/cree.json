@@ -1,0 +1,30 @@
+{
+  "id": "cree",
+  "summary": "The Cree call themselves Nehiyawak, which the State of Montana writes Ne Hiyawak and explains as the people who speak the same language. Cree is an Algonquian language and a close relative of Ojibwe. The Plains Cree homeland lies mostly in the parkland belt of central Alberta and Saskatchewan, between the open grasslands and the northern forest. Cree traders carried furs by canoe to Hudson Bay, and on the parklands Cree families hunted bison at pounds, often camping beside their Nakoda (Assiniboine) allies. Marriages with Ojibwe neighbors and French traders helped give rise to Métis communities.\n\nAs the bison disappeared, Cree bands signed treaties with Canada and settled on reserves in Alberta and Saskatchewan. Others moved south toward Montana. After Cree resistance to Canadian authority was put down, a band led by Little Bear, son of the Cree leader Big Bear, spent years without a home in Montana. Officials there treated them as Canadian Indians, and Congress once paid to deport them, though many quickly returned. Little Bear's people joined the Chippewa band of Rocky Boy, or Stone Child. In 1916 Congress set aside part of the abandoned Fort Assiniboine military reserve as their shared home.\n\nThat land is today's Rocky Boy's Reservation in the Bears Paw Mountains, home of the Chippewa Cree Tribe. Most Plains Cree people live in Saskatchewan and Alberta, many of them now in cities.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Plains Crees",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.086.html"
+    },
+    {
+      "name": "Stone Child College catalog, The Chippewa Cree Tribe",
+      "url": "https://stonechild.smartcatalogiq.com/en/2022-2024-catalog/scc-catalog/the-chippewa-cree-tribe"
+    },
+    {
+      "name": "Montana Governor's Office, Tribal Relations Handbook",
+      "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+    },
+    {
+      "name": "Montana Historical Society, Little Shell Chippewa (IEFA)",
+      "url": "https://prod-mhs.mt.gov/education/IEFA/LittleShell.pdf"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Ojibwas",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.076.html"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Adequate, but the U.S. scope is thin: only one nation. Turtle Mountain and Little Shell also have Cree ancestry (EGP Ojibwas: Métis descent from Ojibwe, Cree and Chippewa; EGP Plains Crees: Cree-Ojibwe intermarriage). They could be cross-tagged here as well as with a Métis page. The page is really about the Plains Cree (Nehiyawak). If Cree First Nations in Canada stay out of scope, consider the display name 'Cree (Plains Cree)'. Confirm the Nehiyawak spelling with the Chippewa Cree Tribe.",
+  "notes": "I left out the 1885 date of the North-West conflict (EGP only), the 1896 deportation appropriation (Stone Child College only) and the Hudson Bay fur-trade start date. Little Bear's Cree name (Imasees) did not appear in my sources. Present-day acreage and enrollment are omitted (single source, as of 2010)."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ojibwe",
+  "summary": "The Ojibwe call themselves Anishinaabe, and in the United States they are also widely known as Chippewa. Their language belongs to the Algonquian family. Oral tradition links the Ojibwe with the Odawa and Potawatomi as the Three Fires. Anishinaabe history tells of a long migration from the Atlantic coast west through the Great Lakes, guided by prophecy to a land where food grows on the water: the wild rice of the western Great Lakes.\n\nThe fur trade drew many Ojibwe farther west. Some families moved onto the northern prairies, settling at Pembina on the Red River and in the Turtle Mountains, where they hunted bison. Marriages among Ojibwe, Cree and French traders gave rise to Métis communities.\n\nIn the 1800s, treaties took most Ojibwe lands in Minnesota and the surrounding region and left reservations scattered across it. On the plains, the Pembina Chippewa ceded much of the Red River valley in the 1863 Old Crossing Treaty. In 1892 a federal commission offered ten cents an acre for a vast tract and left the Turtle Mountain Band two townships. Chief Little Shell's followers refused the deal, and many settled in Montana without land of their own.\n\nOjibwe nations today include the Turtle Mountain Band in North Dakota; the Little Shell Tribe and, with Cree relatives, the Chippewa Cree in Montana; Red Lake and the bands of the Minnesota Chippewa Tribe; Bad River and Lac Courte Oreilles in Wisconsin; Sault Ste. Marie; and First Nations in Canada.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Ojibwas",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.076.html"
+    },
+    {
+      "name": "Religions in Minnesota (Carleton College), Ojibwe",
+      "url": "https://religionsmn.carleton.edu/ojibwe"
+    },
+    {
+      "name": "North Dakota Studies (State Historical Society of North Dakota), Timeline: Turtle Mountain",
+      "url": "https://www.ndstudies.gov/curriculum/high-school/turtle-mountain/timeline-turtle-mountain"
+    },
+    {
+      "name": "Montana Historical Society, Little Shell Chippewa (IEFA)",
+      "url": "https://prod-mhs.mt.gov/education/IEFA/LittleShell.pdf"
+    },
+    {
+      "name": "North Dakota Indian Affairs Commission, Facts and Profiles",
+      "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/NDIAC_Facts_and_Profiles.pdf"
+    },
+    {
+      "name": "Montana Free Press, Little Shell Tribe marks 5 years of federal recognition",
+      "url": "https://montanafreepress.org/2024/12/16/little-shell-tribe-marks-5-years-of-federal-recognition/"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Métis",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.063.html"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "(1) Little Shell and Métis: yes, consider a Métis (Michif) people page, or at least a cross-tag. The Montana Historical Society says many Pembina people had French-Canadian ancestry and identified as Métis. NDIAC says many Turtle Mountain residents are of mixed Chippewa and French ancestry 'known as Mechif/Metis'. EGP describes Métis descent from French and Ojibwe, Cree and/or Chippewa ancestors. Turtle Mountain should get the same Métis cross-tag as Little Shell. Neither nation should be moved out of Ojibwe; both are federally recognized as Chippewa bands. Ask each nation how it wants to be described. (2) Chippewa Cree is correctly dual-listed under Ojibwe and Cree. (3) 'Sault Ste. Marie' is ambiguous (Michigan tribe vs Ontario First Nations); use the full legal name. (4) The Minnesota Chippewa Tribe is a federation of six bands. Show it as a federation, or list the bands. (5) The Trenton Indian Service Area (descendants of Turtle Mountain families, per NDIAC) is not in the directory.",
+  "notes": "I left out the Ten Cent Treaty acreage because sources disagree (ND Studies: 10 million acres; MHS: Little Shell offered to give up 52 million). The 1892 agreement was ratified in 1904 per ND Studies and in 1905 per MHS, so I gave no ratification date. Treaty dates for Minnesota, Wisconsin and Michigan Ojibwe were not on the sources I read and are left out. No Ojibwe nation's own website was reached; a reviewer should add one (for example Red Lake Nation or the Minnesota Chippewa Tribe)."
+}

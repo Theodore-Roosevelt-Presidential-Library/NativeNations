@@ -2,19 +2,74 @@
   "id": "yankton-sioux-tribe-of-south-dakota",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Wagner",
   "census_aiannh": [],
-  "official_website": "http://www.yanktonsiouxtribe.net",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://www.yanktonsiouxtribe.net/",
+  "alliances": [
+    "sdnta"
+  ],
+  "tags": [
+    "hunting",
+    "fishing"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Lake Andes National Wildlife Refuge",
+    "Karl E. Mundt National Wildlife Refuge",
+    "Missouri National Recreational River"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://www.yanktonsiouxtribe.net/",
+      "label": "Yankton Sioux Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://www.yanktonsiouxgamefishandparks.com/hunting-dates-and-fees/",
+      "label": "Yankton Sioux Tribe Game, Fish & Parks hunting dates and fees",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_fishing",
+      "url": "https://www.yanktonsiouxgamefishandparks.com/yankton-sioux-tribe-hunting-and-fishing-proclamation/",
+      "label": "Yankton Sioux Tribe hunting and fishing proclamation",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.travelsouthdakota.com/trip-ideas/yankton-sioux-tribe",
+      "label": "Travel South Dakota: Yankton Sioux Tribe",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "label": "South Dakota Native Tourism Alliance member nations",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Powwow page is an empty stub, not linked. Fort Randall Casino has a cert mismatch, not linked. DNA placeholder empty."
   },
   "sources": [
     {
@@ -26,6 +81,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "SDNTA nations list",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Yankton Sioux Tribe of South Dakota",
@@ -45,5 +105,5 @@
   "states": [
     "SD"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

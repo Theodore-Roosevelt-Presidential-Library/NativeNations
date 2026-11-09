@@ -14,3 +14,7 @@ site/about.html
 site/robots.txt
 site/sitemap.xml
 _preview.tgz
+site/states/
+_nations_for_research.tsv
+site/peoples/
+test-host.html

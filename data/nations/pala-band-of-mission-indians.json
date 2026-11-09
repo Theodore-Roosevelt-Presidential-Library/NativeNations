@@ -5,11 +5,23 @@
   "nearest_town": null,
   "census_aiannh": [],
   "official_website": "http://www.palatribe.com",
-  "alliances": [],
+  "alliances": [
+    "aita"
+  ],
   "tags": [],
   "blurb": null,
   "nearby_public_lands": [],
-  "links": [],
+  "links": [
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/pala-band-of-mission-indians",
+      "label": "Pala Band of Mission Indians on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
@@ -45,5 +57,5 @@
   "states": [
     "CA"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

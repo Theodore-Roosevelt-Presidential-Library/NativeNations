@@ -1,0 +1,28 @@
+{
+  "id": "hidatsa",
+  "summary": "The Hidatsa take their name from the willows that grow on Missouri River sandbars. The name first belonged to one band and later came to stand for the whole people. Three closely related groups make up the nation, the Hidatsa proper, the Awatixa and the Awaxawi, and each spoke its own form of a Siouan language. Traders and the U.S. government long called the Hidatsa Gros Ventre, a name that also belongs to the Aaniiih of Montana, an unrelated, Algonquian-speaking people.\n\nThe Hidatsa have lived in west-central North Dakota for many centuries. Awatixa tradition holds that the people have always lived on the Missouri. Other Hidatsa traditions recall coming from the Devils Lake country and later settling near the Mandan. Their earth lodge villages near the mouth of the Knife River were the center of a farming and trading life closely tied to their Mandan neighbors.\n\nEpidemics took a heavy toll, and smallpox in 1837 devastated the villages. In 1845 Hidatsa and Mandan families founded Like-a-Fishhook Village together, and the Arikara later joined them. The Fort Berthold Reservation was established in 1870, and allotment later cut it sharply. In the 1950s, Garrison Dam flooded the river bottoms that held most of the reservation's homes, farms and towns, and families were forced onto the uplands. Tribal leaders resisted the dam but in the end accepted compensation far below the losses. The Hidatsa are one of the three nations of today's MHA Nation.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Hidatsas",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.035.html"
+    },
+    {
+      "name": "MHA Nation, History",
+      "url": "https://mhanation.com/history"
+    },
+    {
+      "name": "North Dakota Studies (State Historical Society of North Dakota), The Three Tribes Alliance",
+      "url": "https://www.ndstudies.gov/gr8/node/561"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Gros Ventres",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.031.html"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Add a self-name: the MHA site spells it Hiratsa and Hiraacá. Add a disambiguation on both pages, because 'Gros Ventre' was applied historically to the Hidatsa and is also the directory's display name for the Aaniiih. Leave 'Gros Ventre' out of the Hidatsa also-called field, or mark it historical.",
+  "notes": "EGP gives 'about half' of the people dying in 1837 and pre-epidemic estimates of 5,000–6,000. Both come from one source, so I left them out. 'Many centuries' paraphrases EGP's 'nearly a millennium' / Awatixa by c. 1100 A.D. MHA Nation review route applies.",
+  "hold": true,
+  "hold_reason": "MHA Nation materials route to Annalisa Robinson-Melton and Bridget before display, per TRPL editorial standards."
+}

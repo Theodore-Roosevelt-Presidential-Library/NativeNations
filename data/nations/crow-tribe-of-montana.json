@@ -1,20 +1,136 @@
 {
   "id": "crow-tribe-of-montana",
   "display_name": null,
-  "aka": [],
-  "nearest_town": null,
+  "aka": [
+    "Apsáalooke"
+  ],
+  "nearest_town": "Hardin",
   "census_aiannh": [],
-  "official_website": "http://www.crow-nsn.gov",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://www.crow-nsn.gov/",
+  "alliances": [
+    "aita",
+    "mita"
+  ],
+  "tags": [
+    "powwow_summer",
+    "rodeo",
+    "guided_tours",
+    "camping",
+    "hunting",
+    "bison"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Little Bighorn Battlefield National Monument",
+    "Bighorn Canyon National Recreation Area",
+    "Custer Gallatin National Forest"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://www.crow-nsn.gov/",
+      "label": "Crow Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://www.visitcrowcountry.com/",
+      "label": "Crow Tribe Tourism Office",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tours_booking",
+      "url": "https://www.crow-nsn.gov/apsaalooke-tours.html",
+      "label": "Apsáalooke Tours at Little Bighorn Battlefield",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tours_booking",
+      "url": "https://www.visitcrowcountry.com/book-a-tour/",
+      "label": "Crow Tribe Tourism Office tour booking",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "powwow",
+      "url": "https://www.crowfair.org/",
+      "label": "Crow Fair powwow, parade and rodeo",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://www.crow-nsn.gov/crow-native-days.html",
+      "label": "Crow Native Days",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://www.crow-nsn.gov/apsaalooke-fish--game.html",
+      "label": "Apsáalooke Fish & Game upland bird and recreation permits",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://www.crow-nsn.gov/campgrounds.html",
+      "label": "Crow Tribe campgrounds (Afterbay, Grapevine)",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://www.crow-nsn.gov/okabeh-marina.html",
+      "label": "Ok-A-Beh Marina, Bighorn Canyon",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.visitmt.com/indian-country/apsaalooke-crow",
+      "label": "Visit Montana: Apsáalooke (Crow)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "visitor_protocols",
+      "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+      "label": "Respectful travel in Indian Country (Visit Montana)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Medicine Wheel/Medicine Mountain appears on the tourism site; sacred site, not linked. Non-Crow hunters need a guide. Crow Fair Aug 12-17, 2026."
   },
   "sources": [
     {
@@ -45,5 +161,5 @@
   "states": [
     "MT"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

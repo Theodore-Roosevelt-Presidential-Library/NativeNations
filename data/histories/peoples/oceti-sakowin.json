@@ -1,0 +1,30 @@
+{
+  "id": "oceti-sakowin",
+  "summary": "The Oceti Sakowin, or Seven Council Fires, is the alliance of closely related peoples who speak Dakota, Lakota and Nakota, forms of one language in the Siouan family. The seven fires are the Bdewakaŋtoŋwaŋ (Mdewakanton), Waĥpekute, Waĥpetoŋwaŋ (Wahpeton), Sisitoŋwaŋ (Sisseton), Ihaŋktoŋwaŋ (Yankton), Ihaŋktoŋwaŋna (Yanktonai) and Tituŋwaŋ (Teton). The first four make up the Dakota, often called Santee or Isanti. The Yankton and Yanktonai form a middle group, and the Teton are the Lakota. The basic unit of community life was the tiyospaye, a band of related families.\n\nThe earliest European records place Oceti Sakowin people in the woodlands and lake country of present-day Minnesota and northwestern Wisconsin. Over generations many bands moved west and south onto the prairies and plains, and the Lakota became mounted bison hunters ranging far beyond the Missouri River.\n\nThe 1800s brought treaties, the loss of most of the alliance's lands, war and forced removals, and the council fires were divided among many separate reservations and reserves. Each of today's nations governs itself. Dakota, Lakota and Nakota communities are in Minnesota, North Dakota, South Dakota, Nebraska and Montana, and in Alberta, Manitoba and Saskatchewan. The English word Sioux comes from an Ojibwe term that French traders shortened. It survives in many nations' legal names, but many people prefer Oceti Sakowin or the name of their own nation.",
+  "sources": [
+    {
+      "name": "Minnesota Historical Society, Oceti Šakowiŋ: The Seven Council Fires",
+      "url": "https://www.mnhs.org/usdakotawar/stories/history/dakota-homeland/oceti-šakowiŋ-seven-council-fires"
+    },
+    {
+      "name": "Minnesota Historical Society, Dakota (Oceti Šakowiŋ) communities",
+      "url": "https://www.mnhs.org/usdakotawar/stories/communities/dakota-oceti-šakowiŋ"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Sioux",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.107.html"
+    },
+    {
+      "name": "North Dakota Studies (State Historical Society of North Dakota), How Do Treaties Affect the Ocheti Sakowin?",
+      "url": "https://www.ndstudies.gov/hs/node/17"
+    },
+    {
+      "name": "Sitting Bull College, Standing Rock Sioux Tribe",
+      "url": "https://www.sittingbull.edu/about/community/visitor-center/standing-rock-sioux-tribe"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Parent grouping is sound. (1) Nakota: MNHS says the Yankton and Yanktonai are often called Nakota, but the South Dakota Hall of Fame Nine Nations material gives the Yankton Sioux Tribe's language as Dakota and its name as Ihaŋktoŋwaŋ Dakota Oyate. Nakoda/Nakota/Nakona is the self-name of the Assiniboine and Stoney. Keeping the label 'Yankton and Yanktonai' and not 'Nakota' is the right call. (2) Do not place Assiniboine under oceti-sakowin. They are linguistic relatives, said to have separated from the Yanktonai, but they are not one of the Seven Council Fires. A 'related peoples' link works better than a parent link. (3) 'Sioux' as an also-called name: keep it as a search aid, since it is in the legal names of many member nations (Standing Rock Sioux Tribe, Yankton Sioux Tribe and others). Label it 'historical/legal name' rather than a plain synonym, because ND Studies notes that not all tribal members accept it. (4) The directory has no entry for Fort Peck (Assiniboine and Sioux Tribes), whose Sioux side includes Sisseton, Wahpeton, Yanktonai and Hunkpapa. Add it under this parent and its children. (5) The Dakota First Nations in Manitoba and Saskatchewan are not in the directory.",
+  "notes": "Dakota-alphabet spellings of the seven fires are taken from the MNHS page. Spellings differ between nations (for example Mdewakanton vs Bdewakantonwan) and should be confirmed by reviewers. I left out the Lakota arrival on the plains (EGP gives c. 1750–1775; one source only)."
+}

@@ -2,6 +2,8 @@
   "link_types": {
     "official": "Official website",
     "tourism": "Visit / tourism",
+    "history": "History, in the nation's words",
+    "reference": "History reference",
     "cultural_center": "Cultural center",
     "museum": "Museum",
     "events": "Events",
@@ -17,11 +19,48 @@
     "aita_profile": "Destination Native America",
     "native_land": "Native Land Digital map"
   },
-  "publishers": ["nation", "alliance", "state_tourism", "aita", "federal", "native_land"],
+  "publishers": [
+    "nation",
+    "alliance",
+    "state_tourism",
+    "aita",
+    "federal",
+    "native_land",
+    "reference"
+  ],
   "alliances": {
-    "ndnta": {"name": "North Dakota Native Tourism Alliance", "url": "https://www.ndnta.com/"},
-    "sdnta": {"name": "South Dakota Native Tourism Alliance", "url": "https://sdnativetourismalliance.org/"},
-    "aita": {"name": "American Indigenous Tourism Association", "url": "https://americanindigenoustourism.org/"}
+    "ndnta": {
+      "name": "North Dakota Native Tourism Alliance",
+      "url": "https://www.ndnta.com/"
+    },
+    "sdnta": {
+      "name": "South Dakota Native Tourism Alliance",
+      "url": "https://sdnativetourismalliance.org/"
+    },
+    "aita": {
+      "name": "Destination Native America (American Indigenous Tourism Association)",
+      "url": "https://destinationnativeamerica.com/"
+    },
+    "wrvc": {
+      "name": "Wind River Visitors Council (Fremont County)",
+      "url": "https://windriver.org/"
+    },
+    "natow": {
+      "name": "Native American Tourism of Wisconsin",
+      "url": "https://www.glitc.org/programs/economic-development/native-american-tourism-of-wisconsin-natow/overview-natow/"
+    },
+    "ipcc": {
+      "name": "Indian Pueblo Cultural Center",
+      "url": "https://indianpueblo.org/"
+    },
+    "anhc": {
+      "name": "Alaska Native Heritage Center",
+      "url": "https://www.alaskanative.net/"
+    },
+    "mita": {
+      "name": "Montana Indigenous Tourism Alliance",
+      "url": "https://visitmita.org/"
+    }
   },
   "tags": {
     "cultural_center": "Cultural center or museum",
@@ -35,7 +74,19 @@
     "bison": "Bison herd",
     "historic_site": "Historic sites open to visitors",
     "arts": "Native arts",
-    "dining": "Dining"
+    "dining": "Dining",
+    "casino": "Casino",
+    "museum": "Museum",
+    "scenic_drive": "Scenic drive",
+    "horse_culture": "Horse culture",
+    "tribal_college": "Tribal college",
+    "national_park_nearby": "Next to a national park"
   },
-  "review_statuses": ["draft", "library_reviewed", "nation_contacted", "nation_approved", "nation_declined"]
+  "review_statuses": [
+    "draft",
+    "library_reviewed",
+    "nation_contacted",
+    "nation_approved",
+    "nation_declined"
+  ]
 }

@@ -2,19 +2,64 @@
   "id": "chippewa-cree-indians-of-the-rocky-boy-s-reservation-montana",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Havre",
   "census_aiannh": [],
-  "official_website": "http://www.chippewacree.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://www.chippewa-cree.org/",
+  "alliances": [
+    "aita",
+    "mita"
+  ],
+  "tags": [
+    "powwow_summer",
+    "tribal_college"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Upper Missouri River Breaks National Monument"
+  ],
+  "links": [
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/chippewa-cree-tribe",
+      "label": "Chippewa Cree Tribe on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "official",
+      "url": "https://www.chippewa-cree.org/",
+      "label": "Chippewa Cree Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.visitmt.com/indian-country/annishinabe-ne-i-yah-wahk-rocky-boys",
+      "label": "Visit Montana: Anishinabe and Ne-i-yah-wahk (Rocky Boy's)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "visitor_protocols",
+      "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+      "label": "Respectful travel in Indian Country (Visit Montana)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] BIA site chippewacree.org is hijacked (spam/gambling) - replaced with chippewa-cree.org (self-described official; in Montana tribal directory)."
   },
   "sources": [
     {
@@ -45,5 +90,5 @@
   "states": [
     "MT"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

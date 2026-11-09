@@ -2,19 +2,114 @@
   "id": "eastern-shoshone-tribe-of-the-wind-river-reservation-wyoming",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Lander",
   "census_aiannh": [],
-  "official_website": "http://www.easternshoshone.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://easternshoshone.org/",
+  "alliances": [
+    "aita",
+    "wrvc"
+  ],
+  "tags": [
+    "cultural_center",
+    "bison",
+    "casino",
+    "lodging",
+    "fishing",
+    "camping",
+    "powwow_summer"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Shoshone National Forest"
+  ],
+  "links": [
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/eastern-shoshone-tribe",
+      "label": "Eastern Shoshone Tribe on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "official",
+      "url": "https://easternshoshone.org/",
+      "label": "Eastern Shoshone Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "cultural_center",
+      "url": "https://easternshoshone.org/cultural-center/",
+      "label": "Eastern Shoshone Cultural Center",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://shoshonerose.com/",
+      "label": "Shoshone Rose Casino & Hotel, Lander",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://windriver.org/destinations/wind-river-indian-reservation/",
+      "label": "Wind River Visitors Council: Wind River Indian Reservation",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "powwow",
+      "url": "https://windriver.org/experience/native-american-powwows/",
+      "label": "Wind River powwows and etiquette",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://windriver.org/blog/explore-the-wind-river-indian-reservation-with-travelstorys/",
+      "label": "Wind River Indian Reservation audio tour",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_fishing",
+      "url": "https://www.windriverfishandgame.com/buy-a-fishing-permit/",
+      "label": "Wind River tribal fishing permits",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://www.windriverfishandgame.com/visiting-wind-river/",
+      "label": "Wind River Fish & Game information for the reservation",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Possible self-name 'Newe' (newsletter title only); confirm. Sacajawea's burial site appears on partner pages; not linked."
   },
   "sources": [
     {
@@ -45,5 +140,5 @@
   "states": [
     "WY"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

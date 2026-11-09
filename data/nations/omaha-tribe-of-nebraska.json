@@ -1,20 +1,86 @@
 {
   "id": "omaha-tribe-of-nebraska",
   "display_name": null,
-  "aka": [],
-  "nearest_town": null,
+  "aka": [
+    "UmonHon"
+  ],
+  "nearest_town": "Macy",
   "census_aiannh": [],
-  "official_website": "http://www.omaha-nsn.gov",
+  "official_website": "https://www.omahatribe.com/",
   "alliances": [],
-  "tags": [],
+  "tags": [
+    "casino",
+    "lodging",
+    "hunting",
+    "bison",
+    "powwow_summer",
+    "tribal_college"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "DeSoto National Wildlife Refuge"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://www.omahatribe.com/",
+      "label": "Omaha Tribe of Nebraska",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://www.omahatribe.com/omaha-tribe-wildlife-parks/",
+      "label": "Omaha Tribe Wildlife & Parks",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://www.omahatribe.com/big-elk-development-cabin-rentals/",
+      "label": "Big Elk Development cabin rentals",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://www.omahatribe.com/blackbird-bend-casino/",
+      "label": "Blackbird Bend Casino",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://www.omahatribe.com/category/upcoming-events/",
+      "label": "Omaha Tribe upcoming events",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://visitnebraska.com/walton/omaha-indian-reservation",
+      "label": "Visit Nebraska: Omaha Indian Reservation",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] BIA domain omaha-nsn.gov failed; nation uses omahatribe.com. 'UmonHon' from the nation's own Hedewachi flyer."
   },
   "sources": [
     {
@@ -26,6 +92,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "SD SHPO tribal contacts July 2026",
+      "url": "https://history.sd.gov/preservation/docs/TribalChairsTHPOs-July2026.pdf",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Omaha Tribe of Nebraska",
@@ -45,5 +116,5 @@
   "states": [
     "NE"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

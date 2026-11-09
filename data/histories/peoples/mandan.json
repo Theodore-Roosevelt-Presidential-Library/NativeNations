@@ -1,0 +1,32 @@
+{
+  "id": "mandan",
+  "summary": "The Mandan call themselves Nueta, also written Nuta and Núeta. They speak a Siouan language. Their oral tradition tells of emerging from the earth and coming to the Missouri River, where they built villages of earth lodges near the Heart River and later near the Knife River in present-day North Dakota. Mandan families farmed corn, beans, squash and sunflowers in the river bottoms and hunted bison. Their villages were a busy trading center on the northern plains, described by La Vérendrye, Lewis and Clark and other early travelers. Mandan society is organized in clans traced through the mother's line.\n\nSmallpox struck again and again. The epidemic of 1837 left fewer than two hundred Mandan alive. In 1845 Mandan and Hidatsa families built Like-a-Fishhook Village together, which grew into a trading center beside Fort Berthold, and the Arikara later joined them there. The 1851 Fort Laramie Treaty recognized a large territory for the three tribes, but executive orders, allotment and later laws reduced it to a fraction. The Fort Berthold Reservation dates to 1870.\n\nIn the 1950s, Garrison Dam flooded the bottomland communities where most families lived, under the waters of Lake Sakakawea. Mandan families resettled on the uplands, many at the new community of Twin Buttes. Today the Mandan are one of the three nations of the MHA Nation, the Mandan, Hidatsa and Arikara Nation. The Mandan language is taught in school, and ceremonies have been revived.",
+  "sources": [
+    {
+      "name": "MHA Nation, History",
+      "url": "https://mhanation.com/history"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Mandans",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.061.html"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Hidatsas",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.035.html"
+    },
+    {
+      "name": "North Dakota Studies (State Historical Society of North Dakota), The Three Tribes Alliance",
+      "url": "https://www.ndstudies.gov/gr8/node/561"
+    },
+    {
+      "name": "North Dakota Indian Affairs Commission, Facts and Profiles",
+      "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/NDIAC_Facts_and_Profiles.pdf"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Spelling: the MHA Nation's own history page uses 'Nuta' and 'Núeta'. 'Nueta' without the accent does not appear there, so ask the MHA Nation which spelling it wants. EGP gives an older self-name, Numangkaki ('People of the First Man'). The MHA site says full pages for each tribe are being developed. Align with those pages when they are published.",
+  "notes": "MHA Nation material is subject to the Library's Indigenous-content review route (see Flags). The 12-million-acre figure is left out because MHA and EGP frame it differently. Population figures beyond 'fewer than two hundred' (EGP: under 200; MHA: about 125) are left out. The Okipa is not mentioned (ceremonial).",
+  "hold": true,
+  "hold_reason": "MHA Nation materials route to Annalisa Robinson-Melton and Bridget before display, per TRPL editorial standards."
+}

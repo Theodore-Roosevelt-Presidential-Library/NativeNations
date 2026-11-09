@@ -1,0 +1,33 @@
+{
+  "id": "oglala-sioux-tribe",
+  "summary": "The Oglala Sioux Tribe is the government of the Oglala Lakota, one of the Lakota bands of the Oceti Sakowin. Its homeland, the Pine Ridge Reservation, covers about 1.7 million acres in southwestern South Dakota.\n\nIn the 1860s the Oglala leader Red Cloud led the fight to close the Bozeman Trail through Lakota hunting country. That war ended with the 1868 Treaty of Fort Laramie, which recognized a Great Sioux Reservation across all of present-day South Dakota west of the Missouri River. In 1877 the United States took the Black Hills, and in 1889 Congress divided what was left into smaller reservations, Pine Ridge among them.\n\nThe Oglala agency began near Fort Laramie in present-day Wyoming. It moved several times before settling at Pine Ridge. In December 1890, U.S. troops killed Lakota men, women, and children at Wounded Knee, a massacre that ended the era of armed conflict between the Lakota and the United States.\n\nTribal government is based in the town of Pine Ridge. Oglala Lakota College, based in Kyle, serves communities across the reservation. Red Cloud's push for a school at Pine Ridge led to what is now Red Cloud Indian School.",
+  "sources": [
+    {
+      "name": "SD Department of Tribal Relations: Oglala Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Oglala-Sioux-Tribe.aspx"
+    },
+    {
+      "name": "South Dakota State Historical Society, State Archives: Pine Ridge Agency",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/pineridge.pdf"
+    },
+    {
+      "name": "South Dakota State Historical Society, State Archives: Great Sioux Reservation",
+      "url": "https://history.sd.gov/Archives/forms/indian%20archives/Indian%20Archives%20Project/greatsioux.pdf"
+    },
+    {
+      "name": "Standing Rock Sioux Tribe: history (1868 treaty, 1877 Black Hills act, 1889 act)",
+      "url": "https://www.standingrock.org/?p=3339"
+    },
+    {
+      "name": "Rosebud Sioux Tribe: History and Culture",
+      "url": "https://www.rosebudsiouxtribe-nsn.gov/history-culture"
+    },
+    {
+      "name": "ND Studies (SHSND), Grade 8, Section 6 (1889 breakup)",
+      "url": "https://www.ndstudies.gov/gr8/node/174"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "notes": "No nation-authored source read; the Tribe's site is oglala.gov (found in link research) — check the summary against it. Removed the writer's unsourced landscape phrase. Left out: Wounded Knee death toll (150-370 across sources), 1878 agency date, 1973 occupation (single source, contested). Red Cloud's War dated 1866-1868 vs 1866-1867, so 'the 1860s'."
+}

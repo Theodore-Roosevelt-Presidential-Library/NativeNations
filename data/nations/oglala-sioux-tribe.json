@@ -2,19 +2,88 @@
   "id": "oglala-sioux-tribe",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Pine Ridge",
   "census_aiannh": [],
-  "official_website": "http://www.oglalalakotanation.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://www.oglala.gov/",
+  "alliances": [
+    "sdnta"
+  ],
+  "tags": [
+    "hunting",
+    "fishing",
+    "bison",
+    "museum",
+    "tribal_college",
+    "casino",
+    "lodging",
+    "national_park_nearby"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Badlands National Park",
+    "Buffalo Gap National Grassland"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://www.oglala.gov/",
+      "label": "Oglala Sioux Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://www.oglalasiouxparksandrec.net/hunting-and-fishing-regulations/",
+      "label": "Oglala Sioux Parks & Recreation hunting and fishing regulations",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "museum",
+      "url": "https://www.olc.edu/about/historical-center/",
+      "label": "Oglala Lakota College Historical Center, Kyle",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://www.prairiewindcasino.com/",
+      "label": "Prairie Wind Casino & Hotel",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.travelsouthdakota.com/trip-ideas/oglala-sioux-tribe",
+      "label": "Travel South Dakota: Oglala Sioux Tribe",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "label": "South Dakota Native Tourism Alliance member nations",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] BIA site oglalalakotanation.org returns 404; SDNTA's oglalalakotanation.info is NOT official (third-party, casino ad) - never use. oglala.gov per SD Tribal Relations. OSPRA online licenses https://ospra.nagfa.net/online/. Tatanka Lodge (OSPRA) is in the Wounded Knee community - left out for human decision: https://www.oglalasiouxparksandrec.net/tatanka-lodge/. Prairie Wind ownership confirmed by news, not casino site. DNA placeholder page empty (https://destinationnativeamerica.com/tribes/oglala-sioux-tribe), not linked."
   },
   "sources": [
     {
@@ -26,6 +95,21 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "SD Tribal Relations: Oglala Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Oglala-Sioux-Tribe.aspx",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "SD Tribal Relations wildlife contacts",
+      "url": "https://sdtribalrelations.sd.gov/docs/Tribal_Wildlife_Contacts_Clean_Tagged.pdf",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "SDNTA nations list",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Oglala Sioux Tribe",
@@ -45,5 +129,5 @@
   "states": [
     "SD"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

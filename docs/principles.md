@@ -2,6 +2,9 @@
 
 Native Nations is a front door, not a guidebook. It helps travelers find the tourism and visitation resources that Native nations and their tourism alliances publish themselves, then sends them there.
 
+## Nations speak for themselves
+When a nation says who it is, that governs: its name, how it spells it, which people it belongs to, and whether it is separate from a people it has been grouped with. Federal, state, scholarly or older names are kept only as "also called" or "previously listed as." If a nation's own statement conflicts with any other source, the nation's statement wins, and the directory changes to match.
+
 ## What the directory shows
 - Facts: the nation's official name and the name it uses for itself, state(s), headquarters town, distance to nearby public lands.
 - Short tags a traveler can filter by ("cultural center", "guided tours", "powwow season: summer").

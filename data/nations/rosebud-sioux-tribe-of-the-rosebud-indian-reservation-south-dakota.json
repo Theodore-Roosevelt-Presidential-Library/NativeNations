@@ -2,19 +2,106 @@
   "id": "rosebud-sioux-tribe-of-the-rosebud-indian-reservation-south-dakota",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Mission",
   "census_aiannh": [],
-  "official_website": "http://www.rosebudsiouxtribe-nsn.gov",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://www.rosebudsiouxtribe-nsn.gov/",
+  "alliances": [
+    "sdnta"
+  ],
+  "tags": [
+    "powwow_summer",
+    "rodeo",
+    "hunting",
+    "fishing",
+    "museum",
+    "tribal_college",
+    "casino",
+    "lodging"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Fort Niobrara National Wildlife Refuge",
+    "Niobrara National Scenic River"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://www.rosebudsiouxtribe-nsn.gov/",
+      "label": "Rosebud Sioux Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "powwow",
+      "url": "https://www.rosebudsiouxtribe-nsn.gov/rosebud-fair",
+      "label": "Rosebud Fair, Wacipi & Rodeo",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://rstgfp.net/regulations/hunting/",
+      "label": "Rosebud Sioux Tribe Game, Fish & Parks hunting regulations",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_fishing",
+      "url": "https://rstgfp.net/regulations/fishing/",
+      "label": "Rosebud Sioux Tribe Game, Fish & Parks fishing regulations",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "museum",
+      "url": "https://www.sintegleska.edu/heritage-center.html",
+      "label": "Sicangu Heritage Center, Sinte Gleska University",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://www.rosebudcasino.com/",
+      "label": "Rosebud Casino and hotel",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.travelsouthdakota.com/trip-ideas/rosebud-sioux-tribe",
+      "label": "Travel South Dakota: Rosebud Sioux Tribe",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "label": "South Dakota Native Tourism Alliance member nations",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Self-name 'Sicangu' appears in event names but not on the home page; confirm before adding as aka. Sinte Gleska is tribally chartered (publisher 'nation' to confirm). DNA placeholder empty."
   },
   "sources": [
     {
@@ -26,6 +113,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "SDNTA nations list",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota",
@@ -45,5 +137,5 @@
   "states": [
     "SD"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

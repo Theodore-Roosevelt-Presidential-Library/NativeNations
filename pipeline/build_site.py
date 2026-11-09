@@ -46,7 +46,7 @@ def page(title, body, *, desc="", path="/", nav="", extra_head="", widget=False)
 <header class="site-head"><div class="wrap">
   <a class="logo" href="https://www.trlibrary.com/" aria-label="Theodore Roosevelt Presidential Library"><img src="/assets/brand/trpl-logo-horizontal-black.svg" alt="Theodore Roosevelt Presidential Library"></a>
   <a class="site-title" href="/">Native Nations</a>
-  <nav class="site-nav" aria-label="Main">{link("/", "Search", "search")}{link("/map.html", "Map", "map")}{link("/embed.html", "Embed &amp; API", "embed")}{link("/about.html", "About", "about")}</nav>
+  <nav class="site-nav" aria-label="Main">{link("/", "Search", "search")}{link("/states/", "States", "states")}{link("/peoples/", "Peoples", "peoples")}{link("/map.html", "Map", "map")}{link("/embed.html", "Embed &amp; API", "embed")}{link("/about.html", "About", "about")}</nav>
 </div></header>
 {'' if PUBLIC else '<div class="devnote"><div class="wrap">In development. Listings are drafts and have not yet been reviewed by the nations or their tourism alliances.</div></div>'}
 <main>{body}</main>
@@ -71,7 +71,9 @@ def fact_rows(n):
     if n["aka"]: row("Also known as", e(", ".join(n["aka"])))
     if n["fr_former_names"]: row("Previously listed as", e("; ".join(n["fr_former_names"])))
     if n["fr_note"] and not n["fr_former_names"]: row("Federal list note", e(n["fr_note"]))
-    row("State" + ("s" if len(n["states"]) > 1 else ""), e(states_text(n)))
+    if n.get("peoples"):
+        row("Peoples", ", ".join(f'<a href="/peoples/{pp["id"]}/">{e(pp["name"])}</a>' for pp in n["peoples"]) + ' <span class="caption">(draft)</span>')
+    row("State" + ("s" if len(n["states"]) > 1 else ""), ", ".join(f'<a href="/states/{s.lower()}/">{e(STATE_NAMES.get(s, s))}</a>' for s in n["states"]))
     if n["hq"]: row("Tribal government headquarters", e(f'{n["hq"]["city"]}, {STATE_NAMES.get(n["hq"]["state"], n["hq"]["state"])}'))
     if n["nearest_town"] and (not n["hq"] or n["nearest_town"] != n["hq"]["city"]): row("Nearest town", e(n["nearest_town"]))
     if n["bia_region"]: row("BIA region", e(n["bia_region"]))
@@ -83,8 +85,18 @@ def fact_rows(n):
     row("Federal recognition", e(n["fr_citation"]))
     return "\n".join(rows)
 
+def history_links(n):
+    hs = [l for l in n["links"] if l["type"] in ("history", "reference")]
+    if not hs:
+        return ""
+    out = ['<h2>History</h2><p class="caption">Start with the nation&rsquo;s own telling.</p><ul class="linklist">']
+    for l in sorted(hs, key=lambda l: l["type"] != "history"):
+        out.append(f'<li><a href="{e(l["go"])}" rel="noopener" target="_blank">{e(l["label"])}</a><span class="caption">{e(l["type_label"])} &middot; {e(urllib.parse.urlsplit(l["url"]).netloc.replace("www.", ""))}</span></li>')
+    out.append("</ul>")
+    return "\n".join(out)
+
 def visit_links(n):
-    links = [l for l in n["links"] if l["type"] != "official"]
+    links = [l for l in n["links"] if l["type"] not in ("official", "history", "reference")]
     if not links:
         site = f' Start with the <a href="{e(n["official_website"])}" rel="noopener">official website</a>.' if n["official_website"] else ""
         return f'<p class="empty">Tourism links for this nation haven&rsquo;t been added yet.{site}</p>'
@@ -118,7 +130,7 @@ def fact_page(n):
 <p class="caption">The point marks the tribal government headquarters, not the nation&rsquo;s homelands or reservation boundary. <a href="https://native-land.ca/" rel="noopener">Explore Indigenous territories on Native Land Digital</a>.</p>"""
     snippet = e(f'<div data-nativenations="card" data-id="{n["id"]}"></div>\n<script src="{BASE}/embed.js" async></script>')
     body = f"""<section class="fact-hero"><div class="wrap">
-<div class="crumb"><a href="/">All nations</a> &rsaquo; {e(where)}</div>
+<div class="crumb"><a href="/">All nations</a> &rsaquo; {" / ".join(f'<a href="/states/{s.lower()}/">{e(STATE_NAMES.get(s, s))}</a>' for s in n["states"])}</div>
 <h1>{e(n["name"])}</h1>
 {f'<p class="legal">{e(n["fr_name"])}</p>' if n["name"] != n["fr_name"] else ''}
 {f'<p>{e(n["blurb"])}</p>' if n["blurb"] else ''}
@@ -128,6 +140,8 @@ def fact_page(n):
 <h2>Plan your visit</h2>
 {visit_links(n)}
 <p class="caption" style="margin-top:14px">Before you go, read the <a href="{KBYG}" rel="noopener">Know Before You Go guides</a> from the American Indigenous Tourism Association. Each nation sets its own rules for photography, ceremonies and permits.</p>
+{history_block("nations", n["id"])}
+{history_links(n)}
 {mapblock}
 </div>
 <aside>
@@ -142,19 +156,166 @@ def fact_page(n):
 <script>window.NN_MINI=true</script><script src="/assets/map.js" defer></script>"""
     return page(n["name"], body, desc=desc, path=f'/nations/{n["id"]}/', extra_head=LEAFLET + jsonld(n))
 
+def pby_root(p, plist):
+    return next((x["name"] for x in plist if x["id"] == p["parent"]), p["name"])
+
+HIST = ROOT / "data/histories"
+def history_block(kind, id_):
+    f = HIST / kind / f"{id_}.json"
+    if not f.exists():
+        return ""
+    h = json.loads(f.read_text())
+    if h.get("hold"):
+        return ""
+    srcs = "".join(f'<li><a href="{e(x["url"])}" rel="noopener">{e(x["name"])}</a></li>' for x in h.get("sources", []))
+    paras = "".join(f"<p>{e(par)}</p>" for par in h["summary"].split("\n\n"))
+    return f"""<h2>History</h2>
+<p class="label" style="color:var(--night)">Draft &middot; not yet reviewed by the nation{"s" if kind == "peoples" else ""} or the Library&rsquo;s historians</p>
+{paras}
+<details><summary class="caption">Sources</summary><ul class="caption">{srcs}</ul></details>"""
+
 def filters_html():
     states = sorted({s for n in nations for s in n["states"]}, key=lambda s: STATE_NAMES.get(s, s))
     regions = sorted({n["bia_region"] for n in nations if n["bia_region"]})
     st = "".join(f'<option value="{s}">{e(STATE_NAMES.get(s, s))}</option>' for s in states)
     rg = "".join(f'<option value="{e(r)}">{e(r)}</option>' for r in regions)
     al = "".join(f'<option value="{k}">{e(v["name"])}</option>' for k, v in vocab["alliances"].items())
+    plist = json.loads((SITE / "api/v1/peoples.json").read_text())
+    pp = "".join(f'<option value="{p["id"]}">{"— " if p["parent"] else ""}{e(p["name"])}</option>' for p in sorted(plist, key=lambda p: (pby_root(p, plist), p["parent"] is not None, p["name"])))
     return f"""<form class="controls" id="filters" role="search" onsubmit="return false">
 <label><span class="label">Search</span><input type="search" name="q" placeholder="Nation, town or former name" autocomplete="off"></label>
 <label><span class="label">State</span><select name="state"><option value="">All states</option>{st}</select></label>
 <label><span class="label">BIA region</span><select name="region"><option value="">All regions</option>{rg}</select></label>
 <label><span class="label">Tourism alliance</span><select name="alliance"><option value="">Any</option>{al}</select></label>
+<label><span class="label">People</span><select name="people"><option value="">Any</option>{pp}</select></label>
 <label class="check"><input type="checkbox" name="visit" value="1"> Has tourism links</label>
 </form>"""
+
+
+STATE_LINKS = {k: v for k, v in json.loads((ROOT / "data/states.json").read_text()).items() if not k.startswith("_")}
+
+def state_card(n, code):
+    hq = n["hq"]["state"] if n["hq"] else None
+    others = [STATE_NAMES.get(s, s) for s in n["states"] if s != code]
+    note = []
+    if not code:
+        others = [STATE_NAMES.get(s, s) for s in n["states"]]
+        note = [", ".join(others)] if others else []
+    elif hq and hq != code: note.append(f"Headquartered in {STATE_NAMES.get(hq, hq)}")
+    if code and others: note.append("Also in " + ", ".join(others))
+    town = n["nearest_town"] or (n["hq"] or {}).get("city")
+    visit = any(l["type"] != "official" for l in n["links"])
+    return f"""<article class="card{' has-links' if visit else ''}">
+<h3><a href="/nations/{n['id']}/">{e(n['name'])}</a></h3>
+<div class="where">{e(town or '')}</div>
+{f'<div class="caption">{e(" · ".join(note))}</div>' if note else ''}
+{'<div><span class="pill">Tourism links</span></div>' if visit else ''}
+<div class="more"><a href="/nations/{n['id']}/">Plan your visit &rsaquo;</a></div></article>"""
+
+def build_states():
+    codes = sorted({s for n in nations for s in n["states"]}, key=lambda s: STATE_NAMES.get(s, s))
+    api = []
+    rows = []
+    for code in codes:
+        name = STATE_NAMES.get(code, code)
+        members = sorted([n for n in nations if code in n["states"]],
+                         key=lambda n: (-any(l["type"] != "official" for l in n["links"]), n["name"]))
+        based = [n for n in members if n["hq"] and n["hq"]["state"] == code]
+        crossing = [n for n in members if len(n["states"]) > 1]
+        info = STATE_LINKS.get(code, {})
+        partner = ""
+        if info.get("links"):
+            partner = '<h2>Statewide partners</h2><ul class="linklist">' + "".join(
+                f'<li><a href="{e(l["url"])}?utm_source=trlibrary&amp;utm_medium=referral&amp;utm_campaign=nativenations" rel="noopener" target="_blank">{e(l["label"])}</a>'
+                f'<span class="caption">{e(vocab["link_types"][l["type"]])} &middot; {e(urllib.parse.urlsplit(l["url"]).netloc.replace("www.", ""))}</span></li>' for l in info["links"]) + "</ul>"
+        snippet = e(f'<div data-nativenations="list" data-state="{code}"></div>\n<script src="{BASE}/embed.js" async></script>')
+        body = f"""<section class="hero"><div class="wrap">
+<div class="crumb"><a href="/states/" style="color:var(--sand)">All states</a></div>
+<h1>Native nations in {e(name)}</h1>
+<p>{len(members)} federally recognized nation{'s' if len(members) != 1 else ''}{f", {len(crossing)} of them across state lines" if crossing else ""}.</p>
+</div></section>
+<div class="wrap fact-body">
+<div>
+<h2>Nations</h2>
+<div class="grid" style="grid-template-columns:repeat(auto-fill,minmax(260px,1fr))">{"".join(state_card(n, code) for n in members)}</div>
+</div>
+<aside>
+{partner}
+<h2>Where</h2>
+<div id="statemap" class="minimap" style="height:340px" data-state="{code}"></div>
+<p class="caption">Points mark tribal government headquarters, not homelands or reservation boundaries. A nation whose lands cross state lines appears on each state&rsquo;s page.</p>
+<p class="caption" style="margin-top:14px">Before you go, read the <a href="{KBYG}" rel="noopener">Know Before You Go guides</a> from the American Indigenous Tourism Association.</p>
+<h2>Embed this list</h2>
+<div class="snippet">{snippet}</div>
+<p class="caption"><a href="/api/v1/states/{code.lower()}.json">JSON</a></p>
+</aside></div>
+<script src="/assets/map.js" defer></script>"""
+        write(f"states/{code.lower()}/index.html", page(f"Native nations in {name}", body,
+              desc=f"The {len(members)} federally recognized Native nations in {name}, with links to their own tourism pages.",
+              path=f"/states/{code.lower()}/", nav="states", extra_head=LEAFLET))
+        rec = {"code": code, "name": name, "count": len(members), "headquartered_here": len(based),
+               "cross_state": len(crossing), "alliances": info.get("alliances", []), "links": info.get("links", []),
+               "nations": [{"id": n["id"], "name": n["name"], "states": n["states"],
+                            "hq_state": n["hq"]["state"] if n["hq"] else None} for n in members]}
+        api.append({k: v for k, v in rec.items() if k != "nations"})
+        (SITE / "api/v1/states").mkdir(parents=True, exist_ok=True)
+        (SITE / "api/v1/states" / f"{code.lower()}.json").write_text(json.dumps(rec, indent=1, ensure_ascii=False))
+        rows.append(f'<tr><th scope=row><a href="/states/{code.lower()}/">{e(name)}</a></th><td>{len(members)}</td><td>{len(crossing) or ""}</td><td>{"Yes" if info.get("links") else ""}</td></tr>')
+    (SITE / "api/v1/states.json").write_text(json.dumps(api, indent=1, ensure_ascii=False))
+    write("states/index.html", page("Native nations by state", f"""<section class="hero"><div class="wrap">
+<h1>Native nations by state</h1>
+<p>Federally recognized nations in {len(codes)} states. A nation whose lands cross state lines is listed in each of its states.</p>
+</div></section>
+<div class="wrap" style="max-width:820px">
+<table class="facts" style="margin-top:28px"><thead><tr><th>State</th><th>Nations</th><th>Across state lines</th><th>Statewide partners</th></tr></thead><tbody>{"".join(rows)}</tbody></table>
+</div>""", desc="Find federally recognized Native nations by state, with links to their own tourism pages.", path="/states/", nav="states"))
+
+def build_peoples():
+    plist = json.loads((SITE / "api/v1/peoples.json").read_text())
+    byid = {n["id"]: n for n in nations}
+    pby = {p["id"]: p for p in plist}
+    DRAFT = '<p class="empty" style="margin-top:20px">Draft. These groupings are being reviewed with the nations before this page is published. Each nation names itself; follow its links to learn how it tells its own history.</p>'
+    for p in plist:
+        members = sorted([byid[i] for i in p["nations"]], key=lambda n: (-any(l["type"] != "official" for l in n["links"]), n["name"]))
+        kids = [c for c in plist if c["parent"] == p["id"]]
+        parent = pby.get(p["parent"]) if p["parent"] else None
+        aka = f'<p>Also called {e(", ".join(p["also_called"]))}</p>' if p["also_called"] else ""
+        sub = ""
+        if kids:
+            sub = '<h2>Within the ' + e(p["name"]) + '</h2><ul class="linklist">' + "".join(
+                f'<li><a href="/peoples/{c["id"]}/">{e(c["name"])}</a><span class="caption">{len(c["nations"])} nation{"s" if len(c["nations"]) != 1 else ""}</span></li>' for c in kids) + "</ul>"
+        states = sorted({s for n in members for s in n["states"]}, key=lambda s: STATE_NAMES.get(s, s))
+        body = f"""<section class="hero"><div class="wrap">
+<div class="crumb"><a href="/peoples/" style="color:var(--sand)">All peoples</a>{f' &rsaquo; <a href="/peoples/{parent["id"]}/" style="color:var(--sand)">{e(parent["name"])}</a>' if parent else ''}</div>
+<h1>{e(p["name"])}</h1>{aka}
+<p>{len(members)} federally recognized nation{"s" if len(members) != 1 else ""} today, in {e(", ".join(STATE_NAMES.get(s, s) for s in states))}.</p>
+</div></section>
+<div class="wrap fact-body"><div>
+{DRAFT}
+{history_block("peoples", p["id"])}
+<h2>Nations today</h2>
+<div class="grid" style="grid-template-columns:repeat(auto-fill,minmax(260px,1fr))">{"".join(state_card(n, "") for n in members)}</div>
+{sub}
+{('<h2>Related peoples</h2><p class="caption">Related, but each identifies as its own people.</p><ul class="linklist">' + "".join(f'<li><a href="/peoples/{r}/">{e(pby[r]["name"])}</a></li>' for r in p.get("related", []) if r in pby) + '</ul>') if p.get("related") else ""}
+</div><aside>
+<h2>Where</h2><div id="peoplemap" class="minimap" style="height:340px" data-ids="{",".join(p["nations"])}"></div>
+<p class="caption">Points mark tribal government headquarters today, not homelands or historic territories. For territories, see <a href="https://native-land.ca/" rel="noopener">Native Land Digital</a>.</p>
+<p class="caption"><a href="/api/v1/peoples.json">JSON</a></p>
+</aside></div><script src="/assets/map.js" defer></script>"""
+        write(f'peoples/{p["id"]}/index.html', page(p["name"], body, desc=f'{p["name"]}: the federally recognized nations today and links to their own tourism pages.',
+              path=f'/peoples/{p["id"]}/', nav="peoples", extra_head=LEAFLET))
+    def item(p, depth):
+        return f'<tr><th scope=row style="padding-left:{depth * 22}px"><a href="/peoples/{p["id"]}/">{e(p["name"])}</a></th><td>{e(", ".join(p["also_called"]))}</td><td>{len(p["nations"])}</td></tr>'
+    rows = []
+    for p in sorted([x for x in plist if not x["parent"]], key=lambda x: x["name"]):
+        rows.append(item(p, 0))
+        rows += [item(c, 1) for c in plist if c["parent"] == p["id"]]
+    write("peoples/index.html", page("Peoples and nations", f"""<section class="hero"><div class="wrap">
+<h1>Peoples and nations</h1><p>Many peoples are made up of several nations today, and some nations bring together more than one people. Pick a people to see its nations.</p></div></section>
+<div class="wrap" style="max-width:900px">{DRAFT}
+<table class="facts" style="margin-top:20px"><thead><tr><th>People</th><th>Also called</th><th>Nations today</th></tr></thead><tbody>{"".join(rows)}</tbody></table>
+<p class="caption" style="margin-top:14px">This list is growing. It starts with the peoples of the Northern Plains and Rocky Mountains.</p></div>""",
+        desc="Peoples and the federally recognized nations that belong to them today.", path="/peoples/", nav="peoples"))
 
 def build():
     n_visit = sum(1 for n in nations if any(l["type"] != "official" for l in n["links"]))
@@ -185,6 +346,7 @@ def build():
 <label><span class="label">Widget</span><select name="type"><option value="list">List</option><option value="map">Map</option><option value="card">Single nation card</option></select></label>
 <label><span class="label">State</span><select name="state"><option value="">All states</option>{"".join(f'<option value="{s}"{" selected" if s == "ND" else ""}>{e(STATE_NAMES.get(s, s))}</option>' for s in sorted({s for n in nations for s in n["states"]}, key=lambda s: STATE_NAMES.get(s, s)))}</select></label>
 <label><span class="label">Tourism alliance</span><select name="alliance"><option value="">Any</option>{"".join(f'<option value="{k}">{e(v["name"])}</option>' for k, v in vocab["alliances"].items())}</select></label>
+<label class="check"><input type="checkbox" name="filters" value="1" checked> Search box</label>
 <label><span class="label">Rows (list)</span><select name="limit"><option value="12">12</option><option value="24">24</option><option value="">All</option></select></label>
 <label><span class="label">Nation (card)</span><select name="id"><option value="">Choose a nation</option>{"".join(f'<option value="{n["id"]}">{e(n["name"])}</option>' for n in sorted(nations, key=lambda n: n["name"]))}</select></label>
 </form>
@@ -199,7 +361,17 @@ def build():
 <tr><th>data-visit</th><td><code>1</code> to show only nations with tourism links</td></tr>
 <tr><th>data-limit</th><td>Maximum rows (list). Without filters, lists show 24 unless you set this.</td></tr>
 <tr><th>data-height</th><td>Map height in pixels (map)</td></tr>
+<tr><th>data-filters</th><td><code>1</code> adds a search box and state filter to a list</td></tr>
+<tr><th>data-people</th><td>People id, e.g. <code>lakota</code> (list, map)</td></tr>
+<tr><th>data-name</th><td>Name a widget when a page has more than one, so each gets its own address parameters</td></tr>
+<tr><th>data-deeplink</th><td><code>off</code> to stop the widget reading and updating your page&rsquo;s address</td></tr>
 </table>
+<h2>Deep links</h2>
+<p>Widgets read <code>nn-</code> settings from the address of the page they sit on, and update it as people search or open a nation. That means any view can be bookmarked or shared from your own site:</p>
+<div class="snippet">https://your-site.org/plan-your-trip?nn-state=SD&amp;nn-q=lakota
+https://your-site.org/plan-your-trip?nn-nation=oglala-sioux-tribe
+https://your-site.org/plan-your-trip?nn-people=dakota&amp;nn-visit=1</div>
+<p class="caption">Any option above works with the <code>nn-</code> prefix: <code>nn-state</code>, <code>nn-q</code>, <code>nn-people</code>, <code>nn-alliance</code>, <code>nn-region</code>, <code>nn-visit</code>, <code>nn-nation</code>. With named widgets use <code>nn-{{name}}-state</code>. The back button works.</p>
 <h2>JSON API</h2>
 <table class="facts">
 <tr><th><a href="/api/v1/index.json">/api/v1/index.json</a></th><td>Compact list of every nation, for search and maps</td></tr>
@@ -226,9 +398,12 @@ def build():
 <p><a href="{REPO}/issues/new">Suggest a change</a></p>
 </div>""", desc="How Native Nations works and where its information comes from.", path="/about.html", nav="about"))
 
+    build_states()
+    build_peoples()
+
     write("robots.txt", "User-agent: *\nAllow: /\nSitemap: " + BASE + "/sitemap.xml\n" if PUBLIC else "User-agent: *\nDisallow: /\n")
     today = datetime.date.today().isoformat()
-    urls = ["/", "/map.html", "/embed.html", "/about.html"] + [f'/nations/{n["id"]}/' for n in nations]
+    urls = ["/", "/states/", "/peoples/", "/map.html", "/embed.html", "/about.html"] + [f"/states/{s.lower()}/" for s in sorted({s for n in nations for s in n["states"]})] + [f'/nations/{n["id"]}/' for n in nations]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
           "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n")
     print(f"built site: {len(nations)} fact pages ({n_visit} with tourism links)")

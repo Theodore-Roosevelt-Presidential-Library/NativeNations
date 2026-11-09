@@ -1,0 +1,34 @@
+{
+  "id": "dakota",
+  "summary": "The Dakota are the four eastern council fires of the Oceti Sakowin: the Bdewakaŋtoŋwaŋ (Mdewakanton), Waĥpekute, Waĥpetoŋwaŋ (Wahpeton) and Sisitoŋwaŋ (Sisseton). They are often called Santee or Isanti. They speak Dakota, the eastern form of the Dakota-Lakota language in the Siouan family. Their homeland centers on the lakes, rivers and prairies of present-day Minnesota, where the first written European account of the Dakota comes from the Mille Lacs country.\n\nIn 1851 the treaties of Traverse des Sioux and Mendota transferred most Dakota land in Minnesota to the United States in exchange for reservations and promised payments. The payments came late, traders cheated families, and people went hungry. In 1862 war broke out. Afterward the United States canceled its Dakota treaties and hanged 38 Dakota men at Mankato on December 26, 1862. It held Dakota women, children and elders at Fort Snelling through the winter and then removed them to Crow Creek in Dakota Territory and later to Nebraska. Other families fled to Dakota Territory or Canada.\n\nExiled Dakota rebuilt their nations in new places: the Santee Sioux Nation in Nebraska, the Flandreau Santee Sioux Tribe in South Dakota, and the Sisseton-Wahpeton Oyate and Spirit Lake Nation, whose reservations were set aside by an 1867 treaty. Families also made their way back to Minnesota, where the Lower Sioux, Upper Sioux, Prairie Island and Shakopee Mdewakanton communities stand today. Dakota First Nations also continue in Canada.",
+  "sources": [
+    {
+      "name": "MNopedia (Minnesota Historical Society), US–Dakota War of 1862",
+      "url": "https://www.mnhs.org/mnopedia/search/index/event/us-dakota-war-1862"
+    },
+    {
+      "name": "North Dakota Indian Affairs Commission, History and Culture: Spirit Lake",
+      "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/History_and_Culture_Spirit_Lake.pdf"
+    },
+    {
+      "name": "North Dakota Indian Affairs Commission, Facts and Profiles",
+      "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/NDIAC_Facts_and_Profiles.pdf"
+    },
+    {
+      "name": "Minnesota Historical Society, Dakota (Oceti Šakowiŋ) communities",
+      "url": "https://www.mnhs.org/usdakotawar/stories/communities/dakota-oceti-šakowiŋ"
+    },
+    {
+      "name": "South Dakota State Historical Society, Crow Creek (Indian Archives Project)",
+      "url": "https://history.sd.gov/archives/forms/indian archives/Indian Archives Project/crowcreek.pdf"
+    },
+    {
+      "name": "South Dakota Hall of Fame, Nine Nations exhibit",
+      "url": "https://www.sdhalloffame.org/nine-nations-exhibit"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "(1) Spirit Lake is mixed. NDIAC and the Spirit Lake history list Sisseton, Wahpeton and the Cut Head band of Yanktonai, plus some Turtle Mountain Chippewa families. List it under Yankton-Yanktonai as well as Dakota. (2) Crow Creek: the SD Hall of Fame lists both Mdewakanton (Dakota) and Ihanktonwan bands. SD archives say Lower Yanktonai/Hunkpati form the core, and Mdewakanton and Wahpekute were held there after 1862. List Crow Creek under Dakota as well as Yankton-Yanktonai. (3) Fort Peck's Sisseton and Wahpeton are missing. (4) Standing Rock's Pabaksa/Cuthead are described as Dakota speakers. (5) Canadian Dakota First Nations (Sioux Valley, Whitecap, Dakota Tipi, Birdtail, Dakota Plains Wahpeton and others, per MNHS) are not in the directory. Decide whether the directory is U.S.-only.",
+  "notes": "I left out these details, each on only one source: the Fort Snelling count (~1,600), the August 17 start date, and the 1880s date of return to Minnesota. The source pages did not say how Flandreau was founded, so the summary only names it. The death sentence on 303 men and Lincoln's commutations are left out for length; reviewers may want them."
+}

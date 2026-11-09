@@ -1,0 +1,42 @@
+{
+  "id": "yankton-yanktonai",
+  "summary": "The Ihaŋktoŋwaŋ (Yankton) and Ihaŋktoŋwaŋna (Yanktonai), whose names are translated as Dwellers at the End and Little Dwellers at the End, are two of the Seven Council Fires and form its middle group. Their speech belongs to the Dakota-Lakota language of the Siouan family. Many references group these two council fires under the name Nakota, but the Yankton Sioux Tribe names its own language Dakota. The Assiniboine, or Nakoda, trace their beginnings to a group that separated from the Yanktonai.\n\nYankton and Yanktonai bands lived on the prairies of the James River valley and along the Missouri. They traded with the Mandan, Hidatsa and Arikara, and some Yanktonai adopted earth lodges and gardens while still relying on the bison.\n\nIn a treaty negotiated in Washington, the Yankton ceded most of their land and kept a reservation north of the Missouri River in present-day South Dakota. The Yankton Sioux Tribe lives there today. The Yanktonai did not settle in one place. Lower Yanktonai, including the Hunkpati band, are at the core of the Crow Creek Sioux Tribe, alongside Dakota relatives. Upper and Lower Yanktonai live at Standing Rock, mostly in its North Dakota communities. The Cut Head band was included in the treaty that created Spirit Lake and became part of that nation. Yanktonai families are also among the Fort Peck Tribes in Montana.",
+  "sources": [
+    {
+      "name": "Minnesota Historical Society, Oceti Šakowiŋ: The Seven Council Fires",
+      "url": "https://www.mnhs.org/usdakotawar/stories/history/dakota-homeland/oceti-šakowiŋ-seven-council-fires"
+    },
+    {
+      "name": "National Park Service, Yankton Sioux Treaty Monument",
+      "url": "https://www.nps.gov/mnrr/learn/historyculture/yankton-sioux-treaty-monument.htm"
+    },
+    {
+      "name": "South Dakota State Historical Society, Crow Creek (Indian Archives Project)",
+      "url": "https://history.sd.gov/archives/forms/indian archives/Indian Archives Project/crowcreek.pdf"
+    },
+    {
+      "name": "Sitting Bull College, Standing Rock Sioux Tribe",
+      "url": "https://www.sittingbull.edu/about/community/visitor-center/standing-rock-sioux-tribe"
+    },
+    {
+      "name": "North Dakota Indian Affairs Commission, History and Culture: Spirit Lake",
+      "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/History_and_Culture_Spirit_Lake.pdf"
+    },
+    {
+      "name": "Fort Peck Assiniboine & Sioux Tribes, Tribal History",
+      "url": "https://fortpecktribes.org/visitor-opportunities/tribal-history/"
+    },
+    {
+      "name": "South Dakota Hall of Fame, Nine Nations exhibit",
+      "url": "https://www.sdhalloffame.org/nine-nations-exhibit"
+    },
+    {
+      "name": "Montana Office of Public Instruction, Montana Indians: Their History and Location (Fort Belknap pages)",
+      "url": "https://www.artmuseum.org/wp-content/uploads/2021/09/Ft-BELKNAP-GROS-VENTRE-Pages-from-Montana-Indians-Their-History-and-Location-IEFA.pdf"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "The label is right; do not switch to 'Nakota'. The Yankton Sioux Tribe identifies its language as Dakota, and Nakota/Nakoda is the Assiniboine self-name. Add Spirit Lake (Cut Head Yanktonai) and Fort Peck (Yanktonai) to this people's nations. Crow Creek is correctly here, but it also belongs under Dakota. Consider making the also-called line 'Ihaŋktoŋwaŋ, Ihaŋktoŋwaŋna' to match MNHS orthography, and confirm the preferred spelling with the Yankton Sioux Tribe. Spirit Lake's own history also lists a Pabaksa sub-band of the Upper Yanktonai that moved to Standing Rock. That history does not equate Pabaksa with Cut Head, so reviewers should settle the point.",
+  "notes": "The Yankton treaty date is left out on purpose. NPS gives April 19, 1858; the monument inscription NPS quotes says 1856; SD archives refer to an '1859 treaty' (likely the ratification year). Add the date once reviewers confirm it. I also left out the Struck by the Ree / Lewis and Clark flag legend, which NPS calls local legend that is not in the expedition journals."
+}

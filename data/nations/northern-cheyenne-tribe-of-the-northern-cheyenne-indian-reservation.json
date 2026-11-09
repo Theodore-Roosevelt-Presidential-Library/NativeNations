@@ -2,19 +2,65 @@
   "id": "northern-cheyenne-tribe-of-the-northern-cheyenne-indian-reservation",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Lame Deer",
   "census_aiannh": [],
-  "official_website": "http://www.cheyennenation.com",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://www.cheyennenation.com/",
+  "alliances": [
+    "aita",
+    "mita"
+  ],
+  "tags": [
+    "powwow_summer",
+    "tribal_college"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Custer Gallatin National Forest",
+    "Little Bighorn Battlefield National Monument"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://www.cheyennenation.com/",
+      "label": "Northern Cheyenne Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.visitmt.com/indian-country/tsetsehesestahase-sotaahe-northern-cheyenne",
+      "label": "Visit Montana: Northern Cheyenne",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "visitor_protocols",
+      "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+      "label": "Respectful travel in Indian Country (Visit Montana)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/northern-cheyenne-tribe",
+      "label": "Northern Cheyenne on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Visit Montana uses Tsetsehesestahase/So'taahe; confirm with the Tribe before adding. Busby battle commemorations left out."
   },
   "sources": [
     {
@@ -45,5 +91,5 @@
   "states": [
     "MT"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

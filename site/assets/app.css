@@ -39,7 +39,7 @@ h1{font-size:clamp(40px,6vw,72px)}h2{font-size:34px;margin:36px 0 12px}h3{font-s
 .hero .caption{color:var(--graysky)}
 
 /* controls */
-.controls{display:grid;grid-template-columns:2fr repeat(3,1fr) auto;gap:10px;margin:24px 0 8px;align-items:end}
+.controls{display:grid;grid-template-columns:2fr repeat(4,1fr) auto;gap:10px;margin:24px 0 8px;align-items:end}
 .controls label{display:flex;flex-direction:column;gap:4px}
 .controls>label{min-width:0}
 input[type=search],select{width:100%;font:16px var(--caption);padding:10px 12px;border:1px solid #b8c2cc;border-radius:4px;background:#fff;color:var(--gray);min-width:0}

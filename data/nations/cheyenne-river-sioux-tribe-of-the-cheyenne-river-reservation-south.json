@@ -2,19 +2,100 @@
   "id": "cheyenne-river-sioux-tribe-of-the-cheyenne-river-reservation-south",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Eagle Butte",
   "census_aiannh": [],
-  "official_website": "http://www.sioux.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://www.cheyenneriversioux.com/",
+  "alliances": [
+    "sdnta"
+  ],
+  "tags": [
+    "cultural_center",
+    "arts",
+    "hunting",
+    "fishing",
+    "camping"
+  ],
   "blurb": null,
   "nearby_public_lands": [],
-  "links": [],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://www.cheyenneriversioux.com/",
+      "label": "Cheyenne River Sioux Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "cultural_center",
+      "url": "https://www.cheyenneriversioux.com/cultural-center",
+      "label": "Lakota Cultural Center, Eagle Butte",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://www.cheyenneriversioux.com/news-and-events",
+      "label": "Cheyenne River Sioux Tribe news and events",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://crstgfp.com/wildlife-hunting/",
+      "label": "Cheyenne River Sioux Tribe Game, Fish & Parks hunting",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_fishing",
+      "url": "https://crstgfp.com/applications-regulations/",
+      "label": "Cheyenne River Game, Fish & Parks seasons, fees and regulations",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_recreation",
+      "url": "https://crstgfp.com/parks-recreation/",
+      "label": "Cheyenne River tribal recreation areas",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.travelsouthdakota.com/trip-ideas/cheyenne-river-sioux-tribe",
+      "label": "Travel South Dakota: Cheyenne River Sioux Tribe",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "label": "South Dakota Native Tourism Alliance member nations",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] BIA site sioux.org is now a for-sale domain (Travel SD still links it) - replaced with cheyenneriversioux.com per SDNTA. DNA page near-empty, not linked."
   },
   "sources": [
     {
@@ -26,6 +107,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "SDNTA nations list",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota",
@@ -45,5 +131,5 @@
   "states": [
     "SD"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

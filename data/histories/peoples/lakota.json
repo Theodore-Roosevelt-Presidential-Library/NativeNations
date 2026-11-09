@@ -1,0 +1,34 @@
+{
+  "id": "lakota",
+  "summary": "The Lakota are the Tituŋwaŋ, or Teton, the westernmost of the Seven Council Fires. They speak Lakota, the western form of the Dakota-Lakota language in the Siouan family. Seven Lakota bands are recognized: Oglala, Sicangu (Brulé), Hunkpapa, Minneconjou, Sans Arc, Two Kettle and Sihasapa (Blackfoot).\n\nAs Lakota bands moved west out of the eastern woodlands, they became mounted bison hunters on the northern plains. Their country ran from the Missouri River west toward the Bighorn Mountains, with the Black Hills at its heart. Families lived in hide tipis and followed the herds through the year.\n\nThe Fort Laramie Treaty of 1868 set aside the Great Sioux Reservation, which took in all of present-day South Dakota west of the Missouri. In 1876 Lakota and Cheyenne warriors defeated Custer's Seventh Cavalry at the Little Bighorn. In the war's aftermath the United States took the Black Hills, and the Lakota have refused payment and continue to seek the land's return. In 1889 Congress broke the remaining reservation into smaller ones. In December 1890 U.S. troops killed Lakota men, women and children at Wounded Knee.\n\nToday Lakota bands make up the Oglala Sioux Tribe at Pine Ridge, the Rosebud Sioux Tribe (Sicangu), the Cheyenne River Sioux Tribe (Minneconjou, Sans Arc, Two Kettle and Blackfoot bands), and the Lower Brule Sioux Tribe (Sicangu). With Yanktonai and Dakota relatives, they also make up the Standing Rock Sioux Tribe (Hunkpapa and Sihasapa). Lakota language and traditions remain alive on these reservations.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Sioux",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.107.html"
+    },
+    {
+      "name": "South Dakota State Historical Society, Great Sioux Reservation (Indian Archives Project)",
+      "url": "https://history.sd.gov/Archives/forms/indian%20archives/Indian%20Archives%20Project/greatsioux.pdf"
+    },
+    {
+      "name": "History Nebraska, Fort Robinson timeline",
+      "url": "https://history.nebraska.gov/visit/fort-robinson-timeline"
+    },
+    {
+      "name": "South Dakota Hall of Fame, Nine Nations exhibit",
+      "url": "https://www.sdhalloffame.org/nine-nations-exhibit"
+    },
+    {
+      "name": "Sitting Bull College, Standing Rock Sioux Tribe",
+      "url": "https://www.sittingbull.edu/about/community/visitor-center/standing-rock-sioux-tribe"
+    },
+    {
+      "name": "Minnesota Historical Society, Oceti Šakowiŋ: The Seven Council Fires",
+      "url": "https://www.mnhs.org/usdakotawar/stories/history/dakota-homeland/oceti-šakowiŋ-seven-council-fires"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Standing Rock is rightly listed under both Lakota and Yankton-Yanktonai, and it should also appear under Dakota: Sitting Bull College lists a Pabaksa/Cuthead band of Dakota speakers. Fort Peck is missing; it includes Hunkpapa per the Fort Peck Tribes' own history. Add a disambiguation note: Sihasapa ('Blackfoot/Blackfeet' Lakota) is unrelated to the Blackfeet Nation (Niitsitapi).",
+  "notes": "Band names are in English or EGP forms. Each nation's own spellings (for example Itazipco, Oohenunpa, Mnicoujou) were not on any source I read and should come from the nations. The Wounded Knee sentence states only the fact, with no site details. I left out the 1980 Supreme Court Black Hills ruling (one source only)."
+}

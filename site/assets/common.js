@@ -8,10 +8,11 @@ window.NN = (() => {
   const filter = (all, f) => {
     const q = norm(f.q).trim(), states = (f.state || '').split(',').filter(Boolean);
     return all.filter(n =>
-      (!q || norm([n.name, n.town, ...n.aka, ...n.former, ...n.states.map(s => STATES[s])].join(' ')).includes(q)) &&
+      (!q || norm([n.name, n.town, ...n.aka, ...n.former, ...(n.peoples || []), ...n.states.map(s => STATES[s])].join(' ')).includes(q)) &&
       (!states.length || n.states.some(s => states.includes(s))) &&
       (!f.region || n.region === f.region) &&
       (!f.alliance || n.alliances.includes(f.alliance)) &&
+      (!f.people || (n.peoples || []).includes(f.people)) &&
       (!f.visit || n.visit));
   };
   const where = n => [n.town, n.states.map(s => STATES[s] || s).join(', ')].filter(Boolean).join(' · ');

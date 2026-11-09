@@ -2,19 +2,55 @@
   "id": "little-shell-tribe-of-chippewa-indians-of-montana",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Great Falls",
   "census_aiannh": [],
-  "official_website": "http://www.montanalittleshelltribe.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://montanalittleshelltribe.org/",
+  "alliances": [
+    "mita"
+  ],
+  "tags": [
+    "powwow_summer"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Benton Lake National Wildlife Refuge",
+    "Lewis and Clark National Historic Trail Interpretive Center",
+    "Helena-Lewis and Clark National Forest"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://montanalittleshelltribe.org/",
+      "label": "Little Shell Tribe of Chippewa Indians",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.visitmt.com/indian-country/little-shell-chippewa",
+      "label": "Visit Montana: Little Shell Chippewa",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "visitor_protocols",
+      "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+      "label": "Respectful travel in Indian Country (Visit Montana)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Culture page uses 'Anishinabek'; confirm before adding as aka."
   },
   "sources": [
     {
@@ -45,5 +81,5 @@
   "states": [
     "MT"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

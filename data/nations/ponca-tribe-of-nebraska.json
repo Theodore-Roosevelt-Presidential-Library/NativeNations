@@ -2,19 +2,82 @@
   "id": "ponca-tribe-of-nebraska",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Niobrara",
   "census_aiannh": [],
-  "official_website": "http://www.poncatribe-ne.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://poncatribe-ne.gov/",
+  "alliances": [
+    "aita"
+  ],
+  "tags": [
+    "powwow_summer",
+    "museum",
+    "bison"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Missouri National Recreational River"
+  ],
+  "links": [
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/ponca-tribe-of-nebraska",
+      "label": "Ponca Tribe of Nebraska on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "official",
+      "url": "https://poncatribe-ne.gov/",
+      "label": "Ponca Tribe of Nebraska",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "powwow",
+      "url": "https://poncatribe-ne.gov/annual-powwow/",
+      "label": "Ponca Tribe annual powwow",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "museum",
+      "url": "https://poncatribe-ne.gov/tribal-museum/",
+      "label": "Ponca Tribal Museum and Library",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://poncatribe-ne.gov/events/",
+      "label": "Ponca Tribe events",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://visitnebraska.com/niobrara/ponca-tribal-museum",
+      "label": "Visit Nebraska: Ponca Tribal Museum",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Domain moved to poncatribe-ne.gov. Powwow page has no current dates. No reservation; offices also in Norfolk and Lincoln."
   },
   "sources": [
     {
@@ -26,6 +89,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "Ponca Tribe homepage",
+      "url": "https://poncatribe-ne.gov/",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Ponca Tribe of Nebraska",
@@ -45,5 +113,5 @@
   "states": [
     "NE"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

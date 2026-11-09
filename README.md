@@ -20,7 +20,9 @@ The directory stores only short facts and links. It sends visitors to each natio
 <script src="https://nativenations.labs.trlibrary.com/embed.js" async></script>
 ```
 
-`data-nativenations` = `list | map | card`. Options: `data-id` (card), `data-state`, `data-region`, `data-alliance`, `data-visit="1"`, `data-limit`, `data-height` (map). Widgets resize themselves.
+`data-nativenations` = `list | map | card`. Options: `data-id` (card), `data-state`, `data-region`, `data-alliance`, `data-visit="1"`, `data-limit`, `data-height` (map). Widgets resize themselves. `data-filters="1"` adds a search box; `data-people` filters by people.
+
+**Deep links:** widgets read `nn-` query strings from the host page's address and keep it updated as people search or open a nation, so views can be bookmarked and shared, e.g. `?nn-state=SD&nn-q=lakota` or `?nn-nation=oglala-sioux-tribe`. Name widgets (`data-name="plains"` → `nn-plains-state`) when a page has several; `data-deeplink="off"` disables it. Back/forward work.
 
 - Data model: [docs/schema.md](docs/schema.md)
 - Sources and reuse terms: [docs/sources.md](docs/sources.md)

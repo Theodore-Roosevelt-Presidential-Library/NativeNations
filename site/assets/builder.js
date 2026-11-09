@@ -3,7 +3,7 @@
   const render = () => {
     const t = form.type.value, attrs = [`data-nativenations="${t}"`];
     if (t === 'card') { if (form.id.value) attrs.push(`data-id="${form.id.value}"`); }
-    else { if (form.state.value) attrs.push(`data-state="${form.state.value}"`); if (form.alliance.value) attrs.push(`data-alliance="${form.alliance.value}"`); if (t === 'list' && form.limit.value) attrs.push(`data-limit="${form.limit.value}"`); }
+    else { if (form.state.value) attrs.push(`data-state="${form.state.value}"`); if (form.alliance.value) attrs.push(`data-alliance="${form.alliance.value}"`); if (t === 'list' && form.limit.value) attrs.push(`data-limit="${form.limit.value}"`); if (t === 'list' && form.filters.checked) attrs.push('data-filters="1"'); }
     const html = `<div ${attrs.join(' ')}></div>\n<script src="https://nativenations.labs.trlibrary.com/embed.js" async><\/script>`;
     code.textContent = html;
     prev.innerHTML = `<div ${attrs.join(' ')}></div>`;

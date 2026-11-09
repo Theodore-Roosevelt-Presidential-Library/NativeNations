@@ -1,20 +1,143 @@
 {
   "id": "confederated-salish-and-kootenai-tribes-of-the-flathead-reservation",
   "display_name": null,
-  "aka": [],
-  "nearest_town": null,
+  "aka": [
+    "Séliš-Ql̓ispé",
+    "Ksanka"
+  ],
+  "nearest_town": "Polson",
   "census_aiannh": [],
-  "official_website": "http://www.cskt.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://cskt.org/",
+  "alliances": [
+    "aita",
+    "mita"
+  ],
+  "tags": [
+    "cultural_center",
+    "museum",
+    "bison",
+    "scenic_drive",
+    "fishing",
+    "hunting",
+    "camping",
+    "casino",
+    "lodging",
+    "tribal_college",
+    "powwow_summer"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Ninepipe National Wildlife Refuge",
+    "Pablo National Wildlife Refuge",
+    "Flathead National Forest",
+    "Lolo National Forest"
+  ],
+  "links": [
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/confederated-salish-kootenai-tribes",
+      "label": "Confederated Salish and Kootenai Tribes on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "official",
+      "url": "https://cskt.org/",
+      "label": "Confederated Salish and Kootenai Tribes",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://cskt.org/events/",
+      "label": "CSKT events calendar",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "cultural_center",
+      "url": "https://www.threechiefs.org/",
+      "label": "Three Chiefs Culture Center, Pablo",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "museum",
+      "url": "https://www.threechiefs.org/three-chiefs-museum/",
+      "label": "Three Chiefs Museum",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://www.bisonrange.org/",
+      "label": "CSKT Bison Range, Charlo",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_fishing",
+      "url": "https://cskt.org/natural-resources/tribal-fish-game/",
+      "label": "CSKT Tribal Fish & Game permits and regulations",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_recreation",
+      "url": "https://cskt.org/wildland-recreation/",
+      "label": "CSKT Wildland Recreation permits",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://kwataqnuk.com/",
+      "label": "KwaTaqNuk Resort, Polson",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.visitmt.com/indian-country/salish-pend-o-reille-and-kootenai-flathead",
+      "label": "Visit Montana: Salish, Pend d'Oreille and Kootenai",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "visitor_protocols",
+      "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+      "label": "Respectful travel in Indian Country (Visit Montana)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Flathead Lake is named sacred on the CSKT site; not used as an attraction. peoplescenter.org and arleepowwow.com are parked. Big game hunting is members only; non-members can hunt birds with a permit. KwaTaqNuk ownership from news coverage."
   },
   "sources": [
     {
@@ -45,5 +168,5 @@
   "states": [
     "MT"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

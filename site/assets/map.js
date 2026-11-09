@@ -11,6 +11,28 @@
     L.circleMarker(ll, {...style({visit: true}), radius: 9}).addTo(m).bindTooltip(mini.dataset.label + ' — tribal government headquarters');
     return;
   }
+  const pm = document.getElementById('peoplemap');
+  if (pm) {
+    const m = base(pm), ids = new Set(pm.dataset.ids.split(','));
+    NN.load().then(all => {
+      const hits = all.filter(n => ids.has(n.id) && n.lat != null);
+      hits.forEach(n => L.circleMarker([n.lat, n.lon], style(n)).addTo(m)
+        .bindPopup(`<b>${NN.esc(n.name)}</b>${NN.esc(NN.where(n))}<br><a href="/nations/${n.id}/">Plan your visit &rsaquo;</a>`));
+      if (hits.length) m.fitBounds(L.latLngBounds(hits.map(n => [n.lat, n.lon])).pad(.25), {maxZoom: 8}); else m.setView([39, -98], 4);
+    });
+    return;
+  }
+  const sm = document.getElementById('statemap');
+  if (sm) {
+    const m = base(sm), code = sm.dataset.state;
+    NN.load().then(all => {
+      const hits = all.filter(n => n.states.includes(code) && n.lat != null);
+      hits.forEach(n => L.circleMarker([n.lat, n.lon], style(n)).addTo(m)
+        .bindPopup(`<b>${NN.esc(n.name)}</b>${NN.esc(NN.where(n))}<br><a href="/nations/${n.id}/">Plan your visit &rsaquo;</a>`));
+      if (hits.length) m.fitBounds(L.latLngBounds(hits.map(n => [n.lat, n.lon])).pad(.25), {maxZoom: 8}); else m.setView([39, -98], 4);
+    });
+    return;
+  }
   const el = document.getElementById('map'); if (!el) return;
   const form = document.getElementById('filters'), count = document.getElementById('count');
   const widget = document.body.classList.contains('widget'); const p = NN.params();
@@ -20,7 +42,7 @@
   if (form) for (const [k, v] of Object.entries(p)) { const f = form.elements[k]; if (f) f.type === 'checkbox' ? f.checked = v === '1' : f.value = v; }
   NN.load().then(all => {
     const draw = (fit) => {
-      const f = form ? {q: form.q.value, state: form.state.value, region: form.region.value, alliance: form.alliance.value, visit: form.visit.checked ? '1' : ''} : p;
+      const f = form ? {q: form.q.value, state: form.state.value, region: form.region.value, alliance: form.alliance.value, people: form.people ? form.people.value : '', visit: form.visit.checked ? '1' : ''} : p;
       const hits = NN.filter(all, f).filter(n => n.lat != null);
       layer.clearLayers();
       hits.sort((a, b) => a.visit - b.visit).forEach(n => L.circleMarker([n.lat, n.lon], style(n)).addTo(layer)

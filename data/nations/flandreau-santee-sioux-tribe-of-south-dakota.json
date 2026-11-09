@@ -1,20 +1,77 @@
 {
   "id": "flandreau-santee-sioux-tribe-of-south-dakota",
   "display_name": null,
-  "aka": [],
-  "nearest_town": null,
+  "aka": [
+    "Bdewankantonwan Dakota Nation"
+  ],
+  "nearest_town": "Flandreau",
   "census_aiannh": [],
-  "official_website": "http://www.fsst.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://fsst-nsn.gov/",
+  "alliances": [
+    "sdnta"
+  ],
+  "tags": [
+    "powwow_summer",
+    "casino",
+    "lodging",
+    "dining"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Pipestone National Monument"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://fsst-nsn.gov/",
+      "label": "Flandreau Santee Sioux Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "powwow",
+      "url": "https://fsst-nsn.gov/culture/powwows",
+      "label": "Flandreau Santee Sioux Tribe wacipi",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://www.royalrivercasino.com/",
+      "label": "Royal River Casino & Hotel",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.travelsouthdakota.com/trip-ideas/flandreau-santee-sioux-tribe",
+      "label": "Travel South Dakota: Flandreau Santee Sioux Tribe",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "label": "South Dakota Native Tourism Alliance member nations",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] aka spelled 'Bdewankantonwan' per site heading; meta says 'Mdewakantonwan' - confirm with the Tribe. DNA placeholder empty, not linked."
   },
   "sources": [
     {
@@ -26,6 +83,16 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "SDNTA nations list",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "FSST economic development",
+      "url": "https://fsst-nsn.gov/economic-development",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Flandreau Santee Sioux Tribe of South Dakota",
@@ -45,5 +112,5 @@
   "states": [
     "SD"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "shoshone",
+  "summary": "The Shoshone call themselves Newe, the People. Their language belongs to the Numic branch of the Uto-Aztecan family. The Comanche of the southern plains grew from a Shoshone group that moved south. Shoshone homelands spread across the Great Basin and the Rocky Mountain country, from Nevada and Utah through Idaho and into Wyoming and Montana. Western Shoshone bands lived mainly in Nevada, Northern Shoshone in Idaho, and Eastern Shoshone in Wyoming, where they took up a bison-hunting plains life. In southern Idaho, Northern Paiute people who traveled with the Shoshone to hunt bison became known as the Bannock.\n\nShoshone life followed the seasons: hunting, fishing for salmon, and gathering roots such as camas. Horses later made long cooperative bison hunts possible.\n\nThe Fort Bridger Treaty of 1868 placed the Eastern Shoshone on a reservation in the Wind River country of Wyoming, and gold seekers soon took more of it. In 1878 the federal government settled the Northern Arapaho on the same reservation, which the Shoshone accepted only as temporary, and the two nations share Wind River to this day. Shoshone and Bannock bands also signed the 1868 Fort Bridger Treaty, which led to the Fort Hall Reservation in southeastern Idaho, home of the Shoshone-Bannock Tribes. Western Shoshone communities in Nevada and neighboring states make up several more nations. The Shoshone language is still spoken in Nevada, Idaho and Wyoming.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Shoshones",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.105.html"
+    },
+    {
+      "name": "Shoshone-Bannock Tribes, History",
+      "url": "https://www.sbtribes.com/?p=18"
+    },
+    {
+      "name": "WyoHistory.org (Wyoming State Historical Society), The Arapaho Arrive: Two Nations on One Reservation",
+      "url": "https://www.wyohistory.org/encyclopedia/arapaho-arrive-two-nations-one-reservation"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Arapahos",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.005.html"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "The Shoshone-Bannock Tribes include Bannock (Northern Paiute) bands, and the 'Paiute-Shoshone' nations are partly Northern Paiute. Both are linguistically related but distinct peoples. Either note that these nations also belong to a Paiute/Bannock people, or keep them with a clear caveat. The Western Shoshone and Paiute-Shoshone nations sit mostly in the Great Basin. Confirm they are within the directory's intended scope. I read no Western Shoshone nation sources.",
+  "notes": "The 1863 Fort Bridger Treaty (44 million acres) and the 1868 reduction to about 3.2 million acres are on WyoHistory only, so they are left out. The Brunot Cession is also left out. The speaker count (EGP: about 5,000) is left out. Washakie is not mentioned because no fetched page named him. No Eastern Shoshone Tribe-owned page was reached."
+}

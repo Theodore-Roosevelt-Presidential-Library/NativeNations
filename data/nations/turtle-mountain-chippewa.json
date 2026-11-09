@@ -19,13 +19,20 @@
   },
   "nearest_town": "Belcourt",
   "census_aiannh": [],
-  "official_website": "http://tmbci.kkbold.com/",
+  "official_website": "https://tmchippewa.com/",
   "alliances": [
     "ndnta"
   ],
-  "tags": [],
+  "tags": [
+    "casino",
+    "lodging",
+    "tribal_college",
+    "scenic_drive"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
+  "nearby_public_lands": [
+    "Turtle Mountain State Forest"
+  ],
   "links": [
     {
       "type": "alliance_profile",
@@ -35,13 +42,49 @@
       "nation_approved": false,
       "last_checked": null,
       "http_status": null
+    },
+    {
+      "type": "official",
+      "url": "https://tmchippewa.com/",
+      "label": "Turtle Mountain Band of Chippewa Indians",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://tmchippewa.com/events/",
+      "label": "Turtle Mountain Band events",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://www.skydancercasino.com/",
+      "label": "Sky Dancer Casino & Resort",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.ndtourism.com/articles/north-dakotas-native-american-tribes",
+      "label": "North Dakota Tourism: North Dakota's Native American tribes",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
     }
   ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation. BIA lists the website as tmbci.kkbold.com, which looks like a vendor staging domain; confirm the nation's official site before publishing."
+    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation. BIA lists the website as tmbci.kkbold.com, which looks like a vendor staging domain; confirm the nation's official site before publishing. [2026-11-08 research] Official site resolved: tmbci.org redirects to tmchippewa.com ('Official Online Home'); BIA's tmbci.kkbold.com replaced."
   },
   "sources": [
     {
@@ -52,6 +95,11 @@
     {
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "TMBCI Related Links",
+      "url": "https://tmchippewa.com/related-links/",
       "retrieved": "2026-11-08"
     }
   ],

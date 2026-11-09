@@ -1,0 +1,26 @@
+{
+  "id": "gros-ventre",
+  "summary": "The Gros Ventre call themselves Aaniiih, the White Clay People. The Montana Office of Public Instruction writes the name Ɔɔ'ɔɔɔ'niiinen'. Their language is Algonquian. The Aaniiih and Arapaho remember a shared past, and Arapaho tradition counts the Aaniiih as one of its old divisions. In the early 1800s one Aaniiih band traveled south with the Arapaho for a time. The French name Gros Ventre came from a misreading of a hand sign.\n\nFur traders' earliest records place the Aaniiih along the Saskatchewan River in present-day Saskatchewan. Pressure from Cree and Assiniboine bands pushed them south toward the Missouri, and they came to range across northern Montana as bison hunters who lived in tipis and followed the herds.\n\nThe Aaniiih were counted with the Blackfeet in the 1855 treaty meant to end warfare among northern plains nations. Smallpox, the loss of the bison, and executive orders that took millions of acres followed. An 1888 act of Congress set the Fort Belknap Reservation at its present location, shared with the Nakoda (Assiniboine). After gold was found in the Little Rocky Mountains, an 1895 agreement took a piece of the reservation. Many tribal members understood the deal as a lease, and the dispute continues.\n\nThe Aaniiih and Nakoda govern together as the Fort Belknap Indian Community. Aaniiih Nakoda College runs language programs, including an immersion school in the White Clay language.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Gros Ventres",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.031.html"
+    },
+    {
+      "name": "Montana Office of Public Instruction, Montana Indians: Their History and Location (Fort Belknap pages)",
+      "url": "https://www.artmuseum.org/wp-content/uploads/2021/09/Ft-BELKNAP-GROS-VENTRE-Pages-from-Montana-Indians-Their-History-and-Location-IEFA.pdf"
+    },
+    {
+      "name": "Fort Belknap IEFA Timeline (Montana Legislature archive)",
+      "url": "https://archive.legmt.gov/content/Committees/Interim/2021-2022/State-Tribal-Relations/meetings/april-2022/Fort-Belknap-IEFA-Timeline.pdf"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Arapahos",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.005.html"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Consider making Aaniiih the display name and Gros Ventre the also-called name, since 'Gros Ventre' is a French misnomer also applied to the Hidatsa. Add a disambiguation on both pages. Spellings vary: Aaniiih (college name), A'aninin (EGP), A-A-NI-NIN (MT Governor's handbook) and Ɔɔ'ɔɔɔ'niiinen' (MT OPI). Confirm with Fort Belknap or Aaniiih Nakoda College. Add a 'related peoples' link to Arapaho.",
+  "notes": "The 'early 1800s' Arapaho sojourn comes from EGP (1820s band in the Cimarron valley, returning 1833). Phrased at the decade level; check whether reviewers want it. The 2011 college rename and population figures are left out (single source each)."
+}

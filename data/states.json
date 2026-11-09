@@ -1,0 +1,387 @@
+{
+  "_note": "State-level partner links, verified 2026-11-08 (see docs/sources.md). Not listed: NATOM (inactive), AZ American Indian Tourism Association (parked domain), natow.org (hijacked).",
+  "AK": {
+    "alliances": [
+      "anhc"
+    ],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Travel Alaska: Alaska Native culture",
+        "url": "https://www.travelalaska.com/things-to-do/alaska-native-culture",
+        "publisher": "state_tourism"
+      },
+      {
+        "type": "visitor_protocols",
+        "label": "Culturally responsible travel in Alaska",
+        "url": "https://www.travelalaska.com/explore-alaska/articles/how-to-be-culturally-responsible-traveler-alaska",
+        "publisher": "state_tourism"
+      },
+      {
+        "type": "alliance_profile",
+        "label": "Alaska Native Heritage Center",
+        "url": "https://www.alaskanative.net/",
+        "publisher": "alliance"
+      }
+    ]
+  },
+  "AL": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Alabama Native American Trail",
+        "url": "https://alabama.travel/plan-your-trip/trails/native-american-trail/",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "AZ": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "visitor_protocols",
+        "label": "Visiting tribal lands in Arizona",
+        "url": "https://www.visitarizona.com/plan/tips/visiting-tribal-lands/",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "CA": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Visit California: Native California",
+        "url": "https://www.visitcalifornia.com/native/",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "CO": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Colorado: Native American history in Southwest Colorado",
+        "url": "https://www.colorado.com/articles/american-indian-history-southwest-colorado",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "CT": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Connecticut: Native Footsteps getaway",
+        "url": "https://ctvisit.com/getaways/native-footsteps",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "FL": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Visit Florida: Native American arts and history",
+        "url": "https://www.visitflorida.com/travel-ideas/articles/native-american-arts-history-florida/",
+        "publisher": "state_tourism"
+      },
+      {
+        "type": "alliance_profile",
+        "label": "Florida Seminole Tourism",
+        "url": "https://floridaseminoletourism.com/",
+        "publisher": "alliance"
+      }
+    ]
+  },
+  "ID": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Visit Idaho: culture, including Idaho's five tribes",
+        "url": "https://visitidaho.org/things-to-do/culture/",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "KS": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Travel Kansas: Native American experiences",
+        "url": "https://www.travelks.com/blog/stories/post/top-10-native-american-experiences/",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "ME": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Visit Maine: heritage and the Wabanaki Nations",
+        "url": "https://visitmaine.com/things-to-do/arts-culture-heritage/maine-heritage/",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "MI": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Pure Michigan: Native American history and culture",
+        "url": "https://www.michigan.org/article/places-explore-native-american-history-and-culture",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "MN": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Explore Minnesota: Native American communities",
+        "url": "https://www.exploreminnesota.com/article/native-american-culture-minnesota",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "MT": {
+    "alliances": [
+      "mita"
+    ],
+    "links": [
+      {
+        "type": "alliance_profile",
+        "label": "Montana Indigenous Tourism Alliance",
+        "url": "https://visitmita.org/",
+        "publisher": "alliance"
+      },
+      {
+        "type": "state_tourism_profile",
+        "label": "Visit Montana: Indian Country",
+        "url": "https://www.visitmt.com/indian-country",
+        "publisher": "state_tourism"
+      },
+      {
+        "type": "visitor_protocols",
+        "label": "Respectful travel in Indian Country (Visit Montana)",
+        "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "NC": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Visit North Carolina: Native American culture and history",
+        "url": "https://www.visitnc.com/native-american-culture-history",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "ND": {
+    "alliances": [
+      "ndnta"
+    ],
+    "links": [
+      {
+        "type": "alliance_profile",
+        "label": "North Dakota Native Tourism Alliance",
+        "url": "https://www.ndnta.com/",
+        "publisher": "alliance"
+      },
+      {
+        "type": "state_tourism_profile",
+        "label": "North Dakota Tourism: Native American culture",
+        "url": "https://www.ndtourism.com/native-american-culture",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "NE": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Visit Nebraska: Native American sites",
+        "url": "https://visitnebraska.com/history/native-american",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "NM": {
+    "alliances": [
+      "ipcc"
+    ],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "New Mexico True: Native culture",
+        "url": "https://www.newmexico.org/native-culture/",
+        "publisher": "state_tourism"
+      },
+      {
+        "type": "visitor_protocols",
+        "label": "Before you visit a Pueblo (New Mexico True)",
+        "url": "https://www.newmexico.org/native-culture/native-communities/before-you-go/",
+        "publisher": "state_tourism"
+      },
+      {
+        "type": "alliance_profile",
+        "label": "Indian Pueblo Cultural Center",
+        "url": "https://indianpueblo.org/",
+        "publisher": "alliance"
+      },
+      {
+        "type": "visitor_protocols",
+        "label": "Visiting a Pueblo (Indian Pueblo Cultural Center)",
+        "url": "https://indianpueblo.org/visiting-a-pueblo/",
+        "publisher": "alliance"
+      }
+    ]
+  },
+  "NV": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "alliance_profile",
+        "label": "Nevada's Indian Territory",
+        "url": "https://nevadasindianterritory.com/",
+        "publisher": "alliance"
+      }
+    ]
+  },
+  "NY": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "I Love NY: Native American history",
+        "url": "https://www.iloveny.com/things-to-do/path-through-history/themes/native-americans/",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "OK": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "TravelOK: Native American cultural sites",
+        "url": "https://www.travelok.com/articles/native-american-cultural-sites-in-oklahoma",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "OR": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Travel Oregon: Experience Indigenous Oregon",
+        "url": "https://traveloregon.com/places-to-go/tribal-nations/",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "SD": {
+    "alliances": [
+      "sdnta"
+    ],
+    "links": [
+      {
+        "type": "alliance_profile",
+        "label": "South Dakota Native Tourism Alliance",
+        "url": "https://sdnativetourismalliance.org/",
+        "publisher": "alliance"
+      },
+      {
+        "type": "state_tourism_profile",
+        "label": "Travel South Dakota: Indigenous culture",
+        "url": "https://www.travelsouthdakota.com/native-american",
+        "publisher": "state_tourism"
+      },
+      {
+        "type": "state_tourism_profile",
+        "label": "Travel South Dakota: A Guide to Tribal Nations",
+        "url": "https://www.travelsouthdakota.com/print-guide-tribal-nations",
+        "publisher": "state_tourism"
+      },
+      {
+        "type": "visitor_protocols",
+        "label": "Etiquette on tribal lands (Travel South Dakota)",
+        "url": "https://www.travelsouthdakota.com/things-to-do/history-heritage/indigenous-culture/visitor-etiquette",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "UT": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Visit Utah: tribal cultures",
+        "url": "https://www.visitutah.com/things-to-do/history-culture/tribal-cultures",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "WA": {
+    "alliances": [],
+    "links": [
+      {
+        "type": "state_tourism_profile",
+        "label": "Washington: Native American heritage sites and museums",
+        "url": "https://stateofwatourism.com/discover-washingtons-american-indian-heritage-sites-and-museums/",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "WI": {
+    "alliances": [
+      "natow"
+    ],
+    "links": [
+      {
+        "type": "alliance_profile",
+        "label": "Native American Tourism of Wisconsin (Great Lakes Inter-Tribal Council)",
+        "url": "https://www.glitc.org/programs/economic-development/native-american-tourism-of-wisconsin-natow/overview-natow/",
+        "publisher": "alliance"
+      },
+      {
+        "type": "state_tourism_profile",
+        "label": "Travel Wisconsin: Native American culture",
+        "url": "https://www.travelwisconsin.com/things-to-do/culture-arts/native-american-culture",
+        "publisher": "state_tourism"
+      }
+    ]
+  },
+  "WY": {
+    "alliances": [
+      "wrvc"
+    ],
+    "links": [
+      {
+        "type": "alliance_profile",
+        "label": "Wind River Visitors Council",
+        "url": "https://windriver.org/",
+        "publisher": "alliance"
+      },
+      {
+        "type": "state_tourism_profile",
+        "label": "Travel Wyoming: Native American culture",
+        "url": "https://travelwyoming.com/things-to-do/western-culture/native-american-culture/",
+        "publisher": "state_tourism"
+      }
+    ]
+  }
+}

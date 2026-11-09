@@ -1,0 +1,26 @@
+{
+  "id": "kootenai",
+  "summary": "The Kootenai call themselves Ktunaxa, and the Kootenai bands of the Flathead Reservation also use the name Ksanka. Ktunaxa territory spans northwestern Montana, northern Idaho, northeastern Washington, southeastern British Columbia and southwestern Alberta, a country of mountains, lakes and the Kootenai River. The Ktunaxa Nation was made up of several bands. Each governed itself, and the bands met often and married among one another. The boundary between the United States and Canada was later drawn through the middle of this homeland, separating related families.\n\nIn 1855, at Hellgate, the Upper Kootenai joined Salish and Pend d'Oreille leaders in a treaty that ceded most of their lands and created the Flathead Reservation. The Kootenai band in northern Idaho took no part in the talks and never signed, yet the treaty still covered its share of Ktunaxa territory. When agents pressed the Idaho band to move to the Flathead Reservation, some members went, some crossed into British Columbia, and others refused. Officials eventually let them stay, with allotments along the Kootenai River and in the nearby uplands.\n\nLater the Kootenai Tribe of Idaho drew national attention with a peaceful declaration of war on the United States, setting up symbolic roadblocks and selling war bonds. The federal government answered with new homes, roads, water and power. Today the Kootenai Tribe of Idaho runs its own court, police, health and fish and wildlife programs. The Ksanka share government with the Salish and Pend d'Oreille in the Confederated Salish and Kootenai Tribes.",
+  "sources": [
+    {
+      "name": "Kootenai Tribe of Idaho, Tribal History",
+      "url": "https://www.kootenai.org/tribal-history"
+    },
+    {
+      "name": "Confederated Salish and Kootenai Tribes, Our Story",
+      "url": "https://cskt.org/our-story/"
+    },
+    {
+      "name": "Montana Office of Public Instruction, Flathead Timeline",
+      "url": "https://opi.mt.gov/Portals/182/Page Files/Indian Education/Social Studies/K-12 Resources/Flathead Timeline.pdf"
+    },
+    {
+      "name": "Montana Governor's Office, Tribal Relations Handbook",
+      "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping and naming are correct. The Ktunaxa Nation First Nations in British Columbia are not in the directory. The language is usually described as an isolate, but none of my sources said so. Leave it out until a source is added.",
+  "notes": "The declaration of war date (September 20, 1974) and the 1908 allotment date are on the Kootenai Tribe's page only, so neither year appears. A second source (for example the Spokesman-Review 'this day in history' piece that came up in search) would allow the 1974 date. The Tribe's Covenant is not described (spiritual/governing)."
+}

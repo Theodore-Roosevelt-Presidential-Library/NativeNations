@@ -1,20 +1,97 @@
 {
   "id": "lower-brule-sioux-tribe-of-the-lower-brule-reservation-south-dakota",
   "display_name": null,
-  "aka": [],
-  "nearest_town": null,
+  "aka": [
+    "Kul Wicasa Oyate"
+  ],
+  "nearest_town": "Chamberlain",
   "census_aiannh": [],
-  "official_website": "http://www.lbst.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://www.lowerbrulesiouxtribe.com/",
+  "alliances": [
+    "sdnta"
+  ],
+  "tags": [
+    "powwow_summer",
+    "rodeo",
+    "hunting",
+    "fishing",
+    "bison",
+    "camping"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Fort Pierre National Grassland"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://www.lowerbrulesiouxtribe.com/",
+      "label": "Lower Brule Sioux Tribe",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "powwow",
+      "url": "https://www.lowerbrulesiouxtribe.com/powwow",
+      "label": "Kul Wicasa Wacipi, Fair and Rodeo",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://www.lowerbrulewildlife.com/hunting--fishing-regulations/licensing/",
+      "label": "Lower Brule Wildlife, Fish & Recreation licensing",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_fishing",
+      "url": "https://www.lowerbrulewildlife.com/hunting--fishing-regulations/fishing--boating/",
+      "label": "Lower Brule fishing and boating rules",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_recreation",
+      "url": "https://www.lowerbrulewildlife.com/recreation-access/",
+      "label": "Lower Brule recreation access permits",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.travelsouthdakota.com/trip-ideas/lower-brule-sioux-tribe",
+      "label": "Travel South Dakota: Lower Brule Sioux Tribe",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "label": "South Dakota Native Tourism Alliance member nations",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] lbst.org replaced by lowerbrulesiouxtribe.com. Powwow page still shows 2024 dates. Golden Buffalo Casino http-only (bad cert), not linked. DNA placeholder empty. HQ Lower Brule; Chamberlain as recognizable town."
   },
   "sources": [
     {
@@ -26,6 +103,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "SDNTA nations list",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota",
@@ -45,5 +127,5 @@
   "states": [
     "SD"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

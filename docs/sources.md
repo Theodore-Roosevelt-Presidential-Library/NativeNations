@@ -27,3 +27,6 @@ Researched 2026-11-08. "Store" means the data may be kept in this repo; "Link on
 ## Not verified / do not use
 - **natow.org now redirects to a gambling spam site. Do not link.** Use the GLITC program page instead.
 - visitmita.org (Montana Indigenous Tourism Alliance), TravelOK nation pages, an Arizona American Indian Tourism Association site, Nez Perce Tourism's production domain: unverified.
+
+## State partners (verified 2026-11-08)
+Stored in `data/states.json`. Do not use: natow.org (hijacked), aaita.org (parked), natom.org (unrelated server), sioux.org (for sale), crowcreekconnections.org (spam redirect), swc.tc (spam), oglalalakotanation.info (third-party, not the nation's). Open by hand before adding: santeesiouxnation.com. visitmita.org confirmed by Matt 2026-11-08. Wind River Visitors Council is a county lodging-tax board, not tribe-led.

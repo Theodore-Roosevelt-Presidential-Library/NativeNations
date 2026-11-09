@@ -2,19 +2,43 @@
   "id": "santee-sioux-nation-nebraska",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Santee",
   "census_aiannh": [],
-  "official_website": "http://www.santeedakota.org",
+  "official_website": "https://santeesiouxnation.com/",
   "alliances": [],
-  "tags": [],
+  "tags": [
+    "casino",
+    "lodging"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Missouri National Recreational River"
+  ],
+  "links": [
+    {
+      "type": "lodging",
+      "url": "https://www.ohiyacasino.com/",
+      "label": "Ohiya Casino & Resort",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://visitnebraska.com/niobrara/santee-sioux-tribe",
+      "label": "Visit Nebraska: Santee Sioux Tribe",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] BIA's santeedakota.org is parked. santeesiouxnation.com is named by Visit Nebraska and SD SHPO but could not be loaded - CHECK BY HAND."
   },
   "sources": [
     {
@@ -26,6 +50,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "Visit Nebraska: Santee Sioux Tribe",
+      "url": "https://visitnebraska.com/niobrara/santee-sioux-tribe",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Santee Sioux Nation, Nebraska",
@@ -45,5 +74,5 @@
   "states": [
     "NE"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

@@ -4,7 +4,10 @@
   "fr_citation": "91 FR 4102 (2026-01-30)",
   "fr_former_names": [],
   "display_name": null,
-  "aka": [],
+  "aka": [
+    "MHA Nation",
+    "Three Affiliated Tribes"
+  ],
   "bia_tld_name": "Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota",
   "bia_region": "Great Plains",
   "bia_agency": "Fort Berthold Agency",
@@ -19,13 +22,28 @@
   },
   "nearest_town": "New Town",
   "census_aiannh": [],
-  "official_website": "http://www.mhanation.com",
+  "official_website": "https://www.mhanation.com/",
   "alliances": [
-    "ndnta"
+    "ndnta",
+    "aita"
   ],
-  "tags": [],
+  "tags": [
+    "powwow_summer",
+    "rodeo",
+    "casino",
+    "lodging",
+    "hunting",
+    "fishing",
+    "museum",
+    "tribal_college",
+    "national_park_nearby"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
+  "nearby_public_lands": [
+    "Little Missouri National Grassland",
+    "Theodore Roosevelt National Park (North Unit)",
+    "Lostwood National Wildlife Refuge"
+  ],
   "links": [
     {
       "type": "official",
@@ -89,13 +107,58 @@
       "nation_approved": false,
       "last_checked": null,
       "http_status": null
+    },
+    {
+      "type": "events",
+      "url": "https://www.mhanation.com/rodeos/",
+      "label": "MHA Nation rodeo schedule",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://tat-fish-and-wildlife-division.squarespace.com/hunting",
+      "label": "TAT Fish & Wildlife Division hunting",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_fishing",
+      "url": "https://tat-fish-and-wildlife-division.squarespace.com/fishing-boating",
+      "label": "TAT Fish & Wildlife Division fishing and boating",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://4bearscasino.com/",
+      "label": "4 Bears Casino & Lodge",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.ndtourism.com/articles/north-dakotas-native-american-tribes",
+      "label": "North Dakota Tourism: North Dakota's Native American tribes",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
     }
   ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation."
+    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation. [2026-11-08 research] TAT Fish & Wildlife is on a Squarespace subdomain not linked from mhanation.com; confirm with the Nation. Old mhanation.com/tourism/ path now 404s."
   },
   "sources": [
     {
@@ -106,6 +169,11 @@
     {
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "MHA Nation homepage",
+      "url": "https://www.mhanation.com/",
       "retrieved": "2026-11-08"
     }
   ],

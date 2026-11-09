@@ -20,13 +20,24 @@
   },
   "nearest_town": "Fort Yates",
   "census_aiannh": [],
-  "official_website": "http://www.standingrock.org",
+  "official_website": "https://www.standingrock.org/",
   "alliances": [
-    "ndnta"
+    "ndnta",
+    "sdnta",
+    "aita"
   ],
-  "tags": [],
+  "tags": [
+    "casino",
+    "lodging",
+    "camping",
+    "hunting",
+    "fishing"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
+  "nearby_public_lands": [
+    "Cedar River National Grassland",
+    "Grand River National Grassland"
+  ],
   "links": [
     {
       "type": "alliance_profile",
@@ -45,13 +56,85 @@
       "nation_approved": false,
       "last_checked": null,
       "http_status": null
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.travelsouthdakota.com/trip-ideas/standing-rock-sioux-tribe",
+      "label": "Travel South Dakota: Standing Rock Sioux Tribe",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "label": "South Dakota Native Tourism Alliance member nations",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://www.standingrock.org/about/visit-us/",
+      "label": "Standing Rock Sioux Tribe: Visit Us",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://www.standingrock.org/calendar/",
+      "label": "Standing Rock event calendar",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://gameandfish.standingrock.org/",
+      "label": "Standing Rock Sioux Tribe Game and Fish",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://prairieknights.com/",
+      "label": "Prairie Knights Casino & Resort",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://grandrivercasino.com/",
+      "label": "Grand River Casino & Resort",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.ndtourism.com/articles/north-dakotas-native-american-tribes",
+      "label": "North Dakota Tourism: North Dakota's Native American tribes",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
     }
   ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation."
+    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation. [2026-11-08 research] ND Tourism's article links a Sitting Bull burial site page; deliberately not linked. Mobridge, SD is the recognizable SD-side town."
   },
   "sources": [
     {
@@ -62,6 +145,16 @@
     {
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "SDNTA nations list",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "Standing Rock Visit Us",
+      "url": "https://www.standingrock.org/about/visit-us/",
       "retrieved": "2026-11-08"
     }
   ],

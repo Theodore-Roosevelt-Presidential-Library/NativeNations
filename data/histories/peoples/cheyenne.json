@@ -1,0 +1,38 @@
+{
+  "id": "cheyenne",
+  "summary": "The Cheyenne call themselves Tsitsistas, which the Northern Cheyenne Tribe writes Tsis tsis'tas. The name Cheyenne comes from a Dakota word for people who speak a foreign language. Their language is Algonquian. Early records place the Tsitsistas in present-day Minnesota, where they gathered wild rice and hunted. As they moved west, some bands farmed in villages on the Sheyenne River and the Missouri. Later the people became mounted bison hunters on the plains near the Black Hills. Leadership rested with a council of peace chiefs, alongside military societies.\n\nAllied with the Arapaho and Lakota, the Cheyenne held hunting grounds between the Platte and Arkansas rivers. The treaties of Fort Laramie in 1851 and Fort Wise in 1861 went unhonored. In 1864 Colorado militia attacked a Cheyenne and Arapaho camp at Sand Creek and killed about 200 people, most of them noncombatants. Compensation the United States promised afterward was never paid.\n\nTravel on the overland trails and war divided the people into northern and southern groups. In 1869 the Southern Cheyenne settled with the Southern Arapaho on a reservation in Indian Territory, and today they share a government as the Cheyenne and Arapaho Tribes of Oklahoma. Northern Cheyenne families sent south fled for home. Captured and held at Fort Robinson, Nebraska, they broke out in January 1879, and many were killed. Their persistence won them a reservation on ancestral land in southeastern Montana, home of today's Northern Cheyenne Tribe. Military societies remain active in both nations.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Cheyennes",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.019.html"
+    },
+    {
+      "name": "Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society), Cheyenne",
+      "url": "https://www.okhistory.org/publications/enc/entry.php?entry=CH030"
+    },
+    {
+      "name": "History Nebraska, Fort Robinson timeline",
+      "url": "https://history.nebraska.gov/visit/fort-robinson-timeline"
+    },
+    {
+      "name": "National Park Service, Northern Cheyenne Breakout Healing Trail",
+      "url": "https://home.nps.gov/articles/000/northern-cheyenne-breakout-healing-trail.htm"
+    },
+    {
+      "name": "WyoHistory.org (Wyoming State Historical Society), The Arapaho Arrive: Two Nations on One Reservation",
+      "url": "https://www.wyohistory.org/encyclopedia/arapaho-arrive-two-nations-one-reservation"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Arapahos",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.005.html"
+    },
+    {
+      "name": "Montana Governor's Office, Tribal Relations Handbook",
+      "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. The Suhtai, a related people who merged with the Tsitsistas, did not appear in my sources. Reviewers may want them mentioned. The Cheyenne and Arapaho Tribes (OK) are correctly dual-listed.",
+  "notes": "The year of the Montana reservation is left out. The Montana Indian law page cites 1884 and 1900 executive orders, but I found no second source. The 1878 flight year comes from the Fort Robinson timeline only (October 1878 capture), so it appears without a year. The Sand Creek sentence gives no site details. EGP and OKHS both give about 200 killed. Ceremonies are not named. Tsis tsis'tas spelling is from the MT Governor's handbook; confirm with the Northern Cheyenne Tribe."
+}

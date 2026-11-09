@@ -1,0 +1,28 @@
+{
+  "id": "arikara",
+  "summary": "The Arikara call themselves Sahnish, also written Sáhníš. Unlike their Mandan and Hidatsa partners, they speak a Caddoan language, and they are relatives of the Pawnee, from whom they separated long ago. Sahnish oral history places their beginnings in eastern Nebraska. Over time they moved north up the Missouri into present-day South Dakota. There they built earth lodge villages on the high bluffs and farmed corn, beans, squash, sunflowers and tobacco in the bottomlands, with bison hunts in summer and fall. Each village governed itself.\n\nBy the time Lewis and Clark came up the river, smallpox and pressure from the Lakota had reduced many Sahnish villages to a few fortified towns. After an attack on their villages by the U.S. Army and more epidemics, most Sahnish moved north to live near the Mandan and Hidatsa. In the early 1860s they settled at Like-a-Fishhook Village, and the three peoples have shared one homeland since.\n\nThe Fort Berthold Reservation, established in 1870, was cut down by cessions and allotment. In 1934 the three tribes organized a government under the Indian Reorganization Act. When Garrison Dam flooded the river bottoms in the 1950s, most Sahnish families resettled around White Shield, near places important to their history. Today the Arikara are one of the three nations of the MHA Nation, and the Sahnish language is among the endangered languages the nation works to keep in use.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Arikaras",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.007.html"
+    },
+    {
+      "name": "MHA Nation, History",
+      "url": "https://mhanation.com/history"
+    },
+    {
+      "name": "North Dakota Studies (State Historical Society of North Dakota), The Three Tribes Alliance",
+      "url": "https://www.ndstudies.gov/gr8/node/561"
+    },
+    {
+      "name": "Encyclopedia of the Great Plains, Hidatsas",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.035.html"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Consider making Sahnish (or Sáhníš, as the MHA site writes it) the display name with Arikara as also-called, but only if the MHA Nation prefers it. Ask.",
+  "notes": "The year of the Arikara move to Like-a-Fishhook conflicts: EGP says 1862, while the MHA site has the Sahnish building Star Village in 1861. I used 'early 1860s'. EGP's Arikara entry dates Fort Berthold to 1871 while EGP Hidatsa, ND Studies and MHA say 1870; I used 1870. The 1823 Leavenworth attack is described without a date (one source). The ND Studies line that all three languages are endangered supports the last sentence; I did not see the MHA Nation's own language-program description. MHA review route applies.",
+  "hold": true,
+  "hold_reason": "MHA Nation materials route to Annalisa Robinson-Melton and Bridget before display, per TRPL editorial standards."
+}

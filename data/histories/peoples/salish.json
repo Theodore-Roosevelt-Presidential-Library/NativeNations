@@ -1,0 +1,26 @@
+{
+  "id": "salish",
+  "summary": "The Salish people of the Confederated Salish and Kootenai Tribes are the Bitterroot Salish and the Upper Pend d'Oreille, or Ql̓ispé. They speak languages of the Salish family. The State of Montana gives the Salish self-name as Sqelixw, and the Tribes write Séliš. Their homelands once took in nearly all of western Montana and reached into Idaho, British Columbia and Wyoming, with old routes leading east of the Rockies. Flathead, a name long applied to them, is the name of the reservation, not of any tribe.\n\nIn the 1855 Hellgate Treaty, Salish, Pend d'Oreille and Kootenai leaders ceded most of their lands west of the Continental Divide. They reserved the Flathead Reservation and kept the right to hunt, fish and gather on the ceded lands. Poor translation clouded the talks, and the treaty left open a possible reservation in the Bitterroot Valley, which the Salish understood as their own. Chief Charlo's band refused to leave the Bitterroot for more than three decades until the government forced them north to the Jocko Valley.\n\nA 1904 allotment law and the later opening of the reservation to homesteaders moved much of the reservation out of tribal hands. Under the Indian Reorganization Act the Tribes adopted a constitution and an elected council. Since then they have founded Salish Kootenai College and the Nkwusm Salish language immersion school. In 2015 they took over Kerr Dam, renamed the Séliš Ksanka Ql̓ispé Dam.",
+  "sources": [
+    {
+      "name": "Confederated Salish and Kootenai Tribes, Our Story",
+      "url": "https://cskt.org/our-story/"
+    },
+    {
+      "name": "Montana Office of Public Instruction, Flathead Timeline",
+      "url": "https://opi.mt.gov/Portals/182/Page Files/Indian Education/Social Studies/K-12 Resources/Flathead Timeline.pdf"
+    },
+    {
+      "name": "Montana Governor's Office, Tribal Relations Handbook",
+      "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+    },
+    {
+      "name": "Kootenai Tribe of Idaho, Tribal History",
+      "url": "https://www.kootenai.org/tribal-history"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "(1) The Upper Pend d'Oreille (Ql̓ispé) are a distinct people within CSKT and are not represented. Either rename this page 'Salish and Pend d'Oreille' or add a Pend d'Oreille people. (2) Do not use 'Flathead' as an also-called name. CSKT explicitly says it is the reservation's name, not a tribal name. (3) 'Salish' is also the name of a broad language family that includes many Pacific Northwest peoples. The display name could read 'Séliš (Bitterroot Salish)' to avoid implying the page covers all Salish-speaking nations.",
+  "notes": "The Bitterroot removal year (1891) and the 1872 Garfield agreement are on the OPI timeline only, so I gave no year. 'More than three decades' is derived from OPI's '36 years of resistance' after 1855. The constitution year conflicts: OPI says 1935, CSKT gives 1934 for the IRA. I gave no year."
+}

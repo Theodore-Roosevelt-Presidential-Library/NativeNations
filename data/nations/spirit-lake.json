@@ -4,7 +4,9 @@
   "fr_citation": "91 FR 4102 (2026-01-30)",
   "fr_former_names": [],
   "display_name": null,
-  "aka": [],
+  "aka": [
+    "Spirit Lake Nation"
+  ],
   "bia_tld_name": "Spirit Lake Tribe, North Dakota",
   "bia_region": "Great Plains",
   "bia_agency": "Fort Totten Agency",
@@ -19,13 +21,23 @@
   },
   "nearest_town": "Fort Totten",
   "census_aiannh": [],
-  "official_website": "http://www.spiritlakenation.com",
+  "official_website": "https://www.spiritlakenation.com/",
   "alliances": [
     "ndnta"
   ],
-  "tags": [],
+  "tags": [
+    "casino",
+    "lodging",
+    "camping",
+    "hunting",
+    "fishing",
+    "tribal_college"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
+  "nearby_public_lands": [
+    "White Horse Hill National Game Preserve",
+    "Fort Totten State Historic Site"
+  ],
   "links": [
     {
       "type": "alliance_profile",
@@ -35,13 +47,49 @@
       "nation_approved": false,
       "last_checked": null,
       "http_status": null
+    },
+    {
+      "type": "events",
+      "url": "https://www.spiritlakenation.com/events/",
+      "label": "Spirit Lake Nation events",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://www.spiritlakenation.com/programs/spirit-lake-fish-and-wildlife/",
+      "label": "Spirit Lake Fish and Wildlife (hunting and fishing licenses)",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://spiritlakecasino.com/",
+      "label": "Spirit Lake Casino & Resort",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.ndtourism.com/articles/north-dakotas-native-american-tribes",
+      "label": "North Dakota Tourism: North Dakota's Native American tribes",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
     }
   ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation."
+    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation. [2026-11-08 research] Devils Lake is the regional town about 12 miles north. Spirit Lake's site links www.littlehoop.edu for Cankdeska Cikana Community College (cankdeska.edu does not resolve)."
   },
   "sources": [
     {
@@ -52,6 +100,16 @@
     {
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "Spirit Lake Nation Entities page",
+      "url": "https://www.spiritlakenation.com/entities/",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "SD State Historic Preservation Office tribal contacts, July 2026",
+      "url": "https://history.sd.gov/preservation/docs/TribalChairsTHPOs-July2026.pdf",
       "retrieved": "2026-11-08"
     }
   ],

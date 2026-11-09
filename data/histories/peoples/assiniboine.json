@@ -1,0 +1,30 @@
+{
+  "id": "assiniboine",
+  "summary": "The Assiniboine call themselves Nakoda, also written Nakota and, at Fort Peck, Nakona, often translated as the generous or friendly people. They speak a Siouan language closely related to Dakota and Lakota, and the Stoney Nakoda of Alberta are close relatives. The Assiniboine trace their beginnings to a group that separated from the Yanktonai and moved north and west. The English name comes from an Ojibwe word.\n\nTheir homeland was the parkland and plains framed by the Saskatchewan and Assiniboine rivers and reaching south to the Missouri. Close allies of the Cree, Assiniboine bands hunted bison and other game. They traded with the earth lodge villages on the Missouri and with European fur traders, and smallpox caused them heavy losses. Bands were made up of related families who chose their leaders in council.\n\nThe 1851 Fort Laramie Treaty described an Assiniboine territory, but executive orders soon reduced the lands of the northern Montana peoples. As the bison vanished, many Assiniboine starved at the Wolf Point sub-agency. An 1888 agreement ratified by Congress created separate reservations at Fort Belknap and Fort Peck. Today the Nakoda share Fort Belknap with the Aaniiih and govern together as the Fort Belknap Indian Community. At Fort Peck, the Canoe Paddler and Red Bottom bands share the reservation with Dakota and Lakota bands. Nakoda First Nations continue in Saskatchewan and Alberta, and communities on both sides of the border are working to keep the language strong.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Assiniboines",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.009.html"
+    },
+    {
+      "name": "Montana Office of Public Instruction, Montana Indians: Their History and Location (Fort Belknap pages)",
+      "url": "https://www.artmuseum.org/wp-content/uploads/2021/09/Ft-BELKNAP-GROS-VENTRE-Pages-from-Montana-Indians-Their-History-and-Location-IEFA.pdf"
+    },
+    {
+      "name": "Fort Peck Assiniboine & Sioux Tribes, Tribal History",
+      "url": "https://fortpecktribes.org/visitor-opportunities/tribal-history/"
+    },
+    {
+      "name": "Fort Belknap IEFA Timeline (Montana Legislature archive)",
+      "url": "https://archive.legmt.gov/content/Committees/Interim/2021-2022/State-Tribal-Relations/meetings/april-2022/Fort-Belknap-IEFA-Timeline.pdf"
+    },
+    {
+      "name": "Montana Governor's Office, Tribal Relations Handbook",
+      "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Keep Assiniboine separate from oceti-sakowin and give it a 'related peoples' link. Both Nakoda (Fort Belknap) and Nakona (Fort Peck) are in use, so the also-called field could read 'Nakoda, Nakona'. The Stoney Nakoda (Alberta) and the Saskatchewan Assiniboine First Nations are not in the directory.",
+  "notes": "The English-name gloss differs: MT OPI says 'stone boilers', EGP says 'stone enemy'. I did not translate it. The Wolf Point starvation (over 300 deaths, 1883–84) is on the Fort Peck Tribes site only, so it appears without number or date. The split from the Yanktonai is dated to the 16th–17th century by OPI, while EGP says the Assiniboine were dialectically distinct before the 16th century. I gave no date."
+}

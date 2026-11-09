@@ -1,0 +1,26 @@
+{
+  "id": "blackfeet",
+  "summary": "The Blackfeet call themselves Niitsitapi, the real people. The Blackfeet Nation of Montana, the Pikuni or Southern Piegan, is one of four nations of the Blackfoot Confederacy. The Siksika, Kainai (Blood) and Northern Piegan are in Alberta. Their language is Algonquian. Blackfeet history places the people's homeland on the northern plains. That country once reached from the North Saskatchewan River south to the Yellowstone, and from central Saskatchewan west to the Continental Divide.\n\nOnce they had horses and trade guns, Blackfoot bands built a life of bison hunting, raiding and trade, and long kept American trappers out of their country. The international border and separate treaties with the United States and Canada divided the confederacy. The Pikuni's first American treaty, in 1855, set aside a large shared hunting territory, but executive orders and land sales cut it down. A U.S. Army attack on a Pikuni camp on the Marias River killed many men, women and children. When the bison disappeared, many Blackfeet died of starvation.\n\nLater agreements and allotment shrank the reservation further, and land now in Glacier National Park was once part of it. The Blackfeet organized a tribal government under the Indian Reorganization Act. Today the reservation stretches along the eastern slope of the Rockies, bordered by Canada and Glacier National Park. Its tribal business council governs from Browning, where Blackfeet Community College teaches the language and traditions.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Blackfoot",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.014.html"
+    },
+    {
+      "name": "Montana Governor's Office of Indian Affairs, Blackfeet Nation directory",
+      "url": "https://tribalnations.mt.gov/Directory/BlackfeetNation"
+    },
+    {
+      "name": "Montana Governor's Office, Tribal Relations Handbook",
+      "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+    },
+    {
+      "name": "Fort Belknap IEFA Timeline (Montana Legislature archive)",
+      "url": "https://archive.legmt.gov/content/Committees/Interim/2021-2022/State-Tribal-Relations/meetings/april-2022/Fort-Belknap-IEFA-Timeline.pdf"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Note the usage: 'Blackfeet' is the U.S. nation and 'Blackfoot' is the Confederacy and the Canadian nations. The Canadian Siksika, Kainai and Piikani nations are not in the directory. Add a disambiguation from the Sihasapa (Lakota 'Blackfeet') band. Consider adding the nation's own name for itself (Amskapi Pikuni / Aamsskáápipikani). It did not appear on the pages I read, so confirm with the Blackfeet Nation.",
+  "notes": "The Baker Massacre date (January 23, 1870) and death toll (173) come from EGP only, so they are left out. Starvation deaths (EGP: almost 600 Montana Blackfeet, 1879–1883) are left out for the same reason. No Blackfeet Nation-owned history page was reached."
+}

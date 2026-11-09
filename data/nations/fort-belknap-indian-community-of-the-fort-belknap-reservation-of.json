@@ -1,20 +1,81 @@
 {
   "id": "fort-belknap-indian-community-of-the-fort-belknap-reservation-of",
   "display_name": null,
-  "aka": [],
-  "nearest_town": null,
+  "aka": [
+    "Aaniiih",
+    "Nakoda"
+  ],
+  "nearest_town": "Harlem",
   "census_aiannh": [],
-  "official_website": "http://www.ftbelknap.org",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://ftbelknap.org/",
+  "alliances": [
+    "aita",
+    "mita"
+  ],
+  "tags": [
+    "powwow_summer",
+    "bison",
+    "hunting",
+    "fishing",
+    "tribal_college"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Upper Missouri River Breaks National Monument",
+    "Charles M. Russell National Wildlife Refuge"
+  ],
+  "links": [
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/fort-belknap-indian-community",
+      "label": "Fort Belknap Indian Community on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "official",
+      "url": "https://ftbelknap.org/",
+      "label": "Fort Belknap Indian Community",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://ftbelknap.nagfa.net/online/",
+      "label": "Fort Belknap Game and Fish online licenses",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.visitmt.com/indian-country/a-aninin-nakoda-fort-belknap",
+      "label": "Visit Montana: A'aninin and Nakoda (Fort Belknap)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "visitor_protocols",
+      "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+      "label": "Respectful travel in Indian Country (Visit Montana)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] fortbelknapcedc.org/tours (linked from Destination Native America) now redirects to a gambling site - never use. Powwow and bison tags rest on Visit Montana only."
   },
   "sources": [
     {
@@ -45,5 +106,5 @@
   "states": [
     "MT"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

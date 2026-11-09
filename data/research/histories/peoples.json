@@ -1,0 +1,652 @@
+[
+ {
+  "id": "oceti-sakowin",
+  "summary": "The Oceti Sakowin, or Seven Council Fires, is the alliance of closely related peoples who speak Dakota, Lakota and Nakota, forms of one language in the Siouan family. The seven fires are the Bdewakaŋtoŋwaŋ (Mdewakanton), Waĥpekute, Waĥpetoŋwaŋ (Wahpeton), Sisitoŋwaŋ (Sisseton), Ihaŋktoŋwaŋ (Yankton), Ihaŋktoŋwaŋna (Yanktonai) and Tituŋwaŋ (Teton). The first four make up the Dakota, often called Santee or Isanti. The Yankton and Yanktonai form a middle group, and the Teton are the Lakota. The basic unit of community life was the tiyospaye, a band of related families.\n\nThe earliest European records place Oceti Sakowin people in the woodlands and lake country of present-day Minnesota and northwestern Wisconsin. Over generations many bands moved west and south onto the prairies and plains, and the Lakota became mounted bison hunters ranging far beyond the Missouri River.\n\nThe 1800s brought treaties, the loss of most of the alliance's lands, war and forced removals, and the council fires were divided among many separate reservations and reserves. Each of today's nations governs itself. Dakota, Lakota and Nakota communities are in Minnesota, North Dakota, South Dakota, Nebraska and Montana, and in Alberta, Manitoba and Saskatchewan. The English word Sioux comes from an Ojibwe term that French traders shortened. It survives in many nations' legal names, but many people prefer Oceti Sakowin or the name of their own nation.",
+  "sources": [
+   {
+    "name": "Minnesota Historical Society, Oceti Šakowiŋ: The Seven Council Fires",
+    "url": "https://www.mnhs.org/usdakotawar/stories/history/dakota-homeland/oceti-šakowiŋ-seven-council-fires"
+   },
+   {
+    "name": "Minnesota Historical Society, Dakota (Oceti Šakowiŋ) communities",
+    "url": "https://www.mnhs.org/usdakotawar/stories/communities/dakota-oceti-šakowiŋ"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Sioux",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.107.html"
+   },
+   {
+    "name": "North Dakota Studies (State Historical Society of North Dakota), How Do Treaties Affect the Ocheti Sakowin?",
+    "url": "https://www.ndstudies.gov/hs/node/17"
+   },
+   {
+    "name": "Sitting Bull College, Standing Rock Sioux Tribe",
+    "url": "https://www.sittingbull.edu/about/community/visitor-center/standing-rock-sioux-tribe"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Parent grouping is sound. (1) Nakota: MNHS says the Yankton and Yanktonai are often called Nakota, but the South Dakota Hall of Fame Nine Nations material gives the Yankton Sioux Tribe's language as Dakota and its name as Ihaŋktoŋwaŋ Dakota Oyate. Nakoda/Nakota/Nakona is the self-name of the Assiniboine and Stoney. Keeping the label 'Yankton and Yanktonai' and not 'Nakota' is the right call. (2) Do not place Assiniboine under oceti-sakowin. They are linguistic relatives, said to have separated from the Yanktonai, but they are not one of the Seven Council Fires. A 'related peoples' link works better than a parent link. (3) 'Sioux' as an also-called name: keep it as a search aid, since it is in the legal names of many member nations (Standing Rock Sioux Tribe, Yankton Sioux Tribe and others). Label it 'historical/legal name' rather than a plain synonym, because ND Studies notes that not all tribal members accept it. (4) The directory has no entry for Fort Peck (Assiniboine and Sioux Tribes), whose Sioux side includes Sisseton, Wahpeton, Yanktonai and Hunkpapa. Add it under this parent and its children. (5) The Dakota First Nations in Manitoba and Saskatchewan are not in the directory.",
+  "notes": "Dakota-alphabet spellings of the seven fires are taken from the MNHS page. Spellings differ between nations (for example Mdewakanton vs Bdewakantonwan) and should be confirmed by reviewers. I left out the Lakota arrival on the plains (EGP gives c. 1750–1775; one source only)."
+ },
+ {
+  "id": "lakota",
+  "summary": "The Lakota are the Tituŋwaŋ, or Teton, the westernmost of the Seven Council Fires. They speak Lakota, the western form of the Dakota-Lakota language in the Siouan family. Seven Lakota bands are recognized: Oglala, Sicangu (Brulé), Hunkpapa, Minneconjou, Sans Arc, Two Kettle and Sihasapa (Blackfoot).\n\nAs Lakota bands moved west out of the eastern woodlands, they became mounted bison hunters on the northern plains. Their country ran from the Missouri River west toward the Bighorn Mountains, with the Black Hills at its heart. Families lived in hide tipis and followed the herds through the year.\n\nThe Fort Laramie Treaty of 1868 set aside the Great Sioux Reservation, which took in all of present-day South Dakota west of the Missouri. In 1876 Lakota and Cheyenne warriors defeated Custer's Seventh Cavalry at the Little Bighorn. In the war's aftermath the United States took the Black Hills, and the Lakota have refused payment and continue to seek the land's return. In 1889 Congress broke the remaining reservation into smaller ones. In December 1890 U.S. troops killed Lakota men, women and children at Wounded Knee.\n\nToday Lakota bands make up the Oglala Sioux Tribe at Pine Ridge, the Rosebud Sioux Tribe (Sicangu), the Cheyenne River Sioux Tribe (Minneconjou, Sans Arc, Two Kettle and Blackfoot bands), and the Lower Brule Sioux Tribe (Sicangu). With Yanktonai and Dakota relatives, they also make up the Standing Rock Sioux Tribe (Hunkpapa and Sihasapa). Lakota language and traditions remain alive on these reservations.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Sioux",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.107.html"
+   },
+   {
+    "name": "South Dakota State Historical Society, Great Sioux Reservation (Indian Archives Project)",
+    "url": "https://history.sd.gov/Archives/forms/indian%20archives/Indian%20Archives%20Project/greatsioux.pdf"
+   },
+   {
+    "name": "History Nebraska, Fort Robinson timeline",
+    "url": "https://history.nebraska.gov/visit/fort-robinson-timeline"
+   },
+   {
+    "name": "South Dakota Hall of Fame, Nine Nations exhibit",
+    "url": "https://www.sdhalloffame.org/nine-nations-exhibit"
+   },
+   {
+    "name": "Sitting Bull College, Standing Rock Sioux Tribe",
+    "url": "https://www.sittingbull.edu/about/community/visitor-center/standing-rock-sioux-tribe"
+   },
+   {
+    "name": "Minnesota Historical Society, Oceti Šakowiŋ: The Seven Council Fires",
+    "url": "https://www.mnhs.org/usdakotawar/stories/history/dakota-homeland/oceti-šakowiŋ-seven-council-fires"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Standing Rock is rightly listed under both Lakota and Yankton-Yanktonai, and it should also appear under Dakota: Sitting Bull College lists a Pabaksa/Cuthead band of Dakota speakers. Fort Peck is missing; it includes Hunkpapa per the Fort Peck Tribes' own history. Add a disambiguation note: Sihasapa ('Blackfoot/Blackfeet' Lakota) is unrelated to the Blackfeet Nation (Niitsitapi).",
+  "notes": "Band names are in English or EGP forms. Each nation's own spellings (for example Itazipco, Oohenunpa, Mnicoujou) were not on any source I read and should come from the nations. The Wounded Knee sentence states only the fact, with no site details. I left out the 1980 Supreme Court Black Hills ruling (one source only)."
+ },
+ {
+  "id": "dakota",
+  "summary": "The Dakota are the four eastern council fires of the Oceti Sakowin: the Bdewakaŋtoŋwaŋ (Mdewakanton), Waĥpekute, Waĥpetoŋwaŋ (Wahpeton) and Sisitoŋwaŋ (Sisseton). They are often called Santee or Isanti. They speak Dakota, the eastern form of the Dakota-Lakota language in the Siouan family. Their homeland centers on the lakes, rivers and prairies of present-day Minnesota, where the first written European account of the Dakota comes from the Mille Lacs country.\n\nIn 1851 the treaties of Traverse des Sioux and Mendota transferred most Dakota land in Minnesota to the United States in exchange for reservations and promised payments. The payments came late, traders cheated families, and people went hungry. In 1862 war broke out. Afterward the United States canceled its Dakota treaties and hanged 38 Dakota men at Mankato on December 26, 1862. It held Dakota women, children and elders at Fort Snelling through the winter and then removed them to Crow Creek in Dakota Territory and later to Nebraska. Other families fled to Dakota Territory or Canada.\n\nExiled Dakota rebuilt their nations in new places: the Santee Sioux Nation in Nebraska, the Flandreau Santee Sioux Tribe in South Dakota, and the Sisseton-Wahpeton Oyate and Spirit Lake Nation, whose reservations were set aside by an 1867 treaty. Families also made their way back to Minnesota, where the Lower Sioux, Upper Sioux, Prairie Island and Shakopee Mdewakanton communities stand today. Dakota First Nations also continue in Canada.",
+  "sources": [
+   {
+    "name": "MNopedia (Minnesota Historical Society), US–Dakota War of 1862",
+    "url": "https://www.mnhs.org/mnopedia/search/index/event/us-dakota-war-1862"
+   },
+   {
+    "name": "North Dakota Indian Affairs Commission, History and Culture: Spirit Lake",
+    "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/History_and_Culture_Spirit_Lake.pdf"
+   },
+   {
+    "name": "North Dakota Indian Affairs Commission, Facts and Profiles",
+    "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/NDIAC_Facts_and_Profiles.pdf"
+   },
+   {
+    "name": "Minnesota Historical Society, Dakota (Oceti Šakowiŋ) communities",
+    "url": "https://www.mnhs.org/usdakotawar/stories/communities/dakota-oceti-šakowiŋ"
+   },
+   {
+    "name": "South Dakota State Historical Society, Crow Creek (Indian Archives Project)",
+    "url": "https://history.sd.gov/archives/forms/indian archives/Indian Archives Project/crowcreek.pdf"
+   },
+   {
+    "name": "South Dakota Hall of Fame, Nine Nations exhibit",
+    "url": "https://www.sdhalloffame.org/nine-nations-exhibit"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "(1) Spirit Lake is mixed. NDIAC and the Spirit Lake history list Sisseton, Wahpeton and the Cut Head band of Yanktonai, plus some Turtle Mountain Chippewa families. List it under Yankton-Yanktonai as well as Dakota. (2) Crow Creek: the SD Hall of Fame lists both Mdewakanton (Dakota) and Ihanktonwan bands. SD archives say Lower Yanktonai/Hunkpati form the core, and Mdewakanton and Wahpekute were held there after 1862. List Crow Creek under Dakota as well as Yankton-Yanktonai. (3) Fort Peck's Sisseton and Wahpeton are missing. (4) Standing Rock's Pabaksa/Cuthead are described as Dakota speakers. (5) Canadian Dakota First Nations (Sioux Valley, Whitecap, Dakota Tipi, Birdtail, Dakota Plains Wahpeton and others, per MNHS) are not in the directory. Decide whether the directory is U.S.-only.",
+  "notes": "I left out these details, each on only one source: the Fort Snelling count (~1,600), the August 17 start date, and the 1880s date of return to Minnesota. The source pages did not say how Flandreau was founded, so the summary only names it. The death sentence on 303 men and Lincoln's commutations are left out for length; reviewers may want them."
+ },
+ {
+  "id": "yankton-yanktonai",
+  "summary": "The Ihaŋktoŋwaŋ (Yankton) and Ihaŋktoŋwaŋna (Yanktonai), whose names are translated as Dwellers at the End and Little Dwellers at the End, are two of the Seven Council Fires and form its middle group. Their speech belongs to the Dakota-Lakota language of the Siouan family. Many references group these two council fires under the name Nakota, but the Yankton Sioux Tribe names its own language Dakota. The Assiniboine, or Nakoda, trace their beginnings to a group that separated from the Yanktonai.\n\nYankton and Yanktonai bands lived on the prairies of the James River valley and along the Missouri. They traded with the Mandan, Hidatsa and Arikara, and some Yanktonai adopted earth lodges and gardens while still relying on the bison.\n\nIn a treaty negotiated in Washington, the Yankton ceded most of their land and kept a reservation north of the Missouri River in present-day South Dakota. The Yankton Sioux Tribe lives there today. The Yanktonai did not settle in one place. Lower Yanktonai, including the Hunkpati band, are at the core of the Crow Creek Sioux Tribe, alongside Dakota relatives. Upper and Lower Yanktonai live at Standing Rock, mostly in its North Dakota communities. The Cut Head band was included in the treaty that created Spirit Lake and became part of that nation. Yanktonai families are also among the Fort Peck Tribes in Montana.",
+  "sources": [
+   {
+    "name": "Minnesota Historical Society, Oceti Šakowiŋ: The Seven Council Fires",
+    "url": "https://www.mnhs.org/usdakotawar/stories/history/dakota-homeland/oceti-šakowiŋ-seven-council-fires"
+   },
+   {
+    "name": "National Park Service, Yankton Sioux Treaty Monument",
+    "url": "https://www.nps.gov/mnrr/learn/historyculture/yankton-sioux-treaty-monument.htm"
+   },
+   {
+    "name": "South Dakota State Historical Society, Crow Creek (Indian Archives Project)",
+    "url": "https://history.sd.gov/archives/forms/indian archives/Indian Archives Project/crowcreek.pdf"
+   },
+   {
+    "name": "Sitting Bull College, Standing Rock Sioux Tribe",
+    "url": "https://www.sittingbull.edu/about/community/visitor-center/standing-rock-sioux-tribe"
+   },
+   {
+    "name": "North Dakota Indian Affairs Commission, History and Culture: Spirit Lake",
+    "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/History_and_Culture_Spirit_Lake.pdf"
+   },
+   {
+    "name": "Fort Peck Assiniboine & Sioux Tribes, Tribal History",
+    "url": "https://fortpecktribes.org/visitor-opportunities/tribal-history/"
+   },
+   {
+    "name": "South Dakota Hall of Fame, Nine Nations exhibit",
+    "url": "https://www.sdhalloffame.org/nine-nations-exhibit"
+   },
+   {
+    "name": "Montana Office of Public Instruction, Montana Indians: Their History and Location (Fort Belknap pages)",
+    "url": "https://www.artmuseum.org/wp-content/uploads/2021/09/Ft-BELKNAP-GROS-VENTRE-Pages-from-Montana-Indians-Their-History-and-Location-IEFA.pdf"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "The label is right; do not switch to 'Nakota'. The Yankton Sioux Tribe identifies its language as Dakota, and Nakota/Nakoda is the Assiniboine self-name. Add Spirit Lake (Cut Head Yanktonai) and Fort Peck (Yanktonai) to this people's nations. Crow Creek is correctly here, but it also belongs under Dakota. Consider making the also-called line 'Ihaŋktoŋwaŋ, Ihaŋktoŋwaŋna' to match MNHS orthography, and confirm the preferred spelling with the Yankton Sioux Tribe. Spirit Lake's own history also lists a Pabaksa sub-band of the Upper Yanktonai that moved to Standing Rock. That history does not equate Pabaksa with Cut Head, so reviewers should settle the point.",
+  "notes": "The Yankton treaty date is left out on purpose. NPS gives April 19, 1858; the monument inscription NPS quotes says 1856; SD archives refer to an '1859 treaty' (likely the ratification year). Add the date once reviewers confirm it. I also left out the Struck by the Ree / Lewis and Clark flag legend, which NPS calls local legend that is not in the expedition journals."
+ },
+ {
+  "id": "mandan",
+  "summary": "The Mandan call themselves Nueta, also written Nuta and Núeta. They speak a Siouan language. Their oral tradition tells of emerging from the earth and coming to the Missouri River, where they built villages of earth lodges near the Heart River and later near the Knife River in present-day North Dakota. Mandan families farmed corn, beans, squash and sunflowers in the river bottoms and hunted bison. Their villages were a busy trading center on the northern plains, described by La Vérendrye, Lewis and Clark and other early travelers. Mandan society is organized in clans traced through the mother's line.\n\nSmallpox struck again and again. The epidemic of 1837 left fewer than two hundred Mandan alive. In 1845 Mandan and Hidatsa families built Like-a-Fishhook Village together, which grew into a trading center beside Fort Berthold, and the Arikara later joined them there. The 1851 Fort Laramie Treaty recognized a large territory for the three tribes, but executive orders, allotment and later laws reduced it to a fraction. The Fort Berthold Reservation dates to 1870.\n\nIn the 1950s, Garrison Dam flooded the bottomland communities where most families lived, under the waters of Lake Sakakawea. Mandan families resettled on the uplands, many at the new community of Twin Buttes. Today the Mandan are one of the three nations of the MHA Nation, the Mandan, Hidatsa and Arikara Nation. The Mandan language is taught in school, and ceremonies have been revived.",
+  "sources": [
+   {
+    "name": "MHA Nation, History",
+    "url": "https://mhanation.com/history"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Mandans",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.061.html"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Hidatsas",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.035.html"
+   },
+   {
+    "name": "North Dakota Studies (State Historical Society of North Dakota), The Three Tribes Alliance",
+    "url": "https://www.ndstudies.gov/gr8/node/561"
+   },
+   {
+    "name": "North Dakota Indian Affairs Commission, Facts and Profiles",
+    "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/NDIAC_Facts_and_Profiles.pdf"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Spelling: the MHA Nation's own history page uses 'Nuta' and 'Núeta'. 'Nueta' without the accent does not appear there, so ask the MHA Nation which spelling it wants. EGP gives an older self-name, Numangkaki ('People of the First Man'). The MHA site says full pages for each tribe are being developed. Align with those pages when they are published.",
+  "notes": "MHA Nation material is subject to the Library's Indigenous-content review route (see Flags). The 12-million-acre figure is left out because MHA and EGP frame it differently. Population figures beyond 'fewer than two hundred' (EGP: under 200; MHA: about 125) are left out. The Okipa is not mentioned (ceremonial)."
+ },
+ {
+  "id": "hidatsa",
+  "summary": "The Hidatsa take their name from the willows that grow on Missouri River sandbars. The name first belonged to one band and later came to stand for the whole people. Three closely related groups make up the nation, the Hidatsa proper, the Awatixa and the Awaxawi, and each spoke its own form of a Siouan language. Traders and the U.S. government long called the Hidatsa Gros Ventre, a name that also belongs to the Aaniiih of Montana, an unrelated, Algonquian-speaking people.\n\nThe Hidatsa have lived in west-central North Dakota for many centuries. Awatixa tradition holds that the people have always lived on the Missouri. Other Hidatsa traditions recall coming from the Devils Lake country and later settling near the Mandan. Their earth lodge villages near the mouth of the Knife River were the center of a farming and trading life closely tied to their Mandan neighbors.\n\nEpidemics took a heavy toll, and smallpox in 1837 devastated the villages. In 1845 Hidatsa and Mandan families founded Like-a-Fishhook Village together, and the Arikara later joined them. The Fort Berthold Reservation was established in 1870, and allotment later cut it sharply. In the 1950s, Garrison Dam flooded the river bottoms that held most of the reservation's homes, farms and towns, and families were forced onto the uplands. Tribal leaders resisted the dam but in the end accepted compensation far below the losses. The Hidatsa are one of the three nations of today's MHA Nation.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Hidatsas",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.035.html"
+   },
+   {
+    "name": "MHA Nation, History",
+    "url": "https://mhanation.com/history"
+   },
+   {
+    "name": "North Dakota Studies (State Historical Society of North Dakota), The Three Tribes Alliance",
+    "url": "https://www.ndstudies.gov/gr8/node/561"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Gros Ventres",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.031.html"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Add a self-name: the MHA site spells it Hiratsa and Hiraacá. Add a disambiguation on both pages, because 'Gros Ventre' was applied historically to the Hidatsa and is also the directory's display name for the Aaniiih. Leave 'Gros Ventre' out of the Hidatsa also-called field, or mark it historical.",
+  "notes": "EGP gives 'about half' of the people dying in 1837 and pre-epidemic estimates of 5,000–6,000. Both come from one source, so I left them out. 'Many centuries' paraphrases EGP's 'nearly a millennium' / Awatixa by c. 1100 A.D. MHA Nation review route applies."
+ },
+ {
+  "id": "arikara",
+  "summary": "The Arikara call themselves Sahnish, also written Sáhníš. Unlike their Mandan and Hidatsa partners, they speak a Caddoan language, and they are relatives of the Pawnee, from whom they separated long ago. Sahnish oral history places their beginnings in eastern Nebraska. Over time they moved north up the Missouri into present-day South Dakota. There they built earth lodge villages on the high bluffs and farmed corn, beans, squash, sunflowers and tobacco in the bottomlands, with bison hunts in summer and fall. Each village governed itself.\n\nBy the time Lewis and Clark came up the river, smallpox and pressure from the Lakota had reduced many Sahnish villages to a few fortified towns. After an attack on their villages by the U.S. Army and more epidemics, most Sahnish moved north to live near the Mandan and Hidatsa. In the early 1860s they settled at Like-a-Fishhook Village, and the three peoples have shared one homeland since.\n\nThe Fort Berthold Reservation, established in 1870, was cut down by cessions and allotment. In 1934 the three tribes organized a government under the Indian Reorganization Act. When Garrison Dam flooded the river bottoms in the 1950s, most Sahnish families resettled around White Shield, near places important to their history. Today the Arikara are one of the three nations of the MHA Nation, and the Sahnish language is among the endangered languages the nation works to keep in use.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Arikaras",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.007.html"
+   },
+   {
+    "name": "MHA Nation, History",
+    "url": "https://mhanation.com/history"
+   },
+   {
+    "name": "North Dakota Studies (State Historical Society of North Dakota), The Three Tribes Alliance",
+    "url": "https://www.ndstudies.gov/gr8/node/561"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Hidatsas",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.035.html"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Consider making Sahnish (or Sáhníš, as the MHA site writes it) the display name with Arikara as also-called, but only if the MHA Nation prefers it. Ask.",
+  "notes": "The year of the Arikara move to Like-a-Fishhook conflicts: EGP says 1862, while the MHA site has the Sahnish building Star Village in 1861. I used 'early 1860s'. EGP's Arikara entry dates Fort Berthold to 1871 while EGP Hidatsa, ND Studies and MHA say 1870; I used 1870. The 1823 Leavenworth attack is described without a date (one source). The ND Studies line that all three languages are endangered supports the last sentence; I did not see the MHA Nation's own language-program description. MHA review route applies."
+ },
+ {
+  "id": "ojibwe",
+  "summary": "The Ojibwe call themselves Anishinaabe, and in the United States they are also widely known as Chippewa. Their language belongs to the Algonquian family. Oral tradition links the Ojibwe with the Odawa and Potawatomi as the Three Fires. Anishinaabe history tells of a long migration from the Atlantic coast west through the Great Lakes, guided by prophecy to a land where food grows on the water: the wild rice of the western Great Lakes.\n\nThe fur trade drew many Ojibwe farther west. Some families moved onto the northern prairies, settling at Pembina on the Red River and in the Turtle Mountains, where they hunted bison. Marriages among Ojibwe, Cree and French traders gave rise to Métis communities.\n\nIn the 1800s, treaties took most Ojibwe lands in Minnesota and the surrounding region and left reservations scattered across it. On the plains, the Pembina Chippewa ceded much of the Red River valley in the 1863 Old Crossing Treaty. In 1892 a federal commission offered ten cents an acre for a vast tract and left the Turtle Mountain Band two townships. Chief Little Shell's followers refused the deal, and many settled in Montana without land of their own.\n\nOjibwe nations today include the Turtle Mountain Band in North Dakota; the Little Shell Tribe and, with Cree relatives, the Chippewa Cree in Montana; Red Lake and the bands of the Minnesota Chippewa Tribe; Bad River and Lac Courte Oreilles in Wisconsin; Sault Ste. Marie; and First Nations in Canada.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Ojibwas",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.076.html"
+   },
+   {
+    "name": "Religions in Minnesota (Carleton College), Ojibwe",
+    "url": "https://religionsmn.carleton.edu/ojibwe"
+   },
+   {
+    "name": "North Dakota Studies (State Historical Society of North Dakota), Timeline: Turtle Mountain",
+    "url": "https://www.ndstudies.gov/curriculum/high-school/turtle-mountain/timeline-turtle-mountain"
+   },
+   {
+    "name": "Montana Historical Society, Little Shell Chippewa (IEFA)",
+    "url": "https://prod-mhs.mt.gov/education/IEFA/LittleShell.pdf"
+   },
+   {
+    "name": "North Dakota Indian Affairs Commission, Facts and Profiles",
+    "url": "https://www.indianaffairs.nd.gov/sites/www/files/documents/pdfs/NDIAC_Facts_and_Profiles.pdf"
+   },
+   {
+    "name": "Montana Free Press, Little Shell Tribe marks 5 years of federal recognition",
+    "url": "https://montanafreepress.org/2024/12/16/little-shell-tribe-marks-5-years-of-federal-recognition/"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Métis",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.063.html"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "(1) Little Shell and Métis: yes, consider a Métis (Michif) people page, or at least a cross-tag. The Montana Historical Society says many Pembina people had French-Canadian ancestry and identified as Métis. NDIAC says many Turtle Mountain residents are of mixed Chippewa and French ancestry 'known as Mechif/Metis'. EGP describes Métis descent from French and Ojibwe, Cree and/or Chippewa ancestors. Turtle Mountain should get the same Métis cross-tag as Little Shell. Neither nation should be moved out of Ojibwe; both are federally recognized as Chippewa bands. Ask each nation how it wants to be described. (2) Chippewa Cree is correctly dual-listed under Ojibwe and Cree. (3) 'Sault Ste. Marie' is ambiguous (Michigan tribe vs Ontario First Nations); use the full legal name. (4) The Minnesota Chippewa Tribe is a federation of six bands. Show it as a federation, or list the bands. (5) The Trenton Indian Service Area (descendants of Turtle Mountain families, per NDIAC) is not in the directory.",
+  "notes": "I left out the Ten Cent Treaty acreage because sources disagree (ND Studies: 10 million acres; MHS: Little Shell offered to give up 52 million). The 1892 agreement was ratified in 1904 per ND Studies and in 1905 per MHS, so I gave no ratification date. Treaty dates for Minnesota, Wisconsin and Michigan Ojibwe were not on the sources I read and are left out. No Ojibwe nation's own website was reached; a reviewer should add one (for example Red Lake Nation or the Minnesota Chippewa Tribe)."
+ },
+ {
+  "id": "cree",
+  "summary": "The Cree call themselves Nehiyawak, which the State of Montana writes Ne Hiyawak and explains as the people who speak the same language. Cree is an Algonquian language and a close relative of Ojibwe. The Plains Cree homeland lies mostly in the parkland belt of central Alberta and Saskatchewan, between the open grasslands and the northern forest. Cree traders carried furs by canoe to Hudson Bay, and on the parklands Cree families hunted bison at pounds, often camping beside their Nakoda (Assiniboine) allies. Marriages with Ojibwe neighbors and French traders helped give rise to Métis communities.\n\nAs the bison disappeared, Cree bands signed treaties with Canada and settled on reserves in Alberta and Saskatchewan. Others moved south toward Montana. After Cree resistance to Canadian authority was put down, a band led by Little Bear, son of the Cree leader Big Bear, spent years without a home in Montana. Officials there treated them as Canadian Indians, and Congress once paid to deport them, though many quickly returned. Little Bear's people joined the Chippewa band of Rocky Boy, or Stone Child. In 1916 Congress set aside part of the abandoned Fort Assiniboine military reserve as their shared home.\n\nThat land is today's Rocky Boy's Reservation in the Bears Paw Mountains, home of the Chippewa Cree Tribe. Most Plains Cree people live in Saskatchewan and Alberta, many of them now in cities.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Plains Crees",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.086.html"
+   },
+   {
+    "name": "Stone Child College catalog, The Chippewa Cree Tribe",
+    "url": "https://stonechild.smartcatalogiq.com/en/2022-2024-catalog/scc-catalog/the-chippewa-cree-tribe"
+   },
+   {
+    "name": "Montana Governor's Office, Tribal Relations Handbook",
+    "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+   },
+   {
+    "name": "Montana Historical Society, Little Shell Chippewa (IEFA)",
+    "url": "https://prod-mhs.mt.gov/education/IEFA/LittleShell.pdf"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Ojibwas",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.076.html"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Adequate, but the U.S. scope is thin: only one nation. Turtle Mountain and Little Shell also have Cree ancestry (EGP Ojibwas: Métis descent from Ojibwe, Cree and Chippewa; EGP Plains Crees: Cree-Ojibwe intermarriage). They could be cross-tagged here as well as with a Métis page. The page is really about the Plains Cree (Nehiyawak). If Cree First Nations in Canada stay out of scope, consider the display name 'Cree (Plains Cree)'. Confirm the Nehiyawak spelling with the Chippewa Cree Tribe.",
+  "notes": "I left out the 1885 date of the North-West conflict (EGP only), the 1896 deportation appropriation (Stone Child College only) and the Hudson Bay fur-trade start date. Little Bear's Cree name (Imasees) did not appear in my sources. Present-day acreage and enrollment are omitted (single source, as of 2010)."
+ },
+ {
+  "id": "assiniboine",
+  "summary": "The Assiniboine call themselves Nakoda, also written Nakota and, at Fort Peck, Nakona, often translated as the generous or friendly people. They speak a Siouan language closely related to Dakota and Lakota, and the Stoney Nakoda of Alberta are close relatives. The Assiniboine trace their beginnings to a group that separated from the Yanktonai and moved north and west. The English name comes from an Ojibwe word.\n\nTheir homeland was the parkland and plains framed by the Saskatchewan and Assiniboine rivers and reaching south to the Missouri. Close allies of the Cree, Assiniboine bands hunted bison and other game. They traded with the earth lodge villages on the Missouri and with European fur traders, and smallpox caused them heavy losses. Bands were made up of related families who chose their leaders in council.\n\nThe 1851 Fort Laramie Treaty described an Assiniboine territory, but executive orders soon reduced the lands of the northern Montana peoples. As the bison vanished, many Assiniboine starved at the Wolf Point sub-agency. An 1888 agreement ratified by Congress created separate reservations at Fort Belknap and Fort Peck. Today the Nakoda share Fort Belknap with the Aaniiih and govern together as the Fort Belknap Indian Community. At Fort Peck, the Canoe Paddler and Red Bottom bands share the reservation with Dakota and Lakota bands. Nakoda First Nations continue in Saskatchewan and Alberta, and communities on both sides of the border are working to keep the language strong.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Assiniboines",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.009.html"
+   },
+   {
+    "name": "Montana Office of Public Instruction, Montana Indians: Their History and Location (Fort Belknap pages)",
+    "url": "https://www.artmuseum.org/wp-content/uploads/2021/09/Ft-BELKNAP-GROS-VENTRE-Pages-from-Montana-Indians-Their-History-and-Location-IEFA.pdf"
+   },
+   {
+    "name": "Fort Peck Assiniboine & Sioux Tribes, Tribal History",
+    "url": "https://fortpecktribes.org/visitor-opportunities/tribal-history/"
+   },
+   {
+    "name": "Fort Belknap IEFA Timeline (Montana Legislature archive)",
+    "url": "https://archive.legmt.gov/content/Committees/Interim/2021-2022/State-Tribal-Relations/meetings/april-2022/Fort-Belknap-IEFA-Timeline.pdf"
+   },
+   {
+    "name": "Montana Governor's Office, Tribal Relations Handbook",
+    "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Keep Assiniboine separate from oceti-sakowin and give it a 'related peoples' link. Both Nakoda (Fort Belknap) and Nakona (Fort Peck) are in use, so the also-called field could read 'Nakoda, Nakona'. The Stoney Nakoda (Alberta) and the Saskatchewan Assiniboine First Nations are not in the directory.",
+  "notes": "The English-name gloss differs: MT OPI says 'stone boilers', EGP says 'stone enemy'. I did not translate it. The Wolf Point starvation (over 300 deaths, 1883–84) is on the Fort Peck Tribes site only, so it appears without number or date. The split from the Yanktonai is dated to the 16th–17th century by OPI, while EGP says the Assiniboine were dialectically distinct before the 16th century. I gave no date."
+ },
+ {
+  "id": "gros-ventre",
+  "summary": "The Gros Ventre call themselves Aaniiih, the White Clay People. The Montana Office of Public Instruction writes the name Ɔɔ'ɔɔɔ'niiinen'. Their language is Algonquian. The Aaniiih and Arapaho remember a shared past, and Arapaho tradition counts the Aaniiih as one of its old divisions. In the early 1800s one Aaniiih band traveled south with the Arapaho for a time. The French name Gros Ventre came from a misreading of a hand sign.\n\nFur traders' earliest records place the Aaniiih along the Saskatchewan River in present-day Saskatchewan. Pressure from Cree and Assiniboine bands pushed them south toward the Missouri, and they came to range across northern Montana as bison hunters who lived in tipis and followed the herds.\n\nThe Aaniiih were counted with the Blackfeet in the 1855 treaty meant to end warfare among northern plains nations. Smallpox, the loss of the bison, and executive orders that took millions of acres followed. An 1888 act of Congress set the Fort Belknap Reservation at its present location, shared with the Nakoda (Assiniboine). After gold was found in the Little Rocky Mountains, an 1895 agreement took a piece of the reservation. Many tribal members understood the deal as a lease, and the dispute continues.\n\nThe Aaniiih and Nakoda govern together as the Fort Belknap Indian Community. Aaniiih Nakoda College runs language programs, including an immersion school in the White Clay language.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Gros Ventres",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.031.html"
+   },
+   {
+    "name": "Montana Office of Public Instruction, Montana Indians: Their History and Location (Fort Belknap pages)",
+    "url": "https://www.artmuseum.org/wp-content/uploads/2021/09/Ft-BELKNAP-GROS-VENTRE-Pages-from-Montana-Indians-Their-History-and-Location-IEFA.pdf"
+   },
+   {
+    "name": "Fort Belknap IEFA Timeline (Montana Legislature archive)",
+    "url": "https://archive.legmt.gov/content/Committees/Interim/2021-2022/State-Tribal-Relations/meetings/april-2022/Fort-Belknap-IEFA-Timeline.pdf"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Arapahos",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.005.html"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Consider making Aaniiih the display name and Gros Ventre the also-called name, since 'Gros Ventre' is a French misnomer also applied to the Hidatsa. Add a disambiguation on both pages. Spellings vary: Aaniiih (college name), A'aninin (EGP), A-A-NI-NIN (MT Governor's handbook) and Ɔɔ'ɔɔɔ'niiinen' (MT OPI). Confirm with Fort Belknap or Aaniiih Nakoda College. Add a 'related peoples' link to Arapaho.",
+  "notes": "The 'early 1800s' Arapaho sojourn comes from EGP (1820s band in the Cimarron valley, returning 1833). Phrased at the decade level; check whether reviewers want it. The 2011 college rename and population figures are left out (single source each)."
+ },
+ {
+  "id": "blackfeet",
+  "summary": "The Blackfeet call themselves Niitsitapi, the real people. The Blackfeet Nation of Montana, the Pikuni or Southern Piegan, is one of four nations of the Blackfoot Confederacy. The Siksika, Kainai (Blood) and Northern Piegan are in Alberta. Their language is Algonquian. Blackfeet history places the people's homeland on the northern plains. That country once reached from the North Saskatchewan River south to the Yellowstone, and from central Saskatchewan west to the Continental Divide.\n\nOnce they had horses and trade guns, Blackfoot bands built a life of bison hunting, raiding and trade, and long kept American trappers out of their country. The international border and separate treaties with the United States and Canada divided the confederacy. The Pikuni's first American treaty, in 1855, set aside a large shared hunting territory, but executive orders and land sales cut it down. A U.S. Army attack on a Pikuni camp on the Marias River killed many men, women and children. When the bison disappeared, many Blackfeet died of starvation.\n\nLater agreements and allotment shrank the reservation further, and land now in Glacier National Park was once part of it. The Blackfeet organized a tribal government under the Indian Reorganization Act. Today the reservation stretches along the eastern slope of the Rockies, bordered by Canada and Glacier National Park. Its tribal business council governs from Browning, where Blackfeet Community College teaches the language and traditions.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Blackfoot",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.014.html"
+   },
+   {
+    "name": "Montana Governor's Office of Indian Affairs, Blackfeet Nation directory",
+    "url": "https://tribalnations.mt.gov/Directory/BlackfeetNation"
+   },
+   {
+    "name": "Montana Governor's Office, Tribal Relations Handbook",
+    "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+   },
+   {
+    "name": "Fort Belknap IEFA Timeline (Montana Legislature archive)",
+    "url": "https://archive.legmt.gov/content/Committees/Interim/2021-2022/State-Tribal-Relations/meetings/april-2022/Fort-Belknap-IEFA-Timeline.pdf"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Note the usage: 'Blackfeet' is the U.S. nation and 'Blackfoot' is the Confederacy and the Canadian nations. The Canadian Siksika, Kainai and Piikani nations are not in the directory. Add a disambiguation from the Sihasapa (Lakota 'Blackfeet') band. Consider adding the nation's own name for itself (Amskapi Pikuni / Aamsskáápipikani). It did not appear on the pages I read, so confirm with the Blackfeet Nation.",
+  "notes": "The Baker Massacre date (January 23, 1870) and death toll (173) come from EGP only, so they are left out. Starvation deaths (EGP: almost 600 Montana Blackfeet, 1879–1883) are left out for the same reason. No Blackfeet Nation-owned history page was reached."
+ },
+ {
+  "id": "crow",
+  "summary": "The Crow call themselves Apsáalooke, the children of the large-beaked bird. Early traders mistranslated the name as Crow. Their language belongs to the Siouan family, and many Apsáalooke still speak it. Crow history recalls an ancestral home in the woodlands and lakes to the east and a long migration west to the Bighorn and Yellowstone river country of present-day Montana and Wyoming, which became their permanent homeland. With horses, the Apsáalooke became bison hunters who defended their country against the Blackfeet, Lakota and Cheyenne.\n\nApsáalooke society is built on matrilineal clans, a kinship system that ties families together and looks after their members.\n\nThe 1825 friendship treaty was the first between the Crow and the United States. The 1851 Fort Laramie Treaty recognized a vast Crow territory, and the 1868 Fort Laramie Treaty reduced it to a reservation. Later acts of Congress cut that reservation several more times, and the Crow Act, which the tribe itself sponsored, divided the remaining land among enrolled members.\n\nThe Apsáalooke chose not to adopt most of the Indian Reorganization Act. In 1948 they wrote their own constitution around a general council of all adult members. Today the Crow Tribe's reservation in south-central Montana, centered at Crow Agency, is the largest in the state, and Little Big Horn College serves the community. Leaders such as Plenty Coups and Robert Yellowtail are remembered for guiding the nation through hard decades.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Crows",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.024.html"
+   },
+   {
+    "name": "Montana Office of Public Instruction, Crow Timeline",
+    "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Social%20Studies/K-12%20Resources/Crow%20Timeline.pdf"
+   },
+   {
+    "name": "Montana Governor's Office, Tribal Relations Handbook",
+    "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. The Crow are linguistically closest to the Hidatsa (widely stated), but none of the sources I read said so. A 'related peoples' link to Hidatsa should wait for a source. Add a disambiguation from Crow Creek (a Yanktonai/Dakota nation).",
+  "notes": "The 1825 treaty and 1851 treaty entries rest on the OPI timeline. The 1851 Fort Laramie Treaty itself is corroborated by other sources, but Crow participation is on the OPI timeline only, so a reviewer should confirm. I left out the migration date (OPI says 1450; EGP says before 1600) and the acreage figures (OPI 38M/8M/2.3M, EGP ~2M, MT handbook ~2.2M). The 1920 date for the Crow Act is left out (one source). 'Largest in the state' is from the MT Governor's handbook."
+ },
+ {
+  "id": "cheyenne",
+  "summary": "The Cheyenne call themselves Tsitsistas, which the Northern Cheyenne Tribe writes Tsis tsis'tas. The name Cheyenne comes from a Dakota word for people who speak a foreign language. Their language is Algonquian. Early records place the Tsitsistas in present-day Minnesota, where they gathered wild rice and hunted. As they moved west, some bands farmed in villages on the Sheyenne River and the Missouri. Later the people became mounted bison hunters on the plains near the Black Hills. Leadership rested with a council of peace chiefs, alongside military societies.\n\nAllied with the Arapaho and Lakota, the Cheyenne held hunting grounds between the Platte and Arkansas rivers. The treaties of Fort Laramie in 1851 and Fort Wise in 1861 went unhonored. In 1864 Colorado militia attacked a Cheyenne and Arapaho camp at Sand Creek and killed about 200 people, most of them noncombatants. Compensation the United States promised afterward was never paid.\n\nTravel on the overland trails and war divided the people into northern and southern groups. In 1869 the Southern Cheyenne settled with the Southern Arapaho on a reservation in Indian Territory, and today they share a government as the Cheyenne and Arapaho Tribes of Oklahoma. Northern Cheyenne families sent south fled for home. Captured and held at Fort Robinson, Nebraska, they broke out in January 1879, and many were killed. Their persistence won them a reservation on ancestral land in southeastern Montana, home of today's Northern Cheyenne Tribe. Military societies remain active in both nations.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Cheyennes",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.019.html"
+   },
+   {
+    "name": "Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society), Cheyenne",
+    "url": "https://www.okhistory.org/publications/enc/entry.php?entry=CH030"
+   },
+   {
+    "name": "History Nebraska, Fort Robinson timeline",
+    "url": "https://history.nebraska.gov/visit/fort-robinson-timeline"
+   },
+   {
+    "name": "National Park Service, Northern Cheyenne Breakout Healing Trail",
+    "url": "https://home.nps.gov/articles/000/northern-cheyenne-breakout-healing-trail.htm"
+   },
+   {
+    "name": "WyoHistory.org (Wyoming State Historical Society), The Arapaho Arrive: Two Nations on One Reservation",
+    "url": "https://www.wyohistory.org/encyclopedia/arapaho-arrive-two-nations-one-reservation"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Arapahos",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.005.html"
+   },
+   {
+    "name": "Montana Governor's Office, Tribal Relations Handbook",
+    "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. The Suhtai, a related people who merged with the Tsitsistas, did not appear in my sources. Reviewers may want them mentioned. The Cheyenne and Arapaho Tribes (OK) are correctly dual-listed.",
+  "notes": "The year of the Montana reservation is left out. The Montana Indian law page cites 1884 and 1900 executive orders, but I found no second source. The 1878 flight year comes from the Fort Robinson timeline only (October 1878 capture), so it appears without a year. The Sand Creek sentence gives no site details. EGP and OKHS both give about 200 killed. Ceremonies are not named. Tsis tsis'tas spelling is from the MT Governor's handbook; confirm with the Northern Cheyenne Tribe."
+ },
+ {
+  "id": "arapaho",
+  "summary": "The Arapaho call themselves Hinono'eino, the People, also written Hinanaeina. Their language is Algonquian. The Aaniiih (Gros Ventre) of Montana were once counted among the Arapaho divisions, and the two peoples remember a shared past. Arapaho bands came onto the northern plains from the northeast. Rich in horses, they ranged from the upper Missouri to the Platte and along the Rocky Mountain front, and the Arapaho regard northern Colorado as their historic homeland. Close allies of the Cheyenne, they shared hunting grounds, treaties and hardships.\n\nThe 1851 Fort Laramie Treaty assigned the Arapaho and Cheyenne lands between the Arkansas and North Platte rivers, but miners and settlers overran them. In 1864 Colorado militia attacked a Cheyenne and Arapaho camp at Sand Creek, and the war that followed split the Arapaho into northern and southern divisions.\n\nIn 1869 the Southern Arapaho settled with the Southern Cheyenne on a reservation in Indian Territory. Allotment later broke up most of that land, and the two peoples govern together as the Cheyenne and Arapaho Tribes of Oklahoma. The Northern Arapaho were promised a reservation in 1868 with no location fixed. In 1878, under leaders including Black Coal, they arrived on the Wind River Reservation in Wyoming beside the Eastern Shoshone, who accepted them only for a time. The Northern Arapaho Tribe still shares Wind River with the Eastern Shoshone today. Both Arapaho nations have expanded their traditional religious and social life since the 1970s.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Arapahos",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.005.html"
+   },
+   {
+    "name": "WyoHistory.org (Wyoming State Historical Society), The Arapaho Arrive: Two Nations on One Reservation",
+    "url": "https://www.wyohistory.org/encyclopedia/arapaho-arrive-two-nations-one-reservation"
+   },
+   {
+    "name": "Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society), Cheyenne",
+    "url": "https://www.okhistory.org/publications/enc/entry.php?entry=CH030"
+   },
+   {
+    "name": "Montana Office of Public Instruction, Montana Indians: Their History and Location (Fort Belknap pages)",
+    "url": "https://www.artmuseum.org/wp-content/uploads/2021/09/Ft-BELKNAP-GROS-VENTRE-Pages-from-Montana-Indians-Their-History-and-Location-IEFA.pdf"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Add a 'related peoples' link to Gros Ventre/Aaniiih. Confirm the preferred spelling (Hinono'eino) with the Northern Arapaho Tribe.",
+  "notes": "Arrival on the plains 'by at least the early 18th century' is from EGP only, so I gave no date. The 1870 attempted settlement and the mob attack near Lander (WyoHistory only) are left out for length; reviewers may want them. The 'since the 1970s' sentence is from EGP; please confirm it is current. I reached neither Arapaho nation's own website."
+ },
+ {
+  "id": "shoshone",
+  "summary": "The Shoshone call themselves Newe, the People. Their language belongs to the Numic branch of the Uto-Aztecan family. The Comanche of the southern plains grew from a Shoshone group that moved south. Shoshone homelands spread across the Great Basin and the Rocky Mountain country, from Nevada and Utah through Idaho and into Wyoming and Montana. Western Shoshone bands lived mainly in Nevada, Northern Shoshone in Idaho, and Eastern Shoshone in Wyoming, where they took up a bison-hunting plains life. In southern Idaho, Northern Paiute people who traveled with the Shoshone to hunt bison became known as the Bannock.\n\nShoshone life followed the seasons: hunting, fishing for salmon, and gathering roots such as camas. Horses later made long cooperative bison hunts possible.\n\nThe Fort Bridger Treaty of 1868 placed the Eastern Shoshone on a reservation in the Wind River country of Wyoming, and gold seekers soon took more of it. In 1878 the federal government settled the Northern Arapaho on the same reservation, which the Shoshone accepted only as temporary, and the two nations share Wind River to this day. Shoshone and Bannock bands also signed the 1868 Fort Bridger Treaty, which led to the Fort Hall Reservation in southeastern Idaho, home of the Shoshone-Bannock Tribes. Western Shoshone communities in Nevada and neighboring states make up several more nations. The Shoshone language is still spoken in Nevada, Idaho and Wyoming.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Shoshones",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.105.html"
+   },
+   {
+    "name": "Shoshone-Bannock Tribes, History",
+    "url": "https://www.sbtribes.com/?p=18"
+   },
+   {
+    "name": "WyoHistory.org (Wyoming State Historical Society), The Arapaho Arrive: Two Nations on One Reservation",
+    "url": "https://www.wyohistory.org/encyclopedia/arapaho-arrive-two-nations-one-reservation"
+   },
+   {
+    "name": "Encyclopedia of the Great Plains, Arapahos",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.005.html"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "The Shoshone-Bannock Tribes include Bannock (Northern Paiute) bands, and the 'Paiute-Shoshone' nations are partly Northern Paiute. Both are linguistically related but distinct peoples. Either note that these nations also belong to a Paiute/Bannock people, or keep them with a clear caveat. The Western Shoshone and Paiute-Shoshone nations sit mostly in the Great Basin. Confirm they are within the directory's intended scope. I read no Western Shoshone nation sources.",
+  "notes": "The 1863 Fort Bridger Treaty (44 million acres) and the 1868 reduction to about 3.2 million acres are on WyoHistory only, so they are left out. The Brunot Cession is also left out. The speaker count (EGP: about 5,000) is left out. Washakie is not mentioned because no fetched page named him. No Eastern Shoshone Tribe-owned page was reached."
+ },
+ {
+  "id": "salish",
+  "summary": "The Salish people of the Confederated Salish and Kootenai Tribes are the Bitterroot Salish and the Upper Pend d'Oreille, or Ql̓ispé. They speak languages of the Salish family. The State of Montana gives the Salish self-name as Sqelixw, and the Tribes write Séliš. Their homelands once took in nearly all of western Montana and reached into Idaho, British Columbia and Wyoming, with old routes leading east of the Rockies. Flathead, a name long applied to them, is the name of the reservation, not of any tribe.\n\nIn the 1855 Hellgate Treaty, Salish, Pend d'Oreille and Kootenai leaders ceded most of their lands west of the Continental Divide. They reserved the Flathead Reservation and kept the right to hunt, fish and gather on the ceded lands. Poor translation clouded the talks, and the treaty left open a possible reservation in the Bitterroot Valley, which the Salish understood as their own. Chief Charlo's band refused to leave the Bitterroot for more than three decades until the government forced them north to the Jocko Valley.\n\nA 1904 allotment law and the later opening of the reservation to homesteaders moved much of the reservation out of tribal hands. Under the Indian Reorganization Act the Tribes adopted a constitution and an elected council. Since then they have founded Salish Kootenai College and the Nkwusm Salish language immersion school. In 2015 they took over Kerr Dam, renamed the Séliš Ksanka Ql̓ispé Dam.",
+  "sources": [
+   {
+    "name": "Confederated Salish and Kootenai Tribes, Our Story",
+    "url": "https://cskt.org/our-story/"
+   },
+   {
+    "name": "Montana Office of Public Instruction, Flathead Timeline",
+    "url": "https://opi.mt.gov/Portals/182/Page Files/Indian Education/Social Studies/K-12 Resources/Flathead Timeline.pdf"
+   },
+   {
+    "name": "Montana Governor's Office, Tribal Relations Handbook",
+    "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+   },
+   {
+    "name": "Kootenai Tribe of Idaho, Tribal History",
+    "url": "https://www.kootenai.org/tribal-history"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "(1) The Upper Pend d'Oreille (Ql̓ispé) are a distinct people within CSKT and are not represented. Either rename this page 'Salish and Pend d'Oreille' or add a Pend d'Oreille people. (2) Do not use 'Flathead' as an also-called name. CSKT explicitly says it is the reservation's name, not a tribal name. (3) 'Salish' is also the name of a broad language family that includes many Pacific Northwest peoples. The display name could read 'Séliš (Bitterroot Salish)' to avoid implying the page covers all Salish-speaking nations.",
+  "notes": "The Bitterroot removal year (1891) and the 1872 Garfield agreement are on the OPI timeline only, so I gave no year. 'More than three decades' is derived from OPI's '36 years of resistance' after 1855. The constitution year conflicts: OPI says 1935, CSKT gives 1934 for the IRA. I gave no year."
+ },
+ {
+  "id": "kootenai",
+  "summary": "The Kootenai call themselves Ktunaxa, and the Kootenai bands of the Flathead Reservation also use the name Ksanka. Ktunaxa territory spans northwestern Montana, northern Idaho, northeastern Washington, southeastern British Columbia and southwestern Alberta, a country of mountains, lakes and the Kootenai River. The Ktunaxa Nation was made up of several bands. Each governed itself, and the bands met often and married among one another. The boundary between the United States and Canada was later drawn through the middle of this homeland, separating related families.\n\nIn 1855, at Hellgate, the Upper Kootenai joined Salish and Pend d'Oreille leaders in a treaty that ceded most of their lands and created the Flathead Reservation. The Kootenai band in northern Idaho took no part in the talks and never signed, yet the treaty still covered its share of Ktunaxa territory. When agents pressed the Idaho band to move to the Flathead Reservation, some members went, some crossed into British Columbia, and others refused. Officials eventually let them stay, with allotments along the Kootenai River and in the nearby uplands.\n\nLater the Kootenai Tribe of Idaho drew national attention with a peaceful declaration of war on the United States, setting up symbolic roadblocks and selling war bonds. The federal government answered with new homes, roads, water and power. Today the Kootenai Tribe of Idaho runs its own court, police, health and fish and wildlife programs. The Ksanka share government with the Salish and Pend d'Oreille in the Confederated Salish and Kootenai Tribes.",
+  "sources": [
+   {
+    "name": "Kootenai Tribe of Idaho, Tribal History",
+    "url": "https://www.kootenai.org/tribal-history"
+   },
+   {
+    "name": "Confederated Salish and Kootenai Tribes, Our Story",
+    "url": "https://cskt.org/our-story/"
+   },
+   {
+    "name": "Montana Office of Public Instruction, Flathead Timeline",
+    "url": "https://opi.mt.gov/Portals/182/Page Files/Indian Education/Social Studies/K-12 Resources/Flathead Timeline.pdf"
+   },
+   {
+    "name": "Montana Governor's Office, Tribal Relations Handbook",
+    "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping and naming are correct. The Ktunaxa Nation First Nations in British Columbia are not in the directory. The language is usually described as an isolate, but none of my sources said so. Leave it out until a source is added.",
+  "notes": "The declaration of war date (September 20, 1974) and the 1908 allotment date are on the Kootenai Tribe's page only, so neither year appears. A second source (for example the Spokesman-Review 'this day in history' piece that came up in search) would allow the 1974 date. The Tribe's Covenant is not described (spiritual/governing)."
+ },
+ {
+  "id": "omaha",
+  "summary": "The Omaha are the Umoⁿhoⁿ, a name usually explained as those who go against the current, recalling the people's journey upriver. Their language belongs to the Dhegiha branch of the Siouan family and is very close to Ponca, with Osage, Kaw and Quapaw as more distant relatives. Language and oral tradition suggest these peoples were once one, living near the mouth of the Ohio River, before groups separated. The Omaha and Ponca traveled up the Mississippi and Missouri together before parting.\n\nBy the mid-1700s the Omaha lived in villages along the Missouri in what is now northeastern Nebraska and northwestern Iowa. They farmed corn, beans and squash, built earth lodges, and made summer and winter bison hunts to the west. They traded with the French and British, and Lewis and Clark met them in 1804.\n\nIn an 1854 treaty the Omaha gave up most of their land and kept a reservation in what became Thurston County, Nebraska, where they moved soon after. Allotment, land sales and tax losses whittled that land down to a strip along the Missouri bluffs. Leaders such as Big Elk and Joseph La Flesche guided the people through these years, and the Omaha never took up arms against the settlers who surrounded them.\n\nToday the Omaha Tribe of Nebraska is centered at Macy, and many members also live in Omaha, Lincoln and Sioux City. An August encampment and powwow brings families home each year.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Omahas",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.077.html"
+   },
+   {
+    "name": "Nebraska Studies, The Omaha & Ponca Tribes",
+    "url": "https://nebraskastudies.org/1500-1799/emergence-of-historic-tribes/the-omaha-ponca-tribes/"
+   },
+   {
+    "name": "Omaha Tribe historical marker text (Macy, Nebraska), via mynehistory.com",
+    "url": "https://mynehistory.com/items/show/500"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Add a 'related peoples' link to Ponca. The Umoⁿhoⁿ spelling matches what the Omaha Nation Public Schools use. Confirm it with the Omaha Tribe.",
+  "notes": "No Omaha Tribe-owned website was reached. Priority one is missing, so a reviewer should add a tribal source. The 1804 Lewis and Clark date is on the marker text, with 'by 1804' in other sources. The 1830 Prairie du Chien cession, the 1962 Claims award and the 1994 population are each on EGP only and are left out. The publisher of the marker page is not stated, so the source should be confirmed."
+ },
+ {
+  "id": "ponca",
+  "summary": "The Ponca speak a Dhegiha Siouan language so close to Omaha that speakers understand one another, and the two peoples share much of their social and political life. Ponca oral history recalls an early home in the Ohio River valley and a long migration with the Omaha up the Mississippi and Missouri. After a quarrel the Ponca separated. They made their home where the Niobrara River meets the Missouri, in present-day northeastern Nebraska, living in earth lodge villages, farming and hunting bison.\n\nTreaties with the United States steadily reduced Ponca land, and a later U.S. treaty with the Lakota assigned the Ponca reservation to the Lakota, leaving the Ponca trespassers on their own ground. The government then forced the Ponca south to Indian Territory over the objections of their chiefs, and many died on the march and in the first years there. In 1879 Chief Standing Bear led a small party home to bury his son and was arrested. A federal judge in Omaha ruled that an Indian is a person under the law and could not be forced back. Most Ponca had by then made homes in the south, and the people were divided into northern and southern tribes.\n\nThe Ponca Tribe of Indians of Oklahoma is headquartered at White Eagle. In Nebraska, Congress terminated the Northern Ponca in the 1960s, ending federal recognition and dissolving their remaining land. After years of grassroots work, the Ponca Restoration Act of 1990 restored the Ponca Tribe of Nebraska, which is headquartered at Niobrara.",
+  "sources": [
+   {
+    "name": "Encyclopedia of the Great Plains, Poncas",
+    "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.088.html"
+   },
+   {
+    "name": "Ponca Tribe of Nebraska, History",
+    "url": "https://www.poncatribe-ne.gov/history/"
+   },
+   {
+    "name": "Nebraska Studies, The Omaha & Ponca Tribes",
+    "url": "https://nebraskastudies.org/1500-1799/emergence-of-historic-tribes/the-omaha-ponca-tribes/"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. A self-designation is missing. The Ponca Tribe of Nebraska page refers to the 'Usni (Cold) Ponca' but gives no self-name for the whole people. Ask the nations what they prefer. Add a 'related peoples' link to Omaha.",
+  "notes": "Removal year left out: EGP says 1877, while the Nebraska Studies sentence reads 1875 and is cut off. The 158-of-730 death figure, the 1858 and 1868 treaty dates and the 1881 split date are each on EGP only, so they are left out. Termination: EGP says 1962; the Ponca Tribe of Nebraska says decided 1962 and completed 1966."
+ },
+ {
+  "id": "ioway",
+  "summary": "The Ioway call themselves Báxoje, a name often translated as gray snow. Their language is Chiwere, part of the Siouan family. Europeans first met the Ioway at a Ho-Chunk village on Green Bay. Later the Ioway lived across what is now Iowa, from the Missouri River to the lower Des Moines River, and then in villages along the rivers of northern Missouri. Their lands once covered millions of acres, centered on the state that bears their name.\n\nThrough a long series of treaties with the United States, some of them fraudulent and all signed under pressure, the Ioway lost their homeland in Iowa and Missouri. They moved to the Great Nemaha Reservation, on what became the border of Kansas and Nebraska, and allotment later cut that land further.\n\nDifferences over farming, assimilation and allotment divided the people. Families who held to older ways moved south to Indian Territory, where an executive order set aside a reservation for them in 1883. That land, too, was allotted, and the rest was opened to settlers. Some southern families went on to join Otoe relatives near Red Rock.\n\nToday the Ioway are two nations. The Iowa Tribe of Kansas and Nebraska bases its federal recognition on the old treaties. The Iowa Tribe of Oklahoma is headquartered near Perkins and holds an Ioway powwow each June. Both nations are buying back former reservation land with revenue from tribal enterprises.",
+  "sources": [
+   {
+    "name": "Encyclopedia of Oklahoma History and Culture (Oklahoma Historical Society), Iowa",
+    "url": "https://www.okhistory.org/publications/enc/entry.php?entry=IO001"
+   },
+   {
+    "name": "Iowa Tribe of Kansas and Nebraska, Treaties",
+    "url": "https://iowatribeofkansasandnebraska.com/government/treaties/"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. The Oklahoma Historical Society writes the self-name 'Bah-Kho-Je'. Confirm 'Báxoje' with both nations. The Otoe-Missouria (Chiwere-speaking relatives) are not in the directory. Consider a 'related peoples' link to Ho-Chunk and Otoe-Missouria once a source supports it; none of my sources named the Chiwere relatives.",
+  "notes": "Only two sources, one of them tribal. I left out the first-contact year (1676), the 1839 cession date, the 1878 start of the southern move and the treaty-by-treaty dates (1815–1861 list), each on one source. Membership (496 in 2003) is outdated and left out."
+ },
+ {
+  "id": "sauk-meskwaki",
+  "summary": "The Sauk and the Meskwaki are two distinct Algonquian-speaking peoples whose languages are close kin and whose histories have long run side by side. The Sauk are known as the People of the Yellow Earth and the Meskwaki as the Red Earth People. French traders called the Meskwaki Renards, the Foxes. Their ancestors lived in the Great Lakes country of present-day Michigan and Wisconsin and later moved south into Illinois, Iowa and Missouri, living in bark-house villages. After the Meskwaki fought a long series of wars with the French, the two peoples allied closely.\n\nIn 1804 a treaty signed by a few Sauk leaders, who many in the tribe said had no authority to sign, gave up land in Illinois that included the Sauk town of Saukenuk. Black Hawk's refusal to accept that loss led to the Black Hawk War of 1832. Afterward the United States treated the two peoples as a single Sac and Fox confederacy and pressed them through more cessions in Iowa and removal to Kansas.\n\nThree nations grew out of these removals. Many Meskwaki returned to Iowa and, with the state's permission to stay, bought land of their own in Tama County. That land is held by the people rather than set aside by treaty, and it is home to today's Sac & Fox Tribe of the Mississippi in Iowa (Meskwaki Nation). A band recognized separately by treaty settled on the Great Nemaha lands as the Sac & Fox Nation of Missouri in Kansas and Nebraska. In 1869 another group moved from Kansas to Indian Territory, and the Sac and Fox Nation is headquartered today at Stroud, Oklahoma.",
+  "sources": [
+   {
+    "name": "Meskwaki Nation, The Meskwaki Nation's History",
+    "url": "https://www.meskwaki.org/history/"
+   },
+   {
+    "name": "Sac and Fox Nation of Missouri in Kansas and Nebraska, History of the Tribe",
+    "url": "https://sacandfoxks.com/"
+   },
+   {
+    "name": "University of Oklahoma, Gaylord College, Exiled to Indian Country: Sac and Fox",
+    "url": "https://www.ou.edu/gaylord/exiled-to-indian-country/content/sac-and-fox"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "This pairing is the most contested in the list. The Meskwaki Nation stresses that it has 'always identified as Meskwaki' and is distinct from the Sauk. The 'Sac and Fox' union was imposed by the U.S. for treaty-making after 1832. Recommend splitting into two people pages (Sauk; Meskwaki) that cross-link. Map the Meskwaki Nation primarily to Meskwaki, and the Oklahoma and Kansas-Nebraska nations primarily to Sauk with Meskwaki ancestry noted. If they stay combined, label 'Sac and Fox' as the U.S. treaty name, not a self-designation. The Meskwaki site also names the Kickapoo as linguistic relatives.",
+  "notes": "The 1857 Meskwaki land purchase (July 13, 1857, 80 acres) is on the Meskwaki site only, so I gave no year. The Kansas removal treaty year differs: the Meskwaki site says 1845, OU says 1842, and the Missouri band's own site says 1837 for its move. No year is given. 'Sauk' and 'Meskwaki' self-name forms in the languages themselves (for example Thakiwaki) did not appear in my sources."
+ },
+ {
+  "id": "ho-chunk",
+  "summary": "The Ho-Chunk call themselves Hochungra, the People of the Big Voice. Their language, Hocąk, belongs to the Siouan family. Ho-Chunk oral history places their beginnings at Red Banks near present-day Green Bay. Their homeland covered southern Wisconsin and northern Illinois between the Mississippi and Rock rivers. Outsiders long called them Winnebago, a name taken from an Algonquian word for the marshy country where they lived.\n\nLead miners pushed onto Ho-Chunk land, and after the Black Hawk War of 1832 a series of treaties forced the people west in removal after removal, to Iowa, Minnesota and Dakota Territory. In 1863 the government moved them, along with exiled Dakota, to Crow Creek in Dakota Territory. A quarter of the tribe died on the journey. Survivors made their way down the Missouri to the Omaha Reservation in Nebraska, and an 1865 treaty established a reservation there, home of today's Winnebago Tribe of Nebraska.\n\nOther Ho-Chunk never left Wisconsin or kept returning no matter how often they were removed. Using federal homestead laws, they acquired land in their own homeland and later adopted a constitution. Formerly known as the Wisconsin Winnebago Tribe, the Ho-Chunk Nation governs from Black River Falls and has reacquired land in many Wisconsin counties. Its people are organized into twelve clans, and language programs teach Hocąk from early childhood through high school, working alongside the elders who are its fluent speakers.",
+  "sources": [
+   {
+    "name": "Wisconsin Historical Society, Ho-Chunk Nation",
+    "url": "https://wisconsinhistory.org/Records/Article/CS4377"
+   },
+   {
+    "name": "Wisconsin First Nations (Wisconsin DPI, PBS Wisconsin, UW–Madison), Ho-Chunk Brief History",
+    "url": "https://wisconsinfirstnations.org/?p=1220"
+   },
+   {
+    "name": "Winnebago Tribe of Nebraska, History",
+    "url": "https://winnebagotribe.com/?p=67"
+   },
+   {
+    "name": "MNopedia (Minnesota Historical Society), US–Dakota War of 1862",
+    "url": "https://www.mnhs.org/mnopedia/search/index/event/us-dakota-war-1862"
+   },
+   {
+    "name": "South Dakota State Historical Society, Crow Creek (Indian Archives Project)",
+    "url": "https://history.sd.gov/archives/forms/indian archives/Indian Archives Project/crowcreek.pdf"
+   }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. Keep 'Winnebago' as a historical/legal also-called name; it remains the Nebraska nation's legal name. Note that the Ho-Chunk Nation dropped it. The Winnebago Tribe of Nebraska's own page I read gives no self-name, so ask how it wants to appear on a 'Ho-Chunk' people page.",
+  "notes": "'A quarter of the tribe died' rests on the Wisconsin Historical Society only. MNopedia corroborates the 1863 removal with Dakota. Consider softening this to 'many died'. The year of the name change differs: Wisconsin First Nations says 1993, and the requested 1994 is unconfirmed. No year is given. The 1963 constitution and the 1874 treaty are each on one source and left out. The Ho-Chunk Nation's own website was not reached."
+ }
+]

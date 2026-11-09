@@ -1,0 +1,29 @@
+{
+  "id": "turtle-mountain-chippewa",
+  "summary": "The Turtle Mountain Band of Chippewa Indians is home to Chippewa people and to Métis families, who descend from Chippewa women and French and English fur traders. In North Dakota the Métis are part of the band. The reservation sits in the Turtle Mountains near the Canadian border, a rolling country of woods, lakes, and streams.\n\nThe band's ancestors once held a vast territory across northern Dakota. In 1863, at Old Crossing on the Red Lake River, Chippewa leaders including Little Shell met federal negotiators who wanted land along the Red River. In 1882 a presidential executive order created a large reservation in the Turtle Mountains, but it was soon cut to a block of just two townships.\n\nThe band's claim to its wider homeland was settled through the McCumber Agreement. The federal government negotiated it with a council picked by the government's agent, not by the people. Little Shell refused to sign and protested in Washington. The deal paid about ten cents an acre, which is why many remember it as the Ten Cent Treaty. Some families were later given land near Trenton in western North Dakota, now a tribal service area.\n\nTribal headquarters is in Belcourt, also home to Turtle Mountain Community College.",
+  "sources": [
+    {
+      "name": "ND Studies (SHSND), Grade 8, Section 12: Turtle Mountain",
+      "url": "https://www.ndstudies.gov/gr8/node/182"
+    },
+    {
+      "name": "ND Studies (SHSND), Grade 4, Section 5: Turtle Mountain Reservation",
+      "url": "https://www.ndstudies.gov/gr4/node/181"
+    },
+    {
+      "name": "ND Studies (SHSND): Leaders, Turtle Mountain",
+      "url": "https://www.ndstudies.gov/curriculum/high-school/turtle-mountain/leaders-turtle-mountain"
+    },
+    {
+      "name": "Montana Historical Society, Indian Education for All: Little Shell",
+      "url": "https://prod-mhs.mt.gov/education/IEFA/LittleShell.pdf"
+    },
+    {
+      "name": "Turtle Mountain Band of Chippewa Indians (official site)",
+      "url": "https://www.tmchippewa.com/"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "notes": "Thinnest sourcing of the set; no nation history page. McCumber Agreement dates left out (1892 vs 1904/1905 ratification), acreages (9-11 million) and the $1,000,000 payment. Two-township reduction dated 1882 vs 1884, so 'soon'. Confirm Anishinaabe/Ojibwe/Chippewa preference and whether to name Michif or Cree relatives."
+}

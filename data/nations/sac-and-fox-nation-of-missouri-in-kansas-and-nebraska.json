@@ -2,19 +2,54 @@
   "id": "sac-and-fox-nation-of-missouri-in-kansas-and-nebraska",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Hiawatha",
   "census_aiannh": [],
-  "official_website": "http://www.sacandfoxks.com",
+  "official_website": "https://www.sacandfoxks.com/",
   "alliances": [],
-  "tags": [],
+  "tags": [
+    "casino",
+    "hunting",
+    "fishing"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Iowa and Sac & Fox Mission State Historic Site",
+    "Loess Bluffs National Wildlife Refuge"
+  ],
+  "links": [
+    {
+      "type": "official",
+      "url": "https://www.sacandfoxks.com/",
+      "label": "Sac & Fox Nation of Missouri",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://www.sacandfoxks.com/programs/wildlife",
+      "label": "Wildlife Management (hunting, fishing and trapping applications)",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://sacandfoxcasino.com/",
+      "label": "Sac & Fox Casino",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] HQ in Reserve, KS; Hiawatha is the recognizable town."
   },
   "sources": [
     {
@@ -26,6 +61,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "Sac & Fox Gaming Commission page",
+      "url": "https://www.sacandfoxks.com/entities/gaming-commission",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Sac & Fox Nation of Missouri in Kansas and Nebraska",
@@ -46,5 +86,5 @@
     "KS",
     "NE"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

@@ -4,7 +4,9 @@
   "fr_citation": "91 FR 4102 (2026-01-30)",
   "fr_former_names": [],
   "display_name": null,
-  "aka": [],
+  "aka": [
+    "Sisseton Wahpeton Oyate"
+  ],
   "bia_tld_name": "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota",
   "bia_region": "Great Plains",
   "bia_agency": "Sisseton Agency",
@@ -20,13 +22,22 @@
   },
   "nearest_town": "Sisseton",
   "census_aiannh": [],
-  "official_website": "http://www.swo-nsn.gov",
+  "official_website": "https://www.swo-nsn.gov/",
   "alliances": [
-    "ndnta"
+    "ndnta",
+    "sdnta"
   ],
-  "tags": [],
+  "tags": [
+    "casino",
+    "lodging",
+    "hunting",
+    "fishing"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
+  "nearby_public_lands": [
+    "Waubay National Wildlife Refuge",
+    "Fort Sisseton Historic State Park"
+  ],
   "links": [
     {
       "type": "alliance_profile",
@@ -36,13 +47,67 @@
       "nation_approved": false,
       "last_checked": null,
       "http_status": null
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.travelsouthdakota.com/trip-ideas/sisseton-wahpeton-oyate",
+      "label": "Travel South Dakota: Sisseton Wahpeton Oyate",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "label": "South Dakota Native Tourism Alliance member nations",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://swo-nsn.gov/calendar/",
+      "label": "Sisseton Wahpeton Oyate calendar",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://swo-nsn.gov/departments/land-management-department/fish-wildlife/",
+      "label": "SWO Fish & Wildlife (hunting and fishing licenses)",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://dakotamagic.com/",
+      "label": "Dakota Magic Casino & Hotel",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.ndtourism.com/articles/north-dakotas-native-american-tribes",
+      "label": "North Dakota Tourism: North Dakota's Native American tribes",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
     }
   ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation."
+    "notes": "ND pilot seed. Federal fields to be filled by pipeline/fetch_bia.py; nearest_town and links need Library review, then NDNTA/nation confirmation. [2026-11-08 research] Travel SD links the nation's tourism office at oyatetourism.com (unverified here). Fish & Wildlife page per state list: https://swo-nsn.gov/departments/land-management-department/fish-wildlife/ (not fetched). [2026-11-08 research] HQ Agency Village; Sisseton is the recognizable town. Sisseton Wahpeton College's old domain swc.tc is hijacked (spam) - never use."
   },
   "sources": [
     {
@@ -53,6 +118,16 @@
     {
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "SDNTA nations list",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "SWO gaming page",
+      "url": "https://swo-nsn.gov/businesses-gaming/gaming/",
       "retrieved": "2026-11-08"
     }
   ],

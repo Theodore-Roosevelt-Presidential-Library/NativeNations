@@ -1,0 +1,471 @@
+{
+  "_note": "Peoples (cultural/linguistic groupings) and the nations that belong to them today. match = regex on the Federal Register name; extra/exclude = nation ids. Self-designations come first where nations use them. Everything here is a draft until reviewed. Rule: when a nation identifies itself as a distinct people, or names itself differently, its own word governs here.",
+  "peoples": [
+    {
+      "id": "oceti-sakowin",
+      "name": "Oceti Sakowin",
+      "also_called": [
+        "Seven Council Fires",
+        "Sioux"
+      ],
+      "parent": null,
+      "match": [
+        "\\bSioux\\b"
+      ],
+      "extra": [
+        "oglala-sioux-tribe",
+        "sisseton-wahpeton-oyate",
+        "spirit-lake"
+      ],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": [
+        "assiniboine"
+      ]
+    },
+    {
+      "id": "lakota",
+      "name": "Lakota",
+      "also_called": [
+        "Teton"
+      ],
+      "parent": "oceti-sakowin",
+      "match": [],
+      "extra": [
+        "oglala-sioux-tribe",
+        "rosebud-sioux-tribe-of-the-rosebud-indian-reservation-south-dakota",
+        "cheyenne-river-sioux-tribe-of-the-cheyenne-river-reservation-south",
+        "standing-rock-sioux",
+        "lower-brule-sioux-tribe-of-the-lower-brule-reservation-south-dakota",
+        "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation"
+      ],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "dakota",
+      "name": "Dakota",
+      "also_called": [
+        "Santee",
+        "Isanti"
+      ],
+      "parent": "oceti-sakowin",
+      "match": [
+        "Lower Sioux|Upper Sioux|Prairie Island|Mdewakanton|Santee"
+      ],
+      "extra": [
+        "sisseton-wahpeton-oyate",
+        "spirit-lake",
+        "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation",
+        "crow-creek-sioux-tribe-of-the-crow-creek-reservation-south-dakota",
+        "standing-rock-sioux"
+      ],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "yankton-yanktonai",
+      "name": "Yankton and Yanktonai",
+      "also_called": [
+        "Ihanktonwan",
+        "Ihanktonwanna"
+      ],
+      "parent": "oceti-sakowin",
+      "match": [],
+      "extra": [
+        "yankton-sioux-tribe-of-south-dakota",
+        "crow-creek-sioux-tribe-of-the-crow-creek-reservation-south-dakota",
+        "standing-rock-sioux",
+        "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation",
+        "spirit-lake"
+      ],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "mandan",
+      "name": "Mandan",
+      "also_called": [
+        "Nueta"
+      ],
+      "parent": null,
+      "match": [],
+      "extra": [
+        "three-affiliated-tribes-fort-berthold"
+      ],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "hidatsa",
+      "name": "Hidatsa",
+      "also_called": [],
+      "parent": null,
+      "match": [],
+      "extra": [
+        "three-affiliated-tribes-fort-berthold"
+      ],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "arikara",
+      "name": "Arikara",
+      "also_called": [
+        "Sahnish"
+      ],
+      "parent": null,
+      "match": [],
+      "extra": [
+        "three-affiliated-tribes-fort-berthold"
+      ],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "ojibwe",
+      "name": "Ojibwe",
+      "also_called": [
+        "Anishinaabe",
+        "Chippewa"
+      ],
+      "parent": null,
+      "match": [
+        "Chippewa|Ojibwe"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "cree",
+      "name": "Cree",
+      "also_called": [],
+      "parent": null,
+      "match": [
+        "Chippewa Cree"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "assiniboine",
+      "name": "Assiniboine",
+      "also_called": [
+        "Nakoda",
+        "Nakona"
+      ],
+      "parent": null,
+      "match": [
+        "Assiniboine"
+      ],
+      "extra": [
+        "fort-belknap-indian-community-of-the-fort-belknap-reservation-of"
+      ],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": [
+        "oceti-sakowin"
+      ]
+    },
+    {
+      "id": "gros-ventre",
+      "name": "Gros Ventre",
+      "also_called": [
+        "Aaniiih"
+      ],
+      "parent": null,
+      "match": [],
+      "extra": [
+        "fort-belknap-indian-community-of-the-fort-belknap-reservation-of"
+      ],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": [
+        "arapaho"
+      ]
+    },
+    {
+      "id": "blackfeet",
+      "name": "Blackfeet",
+      "also_called": [
+        "Niitsitapi"
+      ],
+      "parent": null,
+      "match": [
+        "Blackfeet"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "crow",
+      "name": "Crow",
+      "also_called": [
+        "Apsáalooke"
+      ],
+      "parent": null,
+      "match": [
+        "^Crow Tribe"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "cheyenne",
+      "name": "Cheyenne",
+      "also_called": [],
+      "parent": null,
+      "match": [
+        "\\bCheyenne\\b(?! River)"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "arapaho",
+      "name": "Arapaho",
+      "also_called": [],
+      "parent": null,
+      "match": [
+        "Arapaho"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": [
+        "gros-ventre"
+      ]
+    },
+    {
+      "id": "shoshone",
+      "name": "Shoshone",
+      "also_called": [],
+      "parent": null,
+      "match": [
+        "Shoshone"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "salish",
+      "name": "Salish and Pend d'Oreille",
+      "also_called": [
+        "Séliš",
+        "Ql̓ispé"
+      ],
+      "parent": null,
+      "match": [
+        "\\bSalish\\b"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "kootenai",
+      "name": "Kootenai",
+      "also_called": [
+        "Ktunaxa",
+        "Ksanka"
+      ],
+      "parent": null,
+      "match": [
+        "Kootenai"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "omaha",
+      "name": "Omaha",
+      "also_called": [
+        "Umoⁿhoⁿ"
+      ],
+      "parent": null,
+      "match": [
+        "^Omaha"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": [
+        "ponca"
+      ]
+    },
+    {
+      "id": "ponca",
+      "name": "Ponca",
+      "also_called": [],
+      "parent": null,
+      "match": [
+        "Ponca"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": [
+        "omaha"
+      ]
+    },
+    {
+      "id": "ioway",
+      "name": "Ioway",
+      "also_called": [
+        "Báxoje",
+        "Iowa"
+      ],
+      "parent": null,
+      "match": [
+        "^Iowa Tribe"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "ho-chunk",
+      "name": "Ho-Chunk",
+      "also_called": [
+        "Winnebago"
+      ],
+      "parent": null,
+      "match": [
+        "Winnebago|Ho-Chunk"
+      ],
+      "extra": [],
+      "exclude": [],
+      "review": {
+        "status": "draft",
+        "notes": "Affiliations drafted from federal names and nations' own websites. Must go through HistorianPanel human review and Indigenous content routing before publishing."
+      },
+      "related": []
+    },
+    {
+      "id": "sauk",
+      "name": "Sauk",
+      "also_called": [
+        "Sac"
+      ],
+      "parent": null,
+      "match": [],
+      "extra": [
+        "sac-and-fox-nation-oklahoma",
+        "sac-and-fox-nation-of-missouri-in-kansas-and-nebraska"
+      ],
+      "exclude": [],
+      "related": [
+        "meskwaki"
+      ],
+      "review": {
+        "status": "draft",
+        "notes": "Split from 'Sauk and Meskwaki' on 2026-11-08 because the Meskwaki Nation identifies as a distinct people. Nations' own self-identification governs."
+      }
+    },
+    {
+      "id": "meskwaki",
+      "name": "Meskwaki",
+      "also_called": [
+        "Fox"
+      ],
+      "parent": null,
+      "match": [],
+      "extra": [
+        "sac-and-fox-tribe-of-the-mississippi-in-iowa"
+      ],
+      "exclude": [],
+      "related": [
+        "sauk"
+      ],
+      "review": {
+        "status": "draft",
+        "notes": "Split from 'Sauk and Meskwaki' on 2026-11-08 because the Meskwaki Nation identifies as a distinct people. Nations' own self-identification governs."
+      }
+    }
+  ]
+}

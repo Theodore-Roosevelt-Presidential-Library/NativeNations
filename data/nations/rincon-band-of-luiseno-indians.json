@@ -5,11 +5,23 @@
   "nearest_town": null,
   "census_aiannh": [],
   "official_website": "https://www.rincontribe.org/",
-  "alliances": [],
+  "alliances": [
+    "aita"
+  ],
   "tags": [],
   "blurb": null,
   "nearby_public_lands": [],
-  "links": [],
+  "links": [
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/rincon-band-of-luise-aio-indians",
+      "label": "Rincon Band of Luiseño Indians on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
@@ -47,5 +59,5 @@
   "states": [
     "CA"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

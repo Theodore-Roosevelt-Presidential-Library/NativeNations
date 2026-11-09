@@ -2,19 +2,128 @@
   "id": "blackfeet-tribe-of-the-blackfeet-indian-reservation-of-montana",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Browning",
   "census_aiannh": [],
-  "official_website": "http://www.blackfeetnation.com",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://blackfeetnation.com/",
+  "alliances": [
+    "aita",
+    "mita"
+  ],
+  "tags": [
+    "powwow_summer",
+    "fishing",
+    "hunting",
+    "camping",
+    "casino",
+    "lodging",
+    "museum",
+    "arts",
+    "scenic_drive",
+    "tribal_college",
+    "national_park_nearby"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Glacier National Park",
+    "Helena-Lewis and Clark National Forest"
+  ],
+  "links": [
+    {
+      "type": "aita_profile",
+      "url": "https://destinationnativeamerica.com/tribes/blackfeet-nation",
+      "label": "Blackfeet Nation on Destination Native America",
+      "publisher": "aita",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "official",
+      "url": "https://blackfeetnation.com/",
+      "label": "Blackfeet Nation",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_fishing",
+      "url": "https://blackfeetfishandwildlife.net/online-license-sales/",
+      "label": "Blackfeet Fish & Wildlife online licenses",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_hunting",
+      "url": "https://blackfeetfishandwildlife.net/non-tribal-member-big-game-hunts/",
+      "label": "Blackfeet non-member big game hunts",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "permits_recreation",
+      "url": "https://blackfeetfishandwildlife.net/recreational-activity/",
+      "label": "Blackfeet camping, boating and recreation rules",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "tourism",
+      "url": "https://blackfeetcampgrounds.com/",
+      "label": "Blackfeet Tribal Campgrounds",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://glacierpeakscasino.com/",
+      "label": "Glacier Peaks Hotel & Casino, Browning",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "museum",
+      "url": "https://www.doi.gov/iacb/museum-plains-indian",
+      "label": "Museum of the Plains Indian, Browning",
+      "publisher": "federal",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.visitmt.com/indian-country/niitsitapi-blackfeet",
+      "label": "Visit Montana: Niitsitapi (Blackfeet)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "visitor_protocols",
+      "url": "https://www.visitmt.com/indian-country/respectful-travel-in-indian-country",
+      "label": "Respectful travel in Indian Country (Visit Montana)",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Visit Montana uses Niitsitapi; confirm with the Nation. North American Indian Days only on Facebook."
   },
   "sources": [
     {
@@ -45,5 +154,5 @@
   "states": [
     "MT"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

@@ -1,0 +1,22 @@
+{
+  "id": "crow",
+  "summary": "The Crow call themselves Apsáalooke, the children of the large-beaked bird. Early traders mistranslated the name as Crow. Their language belongs to the Siouan family, and many Apsáalooke still speak it. Crow history recalls an ancestral home in the woodlands and lakes to the east and a long migration west to the Bighorn and Yellowstone river country of present-day Montana and Wyoming, which became their permanent homeland. With horses, the Apsáalooke became bison hunters who defended their country against the Blackfeet, Lakota and Cheyenne.\n\nApsáalooke society is built on matrilineal clans, a kinship system that ties families together and looks after their members.\n\nThe 1825 friendship treaty was the first between the Crow and the United States. The 1851 Fort Laramie Treaty recognized a vast Crow territory, and the 1868 Fort Laramie Treaty reduced it to a reservation. Later acts of Congress cut that reservation several more times, and the Crow Act, which the tribe itself sponsored, divided the remaining land among enrolled members.\n\nThe Apsáalooke chose not to adopt most of the Indian Reorganization Act. In 1948 they wrote their own constitution around a general council of all adult members. Today the Crow Tribe's reservation in south-central Montana, centered at Crow Agency, is the largest in the state, and Little Big Horn College serves the community. Leaders such as Plenty Coups and Robert Yellowtail are remembered for guiding the nation through hard decades.",
+  "sources": [
+    {
+      "name": "Encyclopedia of the Great Plains, Crows",
+      "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.024.html"
+    },
+    {
+      "name": "Montana Office of Public Instruction, Crow Timeline",
+      "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Social%20Studies/K-12%20Resources/Crow%20Timeline.pdf"
+    },
+    {
+      "name": "Montana Governor's Office, Tribal Relations Handbook",
+      "url": "https://gov.mt.gov/_docs/tribalnations/TribalRelationsHandbook.pdf"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "grouping_feedback": "Grouping is correct. The Crow are linguistically closest to the Hidatsa (widely stated), but none of the sources I read said so. A 'related peoples' link to Hidatsa should wait for a source. Add a disambiguation from Crow Creek (a Yanktonai/Dakota nation).",
+  "notes": "The 1825 treaty and 1851 treaty entries rest on the OPI timeline. The 1851 Fort Laramie Treaty itself is corroborated by other sources, but Crow participation is on the OPI timeline only, so a reviewer should confirm. I left out the migration date (OPI says 1450; EGP says before 1600) and the acreage figures (OPI 38M/8M/2.3M, EGP ~2M, MT handbook ~2.2M). The 1920 date for the Crow Act is left out (one source). 'Largest in the state' is from the MT Governor's handbook."
+}

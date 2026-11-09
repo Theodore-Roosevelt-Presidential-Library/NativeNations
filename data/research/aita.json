@@ -1,0 +1,1836 @@
+{
+ "batch": "aita",
+ "researched": "2026-11-08",
+ "nations": [
+  {
+   "id": "agua-caliente-band-of-cahuilla-indians-of-the-agua-caliente-indian",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/agua-caliente-band-of-cahuilla-indians",
+     "label": "Agua Caliente Band of Cahuilla Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "ak-chin-indian-community",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/ak-chin-indian-community",
+     "label": "Ak-Chin Indian Community on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "augustine-band-of-cahuilla-indians-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/augustine-band-of-cahuilla-indians",
+     "label": "Augustine Band of Cahuilla Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "bad-river-band-of-the-lake-superior-tribe-of-chippewa-indians-of-the",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/bad-river-chippewa-indians",
+     "label": "Bad River Band of Lake Superior Chippewa on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "bishop-paiute-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/the-bishop-paiute-tribe",
+     "label": "Bishop Paiute Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "blackfeet-tribe-of-the-blackfeet-indian-reservation-of-montana",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/blackfeet-nation",
+     "label": "Blackfeet Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "blue-lake-rancheria-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/blue-lake-rancheria-tribe",
+     "label": "Blue Lake Rancheria Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "buena-vista-rancheria-of-me-wuk-indians-of-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/buena-vista-rancheria-of-me-wuk-indians",
+     "label": "Buena Vista Rancheria of Me-Wuk Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "cabazon-band-of-cahuilla-indians",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/cabazon-band-of-mission-indians",
+     "label": "Cabazon Band of Cahuilla Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "cahuilla-band-of-indians",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/cahuilla-band-of-mission-indians",
+     "label": "Cahuilla Band of Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "california-valley-miwok-tribe-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/california-valley-miwok-tribe-california",
+     "label": "California Valley Miwok Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "campo-band-of-diegueno-mission-indians-of-the-campo-indian",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/campo-kumeyaay-nation",
+     "label": "Campo Kumeyaay Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "cherokee-nation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/cherokee-nation",
+     "label": "Cherokee Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "chickaloon-native-village",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/chickaloon-native-village",
+     "label": "Chickaloon Native Village on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "chicken-ranch-rancheria-of-me-wuk-indians-of-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/chicken-ranch-band-of-me-wuk-indians",
+     "label": "Chicken Ranch Rancheria of Me-Wuk Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "chippewa-cree-indians-of-the-rocky-boy-s-reservation-montana",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/chippewa-cree-tribe",
+     "label": "Chippewa Cree Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "citizen-potawatomi-nation-oklahoma",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/citizen-potawatomi-nation",
+     "label": "Citizen Potawatomi Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "cocopah-tribe-of-arizona",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/cocopah-indian-tribe",
+     "label": "Cocopah Indian Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "coeur-d-alene-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/coeur-d-alene-tribe",
+     "label": "Coeur D'Alene Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "confederated-salish-and-kootenai-tribes-of-the-flathead-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/confederated-salish-kootenai-tribes",
+     "label": "Confederated Salish and Kootenai Tribes on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "confederated-tribes-of-the-umatilla-indian-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/confederated-tribes-of-the-umatilla-indian-reservation",
+     "label": "Confederated Tribes of the Umatilla Indian Reservation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "coyote-valley-band-of-pomo-indians-of-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/coyote-valley-band-of-pomo-indians-of-california",
+     "label": "Coyote Valley Band of Pomo Indians of California on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "eastern-band-of-cherokee-indians",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/the-eastern-band-of-cherokee",
+     "label": "Eastern Band of Cherokee on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "eastern-shoshone-tribe-of-the-wind-river-reservation-wyoming",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/eastern-shoshone-tribe",
+     "label": "Eastern Shoshone Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "federated-indians-of-graton-rancheria-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/graton-rancheria",
+     "label": "Federated Indians of Graton Rancheria on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "forest-county-potawatomi-community-wisconsin",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/forest-county-potawatomi-community",
+     "label": "Forest County Potawatomi Community on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "fort-belknap-indian-community-of-the-fort-belknap-reservation-of",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/fort-belknap-indian-community",
+     "label": "Fort Belknap Indian Community on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "fort-mcdowell-yavapai-nation-arizona",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/fort-mcdowell-yavapai-nation",
+     "label": "Fort McDowell Yavapai Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "gila-river-indian-community-of-the-gila-river-indian-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/gila-river-pima-maricopa-indian-community",
+     "label": "Gila River Indian Community on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "havasupai-tribe-of-the-havasupai-reservation-arizona",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/havasupai-tribe",
+     "label": "Havasupai Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "hoopa-valley-tribe-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/hoopa-valley-tribe",
+     "label": "Hoopa Valley Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "hopi-tribe-of-arizona",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/the-hopi-tribe",
+     "label": "Hopi Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "hualapai-indian-tribe-of-the-hualapai-indian-reservation-arizona",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/the-hualapai-tribe",
+     "label": "Hualapai Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "ione-band-of-miwok-indians-of-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/ione-band-of-miwok-indians",
+     "label": "Ione Band of Miwok Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "jackson-band-of-miwuk-indians",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/jackson-rancheria-band-of-me-wuk-indians",
+     "label": "Jackson Rancheria Band of Me-Wuk Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "karuk-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/karuk-tribe",
+     "label": "Karuk Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "la-jolla-band-of-luiseno-indians-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/la-jolla-band-of-luise-aio-indians",
+     "label": "La Jolla Band of Luiseño Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "los-coyotes-band-of-cahuilla-and-cupeno-indians-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/los-coyotes-band-of-cahuilla-and-cupe-aio-indians",
+     "label": "Los Coyotes Band of Cahuilla and Cupeño Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "lower-elwha-tribal-community",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/lower-elwha-klallam-tribe",
+     "label": "Lower Elwha Klallam Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "lower-sioux-indian-community-in-the-state-of-minnesota",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/lower-sioux-indian-community",
+     "label": "Lower Sioux Indian Community on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "lumbee-tribe-of-north-carolina",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/lumbee-tribe-of-north-carolina",
+     "label": "Lumbee Tribe of North Carolina on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "lummi-tribe-of-the-lummi-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/lummi-nation",
+     "label": "Lummi Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "makah-indian-tribe-of-the-makah-indian-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/makah-tribe",
+     "label": "Makah Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "mesa-grande-band-of-diegueno-mission-indians-of-the-mesa-grande",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/mesa-grande-band-of-mission-indians",
+     "label": "Mesa Grande Band of Mission Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "mi-kmaq-nation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/aroostook-band-of-micmacs",
+     "label": "Mi'kmaq Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "middletown-rancheria-of-pomo-indians-of-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/middletown-rancheria-of-pomo-indians",
+     "label": "Middletown Rancheria of Pomo Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "minnesota-chippewa-tribe-minnesota",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/minnesota-chippewa-tribe-c5d3ea1d-1b96-4125-989a-1c683ea04844",
+     "label": "Minnesota Chippewa Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "moapa-band-of-paiute-indians-of-the-moapa-river-indian-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/moapa-band-of-paiute-indians",
+     "label": "Moapa Band of Paiute Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "morongo-band-of-mission-indians-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/morongo-band-of-mission-indians",
+     "label": "Morongo Band of Mission Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "navajo-nation-arizona-new-mexico-and-utah",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/navajo-nation",
+     "label": "Navajo Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "nez-perce-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/nez-perce-tribe",
+     "label": "Nez Perce Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "nooksack-indian-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/nooksack-indian-tribe",
+     "label": "Nooksack Indian Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "oneida-nation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/oneida-nation",
+     "label": "Oneida Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "organized-village-of-kasaan",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/organized-village-of-kasaan",
+     "label": "Organized Village of Kasaan on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pala-band-of-mission-indians",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pala-band-of-mission-indians",
+     "label": "Pala Band of Mission Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pascua-yaqui-tribe-of-arizona",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pascua-yaqui-tribe",
+     "label": "Pascua Yaqui Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pauma-band-of-luiseno-mission-indians-of-the-pauma-and-yuima",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pauma-band-of-luise-aio-indians",
+     "label": "Pauma Band of Luiseño Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pechanga-band-of-indians",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pechanga-band-of-luiseno-indians",
+     "label": "Pechanga Band of Luiseño Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "picayune-rancheria-of-chukchansi-indians-of-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/picayune-rancheria-of-the-chukchansi-indians",
+     "label": "Picayune Rancheria of the Chukchansi Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "poarch-band-of-creek-indians",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/poarch-band-of-creek-indians",
+     "label": "Poarch Band of Creek Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "ponca-tribe-of-nebraska",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/ponca-tribe-of-nebraska",
+     "label": "Ponca Tribe of Nebraska on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "port-gamble-s-klallam-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/port-gamble-s-klallam-tribe",
+     "label": "Port Gamble S'Klallam Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "prairie-island-indian-community-in-the-state-of-minnesota",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/prairie-island-indian-community",
+     "label": "Prairie Island Indian Community on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pueblo-of-acoma-new-mexico",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pueblo-of-acoma",
+     "label": "Pueblo of Acoma on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pueblo-of-cochiti-new-mexico",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pueblo-of-cochiti",
+     "label": "Pueblo of Cochiti on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pueblo-of-isleta-new-mexico",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pueblo-of-isleta",
+     "label": "Pueblo of Isleta on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pueblo-of-jemez-new-mexico",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pueblo-of-jemez",
+     "label": "Pueblo of Jemez on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pueblo-of-laguna-new-mexico",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pueblo-of-laguna",
+     "label": "Pueblo of Laguna on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pueblo-of-pojoaque-new-mexico",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pueblo-of-pojoaque",
+     "label": "Pueblo of Pojoaque on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pueblo-of-sandia-new-mexico",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pueblo-of-sandia",
+     "label": "Pueblo of Sandia on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "pueblo-of-santa-ana-new-mexico",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/pueblo-of-santa-ana",
+     "label": "Pueblo of Santa Ana on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "puyallup-tribe-of-the-puyallup-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/puyallup-tribe",
+     "label": "Puyallup Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "quechan-tribe-of-the-fort-yuma-indian-reservation-california-and",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/quechan-tribe",
+     "label": "Quechan Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "quileute-tribe-of-the-quileute-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/quileute-tribe",
+     "label": "Quileute Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "quinault-indian-nation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/quinault-indian-nation",
+     "label": "Quinault Indian Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "red-cliff-band-of-lake-superior-chippewa-indians-of-wisconsin",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/red-cliff-band-of-lake-superior-chippewa",
+     "label": "Red Cliff Band of Lake Superior Chippewa on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "red-lake-band-of-chippewa-indians-minnesota",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/red-lake-nation",
+     "label": "Red Lake Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "reno-sparks-indian-colony-nevada",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/reno-sparks-indian-colony",
+     "label": "Reno-Sparks Indian Colony on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "rincon-band-of-luiseno-indians",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/rincon-band-of-luise-aio-indians",
+     "label": "Rincon Band of Luiseño Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "salt-river-pima-maricopa-indian-community-of-the-salt-river",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/salt-river-pima-maricopa-indian-community",
+     "label": "Salt River Pima-Maricopa Indian Community on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "samish-indian-nation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/samish-indian-tribe",
+     "label": "Samish Indian Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "san-pasqual-band-of-diegueno-mission-indians-of-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/san-pasqual-band-of-mission-indians",
+     "label": "San Pasqual Band of Mission Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "santa-rosa-band-of-cahuilla-indians-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/santa-rosa-band-of-cahuilla-indians",
+     "label": "Santa Rosa Band of Cahuilla Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "santa-ynez-band-of-chumash-mission-indians-of-the-santa-ynez",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/santa-ynez-band-of-chumash-indians",
+     "label": "Santa Ynez Band of Chumash Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "sauk-suiattle-indian-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/sauk-suiattle-reservation",
+     "label": "Sauk-Suiattle Indian Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "shakopee-mdewakanton-sioux-community-of-minnesota",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/shakopee-mdewakanton-sioux-community",
+     "label": "Shakopee Mdewakanton Sioux Community on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "shawnee-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/shawnee-tribe",
+     "label": "Shawnee Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "shingle-springs-band-of-miwok-indians-shingle-springs-rancheria",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/shingle-springs-band-of-miwok-indians",
+     "label": "Shingle Springs Band of Miwok Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "shoalwater-bay-indian-tribe-of-the-shoalwater-bay-indian-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/shoalwater-bay-reservation",
+     "label": "Shoalwater Bay Indian Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "shoshone-bannock-tribes-of-the-fort-hall-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/shoshone-bannock-tribes",
+     "label": "Shoshone-Bannock Tribes on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "sitka-tribe-of-alaska",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/sitka-tribe-of-alaska",
+     "label": "Sitka Tribe of Alaska on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "soboba-band-of-luiseno-indians-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/soboba-band-of-luiseno-indians",
+     "label": "Soboba Band of Luiseño Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "southern-ute-indian-tribe-of-the-southern-ute-reservation-colorado",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/southern-ute-tribe",
+     "label": "Southern Ute Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "spokane-tribe-of-the-spokane-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/spokane-tribe-of-indians",
+     "label": "Spokane Tribe of Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "standing-rock-sioux",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/standing-rock-sioux-tribe",
+     "label": "Standing Rock Sioux Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "stillaguamish-tribe-of-indians-of-washington",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/stillaquamish-reservation",
+     "label": "Stillaguamish Tribe of Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "suquamish-indian-tribe-of-the-port-madison-reservation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/suquamish-tribe",
+     "label": "Suquamish Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "swinomish-indian-tribal-community",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/swinomish-indian-tribal-community",
+     "label": "Swinomish Indian Tribal Community on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "sycuan-band-of-the-kumeyaay-nation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/sycuan-band-of-the-kumeyaay-nation",
+     "label": "Sycuan Band of the Kumeyaay Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "tejon-indian-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/tejon-indian-tribe",
+     "label": "Tejon Indian Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "the-chickasaw-nation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/chickasaw-nation",
+     "label": "Chickasaw Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "the-choctaw-nation-of-oklahoma",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/choctaw-nation-of-oklahoma",
+     "label": "Choctaw Nation of Oklahoma on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "the-muscogee-creek-nation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/muscogee-creek-nation",
+     "label": "Muscogee (Creek) Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "three-affiliated-tribes-fort-berthold",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/mha-nation-mandan-hidatsa-arikara-nation",
+     "label": "MHA Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "timbisha-shoshone-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/timbisha-shoshone-tribe",
+     "label": "Timbisha Shoshone Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "tohono-o-odham-nation-of-arizona",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/tohono-o-odham-nation",
+     "label": "Tohono O'odham Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "torres-martinez-desert-cahuilla-indians-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/torres-martinez-desert-cahuilla-indians",
+     "label": "Torres Martinez Desert Cahuilla Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "tulalip-tribes-of-washington",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/tulalip-tribes",
+     "label": "Tulalip Tribes on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "tuolumne-band-of-me-wuk-indians-of-the-tuolumne-rancheria-of",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/the-tuolumne-band-of-me-wuk-indians",
+     "label": "Tuolumne Band of Me-Wuk Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "twenty-nine-palms-band-of-mission-indians-of-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/twenty-nine-palms-band-of-mission-indians",
+     "label": "Twenty-Nine Palms Band of Mission Indians on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "united-auburn-indian-community-of-the-auburn-rancheria-of-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/united-auburn-indian-community",
+     "label": "United Auburn Indian Community of Auburn Rancheria on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "upper-sioux-community-minnesota",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/upper-sioux-community-pezihutazizi-oyate",
+     "label": "Upper Sioux Community Pezihutazizi Oyate on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "upper-skagit-indian-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/upper-skagit-indian-tribe",
+     "label": "Upper Skagit Indian Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "ute-mountain-ute-tribe",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/ute-mountain-ute-tribe",
+     "label": "Ute Mountain Ute Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "village-of-aniak",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/village-of-aniak",
+     "label": "Village of Aniak on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "walker-river-paiute-tribe-of-the-walker-river-reservation-nevada",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/walker-river-paiute-tribe",
+     "label": "Walker River Paiute Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "washoe-tribe-of-nevada-and-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/washoe-tribe",
+     "label": "Washoe Tribe of Nevada and California on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "wrangell-cooperative-association",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/wrangell-cooperative-association",
+     "label": "Wrangell Cooperative Association on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "yavapai-apache-nation-of-the-camp-verde-indian-reservation-arizona",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/yavapai-apache-nation",
+     "label": "Yavapai-Apache Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "yocha-dehe-wintun-nation-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/yocha-dehe-wintun-nation",
+     "label": "Yocha Dehe Wintun Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "yuhaaviatam-of-san-manuel-nation",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/san-manuel-band-of-mission-indians",
+     "label": "Yuhaaviatam of San Manuel Nation on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  },
+  {
+   "id": "yurok-tribe-of-the-yurok-reservation-california",
+   "alliances": [
+    "aita"
+   ],
+   "links": [
+    {
+     "type": "aita_profile",
+     "url": "https://destinationnativeamerica.com/tribes/the-yurok-tribe",
+     "label": "Yurok Tribe on Destination Native America",
+     "publisher": "aita",
+     "verified": "2026-11-08"
+    }
+   ]
+  }
+ ]
+}

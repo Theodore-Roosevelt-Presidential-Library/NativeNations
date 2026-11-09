@@ -2,19 +2,54 @@
   "id": "crow-creek-sioux-tribe-of-the-crow-creek-reservation-south-dakota",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Chamberlain",
   "census_aiannh": [],
-  "official_website": "http://sdtribalrelations.com/crowcreek.aspx",
-  "alliances": [],
-  "tags": [],
+  "official_website": "https://crowcreekenrollment.com/",
+  "alliances": [
+    "sdnta"
+  ],
+  "tags": [
+    "hunting",
+    "fishing"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Fort Pierre National Grassland"
+  ],
+  "links": [
+    {
+      "type": "permits_hunting",
+      "url": "https://www.crowcreekwildlife.net/",
+      "label": "Crow Creek Wildlife Department",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://www.travelsouthdakota.com/trip-ideas/crow-creek-sioux-tribe",
+      "label": "Travel South Dakota: Crow Creek Sioux Tribe",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "alliance_profile",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "label": "South Dakota Native Tourism Alliance member nations",
+      "publisher": "alliance",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Official site uncertain: crowcreekenrollment.com (enrollment site) is listed by SDNTA and SD Tribal Relations but doesn't call itself official - confirm. Possible aka 'Hunkpati Dakota Nation' from a site heading - confirm before adding. Travel SD's crowcreekconnections.org now redirects to spam - never link. Wildlife site newest season 2024. Lode Star Casino site stale, not linked. HQ Fort Thompson."
   },
   "sources": [
     {
@@ -26,6 +61,16 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "SD Tribal Relations: Crow Creek",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Crow-Creek-Sioux-Tribe.aspx",
+      "retrieved": "2026-11-08"
+    },
+    {
+      "name": "SDNTA nations list",
+      "url": "https://sdnativetourismalliance.org/about/tribal-nations-in-the-alliance/",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota",
@@ -45,5 +90,5 @@
   "states": [
     "SD"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

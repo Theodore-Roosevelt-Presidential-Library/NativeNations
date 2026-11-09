@@ -3,12 +3,14 @@
 Only federal facts and fields the nation has approved are published.
 UTM tags are added to every outbound link here so partners can see Library referrals.
 """
-import json, pathlib, datetime, urllib.parse
+import json, pathlib, datetime, urllib.parse, sys
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import peoples as peoples_mod
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "site/api/v1"
 UTM = {"utm_source": "trlibrary", "utm_medium": "referral", "utm_campaign": "nativenations"}
-PUBLISHER_ORDER = ["nation", "alliance", "state_tourism", "aita", "federal", "native_land"]
+PUBLISHER_ORDER = ["nation", "alliance", "state_tourism", "aita", "federal", "reference", "native_land"]
 vocab = json.loads((ROOT / "data/vocab.json").read_text())
 
 def tag(url):
@@ -39,6 +41,10 @@ def public(r):
 
 recs = [json.loads(p.read_text()) for p in sorted((ROOT / "data/nations").glob("*.json"))]
 pub = [public(r) for r in recs]
+P_DATA, P_FULL, P_BY, _ = peoples_mod.resolve(recs)
+P_NAME = {p["id"]: p["name"] for p in P_DATA}
+for n in pub:
+    n["peoples"] = [{"id": pid, "name": P_NAME[pid]} for pid in sorted(P_BY.get(n["id"], []), key=lambda x: P_NAME[x])]
 (OUT / "nations").mkdir(parents=True, exist_ok=True)
 for n in pub:
     (OUT / "nations" / f"{n['id']}.json").write_text(json.dumps(n, indent=1, ensure_ascii=False))
@@ -46,10 +52,14 @@ for n in pub:
 def has_visit_links(n):
     return any(l["type"] not in ("official",) for l in n["links"])
 
+P_DATA_BY = {p["id"]: p for p in P_DATA}
 index = [{"id": n["id"], "name": n["name"], "states": n["states"], "town": n["nearest_town"] or (n["hq"] or {}).get("city"),
           "region": n["bia_region"], "group": n["region_group"], "alliances": [a["id"] for a in n["alliances"]],
           "visit": has_visit_links(n), "lat": (n["hq"] or {}).get("lat"), "lon": (n["hq"] or {}).get("lon"),
-          "aka": n["aka"], "former": n["fr_former_names"]} for n in pub]
+          "aka": n["aka"], "former": n["fr_former_names"],
+          "peoples": sorted({pp["id"] for pp in n["peoples"]} | {P_DATA_BY[pp["id"]]["parent"] for pp in n["peoples"] if P_DATA_BY[pp["id"]]["parent"]})} for n in pub]
+(OUT / "peoples.json").write_text(json.dumps([{"id": p["id"], "name": p["name"], "also_called": p["also_called"], "parent": p["parent"], "related": p.get("related", []),
+    "nations": P_FULL[p["id"]], "review_status": p["review"]["status"]} for p in P_DATA], indent=1, ensure_ascii=False))
 (OUT / "index.json").write_text(json.dumps(index, separators=(",", ":"), ensure_ascii=False))
 (OUT / "nations.geojson").write_text(json.dumps({"type": "FeatureCollection", "features": [
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [n["hq"]["lon"], n["hq"]["lat"]]},

@@ -1,0 +1,37 @@
+{
+  "id": "confederated-salish-and-kootenai-tribes-of-the-flathead-reservation",
+  "summary": "The Confederated Salish and Kootenai Tribes are three peoples who share one reservation in northwestern Montana: the Séliš (Salish), the Qlispé (Pend d'Oreille), and the Ksanka band of the Kootenai. The Salish and Pend d'Oreille speak closely related dialects of the Salish language family, while the Kootenai language is not known to be related to any other. Their homelands once reached across western Montana and into Idaho, British Columbia, and Wyoming. The 1855 Hellgate Treaty set aside the Flathead Reservation, though tribal leaders understood its boundaries to be larger than the written text. Chief Charlo and the Salish refused for decades to give up their Bitterroot Valley homeland. In October 1891, under Army escort, they made the move north that some historians call Montana's Trail of Tears. In 1910 the government opened reservation land to homesteaders, and much of the best farmland, including most of the Mission Valley, passed out of tribal hands. The tribes have been buying land back ever since and again own most of the reservation. In 2015 they took ownership of the hydroelectric dam on the lower Flathead River, now called the Séliš Ksanka Qlispé Dam. The tribal government is based in Pablo, also home to Salish Kootenai College and the People's Center museum.",
+  "sources": [
+    {
+      "name": "Montana Office of Public Instruction, Montana Indians: Their History and Location (Indian Education for All; tribal sections written with tribal representatives)",
+      "url": "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
+    },
+    {
+      "name": "Montana Historical Society, Montanans biography: Charlo (ca. 1830–1910)",
+      "url": "https://mths.mt.gov/education/Montanans/Charlo.pdf"
+    },
+    {
+      "name": "Montana Historical Society, Montana Women's History: Mary Ann Pierre Topsseh Coombs and the Bitterroot Salish",
+      "url": "https://montanawomenshistory.mt.gov/News/news-articles/Mary-Ann-Pierre-Topsseh-Coombs-and-the-Bitterroot-Salish"
+    },
+    {
+      "name": "Montana Historical Society, Montana: Stories of the Land, Chapter 11 (The Early Reservation Years)",
+      "url": "https://mths.mt.gov/education/Textbook/Chapter11/chapter11.pdf"
+    },
+    {
+      "name": "Confederated Salish and Kootenai Tribes: History and Culture",
+      "url": "https://csktribes.org/history-and-culture/"
+    },
+    {
+      "name": "U.S. Department of Energy, Office of Indian Energy: Montana Tribes Realize Long-Held Vision of Acquiring Kerr Dam (Sept. 16, 2015)",
+      "url": "https://www.energy.gov/indianenergy/articles/montana-tribes-realize-long-held-vision-acquiring-kerr-dam-interview-energy"
+    },
+    {
+      "name": "Montana Governor's Office of Indian Affairs, Tribal Nations directory: Confederated Salish & Kootenai Tribes",
+      "url": "https://tribalnations.mt.gov/Directory/ConfederatedSalishKootenaiTribes"
+    }
+  ],
+  "status": "draft",
+  "written": "2026-11-08",
+  "notes": "Self-names and the dam name are given with the spellings in the OPI tribal section; the DOE article renders the dam name with additional diacritics (Se̓liš Ksanka Ql̓ispe̓). Reviewers should confirm the tribes' preferred spelling. Left out: the claim that CSKT was the first tribe to organize under the IRA in 1935 (single source, superlative); the 2020 National Bison Range restoration (not verified this pass); acreage figures. The csktribes.org site blocks automated reading; its history page was read through a summarizing fetch only."
+}

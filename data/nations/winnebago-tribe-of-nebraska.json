@@ -2,19 +2,62 @@
   "id": "winnebago-tribe-of-nebraska",
   "display_name": null,
   "aka": [],
-  "nearest_town": null,
+  "nearest_town": "Winnebago",
   "census_aiannh": [],
-  "official_website": "http://www.winnebagotribe.com",
+  "official_website": "https://winnebagotribe.com/",
   "alliances": [],
-  "tags": [],
+  "tags": [
+    "museum",
+    "powwow_summer",
+    "tribal_college"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "DeSoto National Wildlife Refuge"
+  ],
+  "links": [
+    {
+      "type": "museum",
+      "url": "https://winnebagotribe.com/angel-decora-museum/",
+      "label": "Angel DeCora Memorial Museum and Research Center",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "powwow",
+      "url": "https://winnebagotribe.com/winnebago-pow-wow/",
+      "label": "Winnebago Homecoming Celebration",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://winnebagotribe.com/events/",
+      "label": "Winnebago Tribe events",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "state_tourism_profile",
+      "url": "https://visitnebraska.com/winnebago/winnebago-indian-reservation",
+      "label": "Visit Nebraska: Winnebago Indian Reservation",
+      "publisher": "state_tourism",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Site uses both 'Ho-Chunk' and 'Hōcąk'; confirm the preferred self-designation before adding as aka."
   },
   "sources": [
     {
@@ -26,6 +69,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "Winnebago Tribe homepage",
+      "url": "https://winnebagotribe.com/",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Winnebago Tribe of Nebraska",
@@ -45,5 +93,5 @@
   "states": [
     "NE"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }

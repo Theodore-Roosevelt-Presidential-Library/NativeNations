@@ -1,20 +1,68 @@
 {
   "id": "iowa-tribe-of-kansas-and-nebraska",
   "display_name": null,
-  "aka": [],
-  "nearest_town": null,
+  "aka": [
+    "Báxoje"
+  ],
+  "nearest_town": "White Cloud",
   "census_aiannh": [],
-  "official_website": "https://www.iowatribeofkansasandnebraska.com/",
+  "official_website": "https://iowatribeofkansasandnebraska.com/",
   "alliances": [],
-  "tags": [],
+  "tags": [
+    "museum",
+    "historic_site",
+    "casino",
+    "lodging",
+    "camping"
+  ],
   "blurb": null,
-  "nearby_public_lands": [],
-  "links": [],
+  "nearby_public_lands": [
+    "Iowa and Sac & Fox Mission State Historic Site",
+    "Loess Bluffs National Wildlife Refuge"
+  ],
+  "links": [
+    {
+      "type": "museum",
+      "url": "https://iowatribeofkansasandnebraska.com/iowa-and-sac-fox-mission-museum/",
+      "label": "Iowa and Sac & Fox Mission Museum",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "powwow",
+      "url": "https://iowatribeofkansasandnebraska.com/powwow/",
+      "label": "Báxoje Fall Encampment & Powwow",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "events",
+      "url": "https://iowatribeofkansasandnebraska.com/calendar/",
+      "label": "Iowa Tribe calendar",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    },
+    {
+      "type": "lodging",
+      "url": "https://casinowhitecloud.org/amenities/",
+      "label": "Casino White Cloud cabins and RV sites",
+      "publisher": "nation",
+      "nation_approved": false,
+      "last_checked": "2026-11-08",
+      "http_status": 200
+    }
+  ],
   "review": {
     "status": "draft",
     "by": null,
     "date": null,
-    "notes": "Federal facts only."
+    "notes": "Federal facts only. [2026-11-08 research] Powwow page title still reads 2024; recheck before featuring."
   },
   "sources": [
     {
@@ -26,6 +74,11 @@
       "name": "BIA Tribal Leaders Directory (organizational fields only)",
       "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
       "retrieved": "2026-11-09"
+    },
+    {
+      "name": "Iowa Tribe homepage",
+      "url": "https://iowatribeofkansasandnebraska.com/",
+      "retrieved": "2026-11-08"
     }
   ],
   "fr_name": "Iowa Tribe of Kansas and Nebraska",
@@ -46,5 +99,5 @@
     "KS",
     "NE"
   ],
-  "last_verified": "2026-11-09"
+  "last_verified": "2026-11-08"
 }
