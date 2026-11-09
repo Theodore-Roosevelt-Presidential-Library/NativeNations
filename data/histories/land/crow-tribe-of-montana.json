@@ -7,7 +7,7 @@
   "timeline": [
     {
       "year": "1851",
-      "event": "The Fort Laramie Treaty recognizes a large Crow territory in present-day Montana, Wyoming and the Dakotas.",
+      "event": "The Fort Laramie Treaty recognizes a large Crow territory in present-day Montana and Wyoming.",
       "sources": [
         "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf",
         "https://supreme.justia.com/cases/federal/us/450/544/"
@@ -68,5 +68,9 @@
   ],
   "notes": "I could not find a history or land page on crow-nsn.gov (the CTHPO page lists staff and permit forms only). The Tribe's view of the cessions, that compensation was never adequate, is taken from OPI's Crow section, which footnotes crow-nsn.gov. Reviewers should get the Tribe's own wording. Conflicts: OPI gives 33 million acres for 1851, a cession in 1890 and the last major cession in 1905; Montana v. United States gives 38.5 million acres, acts of 1891 and 1904, and a 1937 act. The timeline uses the years with two sources. The 1891 act and the 1962 claims judgment ($10,242,984.70, OPI only) appear in the summary without dates in the timeline. The 1904 act was approved April 27, 1904, during T.R.'s term, but no source names him as signer, so he is not mentioned. disputed is set false because I found no current Crow boundary dispute. The coordinator's brief mentions the Crow view of later cessions, so reviewers may want to set it true if the Tribe considers any cession invalid. homelands relies on OPI quoting the Tribe's site, not on a page I could read directly.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "panel_review": [
+    "R-20261109-0019"
+  ],
+  "panel_checked": "2026-11-09"
 }

@@ -1,30 +1,62 @@
 {
   "id": "yankton-sioux-tribe-of-south-dakota",
   "name": "Yankton Sioux Tribe",
-  "land_summary": "In an 1858 treaty the Ihanktonwan ceded most of their lands and kept a reservation of about 400,000 acres on the east bank of the Missouri, in what is now Charles Mix County, South Dakota. Allotment followed. In an 1892 agreement, ratified in 1894, the Tribe sold about 168,000 acres of unallotted land for $600,000, and that land was opened to white settlement. In 1998 the U.S. Supreme Court held that the sold land lost reservation status. A later federal appeals ruling held that the reservation was diminished but not ended, so trust allotments, agency land and trust land reacquired by the Tribe remain Indian country. Fort Randall Dam flooded about 2,851 acres of Yankton land. Today tribal trust land totals roughly 37,000 to 40,000 acres, scattered among privately owned land.",
+  "land_summary": "The Yankton Sioux Tribe, the Ihanktonwan, once held a wide territory between the Missouri, James and Big Sioux rivers. In a treaty signed April 19, 1858, the Yankton ceded more than 11 million acres and kept a reservation of about 400,000 acres along the Missouri in what is now Charles Mix County, South Dakota. Allotment came next: by 1891 about 262,000 acres had been divided into individual allotments. In 1892 the tribe agreed to sell roughly 168,000 unallotted acres to the United States for $600,000, and Congress ratified the sale in 1894. Over the next decades many allotments passed out of Native hands. The Fort Randall Dam project took 2,851.40 acres on the reservation's western edge, compensated further by Congress in 2002. In 1998 the U.S. Supreme Court held that the 1894 sale diminished the reservation, and later federal rulings found that the reservation still exists on its remaining trust and agency lands, roughly 37,000 acres. The tribal offices are in Wagner.",
   "timeline": [
     {
       "year": "1858",
-      "event": "A treaty cedes most Ihanktonwan land and reserves about 400,000 acres along the Missouri.",
+      "event": "By the treaty of April 19, signed in Washington, the Yankton cede more than 11 million acres and keep a reservation of about 400,000 acres on the Missouri River.",
       "sources": [
         "https://treaties.okstate.edu/treaties/treaty-with-the-yankton-sioux-1858-0776",
-        "https://law.justia.com/cases/federal/appellate-courts/ca8/08-1441/081441p-2011-02-25.html"
+        "https://www.law.cornell.edu/supct/html/96-1581.ZO.html"
+      ]
+    },
+    {
+      "year": "1859",
+      "event": "The treaty is ratified on February 16, and the Yankton Agency is set up on the Missouri River near Greenwood.",
+      "sources": [
+        "https://treaties.okstate.edu/treaties/treaty-with-the-yankton-sioux-1858-0776",
+        "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/yankton.pdf"
+      ]
+    },
+    {
+      "year": "1891",
+      "event": "Allotment under the Dawes Act and an 1891 Act divides about 262,000 acres into individual allotments.",
+      "sources": [
+        "https://www.law.cornell.edu/supct/html/96-1581.ZO.html",
+        "https://ecf.ca8.uscourts.gov/opndir/10/05/081441P.pdf"
       ]
     },
     {
       "year": "1894",
-      "event": "Congress ratifies the 1892 agreement selling about 168,000 acres of unallotted land, which is then opened to settlers.",
+      "event": "Congress ratifies, on August 15, the tribe's 1892 agreement to sell about 168,000 acres of unallotted land for $600,000.",
       "sources": [
-        "https://law.justia.com/cases/federal/appellate-courts/ca8/08-1441/081441p-2011-02-25.html",
-        "https://treaties.okstate.edu/treaties/agreement-with-the-yankton-sioux-1892-22365"
+        "https://www.law.cornell.edu/supct/html/96-1581.ZO.html",
+        "https://ecf.ca8.uscourts.gov/opndir/10/05/081441P.pdf"
       ]
     },
     {
       "year": "1998",
-      "event": "The U.S. Supreme Court holds that the land sold in 1894 is no longer reservation land.",
+      "event": "In South Dakota v. Yankton Sioux Tribe, the U.S. Supreme Court holds that the 1894 sale diminished the reservation and puts the ceded lands under state jurisdiction.",
       "sources": [
-        "https://www.law.cornell.edu/supremecourt/text/522/329",
-        "https://law.justia.com/cases/federal/appellate-courts/ca8/08-1441/081441p-2011-02-25.html"
+        "https://www.law.cornell.edu/supct/html/96-1581.ZO.html",
+        "https://ictnews.org/?p=115868"
+      ]
+    },
+    {
+      "year": "2002",
+      "event": "Congress finds that 2,851.40 acres of Yankton land were taken for the Fort Randall Dam and Reservoir and approves added compensation.",
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/PLAW-107publ331/html/PLAW-107publ331.htm",
+        "https://www.bia.gov/sites/default/files/dup/assets/as-ia/ocla/HR2408%20Yankton%20Santee%20Equitable%20Compensation%20Final%2007-17-2002.pdf"
+      ]
+    },
+    {
+      "year": "2007",
+      "event": "A federal district court rules that the reservation was diminished but not disestablished, a finding the Eighth Circuit later upholds for trust and agency lands.",
+      "sources": [
+        "https://ictnews.org/?p=115868",
+        "https://ecf.ca8.uscourts.gov/opndir/10/05/081441P.pdf"
       ]
     }
   ],
@@ -34,35 +66,43 @@
   "sacred_places": [],
   "sources": [
     {
-      "name": "Kappler, Treaty with the Yankton Sioux, 1858 (OSU)",
+      "name": "Yankton Sioux Tribe (official site)",
+      "url": "https://www.yanktonsiouxtribe.net/"
+    },
+    {
+      "name": "Kappler, Treaty with the Yankton Sioux, 1858",
       "url": "https://treaties.okstate.edu/treaties/treaty-with-the-yankton-sioux-1858-0776"
     },
     {
-      "name": "Kappler, Agreement with the Yankton Sioux, 1892 (OSU)",
-      "url": "https://treaties.okstate.edu/treaties/agreement-with-the-yankton-sioux-1892-22365"
-    },
-    {
       "name": "South Dakota v. Yankton Sioux Tribe, 522 U.S. 329 (1998), Cornell LII",
-      "url": "https://www.law.cornell.edu/supremecourt/text/522/329"
+      "url": "https://www.law.cornell.edu/supct/html/96-1581.ZO.html"
     },
     {
-      "name": "Yankton Sioux Tribe v. Podhradsky (8th Cir. 2010, amended), Justia",
-      "url": "https://law.justia.com/cases/federal/appellate-courts/ca8/08-1441/081441p-2011-02-25.html"
+      "name": "Yankton Sioux Tribe v. Podhradsky, 8th Cir. amended opinion (2010)",
+      "url": "https://ecf.ca8.uscourts.gov/opndir/10/05/081441P.pdf"
     },
     {
-      "name": "U.S. Senate Report 106-367",
-      "url": "https://www.govinfo.gov/content/pkg/CRPT-106srpt367/html/CRPT-106srpt367.htm"
+      "name": "ICT / Associated Press on the reservation-status ruling (2008)",
+      "url": "https://ictnews.org/?p=115868"
     },
     {
-      "name": "SD Department of Tribal Relations, Yankton Sioux Tribe",
+      "name": "South Dakota State Archives, Yankton Agency records guide",
+      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/yankton.pdf"
+    },
+    {
+      "name": "South Dakota Department of Tribal Relations, Yankton Sioux Tribe",
       "url": "https://sdtribalrelations.sd.gov/tribes/Yankton-Sioux-Tribe.aspx"
     },
     {
-      "name": "SD State Archives, Indian Archives Project, Yankton Agency",
-      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/yankton.pdf"
+      "name": "Public Law 107-331, Title II (2002)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ331/html/PLAW-107publ331.htm"
+    },
+    {
+      "name": "BIA testimony on H.R. 2408 (2002)",
+      "url": "https://www.bia.gov/sites/default/files/dup/assets/as-ia/ocla/HR2408%20Yankton%20Santee%20Equitable%20Compensation%20Final%2007-17-2002.pdf"
     }
   ],
-  "notes": "Disputed is set to true because the reservation's extent has been litigated for decades. The Tribe argued in court that its 1858 boundaries remain, and the 8th Circuit held in 2010 that the reservation was diminished but not disestablished. No nation-published statement of its current boundary position was found. The Tribe's homepage (yanktonsiouxtribe.net) has no history, boundary or map pages. A reviewer should ask the Tribe how it states its position. The 2010 ruling date rests on the Justia copy of the opinion alone, so the summary leaves it undated. The 1858 treaty cited about 400,000 acres, and a later survey found 430,405. The Senate report gives about 2,851 acres taken by Fort Randall, plus erosion losses of about 408 to 428 acres. ICT says the White Swan community was submerged, but that is single-source and was left out. Trust land: 36,741 acres (SD Tribal Relations) versus 40,000 acres (SD State Archives). The 2002 Yankton Sioux and Santee Sioux Tribes Equitable Compensation Act is documented only in Senate reports.",
+  "notes": "yanktonsiouxtribe.net loads, but its homepage has only a CodeRED alert and an office address in Wagner, and no history pages were found. That is why homelands is null. 'Wagner' comes from the nation's site. There is no nation figure for current acreage, and the sources disagree. SD Tribal Relations says 36,741 trust acres. SD State Archives says about 40,000, which as a second agency of the same state government does not count as independent. ICT/AP (2008) gives about 37,585 acres for the remaining reservation, and the Eighth Circuit's parcel figures add up to about 37,410. The summary says 'roughly 37,000.' The survey figure of 430,405 acres for the 1858 reservation (it appears only in the court opinions) was left out. The Yankton Agency's founding in 1859 is single-sourced (SD Archives); the 1859 entry rests on the ratification date. 'Disputed' is set to true because the reservation's extent has been litigated for decades and the Eighth Circuit left the status of Indian-owned fee lands open. The 1929 return of agency lands, the 1963 IRA constitution and the 1930 figure of 43,358 acres still in allotments were left out as single-sourced. The 2007 entry's date comes from ICT's report on Judge Piersol's ruling. The 2010 Eighth Circuit opinion reviews that ruling.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-09"
 }

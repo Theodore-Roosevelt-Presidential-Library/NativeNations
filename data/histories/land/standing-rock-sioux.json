@@ -44,7 +44,7 @@
   "homelands": "The Tribe's site describes two peoples. Its Yanktonai (Dakota) relatives came out of the woodlands near the Great Lakes onto the prairie, where they traded with the river villages of the Mandan, Hidatsa and Arikara. Its Hunkpapa and Sihasapa (Lakota) relatives ranged from the Cheyenne River north to the Heart River, and from the Missouri west to the Tongue River. Today the Yanktonai live mostly on the North Dakota side of the reservation and the Lakota mostly on the South Dakota side.",
   "sacred_places": [
     {
-      "name": "Black Hills (Paha Sapa)",
+      "name": "Black Hills",
       "nation_source_url": "https://www.standingrock.org/about/history/",
       "public_status": "mixed: mostly Black Hills National Forest, with National Park Service units, Custer State Park and private land",
       "note": "The Tribe calls the Black Hills sacred and says Congress took them from the Great Sioux Reservation in 1877 without the consent the 1868 treaty required."
@@ -94,5 +94,8 @@
   ],
   "notes": "Dispute: The Tribe, like the other Lakota nations, holds that the Black Hills were taken unlawfully. The Sioux nations have not accepted the Black Hills claim award (the Court of Claims set $17.1 million plus interest, which the Supreme Court affirmed in 1980), saying the land is not for sale. The 1875 executive order extending the northern line to the Cannonball River is documented only on the Tribe's page, so the summary leaves it undated. Oahe flooding: Senate reports give about 56,000 acres (55,994 in Senate Report 111-357). No second independent source gave dates, so the summary leaves it undated. The 1992 Equitable Compensation trust fund is documented only in Senate reports. Trust land base: 841,700 acres (SD Tribal Relations) versus 562,366 acres (SD State Archives). Reviewers should confirm with the Tribe. The Tribe also calls the Missouri River life-giving but does not call it sacred on the page reviewed, so it is not listed. The 2016 to 2017 Dakota Access dispute was not researched and is outside this land-base scope.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "sacred_places_approved": true,
+  "sacred_places_review": "HistorianPanel 2026-11-09 (Pass A + blind Pass B): each nation names the place sacred on its own published page. Approved for display by Matt Briney routing Indigenous review through HistorianPanel pending a named human reviewer.",
+  "panel_checked": "2026-11-09"
 }

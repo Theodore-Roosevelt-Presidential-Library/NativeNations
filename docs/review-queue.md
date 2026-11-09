@@ -1,9 +1,9 @@
 # Review queue
 
-Everything below is draft. Nothing leaves draft until the Library's reviewers (HistorianPanel human review; Indigenous content and MHA Nation materials → the Library's Indigenous content reviewer (to be named)) and, ideally, the nation or its tourism alliance have seen it.
+Everything below is draft. Nothing leaves draft until the Library's reviewers (HistorianPanel human review; Indigenous content and MHA Nation materials → HistorianPanel for now (a named human reviewer is still to be chosen)) and, ideally, the nation or its tourism alliance have seen it.
 
 ## Held from display
-- MHA Nation history and the Mandan, Hidatsa and Arikara people histories (`"hold": true`). MHA materials route to the Library's Indigenous content reviewer (to be named) first. Remove `hold` to show them.
+- MHA Nation history and the Mandan, Hidatsa and Arikara people histories (`"hold": true`). MHA materials route to HistorianPanel for now (a named human reviewer is still to be chosen) first. Remove `hold` to show them.
 
 ## Names to confirm with nations
 Rule: the nation's own usage wins. Where a nation's site already states a name, use it; ask only where it's silent or inconsistent.
@@ -75,3 +75,20 @@ Eighteen drafts in `data/histories/land/`. All `draft`. MHA Nation (Fort Berthol
 The USDA Forest Service's "Tribal Lands Ceded to the United States" digitizes the 67 Royce cession maps: 752 polygons with treaty links, GeoJSON/shapefile, listed CC BY 4.0 on Data.gov (credit the Forest Service). Caveats: not legal boundaries; coarse (1:2,000,000); seven cessions missing; present-day tribe assignments under reevaluation; shows U.S.-recognized cessions, not homelands. https://catalog.data.gov/dataset/tribal-lands-ceded-to-the-united-states-feature-layer
 - **Royce date.** Pages say "Royce's 1899 maps." The FS metadata ties them to the 1896–97 BAE Annual Report; 1899 is the usual publication year. Confirm before external use.
 - **Broad cession links.** The Forest Service links nations to cessions broadly (Spirit Lake picks up nearly every Sioux cession). Pages attribute the links to the Forest Service; consider asking nations whether they want the list shown.
+
+- **573 vs 575.** Likely explained by the two joint Alaska governments (Pribilof Islands; Venetie) each covering two villages; see docs/sources.md. Confirm with BIA before quoting a count publicly.
+
+## Sauk and Meskwaki histories (drafted 2026-11-09)
+
+New drafts: nations `sac-and-fox-nation-oklahoma` and `sac-and-fox-tribe-of-the-mississippi-in-iowa`; peoples `sauk` and `meskwaki`. Iowa page now displays "Meskwaki Nation" (its own name), and its land row reads "Land" rather than "Reservation and trust land": the Nation says the Settlement is privately owned land it bought, not a reservation.
+
+- The Sac and Fox Nation (Oklahoma) site doesn't state the "distinct peoples" framing outright; the Meskwaki Nation and the Missouri nation do. Ask the Oklahoma nation's Historic Preservation or Language department to confirm the framing and the self-name spelling (Thakiwaki vs Sa ki wa ki).
+- Left out for conflicts: the meaning of the Sauk name; the year of removal from Kansas to Indian Territory (1869 vs 1870s); alliance year (1734 vs 1735 — "the 1700s" used); Meskwaki school takeover (1980 vs 1981 — "the 1980s").
+- Single-source items kept: Saginaw Bay/Green Bay homelands at contact (OHS), Jim Thorpe's rings on the Nation's seal and flag (OHS), Meskwaki parents going to court over boarding school (Iowa PBS), Agency School language punishment (the Nation's own site).
+
+
+## HistorianPanel check (2026-11-09)
+
+120 claims checked; 100 kept, 19 fixed, 1 cut. Full report: `private/historian-panel-ledger/2026-11-09-native-nations/report.md` (private, not in the repo). Sacred places for Blackfeet (Badger-Two Medicine), Standing Rock (Black Hills) and Flandreau (Pipestone) passed both passes and are now shown (`sacred_places_approved: true`). MHA Nation and the Mandan, Hidatsa and Arikara histories were fixed (1936 constitution, not 1934; Twin Buttes/White Shield resettlement claim cut) but stay on hold pending Matt's call — see below.
+
+- **MHA hold.** The panel's own rules never close MHA Nation claims, and the Library's editorial standard keeps MHA content waiting on the MHA co-development partnership. Lifting `hold` is Matt's decision.

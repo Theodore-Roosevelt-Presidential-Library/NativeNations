@@ -1,11 +1,11 @@
 {
   "id": "sac-and-fox-nation-of-missouri-in-kansas-and-nebraska",
   "name": "Sac & Fox Nation of Missouri in Kansas and Nebraska",
-  "land_summary": "The Nation's history places its people across a wide arc from the Great Lakes to the Missouri. An early treaty ceded the Sauk country around Saukenuk, a large town between the Rock and Mississippi rivers in Illinois, a cession Black Hawk refused to accept. A later treaty recognized the Missouri band as a distinct tribe and moved it to northeast Missouri. In 1837 a treaty moved it across the Missouri River to the Great Nemaha reservation, in what are now Doniphan and Brown counties, Kansas. In an 1861 treaty the Nation ceded about 32,098 acres of its reservation for sale and received Iowa land west of No Heart Creek as a permanent home. Today the Nation is headquartered at Reserve, Kansas, on a reservation that straddles the state line in Brown County, Kansas, and Richardson County, Nebraska.",
+  "land_summary": "The Nation's history places its people across a wide arc from the Great Lakes to the Missouri. An early treaty ceded the Sauk country around Saukenuk, a large town between the Rock and Mississippi rivers in Illinois, a cession Black Hawk refused to accept. A later treaty recognized the Missouri band as a distinct tribe and moved it to northeast Missouri. Treaties of 1836 and 1837 moved it across the Missouri River to land on the Great Nemaha, in what are now northeast Kansas and southeast Nebraska. In an 1861 treaty the Nation ceded about 32,098 acres of its reservation for sale and received Iowa land west of No Heart Creek as a permanent home. Today the Nation is headquartered at Reserve, Kansas, on a reservation that straddles the state line in Brown County, Kansas, and Richardson County, Nebraska.",
   "timeline": [
     {
-      "year": "1837",
-      "event": "A treaty moves the Sac and Fox of Missouri west across the Missouri River to the Great Nemaha reservation in what is now northeast Kansas.",
+      "year": "1836-37",
+      "event": "A treaty concluded in 1836 and proclaimed in 1837 assigns the Sac and Fox of Missouri land on the Great Nemaha, west of the Missouri River, in what is now northeast Kansas and southeast Nebraska. An 1837 treaty gives up their remaining claims east of the river.",
       "sources": [
         "https://www.sacandfoxks.com/history/tribe",
         "https://www.kansashistory.gov/kansapedia/brown-county-kansas/15263"
@@ -52,5 +52,9 @@
   ],
   "notes": "Only two entries could be double-sourced. Date conflict: the Nation and Kansapedia date the move to the Great Nemaha reservation to an 1837 treaty. In Kappler, the treaty assigning the Great Nemaha land to the Iowa and the Sac and Fox of Missouri is dated 1836. Under the governing rule, the timeline uses the Nation's 1837. Historians should reconcile the two, and the Kappler 1837 page was not opened to confirm its terms. The 1804 and 1815 treaties come from the Nation's page only and are undated in the summary. Kansapedia gives the reservation as 15,129 acres. That is single-source, so no current acreage is stated. No nation-published map or boundary statement was found. The Nation names Saukenuk as one of North America's largest villages but does not call it sacred, so it is not listed. The Black Hawk wording on the Nation's page is a quotation and is not reproduced. Other Sac and Fox nations (Meskwaki in Iowa, Sac and Fox Nation in Oklahoma) are separate governments.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "panel_review": [
+    "R-20261109-0072"
+  ],
+  "panel_checked": "2026-11-09"
 }

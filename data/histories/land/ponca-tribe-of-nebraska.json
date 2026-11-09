@@ -13,7 +13,7 @@
     },
     {
       "year": "1865",
-      "event": "A treaty reduces the Ponca reservation to 96,000 acres.",
+      "event": "A treaty exchanges land with the United States, leaving the Ponca a reservation of about 96,000 acres.",
       "sources": [
         "https://poncatribe-ne.gov/about-the-nation/",
         "https://treaties.okstate.edu/treaties/treaty-with-the-ponca-1865-0875"
@@ -37,7 +37,7 @@
     },
     {
       "year": "1881",
-      "event": "Land in Knox County is returned, and the Northern Ponca re-form in Nebraska.",
+      "event": "The Ponca are divided into two groups, and the Northern Ponca settle again on part of their old reservation in Nebraska (in today's Knox County).",
       "sources": [
         "https://poncatribe-ne.gov/about-the-nation/",
         "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.088.html"
@@ -91,5 +91,10 @@
   ],
   "notes": "This confirms that the Tribe has no reservation today and was restored in 1990 with a service area. The Tribe's page says the service area has 15 counties. The statute excerpt reviewed names only Knox and Boyd counties, Nebraska, for trust acquisition: up to 1,500 acres, with more allowed under the Indian Reorganization Act. Termination date: the Tribe's page gives both the 1962 act and termination taking effect in 1966. The Encyclopedia of the Great Plains gives 1962. The 1966 date is in notes only. The 847-acre figure comes from the Encyclopedia of the Great Plains, and the 26,236-acre figure from the Tribe. The Tribe's page names historic village sites and mentions burial grounds and sacred places in general terms. None were listed, because the request excludes burial sites and the Tribe did not single out a named sacred place. Chief Standing Bear's statement is quoted on the Tribe's page; per the style rule, no quotation is used.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "panel_review": [
+    "R-20261109-0061",
+    "R-20261109-0064"
+  ],
+  "panel_checked": "2026-11-09"
 }

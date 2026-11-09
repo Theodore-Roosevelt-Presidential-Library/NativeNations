@@ -15,7 +15,7 @@
     },
     {
       "year": "1892",
-      "event": "Chief Little Shell refuses to sign the agreement that sets up the Turtle Mountain Reservation, and many of his band are left without a land base.",
+      "event": "Chief Little Shell protests the McCumber Agreement, a land-cession deal with the Turtle Mountain Chippewa that leaves many of his band off the tribal rolls and without a land base.",
       "sources": [
         "https://montanalittleshelltribe.org/",
         "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
@@ -23,7 +23,7 @@
     },
     {
       "year": "2019",
-      "event": "Congress restores federal recognition to the Little Shell Tribe and provides for a land base held in trust.",
+      "event": "Congress extends federal recognition to the Little Shell Tribe and provides for a 200-acre land base to be held in trust.",
       "sources": [
         "https://montanalittleshelltribe.org/",
         "https://www.voanews.com/a/usa_little-shell-chippewa-tribe-montana-homeless-no-more/6182055.html"
@@ -52,5 +52,10 @@
   ],
   "notes": "Land since 2019: I found no two sources confirming that any land has actually been placed in trust, how many acres, or where, so the summary describes no acquisition. VOA (2020) says the 2019 law requires the Tribe to buy a 200-acre base to be held in trust, and the Senate bill text (S.51) has the same 200 acres. The Electric (Feb. 2026) reports a pending fee-to-trust application for about 136 acres in Great Falls, which is single-source. UM Native News reports a 3.67-acre housing site at the base of Hill 57 and leased farmland, also single-source. Hill 57 is not named as sacred or culturally central on the Tribe's site, so it is not listed. Census TIGER may have no reservation or trust-land polygon for the Little Shell, so check the map layer. OPI calls the 1892 agreement the 'Ten-Cent Treaty' and dates the original treaty 1863; the Tribe's site names the 1892 McCumber Agreement and does not use the 'Ten-Cent' label, so the draft follows the Tribe. The Tribe's site and OPI tell the Métis connection differently; reviewers should check how the Tribe wants its relationship to the Métis described.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "panel_review": [
+    "R-20261109-0040",
+    "R-20261109-0041"
+  ],
+  "panel_checked": "2026-11-09"
 }

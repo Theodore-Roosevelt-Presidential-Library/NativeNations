@@ -36,4 +36,8 @@ Stored in `data/states.json`. Do not use: natow.org (hijacked), aaita.org (parke
 - **USDA Forest Service, Tribal Lands Ceded to the United States** — Royce's Schedule of Indian Land Cessions maps, georeferenced 2015, revised 2018 (Office of Tribal Relations with Claudio Saunt). 718 mapped cessions pulled from `apps.fs.usda.gov/ArcX/rest/services/EDW/EDW_TribalCessionLands_01/MapServer/0`, simplified to ~0.01°. Data.gov lists CC BY 4.0; credit the Forest Service.
 - Stored: `data/cessions/cessions.geojson` (map layer) and `data/cessions/by_nation.json` (Forest Service present-day tribe links matched to our nation ids; ~20 names hand-matched, e.g. the six Minnesota Chippewa bands → Minnesota Chippewa Tribe). Raw pulls in `data/sources/raw/fs_cessions_*.json`.
 - Caveats shown on the site: U.S.-recognized cessions, not homelands or legal boundaries; coarse at local scale; the Forest Service is re-evaluating present-day tribe links; the nation's own account governs.
-- Unlinked: groups marked unrecognized, plus Skokomish, Coquille and North Fork Rancheria (name variants to fix).
+- Unlinked: only groups the Forest Service marks as unrecognized or nonfederally recognized. Skokomish, Coquille and North Fork were hand-linked 2026-11-09.
+
+## Why 573 entries, not 575 (checked 2026-11-09)
+
+The notice's summary says 575 Tribal entities; the printed list has 573 headings (348 in the contiguous 48 states, 225 in Alaska). The gap is in Alaska: four villages appear only as cross-references to two joint governments: Saint Paul Island and St. George Island → Pribilof Islands Aleut Communities of St. Paul & St. George Islands; Arctic Village and Village of Venetie → Native Village of Venetie Tribal Government. Counting each village as its own Tribe gives 573 − 2 + 4 = 575. This is the likely reason; BIA has not been asked to confirm. The directory keeps one page per printed heading, with the villages named on the joint government's page.

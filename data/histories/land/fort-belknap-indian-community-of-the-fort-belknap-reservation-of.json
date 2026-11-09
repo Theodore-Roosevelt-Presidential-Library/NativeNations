@@ -7,7 +7,7 @@
   "timeline": [
     {
       "year": "1851",
-      "event": "The Fort Laramie Treaty describes territories that include the Gros Ventre, counted with the Blackfeet, and the Assiniboine.",
+      "event": "The Fort Laramie Treaty describes an Assiniboine territory and a Blackfoot territory; the Gros Ventre, then allied with the Blackfeet, lived within the Blackfoot lands. (The 'Gros Ventre' named in the treaty are the Hidatsa.)",
       "sources": [
         "https://ftbelknap.org/history",
         "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
@@ -64,5 +64,9 @@
   ],
   "notes": "Disputed: the 1895–96 Little Rockies cession, known as the Grinnell Notch. According to the Fort Belknap section of the OPI publication, tribal members understood the deal as a lease, and the area taken and how it was taken have been disputed since. Conflict: ftbelknap.org dates the gold discovery to 1884 and the cession of the mountains to 1885, while the statute and OPI give an agreement on October 9, 1895, ratified June 10, 1896. The timeline uses 1896, which has two sources. Reviewers should ask the community which date it wants used. Allotment is dated 1921 in OPI and 1924 (BIA approval of the plan) in an IEFA timeline, so it is left undated. The 1975 return of about 25,500 acres of 'submarginal lands' is OPI-only and left out of the summary. Acreage: OPI gives 697,617 acres and the Governor's Office about 650,000–652,000. The cyanide heap-leach mining at Zortman-Landusky on the ceded land is left out as outside the land-base story; reviewers may want to add it.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "panel_review": [
+    "R-20261109-0033"
+  ],
+  "panel_checked": "2026-11-09"
 }

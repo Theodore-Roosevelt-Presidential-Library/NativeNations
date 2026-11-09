@@ -37,7 +37,7 @@
     },
     {
       "year": "1910",
-      "event": "Congress opens unallotted land in the northeast part of the reservation to non-Indian settlement.",
+      "event": "Congress authorizes the sale and settlement of unallotted land in the northeast part of the reservation; a 1911 presidential proclamation opens it to homestead entry.",
       "sources": [
         "https://www.ndstudies.gov/gr8/node/173",
         "https://www.nps.gov/articles/history-of-hidatsa-post-1845.htm"
@@ -45,7 +45,7 @@
     },
     {
       "year": "1949",
-      "event": "Congress pays for land taken for the Garrison Dam reservoir, and families are forced out of the river bottomlands.",
+      "event": "Congress approves payment for reservation land taken for the Garrison Dam reservoir; over the next several years families are forced out of the river bottomlands.",
       "sources": [
         "https://www.mhanation.com/history/",
         "https://www.govinfo.gov/content/pkg/CRPT-108srpt165/html/CRPT-108srpt165.htm"
@@ -105,5 +105,10 @@
   "status": "draft",
   "drafted": "2026-11-08",
   "hold": true,
-  "hold_reason": "MHA Nation materials are held until the Library's Indigenous content reviewer (to be named) approves them."
+  "hold_reason": "MHA Nation materials are held until the Library's Indigenous content reviewer (to be named) approves them.",
+  "panel_review": [
+    "R-20261109-0091",
+    "R-20261109-0092"
+  ],
+  "panel_checked": "2026-11-09"
 }

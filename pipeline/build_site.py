@@ -77,7 +77,7 @@ def fact_rows(n):
     if n["hq"]: row("Tribal government headquarters", e(f'{n["hq"]["city"]}, {STATE_NAMES.get(n["hq"]["state"], n["hq"]["state"])}'))
     if n["nearest_town"] and (not n["hq"] or n["nearest_town"] != n["hq"]["city"]): row("Nearest town", e(n["nearest_town"]))
     if n.get("areas"):
-        row("Reservation and trust land", "<br>".join(f'{e(a["name"])} <span class="caption">({a["land_sq_mi"]:,} sq mi of land, U.S. Census)</span>' for a in n["areas"]))
+        row("Land" if n["id"] == "sac-and-fox-tribe-of-the-mississippi-in-iowa" else "Reservation and trust land", "<br>".join(f'{e(a["name"])} <span class="caption">({a["land_sq_mi"]:,} sq mi of land, U.S. Census)</span>' for a in n["areas"]))
     if n["bia_region"]: row("BIA region", e(n["bia_region"]))
     if n["official_website"]:
         u = n["official_website"]; host = urllib.parse.urlsplit(u).netloc.replace("www.", "")
@@ -129,7 +129,7 @@ def fact_page(n):
     mapblock = ""
     if loc:
         mapblock = f"""<h2>Where</h2><div id="minimap" class="minimap" style="height:340px" data-lat="{loc['lat']}" data-lon="{loc['lon']}" data-label="{e(n['name'])}" data-areas="{",".join(a["aiannhce"] for a in n.get("areas", []))}"></div>
-<p class="caption">The point marks the tribal government headquarters.{" Shaded areas are reservation and trust land as drawn by the U.S. Census Bureau (TIGER/Line 2026). These are legal boundaries, not homelands, and some nations describe theirs differently." if n.get("areas") else ""} <a href="https://native-land.ca/" rel="noopener">Explore Indigenous territories on Native Land Digital</a>.</p>"""
+<p class="caption">The point marks the tribal government headquarters.{" Shaded areas are reservation and trust land as drawn by the U.S. Census Bureau (TIGER/Line 2026). These are legal boundaries, not homelands, and some nations describe theirs differently." if n.get("areas") else ""}{(" " + e(map_note(n))) if map_note(n) else ""} <a href="https://native-land.ca/" rel="noopener">Explore Indigenous territories on Native Land Digital</a>.</p>"""
     snippet = e(f'<div data-nativenations="card" data-id="{n["id"]}"></div>\n<script src="{BASE}/embed.js" async></script>')
     body = f"""<section class="fact-hero"><div class="wrap">
 <div class="crumb"><a href="/">All nations</a> &rsaquo; {" / ".join(f'<a href="/states/{s.lower()}/">{e(STATE_NAMES.get(s, s))}</a>' for s in n["states"])}</div>
@@ -178,6 +178,11 @@ def history_block(kind, id_):
 {paras}
 <details><summary class="caption">Sources</summary><ul class="caption">{srcs}</ul></details>"""
 
+def map_note(n):
+    f = HIST / "land" / f"{n['id']}.json"
+    return json.loads(f.read_text()).get("map_note", "") if f.exists() else ""
+
+
 def cession_block(n):
     cs = n.get("cessions") or []
     if not cs:
@@ -205,7 +210,7 @@ def land_block(n):
         return ""
     out = ['<h2>The land</h2>']
     if h:
-        out.append('<p class="label" style="color:var(--night)">Draft &middot; not yet reviewed by the nation or the Library&rsquo;s historians</p>')
+        out.append('<p class="label" style="color:var(--night)">' + ('Draft &middot; dates checked by the Library&rsquo;s historian panel &middot; not yet reviewed by the nation' if h.get("panel_checked") else 'Draft &middot; not yet reviewed by the nation or the Library&rsquo;s historians') + '</p>')
         out += [f"<p>{e(par)}</p>" for par in h["land_summary"].split("\n\n")]
         if h.get("homelands"):
             out.append(f'<h3 style="margin-top:20px">Homelands, in the nation&rsquo;s words</h3><p>{e(h["homelands"])}</p>')

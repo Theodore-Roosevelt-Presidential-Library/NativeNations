@@ -31,7 +31,7 @@
       "name": "Pipestone quarries (Pipestone National Monument, Minnesota)",
       "nation_source_url": "https://fsst-nsn.gov/culture/our-history/historical-pipestone",
       "public_status": "national monument (National Park Service)",
-      "note": "The Tribe calls the pipestone quarries an ancient site of sacred significance to many Native nations, including the Dakota and Lakota, and long treated by many tribes as neutral ground."
+      "note": "The Tribe calls the pipestone quarries an ancient site of sacred significance to many Native nations, including the Dakota and Lakota, and long treated by many tribes as neutral territory."
     }
   ],
   "sources": [
@@ -62,5 +62,8 @@
   ],
   "notes": "Only two entries could be double-sourced. The 1851 cession, the 1869 homesteading by 25 families and the 1934 organization under the Indian Reorganization Act come from the Tribe's page only, so the summary leaves them undated. The Tribe's page also describes the 1862 executions. That was deliberately not included, because it is not a land event. The Tribe's page uses the word concentration camps for the post-1862 imprisonment, and the summary says imprisoned. A reviewer should decide whether to use the Tribe's own term, since the nation's word wins. Acreage: about 2,500 (Tribe), 2,356 (SD State Archives) and 2,184 trust (SD Tribal Relations). The Iowa Tribe also mentions a historic tie to the Minnesota pipestone quarry (see Iowa notes).",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "sacred_places_approved": true,
+  "sacred_places_review": "HistorianPanel 2026-11-09 (Pass A + blind Pass B): each nation names the place sacred on its own published page. Approved for display by Matt Briney routing Indigenous review through HistorianPanel pending a named human reviewer.",
+  "panel_checked": "2026-11-09"
 }

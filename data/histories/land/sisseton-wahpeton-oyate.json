@@ -21,7 +21,7 @@
     },
     {
       "year": "1975",
-      "event": "In DeCoteau v. District County Court, the U.S. Supreme Court rules that the 1891 act ended the reservation. The Oyate does not accept that ruling.",
+      "event": "In DeCoteau v. District County Court, the U.S. Supreme Court rules that the 1891 act ended the reservation. Oyate leaders continue to assert the 1867 treaty boundaries.",
       "sources": [
         "https://supreme.justia.com/us/420/425",
         "https://southdakotasearchlight.com/2023/06/26/tribal-leaders-urge-legislators-to-support-reestablishment-of-lake-traverse-reservation-boundaries/"
@@ -64,5 +64,9 @@
   ],
   "notes": "Dispute: The Oyate holds that the 1867 treaty boundaries remain intact. The 1975 DeCoteau ruling (6 to 3) held the reservation terminated by the 1891 act. South Dakota maps omit the boundaries. The Oyate's position is documented through South Dakota Searchlight reporting on its June 2023 testimony to the legislature's State-Tribal Relations Committee. No nation-published boundary statement or map was found. The Oyate's GIS page (https://swo-nsn.gov/departments/land-management-department/geographical-information-systems/) describes services only. Its homepage says the reservation spans seven counties, two in North Dakota and five in South Dakota. The Searchlight article gives the 1867 reservation as 107,200 acres. That conflicts with the Supreme Court's figure of about 918,000 acres and looks like an error, so it was not used. Rep. Tamara St. John was drafting a 2024 bill to recognize the boundaries. Its outcome was not confirmed. The April 11, 1892 opening proclamation is single-source (DeCoteau), so the summary leaves it undated. The SD State Archives page dates the reservation to 1869, which conflicts with 1867, and was not used for that fact. Trust acreage is 108,589 (SD Tribal Relations) or 106,153 (SD State Archives).",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "panel_review": [
+    "R-20261109-0077"
+  ],
+  "panel_checked": "2026-11-09"
 }

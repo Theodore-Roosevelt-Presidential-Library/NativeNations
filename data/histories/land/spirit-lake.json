@@ -29,7 +29,7 @@
     },
     {
       "year": "2025",
-      "event": "The 680 acres return to trust for the Spirit Lake Nation.",
+      "event": "Interior transfers the 680 acres from the U.S. Fish and Wildlife Service to the Bureau of Indian Affairs, to be held in trust for the Spirit Lake Nation.",
       "sources": [
         "https://www.doi.gov/pressreleases/department-interior-announces-completed-land-transfer-us-fish-and-wildlife-service",
         "https://tribalbusinessnews.com/sections/real-estate/15059-spirit-lake-tribe-reclaims-680-acres-after-65-year-battle"
@@ -79,5 +79,9 @@
   ],
   "notes": "The opened acreage conflicts: the 1904 proclamation says about 88,000 acres, and ND Studies says 100,000. The summary uses the proclamation figure. The Tribe's acreage table is from 1998, and its four categories add up to 6 acres less than its stated total of 245,141. ND Studies says the Dakota held just over 50,000 acres when allotment ended in 1934. That is single-source, so it was left out. Tribal Business News reports the Tribe is seeking about 300 more acres of federal game-preserve land. The 1904 proclamation reserved land for Sullys Hill Park, the earlier name of what is now White Horse Hill. A reviewer should decide whether to mention that link.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "panel_review": [
+    "R-20261109-0081"
+  ],
+  "panel_checked": "2026-11-09"
 }

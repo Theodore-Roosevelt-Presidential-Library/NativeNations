@@ -1,68 +1,95 @@
 {
   "id": "omaha-tribe-of-nebraska",
   "name": "Omaha Tribe of Nebraska",
-  "land_summary": "In an 1854 treaty the Omaha ceded their lands west of the Mississippi except for a 300,000-acre reservation in northeast Nebraska. In 1865 they sold about 98,000 acres on the reservation's north side to the United States for a Winnebago reservation. An 1882 act, passed after allotment, let the government sell land west of a railroad right-of-way, and about 50,000 acres went to non-Indian buyers. The village of Pender and the State of Nebraska later argued that this western land lay outside the reservation. In 2016 the U.S. Supreme Court unanimously held that the 1882 act did not shrink the reservation, so the Omaha boundaries, less the Winnebago sale, still stand. Today most people living in the western part of the reservation, around Pender in Thurston County, are not tribal members.",
+  "land_summary": "The Omaha people, the Umóⁿhoⁿ, trace their path west from the Ohio River valley, and by the mid-1700s they lived in earth-lodge villages along the Missouri River in what is now northeast Nebraska. In a treaty signed in Washington on March 16, 1854, the Omaha ceded their lands west of the Missouri south of a set line and kept the land north of it as their home. In 1865 they sold the northern part of that reservation to the United States so the Winnebago could be settled there. Congress opened land on the western side for sale in 1872 and again in 1882; under the 1882 Act about 50,000 acres west of the railroad were sold to settlers, and the town of Pender grew there. The same law provided allotments to Omaha families. In 2016 the U.S. Supreme Court ruled unanimously that the 1882 Act did not shrink the reservation, so Pender lies within it. The tribal government is at Macy, Nebraska.",
   "timeline": [
     {
       "year": "1854",
-      "event": "The Omaha cede their lands west of the Mississippi and keep a 300,000-acre reservation.",
+      "event": "By the treaty of March 16, signed in Washington, the Omaha cede their lands west of the Missouri south of a set line and keep the northern land as their reservation.",
       "sources": [
         "https://treaties.okstate.edu/treaties/treaty-with-the-omaha-1854-0611",
-        "https://law.justia.com/cases/federal/us/577/14-1406/"
+        "https://ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
       ]
     },
     {
       "year": "1865",
-      "event": "The Omaha sell about 98,000 acres on the north side of the reservation for a Winnebago reservation.",
+      "event": "By the treaty of March 6, the Omaha sell the northern part of their reservation to the United States so the Winnebago can be settled there.",
       "sources": [
-        "https://law.justia.com/cases/federal/us/577/14-1406/",
-        "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1865-0874"
+        "https://treaties.okstate.edu/treaties/treaty-with-the-omaha-1865-0872",
+        "https://www.law.cornell.edu/supremecourt/text/14-1406"
+      ]
+    },
+    {
+      "year": "1872",
+      "event": "Congress authorizes selling land on the western end of the reservation for the tribe's benefit; few parcels sell.",
+      "sources": [
+        "https://www.law.cornell.edu/supremecourt/text/14-1406",
+        "https://ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
       ]
     },
     {
       "year": "1882",
-      "event": "Congress authorizes the sale of reservation land west of a railroad right-of-way to non-Indians.",
+      "event": "The Act of August 7 opens about 50,000 acres west of the railroad right-of-way to settlers, and the town of Pender is founded there.",
       "sources": [
-        "https://law.justia.com/cases/federal/us/577/14-1406/",
-        "https://www.ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
+        "https://www.law.cornell.edu/supremecourt/text/14-1406",
+        "https://ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
       ]
     },
     {
       "year": "2016",
-      "event": "In Nebraska v. Parker, the U.S. Supreme Court unanimously holds that the 1882 act did not diminish the reservation.",
+      "event": "In Nebraska v. Parker, decided March 22, the U.S. Supreme Court rules unanimously that the 1882 Act did not diminish the Omaha Reservation.",
       "sources": [
-        "https://law.justia.com/cases/federal/us/577/14-1406/",
-        "https://www.ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
+        "https://ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker",
+        "https://www.jurist.org/news/2016/03/supreme-court-rules-nebraska-town-is-within-omaha-indian-reservation"
       ]
     }
   ],
-  "nation_boundary_statement": null,
+  "nation_boundary_statement": {
+    "url": "https://www.omahatribe.com/wp-content/uploads/2025/12/CONSTITUTION-AND-BYLAWS-Amended-11-13-25-SIGNED.pdf",
+    "label": "Constitution of the Omaha Tribe of Nebraska (as amended Nov. 13, 2025), Article I – Territory"
+  },
   "disputed": false,
   "homelands": null,
   "sacred_places": [],
   "sources": [
     {
-      "name": "Kappler, Treaty with the Omaha, 1854 (OSU)",
-      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-omaha-1854-0611"
-    },
-    {
-      "name": "Kappler, Treaty with the Winnebago, 1865 (OSU)",
-      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-winnebago-1865-0874"
-    },
-    {
-      "name": "Nebraska v. Parker, 577 U.S. 481 (2016), Justia",
-      "url": "https://law.justia.com/cases/federal/us/577/14-1406/"
-    },
-    {
-      "name": "NCAI, Supreme Court unanimously holds reservation boundaries not diminished",
-      "url": "https://www.ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
+      "name": "Omaha Tribe of Nebraska, Constitution and Bylaws (as amended Nov. 13, 2025)",
+      "url": "https://www.omahatribe.com/wp-content/uploads/2025/12/CONSTITUTION-AND-BYLAWS-Amended-11-13-25-SIGNED.pdf"
     },
     {
       "name": "Omaha Tribe of Nebraska, Tribal Historic Preservation Office",
       "url": "https://www.omahatribe.com/tribe-departments/tribal-historic-preservation-office-thpo/"
+    },
+    {
+      "name": "Kappler, Treaty with the Omaha, 1854",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-omaha-1854-0611"
+    },
+    {
+      "name": "Kappler, Treaty with the Omaha, 1865",
+      "url": "https://treaties.okstate.edu/treaties/treaty-with-the-omaha-1865-0872"
+    },
+    {
+      "name": "Nebraska v. Parker, 577 U.S. (2016), Cornell LII",
+      "url": "https://www.law.cornell.edu/supremecourt/text/14-1406"
+    },
+    {
+      "name": "NCAI, Supreme Court unanimously holds reservation boundaries not diminished (2016)",
+      "url": "https://ncai.org/news/supreme-court-unanimously-holds-reservation-boundaries-not-diminished-in-favor-of-the-omaha-tribe-in-nebraska-v-parker"
+    },
+    {
+      "name": "JURIST, Supreme Court rules Nebraska town is within Omaha Indian Reservation (2016)",
+      "url": "https://www.jurist.org/news/2016/03/supreme-court-rules-nebraska-town-is-within-omaha-indian-reservation"
+    },
+    {
+      "name": "Nebraska Studies, The Omaha & Ponca Tribes",
+      "url": "https://nebraskastudies.org/1500-1799/emergence-of-historic-tribes/the-omaha-ponca-tribes/"
+    },
+    {
+      "name": "National Park Service, Lewis & Clark and the Omaha",
+      "url": "https://home.nps.gov/jeff/learn/historyculture/omaha.htm"
     }
   ],
-  "notes": "No Omaha Tribe history or homelands page was found. The official site (omahatribe.com) has a THPO page that mentions protecting resources along the ancestral migratory route but gives no geography. A reviewer should seek the Tribe's own account, perhaps through its THPO or Nebraska Indian Community College. The 1884 opening of about 50,157 acres comes from Parker alone, so it is not in the timeline. The Kappler 1865 Omaha treaty page (treaty-with-the-omaha-1865-0872) was found in the OSU tribe listing but not opened. The 1865 entry relies on Parker and the Winnebago 1865 treaty text. Disputed is false because the boundary question was resolved in the Tribe's favor in 2016. The Blackbird Bend land on the Iowa side of the Missouri was not researched and should be checked with the Tribe. Current acreage and the trust/fee split were not found in independent sources.",
+  "notes": "omaha-nsn.gov refuses automated access. omahatribe.com allows it and identifies itself as the Omaha Tribe of Nebraska, with its office in Macy. Its constitution's Article I (Territory) covers the territory within the present confines of the Omaha Reservation and is used as the boundary statement. The site has no history or homelands narrative (the THPO page is mostly placeholder text), so homelands is null. 'Umóⁿhoⁿ' follows the tribe's own spelling on its site. The 'Ohio River valley' and 'mid-1700s' claims rest on Nebraska Studies and NPS. Left out as single-sourced (Parker opinion only): the 300,000-acre size of the 1854 reservation (Kappler cites 300,000 acres only as a cap on any substitute site), the roughly 98,000 acres sold in 1865, and 50,157 acres as the exact 1882 figure. Current reservation acreage was not found in any nation source and is omitted. 'Disputed' is false because the 2016 ruling settled the western boundary. Change it if reviewers want the history of litigation flagged. The Blackbird Bend lands in Iowa and the related 1970s Supreme Court litigation were not researched.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-09"
 }

@@ -8,13 +8,13 @@
       "name": "Badger-Two Medicine",
       "nation_source_url": "https://blackfeetnation.com/2023/09/20/blackfeet-nation-statement-on-badger-two-medicine-court-settlement/",
       "public_status": "national forest land; designated a Traditional Cultural District",
-      "note": "The Blackfeet Nation calls the area a sacred place, a cultural touchstone and a refuge for its people, and has worked for decades to end oil and gas leasing there."
+      "note": "The Blackfeet Nation calls the Badger-Two Medicine its last refuge, a sacred place and a cultural touchstone, and has worked for decades to end oil and gas leasing there."
     }
   ],
   "timeline": [
     {
       "year": "1855",
-      "event": "A treaty with the Blackfeet and neighboring nations sets aside a large reservation, much of it as a common hunting ground.",
+      "event": "A treaty with the Blackfeet and neighboring nations recognizes a large territory under the Blackfoot nation's exclusive control and makes another large part of Blackfoot country a common hunting ground shared with other tribes for 99 years.",
       "sources": [
         "https://blackfeetnation.com/lands/",
         "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
@@ -37,10 +37,7 @@
       ]
     }
   ],
-  "nation_boundary_statement": {
-    "url": "https://blackfeetnation.com/watercompact/map/",
-    "label": "Blackfeet Nation Water Compact map (verify whether it shows the reservation boundary)"
-  },
+  "nation_boundary_statement": null,
   "disputed": true,
   "sources": [
     {
@@ -68,7 +65,13 @@
       "url": "https://supreme.justia.com/cases/federal/district-courts/FSupp2/121/1309/2505225/"
     }
   ],
-  "notes": "Disputed: the 1895–96 'ceded strip' agreement. OPI says how much land and money was agreed is still in dispute and that the Blackfeet still hold some rights in Glacier National Park and the Lewis and Clark National Forest. A federal district court (Peterson, 2000) held that the hunting right survived the cession but that Congress ended it inside the park. The Nation's position should come from the Nation itself. I found no Blackfeet Nation page stating it (the History and Timeline page is placeholder text), and the summary uses OPI's neutral wording. The 1873–74 boundary changes and the 1883–84 starvation winter are OPI-only, so they are undated. Glacier's creation date (1910) is not in the timeline because I did not fetch an NPS source. Peterson's summary also contains confusing 1910/1914 dates. The 2016 Blackfeet Water Rights Settlement Act is documented only on the Nation's chronology page and is left out. The boundary statement is a water compact map; I could not open it to confirm that it shows the reservation boundary. blackfeetnation.com blocks direct downloads (Cloudflare). The Badger-Two Medicine wording was confirmed through the Nation's own news listing. That page says the area is closed to new mining and leasing and is designated a Traditional Cultural District. Its national-forest status comes from my general knowledge, not a fetched source, so reviewers should verify it.",
+  "notes": "Disputed: the 1895–96 'ceded strip' agreement. OPI says how much land and money was agreed is still in dispute and that the Blackfeet still hold some rights in Glacier National Park and the Lewis and Clark National Forest. A federal district court (Peterson, 2000) held that the hunting right survived the cession but that Congress ended it inside the park. The Nation's position should come from the Nation itself. I found no Blackfeet Nation page stating it (the History and Timeline page is placeholder text), and the summary uses OPI's neutral wording. The 1873–74 boundary changes and the 1883–84 starvation winter are OPI-only, so they are undated. Glacier's creation date (1910) is not in the timeline because I did not fetch an NPS source. Peterson's summary also contains confusing 1910/1914 dates. The 2016 Blackfeet Water Rights Settlement Act is documented only on the Nation's chronology page and is left out. The boundary statement is a water compact map; I could not open it to confirm that it shows the reservation boundary. blackfeetnation.com blocks direct downloads (Cloudflare). The Badger-Two Medicine wording was confirmed through the Nation's own news listing. That page says the area is closed to new mining and leasing and is designated a Traditional Cultural District. Its national-forest status comes from my general knowledge, not a fetched source, so reviewers should verify it. Unverified boundary link held back: https://blackfeetnation.com/watercompact/map/",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "panel_review": [
+    "R-20261109-0003"
+  ],
+  "sacred_places_approved": true,
+  "sacred_places_review": "HistorianPanel 2026-11-09 (Pass A + blind Pass B): each nation names the place sacred on its own published page. Approved for display by Matt Briney routing Indigenous review through HistorianPanel pending a named human reviewer.",
+  "panel_checked": "2026-11-09"
 }

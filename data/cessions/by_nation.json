@@ -22760,6 +22760,13 @@
    "royce_tribes": "Coast tribes of Oregon",
    "royce_url": "https://archive.org/stream/annualreportofbu218smit#page/812/mode/2up",
    "treaty_url": null
+  },
+  {
+   "cession": "479",
+   "date": "1855-11-09",
+   "royce_tribes": "Indians on coast of Oregon",
+   "royce_url": "https://archive.org/stream/annualreportofbu218smit#page/814/mode/2up",
+   "treaty_url": null
   }
  ],
  "modoc-nation": [
@@ -22784,6 +22791,31 @@
    "date": "1881-01-18",
    "royce_tribes": "Spokane",
    "royce_url": "https://archive.org/stream/annualreportofbu218smit#page/902/mode/2up",
+   "treaty_url": null
+  }
+ ],
+ "northfork-rancheria-of-mono-indians-of-california": [
+  {
+   "cession": "607",
+   "date": "1873-01-09",
+   "royce_tribes": "King's River; Tule River or Madden Farm reservation Indians",
+   "royce_url": "https://archive.org/stream/annualreportofbu218smit#page/860/mode/2up",
+   "treaty_url": null
+  },
+  {
+   "cession": "547",
+   "date": "1873-10-03",
+   "royce_tribes": "King's River; Owen's river; Tule River",
+   "royce_url": "https://archive.org/stream/annualreportofbu218smit#page/864/mode/2up",
+   "treaty_url": null
+  }
+ ],
+ "skokomish-indian-tribe": [
+  {
+   "cession": "559",
+   "date": "1874-02-25",
+   "royce_tribes": "Sklallam (Skokomish)",
+   "royce_url": "https://archive.org/stream/annualreportofbu218smit#page/870/mode/2up",
    "treaty_url": null
   }
  ]

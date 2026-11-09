@@ -15,7 +15,7 @@
     },
     {
       "year": "1900",
-      "event": "An executive order by President William McKinley enlarges the reservation, with the Tongue River as its eastern boundary.",
+      "event": "An executive order by President William McKinley enlarges the reservation, with the Tongue River forming much of its eastern boundary.",
       "sources": [
         "https://www.presidency.ucsb.edu/documents/executive-order-northern-cheyenne-reserve-montana",
         "https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/Montana%20Indians%20Their%20History%20and%20Location.pdf"
@@ -56,5 +56,9 @@
   ],
   "notes": "The 1926 allotment act is documented only in Hollowbreast, and the 2014 Cheyenne Lands Act (mineral rights to about 5,000 acres) and the Land Buy-Back figures only in OPI, so all three are undated. The 1877 removal and the 1878 journey north come from OPI only. They are framed briefly, with no battle or death-site details, and reviewers may want to trim or rework them. homelands is null: cheyennenation.com describes only the present reservation. OPI's Northern Cheyenne section describes the range from the North Platte headwaters to the Yellowstone, but I could not confirm that the Tribe wrote that section. Bear Butte is mentioned in OPI (a 2013 tribal land purchase next to Bear Butte State Park), but I found no Northern Cheyenne-published page naming it, so it is not listed in sacred_places. The Tribe's site and OPI give an 1884 order of 371,200 acres; the UCSB page says 765 square miles. Current acreage is 444,000 on the Tribe's site and 440,000 on the Governor's page.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-08",
+  "panel_review": [
+    "R-20261109-0050"
+  ],
+  "panel_checked": "2026-11-09"
 }

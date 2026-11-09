@@ -1,60 +1,124 @@
 {
   "id": "crow-creek-sioux-tribe-of-the-crow-creek-reservation-south-dakota",
-  "name": "Crow Creek Sioux Tribe",
-  "land_summary": "Crow Creek lies on the east bank of the Missouri in central South Dakota. Lower Yanktonai families settled at the Crow Creek Agency. After the 1862 war in Minnesota, Santee Dakota and Winnebago people were forced there too, and both groups were later moved to Nebraska. In 1885 an executive order threw the east-bank reservation open to settlers, but within weeks a new president declared the order void, finding the land still reserved under the 1868 treaty. Congress set the reservation's lasting boundaries in the 1889 act that divided the Great Sioux Reservation. Fort Randall and Big Bend dams later flooded about 15,600 acres of the Tribe's Missouri River bottomland. Today the land base is about 125,000 acres in Buffalo, Hyde and Hughes counties, with Lake Sharpe and Lake Francis Case along its edges.",
+  "name": "Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota",
+  "land_summary": "The Crow Creek Sioux Tribe's people descend from the Mdewakantunwan and Ihanktunwanna (Hunkpatina) bands, and the tribe describes its homeland as 125,000 acres of sovereign territory held in trust along the Missouri River, mostly in Buffalo County, South Dakota. Federal history here begins in 1863, when Dakota and Ho-Chunk people exiled from Minnesota were landed at Crow Creek in a time of great hardship. The Dakota were moved to Nebraska in 1866, and Yanktonai families made the place home. The 1868 treaty with the Sioux bands recognized it as Indian land. In February 1885 an executive order opened the reservation to settlers; two months later President Grover Cleveland revoked it and ordered the newcomers to leave. The Act of March 2, 1889, fixed the reservation's boundaries township by township. In the 1950s and 1960s the Fort Randall and Big Bend dams took more than 15,000 acres of Missouri River bottomland, and in 1996 Congress created a development trust fund as added compensation.",
   "timeline": [
     {
-      "year": "1885",
-      "event": "An executive order opens the Crow Creek lands east of the Missouri to settlers. Weeks later President Cleveland declares it void and orders settlers off.",
+      "year": "1863",
+      "event": "Dakota and Ho-Chunk people removed from Minnesota are landed at Crow Creek in May and June.",
       "sources": [
-        "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf",
+        "https://www.mnhs.org/usdakotawar/stories/history/aftermath/exile",
+        "https://atg.sd.gov/OfficialOpinions/Official%20Opinion%2087-22.pdf"
+      ]
+    },
+    {
+      "year": "1866",
+      "event": "The Santee Dakota are moved from Crow Creek to a new reservation in Nebraska.",
+      "sources": [
+        "https://atg.sd.gov/OfficialOpinions/Official%20Opinion%2087-22.pdf",
+        "https://history.nebraska.gov/collection_section/santee-agency-santee-nebraska-rg1368am/"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "The 1868 treaty with the Sioux bands recognizes the Crow Creek area as Indian land.",
+      "sources": [
+        "https://atg.sd.gov/OfficialOpinions/Official%20Opinion%2087-22.pdf",
         "https://presidency.ucsb.edu/node/205898"
       ]
     },
     {
+      "year": "1885",
+      "event": "A February 27 executive order opens the Crow Creek and Old Winnebago lands to settlement; on April 17 President Grover Cleveland revokes it and orders settlers to leave within 60 days.",
+      "sources": [
+        "https://presidency.ucsb.edu/node/205898",
+        "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+      ]
+    },
+    {
       "year": "1889",
-      "event": "Congress sets apart Crow Creek as a permanent reservation in the act dividing the Great Sioux Reservation.",
+      "event": "The Act of March 2, 1889 (Section 6) sets apart a permanent reservation for the Crow Creek Agency by township and range, and allotment follows.",
       "sources": [
         "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf",
-        "https://aktalakota.stjo.org/tribal-lands/crow-creek-sioux-reservation/"
+        "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/crowcreek.pdf"
+      ]
+    },
+    {
+      "year": "1958",
+      "event": "Public Law 85-916 authorizes taking 9,418 acres of Crow Creek land for the Fort Randall Dam project.",
+      "sources": [
+        "https://www.congress.gov/104/plaws/publ223/PLAW-104publ223.pdf",
+        "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-06-517/html/GAOREPORTS-GAO-06-517.htm"
+      ]
+    },
+    {
+      "year": "1962",
+      "event": "Public Law 87-735 authorizes taking 6,179 acres of Crow Creek land for the Big Bend Dam project.",
+      "sources": [
+        "https://www.congress.gov/104/plaws/publ223/PLAW-104publ223.pdf",
+        "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-06-517/html/GAOREPORTS-GAO-06-517.htm"
+      ]
+    },
+    {
+      "year": "1996",
+      "event": "The Crow Creek Sioux Tribe Infrastructure Development Trust Fund Act sets up a fund of up to $27.5 million as added compensation for the dam takings.",
+      "sources": [
+        "https://www.congress.gov/104/plaws/publ223/PLAW-104publ223.pdf",
+        "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-06-517/html/GAOREPORTS-GAO-06-517.htm"
       ]
     }
   ],
   "nation_boundary_statement": null,
   "disputed": false,
-  "homelands": null,
+  "homelands": "The tribe's enrollment office describes the homeland as lying on the Missouri River, about 60 miles southeast of Pierre and 26 miles northwest of Chamberlain, mostly within Buffalo County: 125,000 acres of sovereign territory held in trust, in three districts, Big Bend (Kahmi Tanka), Crow Creek (Kangi Okute) and Fort Thompson (Cunkicakse).",
   "sacred_places": [],
   "sources": [
     {
-      "name": "SD State Archives, Indian Archives Project, Crow Creek Agency",
+      "name": "Crow Creek Sioux Tribal Enrollment Office",
+      "url": "https://crowcreekenrollment.com/"
+    },
+    {
+      "name": "South Dakota Department of Tribal Relations, Crow Creek Sioux Tribe",
+      "url": "https://sdtribalrelations.sd.gov/tribes/Crow-Creek-Sioux-Tribe.aspx"
+    },
+    {
+      "name": "South Dakota State Archives, Crow Creek Agency records guide",
       "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/crowcreek.pdf"
     },
     {
-      "name": "Act of March 2, 1889, 25 Stat. 888 (govinfo)",
-      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
+      "name": "South Dakota Attorney General, Official Opinion 87-22 (1987)",
+      "url": "https://atg.sd.gov/OfficialOpinions/Official%20Opinion%2087-22.pdf"
+    },
+    {
+      "name": "Minnesota Historical Society, U.S.-Dakota War: Exile",
+      "url": "https://www.mnhs.org/usdakotawar/stories/history/aftermath/exile"
+    },
+    {
+      "name": "History Nebraska, Santee Agency records (RG1368)",
+      "url": "https://history.nebraska.gov/collection_section/santee-agency-santee-nebraska-rg1368am/"
     },
     {
       "name": "American Presidency Project, Proclamation 268 (April 17, 1885)",
       "url": "https://presidency.ucsb.edu/node/205898"
     },
     {
-      "name": "St. Joseph's Indian School, Crow Creek Sioux Reservation",
-      "url": "https://aktalakota.stjo.org/tribal-lands/crow-creek-sioux-reservation/"
+      "name": "Act of March 2, 1889, 25 Stat. 888",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg888.pdf"
     },
     {
-      "name": "U.S. Senate Report 107-214",
-      "url": "https://www.govinfo.gov/content/pkg/CRPT-107srpt214/html/CRPT-107srpt214.htm"
+      "name": "Public Law 104-223 (1996)",
+      "url": "https://www.congress.gov/104/plaws/publ223/PLAW-104publ223.pdf"
     },
     {
-      "name": "U.S. Senate Report 111-357",
-      "url": "https://www.govinfo.gov/content/pkg/CRPT-111srpt357/html/CRPT-111srpt357.htm"
+      "name": "GAO-06-517, Crow Creek and Lower Brule compensation analysis",
+      "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-06-517/html/GAOREPORTS-GAO-06-517.htm"
     },
     {
-      "name": "SD Department of Tribal Relations, Crow Creek Sioux Tribe",
-      "url": "https://sdtribalrelations.sd.gov/tribes/Crow-Creek-Sioux-Tribe.aspx"
+      "name": "Senate Report 104-362",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-104srpt362/html/CRPT-104srpt362.htm"
     }
   ],
-  "notes": "Only two dated entries could be double-sourced. No Crow Creek Sioux Tribe website with history was found. SD Tribal Relations links only an enrollment site, so there is no nation statement, homelands text or sacred places. The SD State Archives page says Lower Yanktonai settled at Crow Creek after the treaty of 1859 (the Yankton treaty was signed in 1858 and ratified in 1859). It names a violent 1857 event; that detail was deliberately left out. The same page says President Hayes set aside a 65,000-acre James River reservation for Drifting Goose's Hunkpati band, given up in 1880. That is single-source and not used. Dam acreage: 15,693 (Senate Report 107-214) versus 15,565 (Senate Report 111-357). ICT says Fort Thompson was flooded, but that is single-source and was left out. St. Joseph's Indian School is a scholarship-tier source. A reviewer should prefer a tribal or THPO source if one exists. The 1996 Infrastructure Development Trust Fund (Pub. L. 104-223) is documented only in Senate reports.",
+  "notes": "crowcreeksiouxtribe.com refuses automated access. The 125,000-acre trust figure is the tribe's own, from its enrollment office site. The SD Dept. of Tribal Relations repeats it. Other figures conflict: SD State Archives gives 125,591 acres, and Senate Report 104-362 gives 258,361 acres, which likely counts all land within the boundaries. Dam acreage also varies: Senate Report 104-362 gives 9,154, 9,514 or 9,418 acres for Fort Randall and 6,179 or 6,417 for Big Bend. The timeline uses the statute's figures (PL 104-223), which GAO matches. A 1987 SD Attorney General opinion argues the 1863 Act did not itself create a reservation. The 1863 entry describes the removal, not the founding of a reservation. Left out for lack of a second independent source: Drifting Goose's Hunkpati band settling at Crow Creek in 1880 and Hayes's 65,000-acre James River reservation (SD Archives only), the April 26, 1949 constitution (SD Tribal Relations only), and the flooding of the old Fort Thompson townsite (ICT only). The Crow Creek Tribal School 'Cultural History' page was read but not used: it is a retyped 1986 report with an internal date conflict.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-09"
 }

@@ -1,14 +1,46 @@
 {
   "id": "santee-sioux-nation-nebraska",
   "name": "Santee Sioux Nation",
-  "land_summary": "After the 1862 war in Minnesota, the Santee Dakota were imprisoned or forced onto the Crow Creek reservation in Dakota Territory. In 1866 they were moved again, to the Niobrara country in northeast Nebraska, where an executive order reserved four townships for them near the mouth of the Niobrara River. Some families soon left to homestead along the Big Sioux River, founding the Flandreau community. Much later, the Gavins Point Dam on the Missouri took about 593 acres near the village of Santee and about 414 acres on Niobrara Island, and Congress eventually passed a compensation act covering the Santee and the Yankton. Today the reservation lies along the Missouri near the mouth of the Niobrara.",
+  "land_summary": "The Santee Sioux Nation is Dakota, descended from bands whose ancestral lands lay in what is now Minnesota. After the U.S.–Dakota War of 1862, Congress voided the Dakota treaties and the United States forced most Dakota people out of the state. In 1863 they were carried by steamboat to Crow Creek in Dakota Territory, where hunger and illness took many lives. In 1866 a presidential order set aside land in northeast Nebraska near the mouth of the Niobrara River, and the Santee Agency moved there. Mission schools followed, including the Santee Normal Training School, founded in 1870. In 1885 families received individual allotments and homesteads, and an executive order opened the remaining reservation land to non-Native settlers; over the following decades much of the allotted land also left Santee hands. In the 1950s the Gavins Point Dam project took land near Santee village on the reservation's eastern edge, and in 2002 Congress approved added compensation for that loss. The nation continues to buy back land within its reservation.",
   "timeline": [
     {
+      "year": "1863",
+      "event": "Dakota people forced out of Minnesota after the U.S.–Dakota War of 1862 are taken by steamboat to Crow Creek in Dakota Territory.",
+      "sources": [
+        "https://www.mnhs.org/usdakotawar/stories/history/aftermath/exile",
+        "https://atg.sd.gov/OfficialOpinions/Official%20Opinion%2087-22.pdf"
+      ]
+    },
+    {
       "year": "1866",
-      "event": "The Santee are moved from Crow Creek to Nebraska, and an executive order reserves four townships for them on the Niobrara.",
+      "event": "A presidential order of February 27 sets aside townships in northeast Nebraska for the Santee, and the Santee Agency is established there, about 13 miles below the mouth of the Niobrara River.",
       "sources": [
         "https://presidency.ucsb.edu/node/371192",
-        "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/crowcreek.pdf"
+        "https://history.nebraska.gov/collection_section/santee-agency-santee-nebraska-rg1368am/"
+      ]
+    },
+    {
+      "year": "1870",
+      "event": "Alfred L. Riggs opens the Santee Normal Training School, which runs for decades on the reservation.",
+      "sources": [
+        "https://history.nebraska.gov/collection_section/santee-agency-santee-nebraska-rg1368am/",
+        "https://santeeschools.socs.net/vnews/display.v/ART/537cb48e08817"
+      ]
+    },
+    {
+      "year": "1885",
+      "event": "Allotments and homesteads are assigned to Santee families, and a February 9 executive order returns the remaining unallotted land to the public domain; it opens to settlers on May 15.",
+      "sources": [
+        "https://presidency.ucsb.edu/node/371408",
+        "https://collections.lib.utah.edu/details?id=370444"
+      ]
+    },
+    {
+      "year": "2002",
+      "event": "Congress finds that the Gavins Point Dam project took 593.10 acres of Santee land near Santee village and approves added compensation in the Yankton Sioux Tribe and Santee Sioux Tribe Equitable Compensation Act.",
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/PLAW-107publ331/html/PLAW-107publ331.htm",
+        "https://www.bia.gov/sites/default/files/dup/assets/as-ia/ocla/HR2408%20Yankton%20Santee%20Equitable%20Compensation%20Final%2007-17-2002.pdf"
       ]
     }
   ],
@@ -18,27 +50,51 @@
   "sacred_places": [],
   "sources": [
     {
-      "name": "American Presidency Project, Executive Order of February 27, 1866 (Niobrara Reserve)",
+      "name": "Minnesota Historical Society, U.S.-Dakota War: Exile",
+      "url": "https://www.mnhs.org/usdakotawar/stories/history/aftermath/exile"
+    },
+    {
+      "name": "South Dakota Attorney General, Official Opinion 87-22 (1987)",
+      "url": "https://atg.sd.gov/OfficialOpinions/Official%20Opinion%2087-22.pdf"
+    },
+    {
+      "name": "American Presidency Project, Executive Order of February 27, 1866 (Santee Sioux)",
       "url": "https://presidency.ucsb.edu/node/371192"
     },
     {
-      "name": "SD State Archives, Indian Archives Project, Crow Creek Agency",
-      "url": "https://history.sd.gov/archives/forms/indian%20archives/Indian%20Archives%20Project/crowcreek.pdf"
+      "name": "American Presidency Project, Executive Order of February 9, 1885 (Niobrara/Santee)",
+      "url": "https://presidency.ucsb.edu/node/371408"
     },
     {
-      "name": "Flandreau Santee Sioux Tribe, About Us",
-      "url": "https://fsst-nsn.gov/culture/about-us"
+      "name": "History Nebraska, Santee Agency records (RG1368)",
+      "url": "https://history.nebraska.gov/collection_section/santee-agency-santee-nebraska-rg1368am/"
     },
     {
-      "name": "U.S. Senate Report 106-367",
-      "url": "https://www.govinfo.gov/content/pkg/CRPT-106srpt367/html/CRPT-106srpt367.htm"
+      "name": "Santee Community Schools, Santee History",
+      "url": "https://santeeschools.socs.net/vnews/display.v/ART/537cb48e08817"
     },
     {
-      "name": "U.S. Senate Report 111-357",
-      "url": "https://www.govinfo.gov/content/pkg/CRPT-111srpt357/html/CRPT-111srpt357.htm"
+      "name": "Report of the Commissioner of Indian Affairs, 1885 (Univ. of Utah digital collections)",
+      "url": "https://collections.lib.utah.edu/details?id=370444"
+    },
+    {
+      "name": "Public Law 107-331, Title II (2002)",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ331/html/PLAW-107publ331.htm"
+    },
+    {
+      "name": "BIA testimony on H.R. 2408 (2002)",
+      "url": "https://www.bia.gov/sites/default/files/dup/assets/as-ia/ocla/HR2408%20Yankton%20Santee%20Equitable%20Compensation%20Final%2007-17-2002.pdf"
+    },
+    {
+      "name": "House Report 107-706",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-107hrpt706/html/CRPT-107hrpt706.htm"
+    },
+    {
+      "name": "Flatwater Free Press, Nebraska tribe pays $65K a year to rent land on its own reservation (2024)",
+      "url": "https://flatwaterfreepress.org/nebraska-tribe-pays-65k-a-year-to-rent-land-on-its-own-reservation-it-wants-it-back"
     }
   ],
-  "notes": "This draft is weak and needs nation input. Only one dated entry could be double-sourced, below the required 3 to 8. No Santee Sioux Nation website could be reached; the listed domain returned a generic page. No independent source was found for allotment or later openings of the Santee reservation, for its current acreage and trust/fee mix, or for its county (Knox County is likely but was not sourced). The summary leaves these out rather than guess. The Gavins Point figures come from Senate Report 106-367. Senate Report 111-357 gives 1,007 acres in total, which matches. The compensation act (Pub. L. 107-331, 2002) is documented only in Senate reports, so it is undated. The 1863 removal year to Crow Creek is widely cited but was not stated in the sources reviewed. A History Nebraska page on the Santee should be sought.",
+  "notes": "The nation's site (santeesiouxnation.net) refuses automated access, and Wayback copies were blocked, so no nation-published text was used. No reservation acreage is given because sources conflict and none is the nation's: Wikipedia gives 172.99 sq mi, a 2024 ArcGIS story map gives 41,000 acres, and Flatwater Free Press implies about 117,000. Left out for lack of a second independent source: Flatwater's figure that the tribe owns more than 20,000 acres (ICT and the Norfolk Daily News reprinted the same story, so they are not independent); the 1885 allotment acreages (38,908.81 allotted, 32,875.75 homestead, 1,130.70 agency, which appear only in the 1885 Commissioner's report, with Wikipedia as a lead); the Nov 15, 1867 order enlarging the reservation (APP only); the number of Dakota sent to Crow Creek; and the Dec 2025 trust transfer of 5 acres in South Yankton (Nebraska Public Media only). Flatwater calls an '1882 treaty' the reservation's founding. That isn't confirmed anywhere and conflicts with the 1866 order, so it was left out. The 'buy back land' sentence relies on Flatwater alone. It carries no date or number. 'In the 1950s' for Gavins Point rests on the 1955 Corps settlement in the BIA testimony. The statute gives no year of taking. The 1862 war is named but not described.",
   "status": "draft",
-  "drafted": "2026-11-08"
+  "drafted": "2026-11-09"
 }
