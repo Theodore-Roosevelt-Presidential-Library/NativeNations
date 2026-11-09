@@ -1,0 +1,49 @@
+{
+  "id": "pit-river-tribe-california",
+  "display_name": null,
+  "aka": [],
+  "nearest_town": null,
+  "census_aiannh": [],
+  "official_website": "http://www.pitrivertribe.org",
+  "alliances": [],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "Federal facts only."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-09"
+    },
+    {
+      "name": "BIA Tribal Leaders Directory (organizational fields only)",
+      "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-09"
+    }
+  ],
+  "fr_name": "Pit River Tribe, California",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [],
+  "fr_note": "includes XL Ranch, Big Bend, Likely, Lookout, Montgomery Creek, and Roaring Creek Rancherias",
+  "region_group": "lower48",
+  "bia_tld_name": "Pit River Tribe, California",
+  "bia_region": "Pacific",
+  "bia_agency": "Northern California Agency",
+  "hq": {
+    "city": "Burney",
+    "state": "CA",
+    "lat": 40.87612,
+    "lon": -121.67112
+  },
+  "states": [
+    "CA"
+  ],
+  "last_verified": "2026-11-09"
+}

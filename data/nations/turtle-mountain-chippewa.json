@@ -14,8 +14,8 @@
   "hq": {
     "city": "Belcourt",
     "state": "ND",
-    "lat": 48.8391712,
-    "lon": -99.7448688
+    "lat": 48.83917,
+    "lon": -99.74487
   },
   "nearest_town": "Belcourt",
   "census_aiannh": [],
@@ -55,5 +55,7 @@
       "retrieved": "2026-11-08"
     }
   ],
-  "last_verified": "2026-11-08"
+  "last_verified": "2026-11-08",
+  "fr_note": null,
+  "region_group": "lower48"
 }

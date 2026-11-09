@@ -1,0 +1,50 @@
+{
+  "id": "washoe-tribe-of-nevada-and-california",
+  "display_name": null,
+  "aka": [],
+  "nearest_town": null,
+  "census_aiannh": [],
+  "official_website": "http://www.washoetribe.us",
+  "alliances": [],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "Federal facts only."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-09"
+    },
+    {
+      "name": "BIA Tribal Leaders Directory (organizational fields only)",
+      "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-09"
+    }
+  ],
+  "fr_name": "Washoe Tribe of Nevada & California",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [],
+  "fr_note": "Carson Colony, Dresslerville Colony, Woodfords Community, Stewart Community, & Washoe Ranches",
+  "region_group": "lower48",
+  "bia_tld_name": "Washoe Tribe of Nevada & California (Carson Colony, Dresslerville Colony, Woodfords Community, Stewart Community, & Washoe Ranches)",
+  "bia_region": "Western",
+  "bia_agency": "Western Nevada Agency",
+  "hq": {
+    "city": "Gardnerville",
+    "state": "NV",
+    "lat": 38.90464,
+    "lon": -119.70549
+  },
+  "states": [
+    "CA",
+    "NV"
+  ],
+  "last_verified": "2026-11-09"
+}

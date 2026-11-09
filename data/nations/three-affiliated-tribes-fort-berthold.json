@@ -14,8 +14,8 @@
   "hq": {
     "city": "New Town",
     "state": "ND",
-    "lat": 47.9805462,
-    "lon": -102.577224
+    "lat": 47.98055,
+    "lon": -102.57722
   },
   "nearest_town": "New Town",
   "census_aiannh": [],
@@ -109,5 +109,7 @@
       "retrieved": "2026-11-08"
     }
   ],
-  "last_verified": "2026-11-08"
+  "last_verified": "2026-11-08",
+  "fr_note": null,
+  "region_group": "lower48"
 }

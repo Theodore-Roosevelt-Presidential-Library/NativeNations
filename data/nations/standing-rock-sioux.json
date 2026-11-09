@@ -15,8 +15,8 @@
   "hq": {
     "city": "Fort Yates",
     "state": "ND",
-    "lat": 46.0869408,
-    "lon": -100.6301271
+    "lat": 46.08694,
+    "lon": -100.63013
   },
   "nearest_town": "Fort Yates",
   "census_aiannh": [],
@@ -65,5 +65,7 @@
       "retrieved": "2026-11-08"
     }
   ],
-  "last_verified": "2026-11-08"
+  "last_verified": "2026-11-08",
+  "fr_note": null,
+  "region_group": "lower48"
 }

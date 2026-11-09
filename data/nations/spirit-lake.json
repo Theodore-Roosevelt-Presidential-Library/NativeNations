@@ -14,8 +14,8 @@
   "hq": {
     "city": "Fort Totten",
     "state": "ND",
-    "lat": 47.9781379,
-    "lon": -98.994906
+    "lat": 47.97814,
+    "lon": -98.99491
   },
   "nearest_town": "Fort Totten",
   "census_aiannh": [],
@@ -55,5 +55,7 @@
       "retrieved": "2026-11-08"
     }
   ],
-  "last_verified": "2026-11-08"
+  "last_verified": "2026-11-08",
+  "fr_note": null,
+  "region_group": "lower48"
 }

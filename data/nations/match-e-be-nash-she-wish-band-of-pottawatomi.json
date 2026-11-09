@@ -1,0 +1,51 @@
+{
+  "id": "match-e-be-nash-she-wish-band-of-pottawatomi",
+  "display_name": null,
+  "aka": [],
+  "nearest_town": null,
+  "census_aiannh": [],
+  "official_website": "https://gunlaketribe-nsn.gov/",
+  "alliances": [],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "Federal facts only."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-09"
+    },
+    {
+      "name": "BIA Tribal Leaders Directory (organizational fields only)",
+      "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-09"
+    }
+  ],
+  "fr_name": "Match-E-Be-Nash-She-Wish Band of Pottawatomi",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [
+    "Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians of Michigan"
+  ],
+  "fr_note": "previously listed as Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians of Michigan",
+  "region_group": "lower48",
+  "bia_tld_name": "Match-e-be-nash-she-wish Band of Pottawatomi Indians of Michigan",
+  "bia_region": "Midwest",
+  "bia_agency": "Michigan Agency",
+  "hq": {
+    "city": "Shelbyville",
+    "state": "MI",
+    "lat": 42.5942,
+    "lon": -85.63724
+  },
+  "states": [
+    "MI"
+  ],
+  "last_verified": "2026-11-09"
+}

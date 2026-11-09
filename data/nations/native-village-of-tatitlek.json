@@ -1,0 +1,49 @@
+{
+  "id": "native-village-of-tatitlek",
+  "display_name": null,
+  "aka": [],
+  "nearest_town": null,
+  "census_aiannh": [],
+  "official_website": null,
+  "alliances": [],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "Federal facts only."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-09"
+    },
+    {
+      "name": "BIA Tribal Leaders Directory (organizational fields only)",
+      "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-09"
+    }
+  ],
+  "fr_name": "Native Village of Tatitlek",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [],
+  "fr_note": null,
+  "region_group": "alaska",
+  "bia_tld_name": "Native Village of Tatitlek",
+  "bia_region": "Alaska",
+  "bia_agency": "Alaska Regional Office",
+  "hq": {
+    "city": "Tatitlek",
+    "state": "AK",
+    "lat": 60.8671,
+    "lon": -146.6774
+  },
+  "states": [
+    "AK"
+  ],
+  "last_verified": "2026-11-09"
+}

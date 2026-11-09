@@ -1,13 +1,96 @@
-:root{--ink:#1f2a2e;--muted:#5b6770;--line:#d9dee2;--bg:#faf8f4;--accent:#8a3b12;--card:#fff}
-*{box-sizing:border-box}body{margin:0;font:16px/1.55 "Source Sans 3",system-ui,sans-serif;color:var(--ink);background:var(--bg)}
-.bar{padding:14px 20px;border-bottom:1px solid var(--line);background:#fff}
-.brand{text-decoration:none;color:var(--ink);font-size:13px;color:var(--muted)}.brand b{display:block;font:700 22px Oswald,sans-serif;color:var(--ink);letter-spacing:.02em}
-.notice{background:#fff4d6;border-bottom:1px solid #ecd9a0;padding:8px 20px;font-size:14px}
-.wrap{max-width:1040px;margin:0 auto;padding:24px 20px}h1{font:700 34px/1.15 Oswald,sans-serif;margin:8px 0}
-.lede{color:var(--muted);max-width:640px}.filters{margin:18px 0}
-#q{width:100%;max-width:420px;padding:10px 12px;border:1px solid var(--line);border-radius:6px;font:inherit}
-.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:16px}
-.card h2{font:600 19px/1.25 Oswald,sans-serif;margin:0 0 4px}.meta{color:var(--muted);font-size:14px;margin:0 0 10px}
-.card ul{list-style:none;padding:0;margin:0}.card li{margin:4px 0}.card a{color:var(--accent);font-weight:600}
-.card .pub{color:var(--muted);font-size:12px;margin-left:6px}.foot{color:var(--muted);font-size:14px;margin-top:32px}
+/* Native Nations — Theodore Roosevelt Presidential Library brand (Brand repo tokens).
+   Palette: Night Sky background family + Deep Orange (clickable only) + Gray Sky.
+   Type: Dharma Gothic (headlines, all caps) · Clearface → Georgia substitute (body) · Frutiger Next (captions, labels). */
+@import url("https://brand.labs.trlibrary.com/assets/fonts/web/fonts.css");
+:root{
+  --night:#092A4D;--gray:#25282A;--white:#fff;--sand:#D1CCBD;--orange:#E7805D;--graysky:#99ADC5;
+  --line:#dfe4ea;--soft:#f3f5f8;--muted:#4a5560;
+  --display:"Dharma Gothic E",Impact,"Arial Narrow",sans-serif;
+  --body:"ITC Clearface",Georgia,"Times New Roman",serif;
+  --caption:"Frutiger Next",Arial,Helvetica,sans-serif;
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font:17px/1.6 var(--body);color:var(--gray);background:var(--white);hyphens:manual}
+a{color:var(--night);text-decoration-color:var(--orange);text-decoration-thickness:2px;text-underline-offset:3px}
+a:hover{color:var(--gray)}
+:focus-visible{outline:3px solid var(--orange);outline-offset:2px}
+h1,h2,h3,.display{font-family:var(--display);font-weight:700;text-transform:uppercase;letter-spacing:.02em;line-height:.95;color:var(--night);margin:0}
+h1{font-size:clamp(40px,6vw,72px)}h2{font-size:34px;margin:36px 0 12px}h3{font-size:24px;margin:0 0 6px}
+.caption,.label,small{font-family:var(--caption);font-size:13px;line-height:1.3;color:var(--muted)}
+.label{text-transform:uppercase;letter-spacing:.06em;font-weight:700;font-size:12px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+
+/* header */
+.site-head{border-bottom:1px solid var(--line);background:var(--white)}
+.site-head .wrap{display:flex;align-items:center;gap:24px;flex-wrap:wrap;padding-top:14px;padding-bottom:14px}
+.logo img{height:38px;display:block}
+.site-title{font-family:var(--display);font-weight:700;font-size:28px;text-transform:uppercase;color:var(--night);text-decoration:none;letter-spacing:.03em}
+.site-nav{margin-left:auto;display:flex;gap:20px;font-family:var(--caption);font-weight:700;font-size:14px}
+.site-nav a{text-decoration:none;color:var(--night);padding:6px 0;border-bottom:3px solid transparent}
+.site-nav a[aria-current=page],.site-nav a:hover{border-color:var(--orange)}
+.devnote{background:var(--night);color:var(--sand);font-family:var(--caption);font-size:13px;padding:8px 0}
+
+/* hero */
+.hero{background:var(--night);color:var(--white);padding:48px 0 40px}
+.hero h1{color:var(--white)}
+.hero p{max-width:640px;font-size:19px;color:var(--white);margin:14px 0 0}
+.hero .caption{color:var(--graysky)}
+
+/* controls */
+.controls{display:grid;grid-template-columns:2fr repeat(3,1fr) auto;gap:10px;margin:24px 0 8px;align-items:end}
+.controls label{display:flex;flex-direction:column;gap:4px}
+.controls>label{min-width:0}
+input[type=search],select{width:100%;font:16px var(--caption);padding:10px 12px;border:1px solid #b8c2cc;border-radius:4px;background:#fff;color:var(--gray);min-width:0}
+.check{flex-direction:row!important;align-items:center;gap:8px!important;font-family:var(--caption);font-size:14px;padding-bottom:10px}
+.count{font-family:var(--caption);font-size:14px;color:var(--muted);margin:6px 0 16px}
+@media(max-width:820px){.controls{grid-template-columns:1fr 1fr}.controls label:first-child{grid-column:1/-1}}
+
+/* buttons: Deep Orange means act */
+.btn{display:inline-block;background:var(--orange);color:var(--gray);font:700 15px var(--caption);text-decoration:none;padding:10px 16px;border-radius:4px;border:0;cursor:pointer}
+.btn:hover{background:#d96f4b;color:var(--gray)}
+.btn.ghost{background:transparent;border:2px solid var(--night);color:var(--night)}
+
+/* cards */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.card{border:1px solid var(--line);border-top:4px solid var(--graysky);border-radius:4px;padding:16px;background:#fff;display:flex;flex-direction:column;gap:6px}
+.card.has-links{border-top-color:var(--night)}
+.card h3{font-size:24px}.card h3 a{text-decoration:none;color:var(--night)}.card h3 a:hover{text-decoration:underline;text-decoration-color:var(--orange)}
+.card .where{font-family:var(--caption);font-size:14px;color:var(--muted)}
+.card .more{margin-top:auto;font-family:var(--caption);font-weight:700;font-size:14px}
+.pill{display:inline-block;font:700 11px var(--caption);text-transform:uppercase;letter-spacing:.06em;background:var(--soft);color:var(--night);padding:3px 7px;border-radius:2px;margin-right:4px}
+
+/* fact page */
+.fact-hero{background:var(--night);color:#fff;padding:40px 0 32px}
+.fact-hero h1{color:#fff;font-size:clamp(36px,5vw,64px)}
+.fact-hero .legal{font-family:var(--caption);color:var(--graysky);margin-top:12px;font-size:14px}
+.crumb{font-family:var(--caption);font-size:13px;margin-bottom:14px}.crumb a{color:var(--sand)}
+.fact-body{display:grid;grid-template-columns:1.4fr 1fr;gap:40px;padding:8px 0 48px}
+@media(max-width:860px){.fact-body{grid-template-columns:1fr}}
+.facts{border-collapse:collapse;width:100%}
+.facts th,.facts td{text-align:left;vertical-align:top;padding:10px 0;border-bottom:1px solid var(--line)}
+.facts th{font:700 12px var(--caption);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);width:38%;padding-right:12px}
+.linklist{list-style:none;padding:0;margin:0}
+.linklist li{padding:12px 0;border-bottom:1px solid var(--line)}
+.linklist a{font-weight:700}
+.linklist .caption{display:block;margin-top:2px}
+.empty{background:var(--soft);padding:16px;border-radius:4px}
+.minimap{height:280px;border:1px solid var(--line);border-radius:4px}
+.snippet{font:13px/1.45 ui-monospace,Menlo,monospace;background:var(--soft);padding:12px;border-radius:4px;white-space:pre-wrap;word-break:break-all;margin:8px 0}
+
+/* map page */
+.mapwrap{position:relative}
+#map{height:calc(100vh - 230px);min-height:460px;border:1px solid var(--line);border-radius:4px}
+.legend{font-family:var(--caption);font-size:13px;display:flex;gap:16px;margin:8px 0;flex-wrap:wrap}
+.dot{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px;border:2px solid var(--gray)}
+.dot.links{background:var(--orange)}.dot.basic{background:var(--graysky)}
+.leaflet-popup-content{font:15px/1.4 var(--body)}
+.leaflet-popup-content b{font-family:var(--display);text-transform:uppercase;font-size:20px;color:var(--night);display:block;line-height:1}
+
+footer.site-foot{background:var(--soft);padding:28px 0;margin-top:40px;font-family:var(--caption);font-size:13px;color:var(--muted)}
+footer.site-foot p{margin:4px 0;max-width:820px}
+
+/* widgets */
+body.widget{background:transparent}
+body.widget .wrap{padding:0}

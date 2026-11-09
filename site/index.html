@@ -1,25 +1,38 @@
 <!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title>Native Nations | Theodore Roosevelt Presidential Library</title>
-<meta name="description" content="Find the tourism and visitor resources Native nations publish themselves, and plan your visit with them.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/app.css">
-</head>
-<body>
-<header class="bar"><a class="brand" href="index.html"><b>Native Nations</b>Theodore Roosevelt Presidential Library</a></header>
-<div class="notice">In development. Listings are drafts and have not yet been reviewed by the nations or their tourism alliances.</div>
-<main class="wrap">
-  <h1>Plan your visit with Native nations</h1>
-  <p class="lede">Native nations and their tourism alliances share their own stories, events and tours. This directory points you straight to them.</p>
-  <div class="filters"><input id="q" type="search" placeholder="Search by nation, town or state" aria-label="Search"></div>
-  <div id="list" class="cards" aria-live="polite"></div>
-  <p class="foot">Names and headquarters come from the Federal Register list of federally recognized tribes and the BIA Tribal Leaders Directory. Every link goes to the nation, its tourism alliance or another site that owns the content. <a href="api/v1/nations.json">JSON API</a></p>
-</main>
-<script src="assets/app.js"></script>
-</body>
-</html>
+<meta name="description" content="Find the websites, tourism pages, events and tours that Native nations publish themselves.">
+<link rel="canonical" href="https://nativenations.labs.trlibrary.com/">
+<meta property="og:title" content="Native Nations"><meta property="og:description" content="Find the websites, tourism pages, events and tours that Native nations publish themselves.">
+<meta property="og:url" content="https://nativenations.labs.trlibrary.com/"><meta property="og:type" content="website"><meta property="og:site_name" content="Theodore Roosevelt Presidential Library">
+<link rel="stylesheet" href="/assets/app.css">
+<script src="/assets/common.js"></script>
+
+</head><body>
+<header class="site-head"><div class="wrap">
+  <a class="logo" href="https://www.trlibrary.com/" aria-label="Theodore Roosevelt Presidential Library"><img src="/assets/brand/trpl-logo-horizontal-black.svg" alt="Theodore Roosevelt Presidential Library"></a>
+  <a class="site-title" href="/">Native Nations</a>
+  <nav class="site-nav" aria-label="Main"><a href="/" aria-current="page">Search</a><a href="/map.html">Map</a><a href="/embed.html">Embed &amp; API</a><a href="/about.html">About</a></nav>
+</div></header>
+<div class="devnote"><div class="wrap">In development. Listings are drafts and have not yet been reviewed by the nations or their tourism alliances.</div></div>
+<main><section class="hero"><div class="wrap">
+<h1>Plan your visit with Native nations</h1>
+<p>573 federally recognized nations. Find each one&rsquo;s own website, tourism pages, events and tours, then go straight to the source.</p>
+</div></section>
+<div class="wrap"><form class="controls" id="filters" role="search" onsubmit="return false">
+<label><span class="label">Search</span><input type="search" name="q" placeholder="Nation, town or former name" autocomplete="off"></label>
+<label><span class="label">State</span><select name="state"><option value="">All states</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AZ">Arizona</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="FL">Florida</option><option value="ID">Idaho</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select></label>
+<label><span class="label">BIA region</span><select name="region"><option value="">All regions</option><option value="Alaska">Alaska</option><option value="Eastern">Eastern</option><option value="Eastern Oklahoma">Eastern Oklahoma</option><option value="Great Plains">Great Plains</option><option value="Midwest">Midwest</option><option value="Navajo">Navajo</option><option value="Northwest">Northwest</option><option value="Pacific">Pacific</option><option value="Rocky Mountain">Rocky Mountain</option><option value="Southern Plains">Southern Plains</option><option value="Southwest">Southwest</option><option value="Western">Western</option></select></label>
+<label><span class="label">Tourism alliance</span><select name="alliance"><option value="">Any</option><option value="ndnta">North Dakota Native Tourism Alliance</option><option value="sdnta">South Dakota Native Tourism Alliance</option><option value="aita">American Indigenous Tourism Association</option></select></label>
+<label class="check"><input type="checkbox" name="visit" value="1"> Has tourism links</label>
+</form><p class="count" id="count" aria-live="polite"></p><div class="grid" id="results"></div>
+<p style="text-align:center;margin:24px 0"><button class="btn ghost" id="more" hidden>Show more</button></p></div>
+<script src="/assets/search.js" defer></script></main>
+<footer class="site-foot"><div class="wrap">
+<p>Native Nations points you to the tourism resources Native nations and their partners publish themselves. Every link goes to the site that owns the content.</p>
+<p>Names come from the Federal Register list of federally recognized tribes (91 FR 4102, January 30, 2026). Headquarters, regions and websites come from the Bureau of Indian Affairs Tribal Leaders Directory. Map data &copy; OpenStreetMap contributors.</p>
+<p>See something wrong? <a href="https://github.com/Theodore-Roosevelt-Presidential-Library/NativeNations/issues/new">Tell the Library</a>. A project of the <a href="https://www.trlibrary.com/">Theodore Roosevelt Presidential Library</a> &middot; <a href="https://labs.trlibrary.com/">Library Labs</a></p>
+</div></footer>
+</body></html>

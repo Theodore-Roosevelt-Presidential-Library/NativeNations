@@ -1,0 +1,51 @@
+{
+  "id": "yuhaaviatam-of-san-manuel-nation",
+  "display_name": null,
+  "aka": [],
+  "nearest_town": null,
+  "census_aiannh": [],
+  "official_website": "http://www.sanmanuel-nsn.gov",
+  "alliances": [],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "Federal facts only."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-09"
+    },
+    {
+      "name": "BIA Tribal Leaders Directory (organizational fields only)",
+      "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-09"
+    }
+  ],
+  "fr_name": "Yuhaaviatam of San Manuel Nation",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [
+    "San Manuel Band of Mission Indians, California"
+  ],
+  "fr_note": "previously listed as San Manuel Band of Mission Indians, California",
+  "region_group": "lower48",
+  "bia_tld_name": "San Manuel Band of Mission Indians, California",
+  "bia_region": "Pacific",
+  "bia_agency": "Southern California Agency",
+  "hq": {
+    "city": "Highland",
+    "state": "CA",
+    "lat": 34.1507,
+    "lon": -117.21422
+  },
+  "states": [
+    "CA"
+  ],
+  "last_verified": "2026-11-09"
+}

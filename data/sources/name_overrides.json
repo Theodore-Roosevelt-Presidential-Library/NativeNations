@@ -1,0 +1,34 @@
+{
+  "_note": "Federal Register name -> BIA Tribal Leaders Directory tribefullname, where they differ beyond punctuation. null = not in the BIA directory yet.",
+  "Catawba Indian Nation": "Catawba Indian Nation (aka Catawba Indian Tribe of South Carolina)",
+  "Native Village of Chenega": "Native Village of Chenega (aka Chanega)",
+  "Pribilof Islands Aleut Communities of St. Paul & St. George Islands": "Pribilof Islands Aleut Communities",
+  "Rincon Band of Luiseno Indians": "Rincon Band of Luiseno Mission Indians of the Rincon Reservation, California",
+  "Lumbee Tribe of North Carolina": null,
+  "_states": {
+    "Passamaquoddy Tribe": [
+      "ME"
+    ],
+    "Chickahominy Indian Tribe": [
+      "VA"
+    ],
+    "Duckwater Shoshone Tribe": [
+      "NV"
+    ],
+    "Koi Nation of Northern California": [
+      "CA"
+    ],
+    "Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota": [
+      "ND"
+    ],
+    "Standing Rock Sioux Tribe of North & South Dakota": [
+      "ND",
+      "SD"
+    ]
+  },
+  "_states_remove": {
+    "Sac & Fox Nation of Missouri in Kansas and Nebraska": [
+      "MO"
+    ]
+  }
+}

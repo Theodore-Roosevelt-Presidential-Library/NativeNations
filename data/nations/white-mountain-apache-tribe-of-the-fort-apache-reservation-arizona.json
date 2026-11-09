@@ -1,0 +1,49 @@
+{
+  "id": "white-mountain-apache-tribe-of-the-fort-apache-reservation-arizona",
+  "display_name": null,
+  "aka": [],
+  "nearest_town": null,
+  "census_aiannh": [],
+  "official_website": "http://www.wmat.us",
+  "alliances": [],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "Federal facts only."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-09"
+    },
+    {
+      "name": "BIA Tribal Leaders Directory (organizational fields only)",
+      "url": "https://biamaps.geoplatform.gov/server/rest/services/Hosted/Tribal_Leaders_Directory_new/FeatureServer/0",
+      "retrieved": "2026-11-09"
+    }
+  ],
+  "fr_name": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [],
+  "fr_note": null,
+  "region_group": "lower48",
+  "bia_tld_name": "White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",
+  "bia_region": "Western",
+  "bia_agency": "Fort Apache Agency",
+  "hq": {
+    "city": "Whiteriver",
+    "state": "AZ",
+    "lat": 33.83699,
+    "lon": -109.96427
+  },
+  "states": [
+    "AZ"
+  ],
+  "last_verified": "2026-11-09"
+}

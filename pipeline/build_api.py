@@ -24,7 +24,8 @@ def public(r):
         "name": (r.get("display_name") if approved and r.get("display_name") else r["fr_name"]),
         "fr_name": r["fr_name"], "fr_citation": r["fr_citation"],
         "aka": r.get("aka", []) if approved else [],
-        "states": r["states"], "nearest_town": r.get("nearest_town"),
+        "states": r["states"], "region_group": r.get("region_group"), "nearest_town": r.get("nearest_town"),
+        "fr_former_names": r.get("fr_former_names", []), "fr_note": r.get("fr_note"),
         "bia_region": r.get("bia_region"), "hq": r.get("hq"),
         "official_website": r.get("official_website"),
         "alliances": [dict(id=a, **vocab["alliances"][a]) for a in r.get("alliances", [])],
@@ -42,6 +43,19 @@ pub = [public(r) for r in recs]
 for n in pub:
     (OUT / "nations" / f"{n['id']}.json").write_text(json.dumps(n, indent=1, ensure_ascii=False))
 (OUT / "nations.json").write_text(json.dumps(pub, indent=1, ensure_ascii=False))
+def has_visit_links(n):
+    return any(l["type"] not in ("official",) for l in n["links"])
+
+index = [{"id": n["id"], "name": n["name"], "states": n["states"], "town": n["nearest_town"] or (n["hq"] or {}).get("city"),
+          "region": n["bia_region"], "group": n["region_group"], "alliances": [a["id"] for a in n["alliances"]],
+          "visit": has_visit_links(n), "lat": (n["hq"] or {}).get("lat"), "lon": (n["hq"] or {}).get("lon"),
+          "aka": n["aka"], "former": n["fr_former_names"]} for n in pub]
+(OUT / "index.json").write_text(json.dumps(index, separators=(",", ":"), ensure_ascii=False))
+(OUT / "nations.geojson").write_text(json.dumps({"type": "FeatureCollection", "features": [
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [n["hq"]["lon"], n["hq"]["lat"]]},
+     "properties": {"id": n["id"], "name": n["name"], "states": n["states"], "point": "tribal government headquarters",
+                    "url": f"https://nativenations.labs.trlibrary.com/nations/{n['id']}/"}}
+    for n in pub if n["hq"]]}, ensure_ascii=False))
 (OUT / "vocab.json").write_text(json.dumps(vocab, indent=1, ensure_ascii=False))
 (OUT / "meta.json").write_text(json.dumps({
     "built": datetime.datetime.utcnow().isoformat(timespec="seconds") + "Z",

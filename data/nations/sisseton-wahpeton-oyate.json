@@ -9,14 +9,14 @@
   "bia_region": "Great Plains",
   "bia_agency": "Sisseton Agency",
   "states": [
-    "SD",
-    "ND"
+    "ND",
+    "SD"
   ],
   "hq": {
     "city": "Agency Village",
     "state": "SD",
-    "lat": 45.565819,
-    "lon": -97.0656586
+    "lat": 45.56582,
+    "lon": -97.06566
   },
   "nearest_town": "Sisseton",
   "census_aiannh": [],
@@ -56,5 +56,7 @@
       "retrieved": "2026-11-08"
     }
   ],
-  "last_verified": "2026-11-08"
+  "last_verified": "2026-11-08",
+  "fr_note": null,
+  "region_group": "lower48"
 }

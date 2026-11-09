@@ -1,0 +1,39 @@
+{
+  "id": "lumbee-tribe-of-north-carolina",
+  "display_name": null,
+  "aka": [],
+  "nearest_town": null,
+  "census_aiannh": [],
+  "official_website": null,
+  "alliances": [],
+  "tags": [],
+  "blurb": null,
+  "nearby_public_lands": [],
+  "links": [],
+  "review": {
+    "status": "draft",
+    "by": null,
+    "date": null,
+    "notes": "Federal facts only."
+  },
+  "sources": [
+    {
+      "name": "Federal Register, Indian Entities Recognized (2026)",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/html/2026-01899.htm",
+      "retrieved": "2026-11-09"
+    }
+  ],
+  "fr_name": "Lumbee Tribe of North Carolina",
+  "fr_citation": "91 FR 4102 (2026-01-30)",
+  "fr_former_names": [],
+  "fr_note": "See Supplementary Information supra, noting conditions on the Tribe's eligibility for Federal services",
+  "region_group": "lower48",
+  "bia_tld_name": null,
+  "bia_region": null,
+  "bia_agency": null,
+  "hq": null,
+  "states": [
+    "NC"
+  ],
+  "last_verified": "2026-11-09"
+}
